@@ -1,0 +1,8 @@
+# 單字與單字間請空一行
+t='a'am
+E=soft watery rice
+f=稀飯、粥、米乳、米湯
+
+t='a'olec
+E=large sea shell necklace
+f=大塊貝板項鍊
