@@ -1,0 +1,5 @@
+# 單字與單字間請空一行
+t=ca
+E=a negative particle
+f=否定詞
+l='ca, caay

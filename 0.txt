@@ -1,0 +1,98 @@
+# 單字與單字間請空一行
+t='a'am
+E=soft watery rice
+f=稀飯、粥、米乳、米湯
+
+t='a'olec
+E=large sea shell necklace
+f=大塊貝板項鍊
+
+t='ca
+E=negative particle
+f=不是，不
+pa=aka ka 'ca
+pe=do by all means
+pm=不得不，不得不
+pa=caay ka 'ca
+pe=definitely
+pm=一定
+ea=O nika'caan pidmak ko ga'ay.
+ee=It is best not to do it.
+em=最好不去做，不如不做。
+l=caay
+
+t='daw
+E=to fortune tell
+f=卜卦，算命，祭祀用之木具
+l=pa'daw
+
+t='em'em
+E=to keep to oneself worry or trouble
+f=忍受痛苦或困難
+
+t='fa
+E=horse
+f=馬
+
+t='ged
+E=a rack of flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle
+f=墊熱水壺或熱鍋的網架
+
+t='i
+E=an untranslatable particle at the end of a dependent clause, as for that with a description or explanation following
+f=無從翻譯的詞類，用於主周之後，以描述或說明以下的事
+
+t='kak
+E=to curse
+f=咒詛，休克
+E=('akik) dried
+f=乾燥
+l=ma'kak
+
+t='li'
+E=a bundle of one hundred stems of grass, one hundred
+f=一百枝一束的茅草
+E=grass used to root a house
+f=覆蓋屋頂用之茅草
+ea=ccay no 'li'
+ee=one hundred
+em=一百
+ea=ccay a 'li'an
+ee=one hundred
+em=一百
+
+t='mahay
+E=moo, the sound of a cow
+f=黃牛的叫聲
+
+t='nec
+E=to crush
+f=揉
+ea=minecnec to mata
+em=揉眼睛
+
+t='o'ol
+E=fog
+f=霧
+E=dew, droplet of water from fog
+f=露球
+
+t='pag
+E=bred
+f=麵包
+
+t='rac
+E=to be washed by rain so soil is gone and stones appear
+f=經雨打後而土失石現的現象
+
+t='sam
+E=attitude of being tired of looking at something
+f=不耐煩，因疲倦而厭煩的態度
+ea=Ma'samento kako.
+ee=I am upset / disturbed (by a situation).
+em=我已經提不起興趣了
+
+t='tah
+E=chaff
+f=粗糠
+l=afih
