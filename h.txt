@@ -1,0 +1,11 @@
+# 單字與單字間請空一行
+t=ha
+E=a gremmatical particle
+f=文法上的用詞
+E=a thing used or planned to accomplish a task
+f=事情或計劃完成的任務
+E=a thing or action to be done, a planned activity
+f=即將完成(成就)的事情或行動(已經計劃就緒的活動)
+E=a prefix used in the south on many words
+f=南部阿美語許多詞禍之前加上此字首
+l=malo

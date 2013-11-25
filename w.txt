@@ -1,0 +1,5 @@
+# 單字與單字間請空一行
+t=wa
+E=a grammatical particle used in the south indicating a projected or future concept
+f=文法上的一個用詞指出一個計劃或未來的觀念
+l=oa

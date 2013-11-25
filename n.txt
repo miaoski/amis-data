@@ -1,0 +1,4 @@
+# 單字與單字間請空一行
+t=na'ag
+E=to put away, to put inside, keep
+f=收藏，收拾，保存

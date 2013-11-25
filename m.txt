@@ -1,0 +1,6 @@
+# 單字與單字間請空一行
+t=ma'ifor
+E=the name of an Amis village
+f=舞鶴部落名
+E=to be dancing
+f=翩翩起舞

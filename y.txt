@@ -1,0 +1,9 @@
+# 單字與單字間請空一行
+t=yafayaf
+E=to have several activites going at the same time
+f=在同一個時間做很多事情
+E=to walk several abreast taking up the whole road
+f=並肩走路佔滿整個道路
+ea=mayafayaf ko rakat nagra.
+ee=They walked several abreast.
+em=他們並行好幾列走路

@@ -1,0 +1,4 @@
+# 單字與單字間請空一行
+t=ociya
+E=the plant (Camellia sinensis)
+f=茶

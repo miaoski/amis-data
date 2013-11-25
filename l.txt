@@ -1,0 +1,8 @@
+# 單字與單字間請空一行
+t=la'caan
+E=chronic illness, incapacitating the patient causing emaciation
+f=不健康，身體一直不適
+ea=mala'caananay ko adada
+ee=illness is chronic
+em=久病不癒，慣性疾病，病的很重
+l=lacaan
