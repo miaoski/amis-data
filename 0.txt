@@ -52,14 +52,14 @@ l=ma'kak
 t='li'
 E=a bundle of one hundred stems of grass, one hundred
 f=一百枝一束的茅草
-E=grass used to root a house
-f=覆蓋屋頂用之茅草
 ea=ccay no 'li'
 ee=one hundred
 em=一百
 ea=ccay a 'li'an
 ee=one hundred
 em=一百
+E=grass used to root a house
+f=覆蓋屋頂用之茅草
 
 t='mahay
 E=moo, the sound of a cow
