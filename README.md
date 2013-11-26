@@ -28,6 +28,11 @@ R=root/stem
 l=link
 ```
 
+轉換
+====
+
+請用 `python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
+
 License
 =======
 
