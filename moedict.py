@@ -3,17 +3,18 @@
 
 import sys
 
-OUTFN = 'dict-amis.json'
 JSON = []
+INDEX = []
 
 def addsplt(s):
 	return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
 
 def mkword(title, definitions):
-	global JSON
+	global JSON, INDEX
 	word = {'title': title,
 		'heteronyms': [{'definitions': definitions}]}
 	JSON.append(word)
+	INDEX.append(title)
 
 def mkdef(defi, examples, link):
 	defdic = {}
@@ -92,6 +93,9 @@ if __name__ == '__main__':
 	for fn in os.listdir('.'):
 		if re.match(r'^[0a-z]\.txt$', fn):
 			readdict(fn)
-	f = codecs.open(OUTFN, mode='w', encoding='utf8')
+	f = codecs.open('dict-amis.json', mode='w', encoding='utf8')
 	f.write(json.dumps(JSON, indent=2, separators=(',', ':'), ensure_ascii = False))
+	f.close()
+	f = codecs.open('index.json', mode='w', encoding='utf8')
+	f.write(json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False))
 	f.close()
