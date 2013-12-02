@@ -28,6 +28,30 @@ R=root/stem
 l=link
 ```
 
+字典標有其它讀音的部份，請拆開來，如: `'a'am / holo` 請拆成如下例:
+
+```
+t='a'am
+E=soft watery rice
+f=稀飯、粥、米乳、米湯
+l=miki'a'am
+
+t=holo
+l='a'am
+```
+
+字典中的例子，請拆開來，並在原本的詞條加上 link，如 `'aca` 下面的相關詞，請拆成:
+
+```
+t='aca
+...
+l=pi'acaan,kalali'acaan,pa'aca,mi'aca
+
+t=pi'acaan
+E=market
+f=商店、店鋪
+```
+
 感謝 @audreyt 幫忙 OCR, 如果願意幫忙校對/轉換格式，請到 [阿美族字典OCR](https://www.moedict.tw/tmp/amis/) 下載。義工請連絡 @miaoski 以便打開 commit 權限，謝謝！
 
 轉換
