@@ -9,6 +9,10 @@ INDEX = []
 def ng(s):
 	return s.replace('g', 'ng')
 
+def ngtilde(s):
+	import re
+	return re.sub(r'([\w\']+)', r'`\1~', ng(s))
+
 def addsplt(s):
 	return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
 
@@ -71,7 +75,7 @@ def readdict(fn):
 			defi[2] = st
 			continue
 		if tag == 'pa':
-			ex = [st, '', '']
+			ex = [ngtilde(st), '', '']
 			continue
 		if tag == 'pe':
 			ex[1] = st
@@ -81,7 +85,7 @@ def readdict(fn):
 			examples.append(addsplt(ex))
 			continue
 		if tag == 'ea':
-			ex = [ng(st), '', '']
+			ex = [ngtilde(st), '', '']
 			continue
 		if tag == 'ee':
 			ex[1] = st
