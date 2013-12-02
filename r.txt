@@ -1,5 +1,5 @@
 # 單字與單字間請空一行
-t=ra'it
-E=tusk of an animal
-f=動物長牙
-l=packis
+ra'it
+tusk of an animal
+動物長牙
+=> packis

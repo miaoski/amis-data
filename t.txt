@@ -1,4 +1,4 @@
 # 單字與單字間請空一行
-t=ta
-E=a connective particle meaning and or then in quick time succession
-f=文法連接詞或在短促的時間內迅速完成
+ta
+a connective particle meaning and or then in quick time succession
+文法連接詞或在短促的時間內迅速完成

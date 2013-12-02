@@ -1,4 +1,4 @@
 # 單字與單字間請空一行
-t=ga'
-E=connective particle meaning then, as a result
-f=連接詞，好讓，以便
+ga'
+connective particle meaning then, as a result
+連接詞，好讓，以便

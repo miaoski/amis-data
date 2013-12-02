@@ -1,5 +1,5 @@
 # 單字與單字間請空一行
-t=ka'dah
-E=hot, peppery
-f=辣，辛辣，嚴酷刻薄的(指責時)
-l=kacdah
+ka'dah
+hot, peppery
+辣，辛辣，嚴酷刻薄的(指責時)
+=> kacdah

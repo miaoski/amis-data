@@ -1,4 +1,4 @@
 # 單字與單字間請空一行
-t=i
-E=a grammatical particle indicating place or time past
-f=地點，過去的時間
+i
+a grammatical particle indicating place or time past
+地點，過去的時間

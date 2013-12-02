@@ -1,4 +1,4 @@
 # 單字與單字間請空一行
-t=a
-E=a connecting particle with some of the meaning of "and", modifying particle
-f=連結詞(為某種意義或修飾用)
+a
+a connecting particle with some of the meaning of "and", modifying particle
+連結詞(為某種意義或修飾用)

@@ -1,4 +1,4 @@
 # 單字與單字間請空一行
-t=da'at
-E=to suffocate, smother, in or out of water
-f=被煙或水嗆住不能呼吸
+da'at
+to suffocate, smother, in or out of water
+被煙或水嗆住不能呼吸

@@ -1,358 +1,348 @@
 # 單字與單字間請空一行
 # p.23
-t='a'am
-E=soft watery rice
-f=稀飯、粥、米乳、米湯
-l=miki'a'am
 
-t=holo
-l='a'am
+'a'am
+soft watery rice
+稀飯、粥、米乳、米湯
+=> miki'a'am
 
-t=miki'a'm
-E=to professionally beg
-f=討飯、 乞討
+holo = 'a'am
 
-t='a'olec
-E=large sea shell necklace
-f=大塊貝板項鍊
+miki'a'm
+to professionally beg
+討飯、 乞討
 
-t='aca
-E=price
-f=價錢、價格、代價
-l=pi'acaan,kalali'acaan,pa'aca,mi'aca
+'a'olec
+large sea shell necklace
+大塊貝板項鍊
 
-t=pi'acaan
-E=market
-f=商店、店鋪
+'aca
+price
+價錢、價格、代價
+=> pi'acaan, kalali'acaan, pa'aca, mi'aca
 
-t=kalali'acaan
-E=market
-f=買賣場所、交易場所、市場
+pi'acaan
+market
+商店、店鋪
 
-t=pa'aca
-E=sell
-f=售、賣、付款、銷售
+kalali'acaan
+market
+買賣場所、交易場所、市場
 
-t=mi'aca
-E=buy
-f=買、購
+pa'aca
+sell
+售、賣、付款、銷售
 
-t='acam
-E=dry stalks useable for firewood
-f=乾燥的蘆葦幹用來助燃柴火
+mi'aca
+buy
+買、購
 
-t='alcam
-l='acam
+'acam
+dry stalks useable for firewood
+乾燥的蘆葦幹用來助燃柴火
 
-t='acaw
-E=to dip out water
-f=汲水、 搖水
+'alcam = 'acam
 
-t='acfel
-E=smoke
-f=煙、蒸氣
-l=ci'acfelay
+'acaw
+to dip out water
+汲水、 搖水
 
-t=ci'acfelay
-E=train
-f=火車，冒煙者
+'acfel
+smoke
+煙、蒸氣
+=> ci'acfelay
 
-t='acicim
-E=sour * as of unripe fruit
-f=酸
+ci'acfelay
+train
+火車，冒煙者
 
-t='acis
-E=dry
-f=乾燥、枯萎
-l=ma'acisay
+'acicim
+sour * as of unripe fruit
+酸
 
-t='asic
-l='acis
+'acis
+dry
+乾燥、枯萎
+=> ma'acisay
 
-t=ma'acisay
-E=barren woman
-f=患孕不症的婦女
+'asic = 'acis
 
-t='aciyos
-E=round spot in hair where hair parts * the crown of the head
-f=旋宮、 頭旋、髮旋
+ma'acisay
+barren woman
+患孕不症的婦女
 
-t='acocol
-E=something made with wood and with twisted string * a top to spin
-f=陀螺
+'aciyos
+round spot in hair where hair parts * the crown of the head
+旋宮、 頭旋、髮旋
 
-t='ad'ad
-E=to dig around and stir up while looking for something
-f=翻(石 頭、東西等)翻箱倒櫃
+'acocol
+something made with wood and with twisted string * a top to spin
+陀螺
 
-t=wadwad
-l='ad'ad
+'ad'ad
+to dig around and stir up while looking for something
+翻(石 頭、東西等)翻箱倒櫃
 
-t='ada
-E=enemy
-f=敵人、仇人、仇敵
-l=misa'ada
+wadwad = 'ad'ad
 
-t=misa'ada
-E=to do evil against * to make person out to be bad
-f=意謂敵對、把別人當作敵人看待
+'ada
+enemy
+敵人、仇人、仇敵
+=> misa'ada
 
-t=ci'ada
-E=to have an enemy
-f=有敵人
+misa'ada
+to do evil against * to make person out to be bad
+意謂敵對、把別人當作敵人看待
 
-t='adadogac
-E=black beetle (Cerambyx cerdo)
-f=甲蟲
+ci'ada
+to have an enemy
+有敵人
 
-t='arorogac
-l='adadogac
+'adadogac
+black beetle (Cerambyx cerdo)
+甲蟲
 
-t='adapaw
-E=to lie in wait to kill (with misa-)
-f=埋伏
+'arorogac = 'adadogac
 
-t=salipaw
-l='adapaw
+'adapaw
+to lie in wait to kill (with misa-)
+埋伏
 
-t=samamaw
-l='adapaw
+salipaw = 'adapaw
 
-t='adawag
-E=gateway
-f=門檻、門口
+samamaw = 'adapaw
 
-t='adcaw
-E=marble
-f=大理石
-l='adicaw
+'adawag
+gateway
+門檻、門口
 
-t='adicaw
-E=marble
-f=大理石
-l='adcaw
+'adcaw
+marble
+大理石
+=> 'adicaw
 
-t='adepet
-E=to be tight * not share material things
-f=吝嗇
-E=to keep one's own counsel * deliberately not share
-f=密守、自己的計劃、不樂意分享
-l=idefet
+'adicaw = 'adcaw
+
+'adepet
+to be tight * not share material things
+吝嗇
+to keep one's own counsel * deliberately not share
+密守、自己的計劃、不樂意分享
+=> idefet
 
 # p.24
 
-t='adidem
-E=mulberry tree * mulberries (the fruit)
-f=桑樹、桑葚
-E=White Mulberry (Morus alba)
-f=桑樹
-E=Aino Mulberry (Morus australis)
-f=小葉桑
+'adidem
+mulberry tree * mulberries (the fruit)
+桑樹、桑葚
+White Mulberry (Morus alba)
+桑樹
+Aino Mulberry (Morus australis)
+小葉桑
 
-t='adif
-E=temporary fence
-f=暫用圍牆、臨時籬笆
-E=wall in a building
-f=圍牆
+'adif
+temporary fence
+暫用圍牆、臨時籬笆
+wall in a building
+圍牆
 
-t='adig
-E=to protect * shield
-f=防護、保護物、遮蓋物
-l=pa'adig,miki'adig,piki'adigan
+'adig
+to protect * shield
+防護、保護物、遮蓋物
+=> pa'adig,miki'adig,piki'adigan
 
-t=pa'adig
-E=defend
-f=保護、掩護
+pa'adig
+defend
+保護、掩護
 
-t=miki'adig
-E=to hide
-f=隱蔽、躲避、躲藏
-E=to seek protection
-f=尋找保護者、尋找庇護所
+miki'adig
+to hide
+隱蔽、躲避、躲藏
+to seek protection
+尋找保護者、尋找庇護所
 
-t=piki'adigan
-E=to hide and be protected
-f=避難所
+piki'adigan
+to hide and be protected
+避難所
 
-t='adigal
-E=shiny * as polished wood
-f=光亮、光澤
-E=clean hair
-f=洗髮
+'adigal
+shiny * as polished wood
+光亮、光澤
+clean hair
+洗髮
 
-t='adigo
-E=shadow
-f=影子
-E=human soul or spirit
-f=人類的靈魂
-ea=Fagcalay 'Adigo
-ee=Holy Spirit * coined expression for
-em=聖靈
+'adigo
+shadow
+影子
+human soul or spirit
+人類的靈魂
+    Fagcalay 'Adigo
+    Holy Spirit * coined expression for
+    聖靈
 
-t=Fagcalay 'Adigo
-E=Holy Spirit * coined expression for
-f=聖靈
+Fagcalay 'Adigo
+Holy Spirit * coined expression for
+聖靈
 
-t='adimaceg
-E=a species of tree * Soap Nut Tree
-f=無患子
-l=rao'
+'adimaceg
+a species of tree * Soap Nut Tree
+無患子
+=> rao'
 
-t=rao'
-l='adimaceg
+rao' = 'adimaceg
 
-t='adipagpag
-E=tropical fish * generic term
-f=熱帶魚的總稱(鰈鶼)
-E=butterfly
-f=蝴蝶
+'adipagpag
+tropical fish * generic term
+熱帶魚的總稱(鰈鶼)
+butterfly
+蝴蝶
 
-t='adipel
-E=fence
-f=圍牆、籬笆
-l=mi'adipel
+'adipel
+fence
+圍牆、籬笆
+=> mi'adipel
 
-t=mi'adipel
-E=to make a fence or wall
-f=築圍牆、籬笆
+mi'adipel
+to make a fence or wall
+築圍牆、籬笆
 
-t='adipig
-E=comb of a rooster or hen
-f=雞冠
+'adipig
+comb of a rooster or hen
+雞冠
 
-t='adit
-E=a scab over a healing wound
-f=傷口上所結的硬皮(少許樹脂、油脂或分泌物凝結成硬塊皮)
+'adit
+a scab over a healing wound
+傷口上所結的硬皮(少許樹脂、油脂或分泌物凝結成硬塊皮)
 
-t='adiyam
-E=ginger root
-f=生薑 (中部阿美語)
-E=pepper * hot seasoning of
-f=小辣椒 (南部阿笑語)
+'adiyam
+ginger root
+生薑 (中部阿美語)
+pepper * hot seasoning of
+小辣椒 (南部阿笑語)
 
-t='adiyoc
-E=whirl wind
-f=旋風、龍捲風
+'adiyoc
+whirl wind
+旋風、龍捲風
 
-t='adop
-E=to hunt for game
-f=狩獵
-l='a'adopen
+'adop
+to hunt for game
+狩獵
+=> 'a'adopen
 
-t='a'adopen
-E=animal to be hunted
-f=受獵物
-E=generic for any animal
-f=動物的總稱
+'a'adopen
+animal to be hunted
+受獵物
+generic for any animal
+動物的總稱
 
-t='adteg
-E=tree sap
-f=樹汁
-E=tobacco juice
-f=遺留在煙斗吸管內的菸鹼(尼古丁) (Kwangfu 光復語)
-l=cica'
+'adteg
+tree sap
+樹汁
+tobacco juice
+遺留在煙斗吸管內的菸鹼(尼古丁) (Kwangfu 光復語)
+=> cica'
 
-t=cica'
-l='adteg
+cica' = 'adteg
 
-t='adtom
-E=a kind of grass
-f=草植類之一
+'adtom
+a kind of grass
+草植類之一
 
-t='afag
-E=to put arms on the shoulder of
-f=手臂搭置他人肩上(表示扶持行動不便的病人)
-E=the spirit a medium receives when possessed
-f=受靈的媒介物
+'afag
+to put arms on the shoulder of
+手臂搭置他人肩上(表示扶持行動不便的病人)
+the spirit a medium receives when possessed
+受靈的媒介物
 
 # 手打的
-t='ca
-E=negative particle
-f=不是，不
-pa=aka ka 'ca
-pe=do by all means
-pm=不得不，不得不
-pa=caay ka 'ca
-pe=definitely
-pm=一定
-ea=O nika'caan pidmak ko ga'ay.
-ee=It is best not to do it.
-em=最好不去做，不如不做。
-l=caay
+'ca
+negative particle
+不是，不
+    aka ka 'ca
+    do by all means
+    不得不，不得不
+    caay ka 'ca
+    definitely
+    一定
+    O nika'caan pidmak ko ga'ay.
+    It is best not to do it.
+    最好不去做，不如不做。
+=> caay
 
-t='daw
-E=to fortune tell
-f=卜卦，算命，祭祀用之木具
-l=pa'daw
+'daw
+to fortune tell
+卜卦，算命，祭祀用之木具
+=> pa'daw
 
-t='em'em
-E=to keep to oneself worry or trouble
-f=忍受痛苦或困難
+'em'em
+to keep to oneself worry or trouble
+忍受痛苦或困難
 
-t='fa
-E=horse
-f=馬
+'fa
+horse
+馬
 
-t='ged
-E=a rack of flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle
-f=墊熱水壺或熱鍋的網架
+'ged
+a rack of flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle
+墊熱水壺或熱鍋的網架
 
-t='i
-E=an untranslatable particle at the end of a dependent clause, as for that with a description or explanation following
-f=無從翻譯的詞類，用於主周之後，以描述或說明以下的事
+'i
+an untranslatable particle at the end of a dependent clause, as for that with a description or explanation following
+無從翻譯的詞類，用於主詞之後，以描述或說明以下的事
 
-t='kak
-E=to curse
-f=咒詛，休克
-E=('akik) dried
-f=乾燥
-l=ma'kak
+'kak
+to curse
+咒詛，休克
+('akik) dried
+乾燥
+=> ma'kak
 
-t='li'
-E=a bundle of one hundred stems of grass, one hundred
-f=一百枝一束的茅草
-ea=ccay no 'li'
-ee=one hundred
-em=一百
-ea=ccay a 'li'an
-ee=one hundred
-em=一百
-E=grass used to root a house
-f=覆蓋屋頂用之茅草
+'li'
+a bundle of one hundred stems of grass, one hundred
+一百枝一束的茅草
+    ccay no 'li'
+    one hundred
+    一百
+    ccay a 'li'an
+    one hundred
+    一百
+grass used to root a house
+覆蓋屋頂用之茅草
 
-t='mahay
-E=moo, the sound of a cow
-f=黃牛的叫聲
+'mahay
+moo, the sound of a cow
+黃牛的叫聲
 
-t='nec
-E=to crush
-f=揉
-ea=minecnec to mata
-em=揉眼睛
+'nec
+to crush
+揉
+    minecnec to mata
+    N/A
+    揉眼睛
 
-t='o'ol
-E=fog
-f=霧
-E=dew, droplet of water from fog
-f=露球
+'o'ol
+fog
+霧
+dew, droplet of water from fog
+露球
 
-t='pag
-E=bred
-f=麵包
+'pag
+bred
+麵包
 
-t='rac
-E=to be washed by rain so soil is gone and stones appear
-f=經雨打後而土失石現的現象
+'rac
+to be washed by rain so soil is gone and stones appear
+經雨打後而土失石現的現象
 
-t='sam
-E=attitude of being tired of looking at something
-f=不耐煩，因疲倦而厭煩的態度
-ea=Ma'samento kako.
-ee=I am upset / disturbed (by a situation).
-em=我已經提不起興趣了
+'sam
+attitude of being tired of looking at something
+不耐煩，因疲倦而厭煩的態度
+    Ma'samento kako.
+    I am upset / disturbed (by a situation).
+    我已經提不起興趣了
 
-t='tah
-E=chaff
-f=粗糠
-l=afih
+'tah
+chaff
+粗糠
+=> afih
 
