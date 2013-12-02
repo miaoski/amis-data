@@ -70,6 +70,7 @@ def readdict(fn):
 			if len(defdic) > 0:
 				definitions.append(defdic)
 			defi = ['', st, '']
+			examples = []
 			continue
 		if tag == 'f':
 			defi[2] = st
