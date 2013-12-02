@@ -3,3 +3,7 @@ t=ca
 E=a negative particle
 f=否定詞
 l='ca, caay
+
+t=ccay
+E=one
+f=一
