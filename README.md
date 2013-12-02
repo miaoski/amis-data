@@ -28,14 +28,17 @@ R=root/stem
 l=link
 ```
 
+感謝 @audreyt 幫忙 OCR, 如果願意幫忙校對/轉換格式，請到 [阿美族字典OCR](https://www.moedict.tw/tmp/amis/) 下載。義工請連絡 @miaoski 以便打開 commit 權限，謝謝！
+
 轉換
 ====
 
 請用 `python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
+之後預定會寫轉換成 WeSay 或其它格式的程式。
 
 License
 =======
 
-謹感謝 [台灣聖經公會](http://www.biblesociety-tw.org/) 授權電子化。商業使用之授權，請洽台灣聖經公會。
+謹感謝 [台灣聖經公會](http://www.biblesociety-tw.org/) 授權電子化。商業使用之授權，請洽[台灣聖經公會]。
 
 This work is licensed under the Creative Commons 姓名標示-非商業性 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/deed.zh_TW.
