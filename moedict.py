@@ -33,7 +33,7 @@ def mkdef(defi, examples, link):
 		defdic['link'] = map(addtilde, link.split(','))
 	if link and 'def' not in defdic:
 		try:
-			defdic['def'] = JSON[link]['heteronyms'][0]['definitions'][0]
+			defdic['def'] = JSON[link]['heteronyms'][0]['definitions'][0]['def']
 		except:
 			print "Cannot find the reference: ", link
 	return defdic
