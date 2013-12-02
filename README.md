@@ -10,46 +10,41 @@ Data from Virginia Fey's Amis Dictionary
 請參考各字母首字的檔案，a-z 以外的字首 (如 ' 或 ^) 請加在 0.txt ，如 'acam 請加在 0.txt 中。
 單字與單字間請空一行。
 
-第一個字元定義該行的屬性，請參考 [萌典原始碼] (https://github.com/audreyt/moedict-webkit/blob/master/main.ls#L507)
-為了 parse 方便，加了 pa, pe, pm (phrase 短語) 和 ea, ee, em (example 例子) 六個 tag.
-
 ```
 # 這個開頭的是註解
-t=title (Word)
-f=def (usually in Mandarin)
-E=English (definition in English)
-pa=phrase in Amis
-pe=phrase in English
-pm=phrase in Mandarin
-ea=example in Amis
-ee=example in English
-em=example in Mandarin
-R=root/stem
-l=link
+title (單詞)
+English (英文定義)
+def (漢語定義)
+    阿美語片語
+    英文解釋
+    漢語解釋
+    阿美語例句
+    英文解釋
+    漢語解釋
+=> 相關詞, 逗號隔開, 字根請放這裡
 ```
 
 字典標有其它讀音的部份，請拆開來，如: `'a'am / holo` 請拆成如下例:
 
 ```
-t='a'am
-E=soft watery rice
-f=稀飯、粥、米乳、米湯
-l=miki'a'am
+'a'am
+soft watery rice
+稀飯、粥、米乳、米湯
+=> miki'a'am
 
-t=holo
-l='a'am
+holo = 'a'am
 ```
 
 字典中的例子，請拆開來，並在原本的詞條加上 link，如 `'aca` 下面的相關詞，請拆成:
 
 ```
-t='aca
+'aca
 ...
-l=pi'acaan,kalali'acaan,pa'aca,mi'aca
+=> pi'acaan, kalali'acaan, pa'aca, mi'aca
 
-t=pi'acaan
-E=market
-f=商店、店鋪
+pi'acaan
+market
+商店、店鋪
 ```
 
 感謝 @audreyt 幫忙 OCR, 如果願意幫忙校對/轉換格式，請到 [阿美族字典OCR](https://www.moedict.tw/tmp/amis/) 下載。義工請連絡 @miaoski 以便打開 commit 權限，謝謝！
