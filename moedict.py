@@ -99,6 +99,7 @@ def readdict(fn):
 			continue
 		if state == 'l':			# 相關詞
 			link = l[2:]
+			state = 't'
 
 	if title:
 		defdic = mkdef(defi, examples, link)
