@@ -376,6 +376,162 @@ the smell of certain kinds of plants
     臭鼬鼠
 
 
+# p.26
+
+'agtol
+stink of something dead
+動物死屍的臭味，腐肉或傷口的臭味
+=> 'antol, 'agtox
+
+'antol = 'agtol
+
+'agtox = 'agtol
+
+'ahac
+to fade * to have color gone
+褪色，失去光澤
+=> 'omac
+
+'omac = 'ahac
+
+'akawag
+tall
+高大(身材，體格)
+high
+高
+=> takaraw
+
+takaraw = 'akawag
+
+'akaway
+stem of a plant
+植物的莖
+
+'akik
+wound that was weeping but dried
+將癒的傷口
+dried sap from a cut vegetation
+乾脂(草木汁)
+dried up grass or vegetation
+草木枯萎
+
+'akog
+crooked
+彎曲
+perverse
+心理不正的
+    ma'akog ko sowal
+    false words * lies
+    謊言，假話
+=> mali'akog
+
+'akonal
+bald of the head
+禿頭
+=> 'anal
+
+'anal = 'akonal
+
+'alagad
+a lump (of rice) held in the hand
+飯槽，端在掌上的食物
+
+'alapit
+tweezers * thongs
+夾子，鉗具
+chopsticks
+筷子
+
+'alem
+ant-eater with long tongue * Manis tricupis
+穿山甲
+
+'alet
+to stop * hinder
+阻止，遏止，妨礙，妨害，阻礙
+=> sa'et
+
+sa'et = 'alet
+
+'ali
+brother or sister-in-law
+對兄弟姊妹之配偶之稱謂
+
+'alic
+a sparrow
+華南麻雀
+a species of fish
+魚的一種
+=> cirep
+
+cirep = 'alic
+
+'alilis
+eagle * Serpent eagle
+大冠鷹
+
+'alimdas
+=> 'alogdas
+Pytas korros, a snake
+花草蛇
+
+'alip
+sexual intercourse * of humans
+人類的性交，做愛
+
+'alitad
+lump of something like dough or mud or cooked nce or clods of soil
+泥土或飯糰的塊狀，凝固狀
+
+'aliwac
+the pointed sharp end of bamboo
+竹竿的尖端
+    pa'aliwac
+    to take time off to do something
+    暫時... 痘暫性的
+
+'aliwates
+boils
+沸騰
+festering sores with a core
+疔瘡，瘡癤
+=> 'itkiw, kaliwates
+
+'itkiw = 'aliwates
+
+kaliwates = 'aliwates
+
+'alo
+river * stream * creek
+河，溪澗，小溪
+    'alo no coco
+    woman's breast
+    乳溝
+    kasa'alo'alo
+    the humps of a mountain range
+    峰巒相連狀
+
+'alofo
+a bag carried on the back
+背袋
+pocket
+口袋
+=> sapa'alofo
+
+sapa'alofo
+a thank offering
+報酬，謝禮金
+a bribe
+紅包，賄路，行賄之物
+
+'alogdas
+=> 'alimdas
+large harmless edible snake * Mock Viper (Achalinus niger Maki)
+無毒可食之蟒蛇
+(Calamaria pavimentata formosana)
+南蛇，標蛇
+
+
 
 # 手打的
 'ca
