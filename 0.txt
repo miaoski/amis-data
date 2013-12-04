@@ -488,7 +488,7 @@ the pointed sharp end of bamboo
 竹竿的尖端
     pa'aliwac
     to take time off to do something
-    暫時... 痘暫性的
+    暫時…短暫性的
 
 'aliwates
 boils
@@ -530,6 +530,99 @@ large harmless edible snake * Mock Viper (Achalinus niger Maki)
 無毒可食之蟒蛇
 (Calamaria pavimentata formosana)
 南蛇，標蛇
+
+
+# 27
+
+'alol
+to be carried away by water so that it is no longer seen
+流失，被水沖走
+
+'alolil
+a bird * House Martin
+毛腳燕
+Barn swallow
+家燕
+Red-Rumped swallow
+赤腰燕
+=> 'aroril
+
+'aroril = 'alolil
+
+'alolog
+deep
+深的，深遠的
+=> talolog
+
+talolog = 'alolog
+
+'aloman
+many * of people and animals only
+許多…，很多…，眾多
+
+'alomaylay
+a vine that is strong and spreads a great distance wrapping itself afound trees * a source of water for a person in the mountains without water supply 這是個一很粗大的蔓延植物且可以藉它纏繞身體來越過一個很大的山澗距離，在山上沒水喝時可用它來供給水
+
+'alopal
+persimmon * tree and fruit
+柿子，柿子樹 (Diospyros kaki)
+
+'alopaynay
+long bright orange / green beetle-like insect that is pliable like wood
+螢火蟲
+=> 'alipaonay
+
+'alipaonay = 'alopaynay
+
+'alotoc
+edible snails from river or sea
+河中或海中的尖形螺
+
+'alpad
+a smaller group belonging to a larger delegation of travelers walking
+成群結隊
+=> tapakad
+
+tapakad = 'alpad
+
+'amis
+name of the Amis race
+阿美族之族名
+north
+北，北方
+
+'amitir
+perverse * as the way a woman acts that makes her appear mannish
+風騷的，不矜持的，任性的，縱情的(指女性)
+
+'amlas
+flirting * using speech and manners that are sexually suggestive
+輕浮，不莊重，風流
+of the way one does an activity causing spoil * not careful
+輕慢，輕薄，粗魯
+
+'anegag
+chair * stool
+椅子，凳子
+=> 'ahnag
+
+'ahnag = 'anegag
+
+'anin
+to play as dogs play
+扮演狗戲，裝扮成狗要寶
+=> mala'anin
+
+'aninil
+to watch * pay special attention * be interested in
+看守，守衛，對某些事物特別注意，對某事有興趣
+
+'anip
+rice seedlings freshly planted
+稻株
+=> 'onip
+
+'onip = 'anip
 
 
 
