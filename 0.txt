@@ -101,8 +101,7 @@ to have an enemy
 'adadogac
 black beetle (Cerambyx cerdo)
 甲蟲
-
-'arorogac = 'adadogac
+=> 'ararogac
 
 'adapaw
 to lie in wait to kill (with misa-)
@@ -620,9 +619,132 @@ to watch * pay special attention * be interested in
 'anip
 rice seedlings freshly planted
 稻株
-=> 'onip
+=> 'onip, mi'anip
 
 'onip = 'anip
+
+
+# p.28
+
+mi'anip
+to plant rice seedlings
+插袂
+
+'ankak
+a crow * large black bird
+鴉
+=> 'anikak
+
+'anikak = 'ankak
+
+'anof
+greed * desire * lust * usually related to one's livelihood
+貪婪，貪慾，熱望，貪圖
+=> ka'anofan
+
+ka'anofan
+object of desire or lust
+渴望得到的事物
+
+'anognogan
+the center cross beam of a house
+房屋的脊樑
+
+'antipal
+Chinese Bulbul
+白頭翁
+a bird
+一種鳥
+=> 'atipal
+
+'atipal = 'antipal
+
+'antol = 'agtol
+
+'aol
+the generic word for bamboo
+竹的總稱
+
+'aolecen
+Banded Krait * a poisonous snake
+毒蛇名
+
+'ap'ap
+the name of a large frog
+俗稱田雞
+=> opopay
+
+opopay = 'ap'ap
+
+'apac
+a trowel * a tool used by a carpenter to shave wood smooth
+鋤頭形削木刀
+
+'apaloay
+name of a tree
+波羅蜜
+=> 'apalo, facidol
+name of a village where many facidol grew
+花蓮縣壽豐鄉月眉部落之地名
+
+'apalo = 'apaloay
+
+facidol = 'apaloay
+
+'api
+twin
+孿生
+=> ma'apiay
+
+ma'apiay
+twins
+孿生的，雙胞胎
+    Ma'apiay ko pawli
+    The banana is double.
+    並聯的香蕉
+
+
+'apilis
+a sheer drop off as a ledge on a mountainside
+山坡地，傾斜的坡地
+
+'aplad
+a loaf (bread)
+一塊(如麵包土司)
+
+'apocok
+the very top of a mountain
+山的尖頂，土堆尖形狀(如金字塔的尖端部份)
+
+'apol
+white
+lime paste made from burnt white stone soaked in water that becomes powder
+白石灰，石膏
+
+'aporaw
+hill-shaped ground
+山丘
+to fill heaping full
+堆積成山丘狀
+
+'apsak
+not enough water used in mixture as rice cooked without enough water
+飯水分不足時，缺乏黏性
+something breaks apart from not being mixed right
+東西因混合不當而互不相黏
+
+'aramisit
+a vegetable that looks like parsley
+香菜
+
+'arapar
+sparks from fire
+散發火星
+=> 'anapar
+
+'anapar = 'arapar
+
+'ararogac = 'adadogac
 
 
 
