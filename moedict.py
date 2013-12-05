@@ -55,7 +55,7 @@ def readdict(fn):
 		xs = l.split()				# 處理 word'a = word'b
 		if state is None and len(xs) == 3 and xs[1] == '=':
 			title = ng(xs[0])
-			link = xs[2]
+			link = ng(xs[2])
 			defdic = mkdef(['', u'Refer to `%s~' % (xs[2],),
 				            u'詳見 `%s~'.encode('utf8') % (xs[2],)], [], link)
 			mkword(title, [defdic])
