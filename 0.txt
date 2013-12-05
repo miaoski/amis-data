@@ -747,6 +747,89 @@ sparks from fire
 'ararogac = 'adadogac
 
 
+# p.29
+'araw
+seen * visible
+看，視，窺
+    Pa'arawen kami toya nitatoyan iso.
+    Show us what you are holding.
+    請你把手上的東西顯示給我們看
+    Pa'araw cigra to dmak nira.
+    He revealed what he was doing.
+    他顯露他的作為(行為)
+    Masaso'araw kita anini.
+    We get to see each other today.
+    今天我們彼此相遇
+=> arawhani, pi'arawan, paka'araw
+
+pi'arawan
+model * example
+樣本，藍圖，模式，一覽表，範例
+=> 'araw
+
+paka'araw
+to experience seeing
+看見
+ability to see
+視覺能力
+=> 'araw
+
+'arawhani
+instead * contrary to expectation
+事實上，看起來，其實
+a grammatical connective indicating a reversal in the flow of events
+然而，基於此，相形之下，卻見…
+    Tayra kami a milood cagraan.  'Arawhani papatapatay sa cagra o Taroko.
+    We went to fight them.  Instead they the Taroko were killing themselves.
+    我們要去和他們打戰，卻見他們太魯閣族互相殘殺
+=> 'araw
+
+'arawi
+a word expressing warning or need to be careful
+注意，小心，當心
+an expression suggesting that something bad may happen
+勸告小心可能有不幸事件發生
+
+'arawraw
+round in one dimension (flat) * circle-shaped
+圓的，圓形的
+
+'ardet
+a good kind of taste * delicious
+香味十足的
+=> ka'so
+
+ka'so = 'ardet
+
+'ardo
+swamp grass * used in making things
+蓆草(生長在水邊植物)
+
+'ari
+break * referring to glass only
+破碎
+=> kina'ari
+
+kina'ari
+small pieces that are broken
+碎片
+=> 'ari
+
+'arikaya
+a tall demon whose origin is in the trees * When he reveals himself to a person they become sick and die.
+高如樹般的鬼魂之鬼名
+
+'ariray
+corn
+玉米，玉蜀黍
+=> padaka
+
+padaka = 'ariray
+
+'ariri
+granary * storeroom for grain of all kinds
+穀倉
+
 
 # 手打的
 'ca
