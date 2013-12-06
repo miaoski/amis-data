@@ -1034,11 +1034,62 @@ in front of ...
 之前
 before
 之前
+=> i'ayaw, ka'ayaw, ki'ayaw, pa'ayaw, paki'ayaw, pasi'ayaw, pasasi'ayaw, patala'ayaw, si'ayawen, sa'ayaw, li'ayawen, sapa'ayaw
 
 
+# p.32
 
+i'ayaw
+before * past time
+面前，過去，昔日
 
-# 手打的
+ka'ayaw
+in front of
+在…之前
+
+ki'ayaw
+to get ahead of in position
+超前，超越，迎頭趕上
+
+pa'ayaw
+concern for * take interest in and help
+替別人做…，幫助別人…
+
+paki'ayaw
+to put ahead of
+承讓，讓先
+
+pasi'ayaw
+to face ahead in direction
+向前
+
+pasasi'ayaw
+to cause to face each other
+面對面
+
+patala'ayaw
+to send on ahead
+領到前面來
+
+si'ayawen
+to face towards (someone)
+面向
+
+sa'ayaw
+first * to start
+首先，起初
+
+li'ayawen
+to do before the time
+預先，預先做好
+
+sapa'ayaw
+N/A
+N/A
+    sapa'ayaw a tilid
+    letters of recommendation
+    序言，推薦書，介紹信
+
 'ca
 negative particle
 不是，不
@@ -1053,10 +1104,57 @@ negative particle
     最好不去做，不如不做。
 => caay
 
+'cak
+ripe * edible
+成熟，可吃的
+cooked done
+煮熟
+
+'ced
+black bumblebee
+寄生於竹竿內的黑蜂
+
+'ceg
+to be blinded by light
+目眩，光線刺眼
+
+'cic
+to singe * burn hair or feathers
+毛髮被火燻焦
+
+'ciw
+a swishing sound
+颼(鞭，翅膀等的聲音)
+=> sapa'ciw, rocwi
+
+sapa'ciw
+a goad for hitting
+靶
+=> rocwi
+
+rocwi = sapa'ciw
+
+'co
+an elephant (with light glottal sound)
+象(引自日語)
+to advance taking for oneself with the advance
+擠，推擠
+    Ma'co no 'aol ko nipalomaan a losay.
+    The bamboo crowds out fruit trees that were planted.
+    果樹被竹林擠掉
+
 'daw
 to fortune tell
 卜卦，算命，祭祀用之木具
 => pa'daw
+
+pa'daw
+to call a fortune teller
+請人問卜，請人算命
+
+
+
+# 手打的
 
 'em'em
 to keep to oneself worry or trouble
