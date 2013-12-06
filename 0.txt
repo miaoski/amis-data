@@ -831,6 +831,109 @@ granary * storeroom for grain of all kinds
 穀倉
 
 
+
+# p.30
+
+'arnim
+the taste of something sour that is like liquor
+酸，有一點酸
+
+'arosaysay
+a festival cape draped over the shoulders and covered with spangles
+台東地區披肩形女舞裝
+=> 'arisaysay
+
+'arisaysay = 'arosaysay
+
+'arsak
+to be dry from not having enough water in the mixture
+水分不足(乾燥)
+    Ma'arsak ko hmay.
+    The rice is hard and under-cooked.
+    白飯半生不熟
+    Ma'arsak ko amoto.
+    The cement doesn't have enough water in the mixture.
+    水泥無足夠的水，攪拌面乾裂
+
+'arsig
+dew
+露水，露珠
+=> 'o'ol
+
+'o'ol = 'arsig
+
+'asad
+a kernel of grain
+舂米或碾米時未脫殼之穀粒
+=> safak
+
+safak = 'asad
+
+'asic = 'acis
+
+'asilo
+lemon
+檸檬樹(果)
+mami'- an orange tree and fruit
+柑橘
+the name of an Amis village * Asiloay
+台東市豐年部落地名
+=> 'asiro
+
+'asiro
+Lemon tree and its fruit
+檸檬
+mami'- orange tree and fruit
+柑橘
+=> 'asilo
+
+'asisiw
+straw
+稻草
+
+'asolo
+a wood or stone pestle used to mill rice
+杵(阿美族固有的碾米用具)，石杵：製懦米糕舂擊用
+
+'at'at
+birth pains * to be in labor to deliver a baby
+臨盆時的陣痛，分娩，生產
+
+'atag
+remnant of burnt wood * charcoal
+木炭，燼炭
+
+'atal
+to scoop * method used to fill * to use hands or a paddle to fill
+盛，裝，斟，舀
+
+'atapa
+a species of fish
+一種特別的魚
+
+'atay
+liver
+肝臟
+
+'atem
+pinched * caught between * referring to something large
+捏住，挾住
+
+'atikak
+a large earthworm
+蚯蚓
+
+'atim
+pinched * referring to something small
+捏住，挾住
+
+'atimela
+fleas
+跳蚤
+
+
+
+
 # 手打的
 'ca
 negative particle
