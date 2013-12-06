@@ -932,6 +932,110 @@ fleas
 跳蚤
 
 
+# p.31
+'atip
+a weaver's bar
+織布棒，梭
+
+'atipal
+a bird * Chinese Bulbul
+白頭翁
+=> 'anipal, 'antipal
+
+'atipil
+straight up and down * perpendicular
+扁平
+flat on one side up and down as the back of the head of a baby
+嬰孩的頭扁平不正
+
+'atipnoc
+carpenter ants (Mycmellon formicarius)
+螞蟻之一(黑色刺人蟻)
+
+'atkak
+hard with literal and figurative meanings
+硬的(有知識，思想上的硬)
+    'atkak ko faloco'
+    stubborn * resistant
+    心硬，頑固，固執
+    'atkak ko 'aca
+    expensive
+    價錢昂貴
+
+'atol
+a dam made of rocks piled up
+用石頭築成的牆
+    'atol a kakoreg
+    edible plant * Climbing Fig
+    可食植物蔓榕(越橘葉蔓榕)
+=> ma'atolay
+
+ma'atolay
+stones or whatever piled up
+用石頭砌成的
+
+'atomo
+a large earthen jar used by the Amis with a narrow neck and large round body
+陶瓷甕，陶製水壺(婦女頂於頭頂，搬運食水之器皿)
+    'atomo no riyar
+    Olaunpi fig
+    鵝巒榕(鵝巒鼻之無花果樹)
+
+'atomoay
+a plant called Slenderleaf anneslea
+台灣安納土樹
+
+'atoray
+earthquake
+地震
+=> lonen
+
+lonen = 'atoray
+
+'atoto
+Caffre Lily * a shade flower (Clivia Miniata) Spider Lily
+君子蘭，水仙
+=> ciwisig
+a grass with roots shaped like sweet potatoes
+喇叭花
+
+'aw'aw
+to bark * the noise of a dog
+狗叫，狗吠
+=> pa'aw'aw
+
+pa'aw'aw
+to give money to a witch doctor
+巫醫的酬金
+
+'awa
+groin area
+兩腿分叉的部位
+
+'awas
+to step over
+跨步
+
+'awmig
+flexible * easily bends
+易彎曲的
+=> dawmi'
+
+dawmi' = 'awmig
+
+'ayam
+bird * birds
+飛禽之總稱
+chicken
+雞
+
+'ayaw
+in front of ...
+之前
+before
+之前
+
+
 
 
 # 手打的
