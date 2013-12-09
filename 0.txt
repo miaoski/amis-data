@@ -78,6 +78,7 @@ round spot in hair where hair parts * the crown of the head
 'acocol
 something made with wood and with twisted string * a top to spin
 陀螺
+=> 'iger
 
 'ad'ad
 to dig around and stir up while looking for something
@@ -127,7 +128,7 @@ to be tight * not share material things
 吝嗇
 to keep one's own counsel * deliberately not share
 密守、自己的計劃、不樂意分享
-=> idefet
+=> idepet
 
 # p.24
 
@@ -1286,7 +1287,8 @@ to fly
 'fo
 overwhelmed by work * unable to handle something
 無法勝任，不能勝任，嫌工作或任務太多或太大
-/'ilo. stigma from moral failure
+stigma from moral failure
+=> 'ilo
 道德上的污點，犯法事件
 just dessert
 點心
@@ -1349,6 +1351,103 @@ strength * power
     Pa'icelen cigra to sakacaaw ka tolo' nira.
     Exhort / encourage him so that he won't fail.
     希望鼓勵(勸告)他使他不致跌倒(墮落)
+
+
+# p.35
+
+'icep
+Betel Palm tree or fruit
+檳榔樹
+=> mi'icep, masa'icep
+
+mi'icep
+to chew betel nut
+嚼吃檳榔
+
+masa'icep
+to get a bruise the size of a betel nut
+搗碎定量的檳榔果
+
+'id'id
+烤，烘烤，烘倍
+roasted * to roast * to barbecue
+=> dohdoh
+
+'idepet
+to be tight * not share material things
+吝嗇，吝於分享東西
+to not share feelings * keep own counsel
+不把自己的心得或感覺分享給別人，固守自己的計劃
+=> 'adepet
+
+'idi
+selfish * reluctant to share
+自私，吝嗇
+embarrassed
+尷尬
+
+'idoc
+spear
+矛，槍，魚叉
+=> kotag
+
+'ifcag
+to be stiff * limbs of body not move freely
+僵化，僵硬
+
+'ifowas
+to scatter
+撒播，擴散，散落
+to run over
+溢出
+=> lifowas
+
+'iga'ig
+to shake the head as in refusal
+搖頭表示不同意，不贊成，反對
+
+'iger
+to spin a top * a top
+陀螺
+=> 'acocol
+
+'ikay
+lump shaped object
+成塊狀
+    masa'ika'ikayay a so'da
+    hail
+    成塊的雪花，雹，霰
+
+'ikes
+hard * mature in the good sense
+硬，老，成熟
+    ma'ikes ko faloco'
+    mature in attitude
+    態度成熟，心智成熟
+    ma'ikes ko tireg
+    to have a good healthy body
+    身體(發育)成熟
+    ma'ikes ko kilag
+    the tree is solid (good for building)
+    樹長得很堅實
+
+'ilo
+stigma from moral failur * just dessert
+罪過，罪譴
+
+'ilol
+to be lonesome to see someone or someplace
+想念，懷念，思念
+=> oron
+
+'ilos
+toilet paper * anything used for wiping
+擦屁股(排泄後)
+
+'imac
+to cut and sharpen the end of a piece of wood like a pencil
+銳利，尖銳(指尖形之銳利)，削尖(如削鉛筆)
+
 
 
 # 手打的
