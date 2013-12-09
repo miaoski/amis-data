@@ -1146,23 +1146,131 @@ to advance taking for oneself with the advance
 'daw
 to fortune tell
 卜卦，算命，祭祀用之木具
-=> pa'daw
+=> pa'daw, mi'daw
 
 pa'daw
 to call a fortune teller
 請人問卜，請人算命
 
 
+# p.33
 
-# 手打的
+mi'daw
+to tell a fortune
+問卜，卜卦，占卜
+to give the reason for a problem
+說明吉凶的理由
+the activity of a medium
+巫師的活動
+
+'def
+/ldef - to spread out over the whole area
+撒佈整個區域
+to close (heavy glottal stop) 關閉
+    mi'def to loma'
+    to close the house up
+    關閉門戶
+    Mi'def ko simal to riyar.
+    The ocean has a large oil slick.
+    浮油佈滿海面
+=> sa'def
+
+sa'def
+a door
+扇門
+
+'deg
+only
+唯，只有，僅僅，獨一
+=> ma'deg, 'degan, dgan, pa'deg
+
+ma'deg
+can be done
+足夠，能力足夠完成
+
+'degan
+only
+僅僅，唯一
+=> dgan
+
+dgan = 'degan
+
+pa'deg
+to do only so much * not overdo * including the idea of being content with what you have
+僅做範圍內或限制內的工作或責任
+
+'des
+cruel
+嚴厲，殘酷，兇悍
+
+'dil
+glory * radiance
+光亮，閃耀
+=> ma'dilay, ci'dilay
+
+ma'dilay
+shiny
+閃亮的
+=> 'dil
+
+ci'dilay
+something that is radiant * glorious
+發亮的，榮耀的
+=> 'dil
+
+'do
+rat
+老鼠
+
+'dog
+a pair of arm coverings attached together
+套袖(手臂套)筒袖
+
+'dox
+=> 'dok
+a plant called Rose Mallow * (Urena lobata) with berries
+種子
 
 'em'em
 to keep to oneself worry or trouble
 忍受痛苦或困難
 
+'es'es
+to whistle (with heavy glottal sound)
+吹口哨
+to whittle (light glottal)
+削薄木料的輕聲
+
+'etol
+sexual arousal * sexual passion
+激起性欲，慾火上昇
+
 'fa
 horse
 馬
+
+'faw
+to contract a job
+承包工
+Pa'fawen ako cigra tonini a tayal.
+I contracted out to him the work.
+我將這些工程給他承包
+
+'fec
+to force oneself to stop speaking
+阻止他人說話
+to tie head with a cloth band at the back of the neck (heavy glottal sound)
+用毛巾或布條綁頭
+to exalt oneself * putting others down
+厚此薄彼
+to forbid * not allow (light glottal sound)
+禁止，不許，不准
+
+
+
+
+
+# 手打的
 
 'ged
 a rack of flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle
