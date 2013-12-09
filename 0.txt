@@ -1252,9 +1252,9 @@ horse
 'faw
 to contract a job
 承包工
-Pa'fawen ako cigra tonini a tayal.
-I contracted out to him the work.
-我將這些工程給他承包
+    Pa'fawen ako cigra tonini a tayal.
+    I contracted out to him the work.
+    我將這些工程給他承包
 
 'fec
 to force oneself to stop speaking
@@ -1267,18 +1267,91 @@ to forbid * not allow (light glottal sound)
 禁止，不許，不准
 
 
+# p.34
 
+'feg
+to throw away
+拋棄，丟棄
+
+'fer
+to jump from one place to land at another * to leap
+從此地飛到彼岸，飛躍，跳躍
+=> mi'fer, ma'fer
+
+ma'fer
+to fly
+飛
+=> 'fer
+
+'fo
+overwhelmed by work * unable to handle something
+無法勝任，不能勝任，嫌工作或任務太多或太大
+/'ilo. stigma from moral failure
+道德上的污點，犯法事件
+just dessert
+點心
+
+'fog
+name of an Amis village
+阿美族部落名之略稱，瑞源村落名
+from sahfog * to have a gully
+窪地，深溝，峽谷
+
+'ged
+a rack or flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle
+墊熱水壺或熱鍋的網架
+
+'gid
+to be wormy and rotten
+腐壞，腐朽
+    O ma'giday a kilag konini.
+    This is an unhealthy tree.
+    這是一棵不健康的樹，這是一棵被蛀壞的樹
+
+'giw
+=> adeses
+the sound of a living thing
+指有生命物的聲音
+    Awaay ko 'giw.
+    Not a sound can be heard.
+    一點聲音都沒有
+    ma'giw ko giha'
+    high pitch of the voice
+    聲音高而尖銳
+
+'i
+an untranslatable particle at the end of a dependent clause * as for that with a description or explanation following
+無從翻譯的詞類，用於主句之後，以描述或說明以下的事
+
+'i'ir
+to sit on the ground
+席地而坐。如狗糞便後，以屁股擦地的動作
+
+'icag
+generic word for dry
+乾的總稱
+
+'icel
+strength * power
+力量，能力
+    ci'icel ko faloco'
+    courageous
+    勇敢，勇猛，信心足
+    pa'icelay a sowal
+    words of encouragement
+    鼓勵的話，勸勉的話，勉勵的話
+    sa'icel sa kako
+    I strive
+    我自我努力，我自勵自己，我策勵自己，我自我鞭策
+    O 'icel no pitoor nira konini.
+    This is evidence of his spirituality / faith.
+    這是他信心的力量
+    Pa'icelen cigra to sakacaaw ka tolo' nira.
+    Exhort / encourage him so that he won't fail.
+    希望鼓勵(勸告)他使他不致跌倒(墮落)
 
 
 # 手打的
-
-'ged
-a rack of flat object on which to set something as the base for carrying a jar on the head or a mat on which to set a hot kettle
-墊熱水壺或熱鍋的網架
-
-'i
-an untranslatable particle at the end of a dependent clause, as for that with a description or explanation following
-無從翻譯的詞類，用於主詞之後，以描述或說明以下的事
 
 'kak
 to curse
