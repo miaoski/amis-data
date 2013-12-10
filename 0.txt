@@ -1621,9 +1621,9 @@ to blow * as by the wind
 'iyot
 to cut a hole and scoop out a piece of
 鑽洞，鑽孔
-/'los. to swirl * referring to water
+to swirl * referring to water
 漩渦
-=> sa'iyot
+=> sa'iyot, 'los
 
 sa'iyot
 a knife for cutting
@@ -1661,8 +1661,13 @@ gold
 => 'kim
 
 
+# p.38
 
-# 手打的
+'kog
+an owl
+領角鴞(貓頭鷹)
+black as the burn on a pan or soot
+燒痕，鍋底或火爐灶上煙燻遺留的黑色粉末
 
 'li'
 a bundle of one hundred stems of grass, one hundred
@@ -1676,16 +1681,118 @@ a bundle of one hundred stems of grass, one hundred
 grass used to root a house
 覆蓋屋頂用之茅草
 
+'lo'
+condition of being spoiled * not disciplined * of a child
+撒嬌
+
+'loc
+to wear * to be worn away
+磨損
+    Ma'loc no nanom ko fokloh.
+    The rocks are worn by the water.
+    石頭被水磨滑(平)了
+
 'mahay
-moo, the sound of a cow
+moo * the sound of a cow
 黃牛的叫聲
+
+'mamosa
+the pupil of the eye
+瞳孔
+
+'mec
+to grab someone at the neck with hands to choke * strangle 
+用兩手掐人脖子致死，勒死，掐死
+=> 'imec
+
+'imec = 'mec
+
+'mek
+to sink to the bottom in water
+沉落水底
+
+'met
+to hold back * control self
+控制，抑制
+
+'mi
+wheat
+大麥
+=> 'did, kato'mi, tada'mi
+
+'did = 'mi
+
+kato'mi
+barley
+小麥
+=> 'mi
+
+tada'mi
+wheat
+小麥
+=> 'mi
+
+'mic
+pinch * grab hold of
+捏，捏住
+=> sa'mic
+
+sa'mic
+tweezers
+鋏子
+=> 'mic
+
+'min
+complete * all * every one included
+全部，完全，整個，所有的
+    ma'min a makaen
+    everything is eaten
+    全部吃光
+    Tayra kita a ma'min.
+    All of us will go.
+    我們全部都要去
+    Pa'min han cigra a pafli.
+    Give it all to him.
+    全部給他
+
+'mo
+new year's cake * made of sweet sticky rice
+年糕
+
+'moy
+Taiwan Ivy * a tree
+常春藤
+Fairy Fig * edible fruit and tree
+天仙果
 
 'nec
 to crush
 揉
     minecnec to mata
-    N/A
+    to crush one's eye
     揉眼睛
+
+'nem
+six
+六，陸
+
+'nep
+content * familiar and contented with circumstances
+沉迷，吸住，迷住
+
+'nip
+small turtle with pliable back
+烏龜，鱉
+a large sea turtle
+海龜
+=> rarokoh
+
+
+
+
+
+
+
 
 'o'ol
 fog
