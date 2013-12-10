@@ -20,6 +20,8 @@ def mkword(title, definitions):
 	global JSON, INDEX
 	word = {'title': title,
 		'heteronyms': [{'definitions': definitions}]}
+	if title in JSON:
+		print "Duplicated definition: " + title
 	JSON[title] = word
 	INDEX.append(title)
 
