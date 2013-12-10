@@ -1807,6 +1807,7 @@ fog
 霧
 dew * droplet of water from fog
 露珠
+=> 'arsig
 
 'ocil
 to insist on going along with as a child demanding to go with his mother
@@ -1863,9 +1864,9 @@ stiff *  not easy to move or bend
 => 'ifcag
 
 'og'og
-=> 'adi
 burned food * as rice
 鍋巴，燒焦的鍋底飯皮
+=> 'adi
 
 'adi = 'og'og
 
