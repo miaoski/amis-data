@@ -65,8 +65,6 @@ dry
 乾燥、枯萎
 => ma'acisay
 
-'asic = 'acis
-
 ma'acisay
 barren woman
 患孕不症的婦女
@@ -658,10 +656,6 @@ a bird
 一種鳥
 => 'atipal
 
-'atipal = 'antipal
-
-'antol = 'agtol
-
 'aol
 the generic word for bamboo
 竹的總稱
@@ -860,8 +854,6 @@ to be dry from not having enough water in the mixture
 dew
 露水，露珠
 => 'o'ol
-
-'o'ol = 'arsig
 
 'asad
 a kernel of grain
