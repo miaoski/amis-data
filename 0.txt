@@ -388,9 +388,7 @@ stink of something dead
 'ahac
 to fade * to have color gone
 褪色，失去光澤
-=> 'omac
-
-'omac = 'ahac
+=> 'omac, 'onac
 
 'akawag
 tall
@@ -1901,6 +1899,142 @@ name of an Amis village
 花蓮縣光復鄉岡界部落名
 
 
+# p.40
+
+'okem
+extremely dry * as the leaves of a plant
+乾而脆，如樹葉過份乾燥而脆碎
+
+'okot
+to huddle as when cold
+冷得縮成一團
+
+'olac
+to purify with fire
+用火煉，爐火純青
+
+'olalip
+name of an Amis village
+花蓮縣瑞穗鄉鶴岡部落名
+
+'olaw
+black
+黑，黑色
+name of an Amis village
+花蓮縣瑞穗鄉北岡部落名
+=> ma'olaw
+
+ma'olaw
+blackened * as to be tanned by sun or smoke
+變黑，被光曝晒或被火煙熏色
+=> 'olaw
+
+'olic
+to chant
+吟唱
+=> pa'olic, ma'olicay
+poetry
+詩詞，歌詞
+psalms
+詩篇
+
+pa'olic
+to chant to someone or about someone
+為某人吟唱
+=> 'olic
+
+ma'olicay
+someone who has poetic gifts
+富有吟詩天分的人
+=> 'olic
+
+'olid
+/holol. to visit around
+拜訪，造訪
+    pa'oliday / ma'oliday a fo'is
+    a shooting star from a comet
+    流星
+to look for a mate * to date
+約會，談戀愛
+
+'oliyat
+to stretch out one's body and limbs
+雙腳大開平直的坐姿
+=> 'osiyat
+
+'osiyat = 'oliyat
+
+'olol
+to suck until it is dissolved and swallowed
+含在口裡直到溶解
+=> molamol
+
+'omac = 'ahac
+
+'omlig
+shiny * bright * receiving light and reflecting it
+閃閃發光，亮片閃爍
+
+'onac = 'ahac
+
+'oner
+snake * serpent
+蛇
+
+'onig
+dirt * soil of clothing or skin
+污垢，髒
+
+'onoc
+a bamboo carrying pole
+扁擔，挑東西用的木棍或竹竿
+
+'opic
+to wet * make wet * as from rain
+濕，弄濕
+=> sger, cpa'
+
+sger = 'opic
+
+cpa' = 'opic
+
+'opir
+a braid of hair or of rope
+束髮，編髮，編繩
+
+'orac
+=> 'roc
+worn smooth * as wood
+磨滑，磨損
+
+'orad
+rain
+雨，下雨
+=> paka'orad, misa'orad
+
+paka'orad
+to make it rain
+乞雨
+=> 'orad
+
+misa'orad
+to make it rain
+乞雨
+=> 'orad
+
+'oret
+a necklace made of sea shells
+貝製的項鍊
+
+'orip
+life
+生命，生涯
+=> ci'orip
+
+ci'orip
+have iife
+有生命
+=> 'orip
 
 # 
 
