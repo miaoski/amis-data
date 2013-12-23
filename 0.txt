@@ -2137,9 +2137,106 @@ lead * a metallic substance 鋁金屬
 
 # p.42
 
+'otit
+to pervert * perform sexual acts that are against nature as homosexuality
+淫蕩，風騷，不矜持，不莊重，不端莊
+
+'otkok
+to huddle as when cold
+因寒冷而捲曲身子縮成一團
+
+'otkoy
+to have head bowed from sickness
+因病而垂首
+
+'otoc
+pillar * marker as for a grave
+柱，樁，墳墓的標柱
+
+'owac
+the cycle of beginning to end of something * as the cycle of the seasons in a year
+輪迴，周而復始的現象
+
+'owag
+to howl * high pitched sound of a dog
+狗狂叫，怒吼
+
+'owak
+to drink from a glass or bottle
+從杯或瓶中一口喝乾
+=> ta'owak
+
+ta'owak
+to drink wine * gulp down
+將酒一口吞飲而盡，把酒一口狼吞
+=> 'owak
+
+'owal
+to pry up or apart * as with a crowbar
+用鐵撬挪動沉重的東西
+=> 'iwal
+
+'oway
+reeds made from a plant that grows in the mountains and the plant * used in tying together poles and furniture and baskets etc.
+籐，籐條 * 用來繫柱子，和製家俱和做簍筐等。
+=> misi'oway
+
+misi'oway
+the activity of making reeds out of the plant
+把藤切片狀
+=> 'oway
+
 'pag
-bred
-麵包
+bread (from Japanese)
+麵包 (引自日語)
+
+'pah
+wine * intoxicating drink
+酒，酒精製品飲料
+
+'pec
+to despise * look down upon * consider of little value
+瞧不起，奚落，輕視，輕蔑
+=> spen
+
+'pel
+biting gnats found in Hualien county
+黑蚊
+
+'pi
+paralyzed * as a stroke victirp
+痲痺(如中風患者)
+to turn under * hem * tuck
+縫邊，褶紋
+    Masa'pi'pi ko riko' nira.
+    Her skirt is pleated.
+    她的裙子是打褶的
+an animal hide * leather
+動物的皮革
+
+'pip
+to play a flute
+吹笛
+=> tipolo, 'apipen
+
+a'pipen
+a flute
+笛子，橫笛
+=> tipolo
+
+'poc
+use * value
+用處，價值
+    ci'pocay
+    has value
+    有用，有價值
+    awaay ko 'poc
+    no use
+    沒有用，沒有價值
+=> kapo
+
+
+#
 
 'rac
 to be washed by rain so soil is gone and stones appear
