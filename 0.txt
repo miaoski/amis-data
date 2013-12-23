@@ -1577,8 +1577,6 @@ to pry up or apart as with a crowbar
 撬開，撬動 ，用橇棍或鐵橇挪開東西(指沉重的石頭或木材)
 => 'owal
 
-'owal = 'iwal
-
 'iwas
 to row a boat
 划
@@ -2001,9 +1999,9 @@ a braid of hair or of rope
 束髮，編髮，編繩
 
 'orac
-=> 'roc
 worn smooth * as wood
 磨滑，磨損
+=> 'roc
 
 'orad
 rain
@@ -2236,11 +2234,45 @@ use * value
 => kapo
 
 
-#
+# p.43
+
+'pod
+to come down * to descend
+下來，走下，降下，落下
+
+'pog
+a small hole
+孔，洞，穴
+=> ofag
 
 'rac
 to be washed by rain so soil is gone and stones appear
 經雨打後而土失石現的現象
+
+'res
+something used as adornment as jewelry or home decorations
+裝飾品
+=> 'iray
+
+'iray = 'res
+
+'ric
+wire
+鋼絲
+
+'roc
+worn smooth * as wood
+磨滑(如木頭)
+=> 'orac
+
+'ros
+an undercurrent that pulls objects that come into it
+旋渦吞沒，沉沒東西
+the Pacific current
+黑潮
+=> 'los
+
+'los = 'ros
 
 'sam
 attitude of being tired of looking at something
@@ -2249,8 +2281,64 @@ attitude of being tired of looking at something
     I am upset / disturbed (by a situation).
     我已經提不起興趣了
 
+'ses
+to the point * direct
+指出，指導
+Awaay ko paka'esesay a somowal cigraan.
+No one is able to speak pointedly to him.
+沒有一個人敢當面指責他
+=> 'eses
+
+'eses = 'ses
+
+'sig
+to sneeze
+打噴嚏
+
 'tah
 chaff
 粗糠
 => afih
+
+'tan
+profit * earnings from work
+利益，利潤
+=> mili'tan
+
+mili'tan
+to make profit (from Amoy dialect)
+賺錢 (引自閩南語)
+=> 'tan
+
+'teg
+dam used to stop water so it goes in another direction
+築堤使水改道
+=> pi'tegan
+road block marking a detour
+柵路改道
+floats on a net
+漁網之浮標
+
+pi'tegan
+place where dam is placed for fishing
+涸魚之堤堰
+=> 'teg
+
+'tip
+west
+西，西方，西邊
+    sa'tip
+    to the west
+    在西邊，西部
+    pasa'tip a romakat
+    walk / travel to the west
+    向西行走
+    isa'tipay a tamdaw
+    people that live in the valley (from the east coast perspective)
+    西部人(按東海岸的阿美族指住在東部縱谷平原的人)
+    pasa'tip a tamdaw
+    people that live on the west coast
+    西部人(指住在西海岸的人)
+=> ka'tip
+
 
