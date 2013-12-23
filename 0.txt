@@ -1959,10 +1959,8 @@ to look for a mate * to date
 
 'oliyat
 to stretch out one's body and limbs
-雙腳大開平直的坐姿
+雙腳大開平直的坐姿，四肢伸展狀
 => 'osiyat
-
-'osiyat = 'oliyat
 
 'olol
 to suck until it is dissolved and swallowed
@@ -2029,14 +2027,115 @@ a necklace made of sea shells
 'orip
 life
 生命，生涯
-=> ci'orip
+    Pa'oripen nira kako.
+    1. He saved me. physically as from drowning. 2.spiritually
+    1. 他救我，由肉體上如從溺水之險境中 2. 精神或屬靈上
+    O ma'araway i kalo'orip a tinako konini.
+    This illustration is seen in ordinary life.
+    這事倒在日常生活中可以看到
+=> ci'orip, ka'oripan, ma'oripay, pa'oripay, sapa'orip
 
 ci'orip
 have iife
 有生命
 => 'orip
 
-# 
+
+# p.41
+
+ka'oripan
+source of livelihood
+生長之處，生計
+
+ma'oripay
+(something) that is alive
+有生命的，活生生的
+
+pa'oripay
+provider
+賜生命者
+rescuer * deliverer * saviour
+拯救者
+
+sapa'orip
+the provision of salvation
+拯救的定規
+
+'oriyat
+to stretch one's body as when awakening
+打哈欠，伸懶腰
+=> masaya
+
+masaya = 'oriyat
+
+'orog
+to carry on the shoulder
+扛肩
+    Ma'orog nira ko kartegay a 'inorog.
+    He carried a heavy load.
+    他挑起了沉重的擔子，他運走(扛在肩上)了很沉重的荷物
+=> a'orogen
+
+a'orogen
+something to be carried
+荷物，包袱，即將運走的東西
+=> 'orog
+
+'orsap
+lice such as that found on young chicks
+蝨，依附在家禽或鳥類上的寄生蟲
+
+'osal
+a green leafy vegetable with tap root
+發自球根植物根部上的嫩芽，如蕃薯或馬鈴薯
+
+'osaw
+left over
+剩餘
+left behind
+遺留
+
+'osget
+an expression of anger
+皺眉頭表示生氣
+=> gotfol
+
+'osi
+to strongly dislike * reject
+嫌惡，討厭，厭煩
+    mi'osi to tilid
+    read
+    閱讀或誦讀書本
+    sa'osi
+    true * chosen
+    數算，計算
+    O 'osi a tamdaw cigra.
+    He is true.
+    他是正直的人，他是了不起的人物
+    Ka'osian ko dmak nira.
+    What he does is despicable.
+    他的作為令人討厭
+
+'osiyat = 'oliyat
+
+'ot'ot
+to cultivate rice plants by hand
+農人用手或小鋤頭除草
+=> kapkap
+to carve * engrave
+雕刻，雕塑
+
+'oteg
+trapped as by the snare on a fish hook (sa'oteg)
+助沉器(附繫於圓形魚網邊之鋁製沉器)
+to be degraded * suffering humiliation from sin
+因過失而受貶降職務處分
+to stay at home as when embarrassed or ill
+為免尷尬之事或因生病而留在家
+lead * a metallic substance 鋁金屬
+
+
+# p.42
 
 'pag
 bred
