@@ -2282,20 +2282,35 @@ west
 
 # p.44
 
-'toIan
-試叫。叭 '‘
+'tolan
+name of an Amis village
+台東縣東河鄉都蘭落部名
 
-『toIan I'Tolan. name of an Amis village 台東縣東河鄉都蘭落部 名
-'tot to pass gas from bloating 屁，響屁
-'xlw incense 香( 佛供神用)  ( from Amoy dialect 引自閩
-南語 )
-pa'xiw to burn incense as in worship 上看
-'yak to choke from aspirating food or water因吃東 西或飲 水而
-噎住 I maco'的﹒ to eat food not belonging to him貪吃 別人的 東西，貪嘴
-『yof to change 改變 ( 心意 )
-Caay ko mama'yof koya tamdaw. 一That person will not
-change. 那人的心意無佳改變，剛他
-復 自用
+'tot
+to pass gas from bloating
+屁，響屁
+
+'xiw
+incense (from Amoy dialect)
+香(佛教供神用) (引自閩南語)
+    pa'xiw
+    to burn incense as in worship
+    上香
+
+'yak
+to choke from aspirating food or water
+因吃東西或飲水而噎住
+to eat food not belonging to him
+貪吃別人的東西，貪嘴
+=> maco'os
+
+'yof
+to change
+改變(心意)
+    Caay ko mama'yof koya tamdaw.
+    That person will not change.
+    那人的心意無法改變，他剛愎自用
+
 a a connecting particle with some of the meaning of“and” ＊
 modifying particle 連結詞 (為某種意義或侈飾 用 )
 a'Hoc the back of the head * neck 脖子，頸，頸項
