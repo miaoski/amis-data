@@ -56,7 +56,7 @@ $(document).ready(function(){
         .append($('<span></span>').text("第 "+res.p+" 頁, 第 "+res.line+" 行"));
 
         if (res.ans !== null) {
-          $('.cell-info').append($('<span></span>').text(" 已經有" +res.count + "人填寫確認了，目前答案：").append($('<code></code>').text(res.ans)));
+          $('.cell-info').append($('<span></span>').text(" 已經有" +res.cnt + "人填寫確認了，目前答案：").append($('<code></code>').text(res.ans)));
           $('.confirm').show();
         }
         $('#unclear').show();
@@ -84,14 +84,16 @@ $(document).ready(function(){
   };
   getRandomImage();
 
-  $('#submit').click(submitAnswer);
-  $('#no-content').click(function() {
+  function thisIsEmpty() {
     var p = $('.cell-info').data('p');
     var line = $('.cell-info').data('line');
     var url = 'submit.php';
     $.post(url, { p: p, line: line, ans: '[這是空白]' }, function(res){ });
     getRandomImage();
-  });
+  }
+
+  $('#submit').click(submitAnswer);
+  $('#no-content').click(thisIsEmpty);
   $('#confirm').click(submitAnswer);
   $('.quick-answer').click(submitAnswer);
   $('#quick-trigger').click(function(){
@@ -111,7 +113,7 @@ $(document).ready(function(){
   $('#ans').keypress(function(e) {
     if (e.which == 13) {
       if (e.shiftKey) {
-        submitAnswer.apply($("#no-content")[0]);
+        thisIsEmpty();
       } else if (e.ctrlKey) {
         submitAnswer.apply($("#confirm")[0]);
       } else {
