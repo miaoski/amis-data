@@ -39,3 +39,21 @@ a:hover {
 }
 .cell-image {
 }
+
+.progress {
+    position: relative;
+}
+
+.bar {
+    z-index: 1;
+    position: absolute;
+}
+
+.progress span {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    color: black; // You might need to change it
+    text-align: center;
+    width: 100%;
+}

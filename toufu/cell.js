@@ -36,7 +36,7 @@ $(document).ready(function(){
     // trim 掉前後空白
     ans = jQuery.trim(ans);
     var url = 'submit.php';
-    $.post(url, { p: p, line: line, ans: ans }, function(res){ });
+    $.post(url, { p: p, line: line, ans: ans }, setProgress);
     getRandomImage();
     $('#submit,#no-content').removeAttr('disabled');
 
@@ -77,6 +77,7 @@ $(document).ready(function(){
         return;
     }
     
+    $.get('submit.php', setProgress);
     $.get('random.php', function(questions){
         question_pools = questions;
         set_question(question_pools.shift());
@@ -88,8 +89,16 @@ $(document).ready(function(){
     var p = $('.cell-info').data('p');
     var line = $('.cell-info').data('line');
     var url = 'submit.php';
-    $.post(url, { p: p, line: line, ans: '[這是空白]' }, function(res){ });
+    $.post(url, { p: p, line: line, ans: '[這是空白]' }, setProgress);
     getRandomImage();
+  }
+
+  function setProgress(data) {
+    if(data['cnt'] != undefined) {
+      var percent = Math.round(10000 * data['cnt'] / 14680) / 100;
+      $('.bar').css('width', '' + percent + '%');
+      $('#progress_text').text('已完成 ' + data['cnt'] + ' / 14680 (' + percent + '%)');
+    }
   }
 
   $('#submit').click(submitAnswer);
@@ -104,7 +113,7 @@ $(document).ready(function(){
     var p = $('.cell-info').data('p');
     var line = $('.cell-info').data('line');
     var url = 'submit.php';
-    $.post(url, { p: p, line: line, ans: '[圖片不清楚]' }, function(res){ });
+    $.post(url, { p: p, line: line, ans: '[圖片不清楚]' }, setProgress);
     getRandomImage();
   });
 

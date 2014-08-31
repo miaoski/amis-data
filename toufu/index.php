@@ -39,6 +39,10 @@
     </div>
     <div class="cell-image"></div>
     <button id="unclear" class="btn btn-warning unclear" tabindex="-1" style="display: none;">圖片不清楚</button>
+    <div class="progress">
+    <div class="bar" style="width: 80%;"></div>
+    <span id="progress_text"></span>
+    </div>
 </div>
 <script src="cell.js"></script>
 <link rel="stylesheet" href="cell.css">
