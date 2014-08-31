@@ -1,0 +1,37 @@
+body {
+    padding-top: 40px;
+}
+.submit,.no-content {
+    margin-bottom: 10px;
+}
+a:hover {
+    cursor: pointer;
+}
+.tip {
+    color: #bbb;
+    padding-left: 10px;
+}
+.quick-answer {
+    display: none;
+}
+.qa-group {
+    margin-bottom: 3px;
+}
+.autocomplete {
+    display: inline;
+    margin-left: 30px;
+}
+.autocomplete .checkbox{
+    margin-bottom: 6px;
+}
+.ans {
+    background-color: transparent !important;
+}
+.ans-shadow {
+    position: absolute !important;
+    z-index: -1;
+    background-color: #fff !important;
+    color: #c8c8c8 !important;
+}
+.cell-image {
+}
