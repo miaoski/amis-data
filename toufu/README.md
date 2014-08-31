@@ -28,4 +28,9 @@
     CREATE INDEX line on toufu (line);
     COMMIT;
 
+    for n in *.jpg; do
+      echo "insert into toufu values ("`echo $n | cut -c1-3`", "`echo $n | cut -c5-7`", NULL);"
+    done
+
+
 4. 寫前端，從 https://github.com/ctiml/campaign-finance.g0v.ctiml.tw 抄一些設計過來
