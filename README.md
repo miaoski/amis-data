@@ -90,6 +90,15 @@ market
 請用 `python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
 之後預定會寫轉換成 WeSay 或其它格式的程式。
 
+
+切豆腐
+======
+
+村長提示應該切個豆腐讓鄉民參與，計劃詳見 [Hackpad] (https://g0v.hackpad.com/moedict-no-pangcah--R2LBqjAdMwM).
+
+把字典切成一行一行的程式，使用的是 [StripPhotoIntoRows] (https://github.com/CindyLinz/StripPhotoIntoRows).
+
+
 License
 =======
 
