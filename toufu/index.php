@@ -20,7 +20,7 @@
   ga('send', 'pageview');
 </script>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.2/css/bootstrap.css">
-<link rel="stylesheet" href="/static/css/style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="container">
