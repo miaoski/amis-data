@@ -11,6 +11,9 @@ a:hover {
     color: #bbb;
     padding-left: 10px;
 }
+.manual {
+    color: #333;
+}
 .quick-answer {
     display: none;
 }
@@ -26,6 +29,7 @@ a:hover {
 }
 .ans {
     background-color: transparent !important;
+    width: 70%;
 }
 .ans-shadow {
     position: absolute !important;

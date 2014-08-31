@@ -25,12 +25,13 @@
 <body>
 <div class="container">
     <h3>請填入圖片中的字</h3>
+    <div class="manual">手寫的字體不要打，謝謝。<a href="https://g0v.hackpad.com/ep/pad/static/rVh0lLhnVuF">正在寫的說明書</a></div>
     <input id="ans" class="form-control ans" type="text" name="ans" tabindex="1" />
     <input id="ans-shadow" class="form-control ans-shadow" type="text" readonly="true" tabindex="-1" style="display: none"/>
     <button id="submit" class="btn btn-primary submit" tabindex="2">　送出　</button>
     <button id="no-content" class="btn no-content" tabindex="3">這是空白</button>
     <!-- <button id="next" tabindex="10">下一張</button> -->
-    <span class="tip">Enter: 送出 / shift+Enter: 這是空白 / ctrl+Enter: 這答案沒錯</span>
+    <div class="tip">Enter: 送出 / shift+Enter: 這是空白 / ctrl+Enter: 這答案沒錯</div>
 
     <div>
 	<span class="cell-info"></span>
