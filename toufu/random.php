@@ -10,7 +10,7 @@ for($i = 0; $i < 10; $i++) {
 	$st->execute(array(':offset' => $offset));
 	$row = $st->fetch(PDO::FETCH_ASSOC);
 	if($row) {
-		$row['img'] = "$row[p]_$row[line].jpg";
+		$row['img_url'] = sprintf("%03d_%03d.jpg", $row['p'], $row['line']);
 		$rows[] = $row;
 	}
 }
