@@ -31,6 +31,9 @@ a:hover {
     background-color: transparent !important;
     width: 70%;
 }
+input#ans {
+    padding: 10px; font-size: 1.5em; height: 1em;
+}
 .ans-shadow {
     position: absolute !important;
     z-index: -1;

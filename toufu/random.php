@@ -15,4 +15,13 @@ for($i = 0; $i < 10; $i++) {
 	}
 }
 
+/*
+$st = $pdo->prepare("SELECT * FROM toufu WHERE ans='[圖片不清楚]'");
+$st->execute();
+while($row = $st->fetch(PDO::FETCH_ASSOC)) {
+	$row['img_url'] = sprintf("%03d_%03d.jpg", $row['p'], $row['line']);
+	$rows[] = $row;
+}
+ */
+
 echo json_encode($rows);

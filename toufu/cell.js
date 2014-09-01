@@ -56,8 +56,9 @@ $(document).ready(function(){
         .append($('<span></span>').text("第 "+res.p+" 頁, 第 "+res.line+" 行"));
 
         if (res.ans !== null) {
-          $('.cell-info').append($('<span></span>').text(" 已經有" +res.cnt + "人填寫確認了，目前答案：").append($('<code></code>').text(res.ans)));
+          $('.cell-info').append($('<span></span>').text(" 已經有" +res.cnt + "人填寫確認了。"));
           $('.confirm').show();
+	  $('#ans').val(res.ans);
         }
         $('#unclear').show();
       });
