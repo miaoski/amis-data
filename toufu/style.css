@@ -1,3 +1,13 @@
 body {
     padding-top: 20px;
 }
+
+.ocr_block{
+    float: left;
+    margin: 10px
+}
+
+.ocr_block textarea{
+    width: 400px;
+    height: 130px;
+}

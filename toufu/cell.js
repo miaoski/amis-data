@@ -55,6 +55,9 @@ $(document).ready(function(){
         .text("")
         .append($('<span></span>').text("第 "+res.p+" 頁, 第 "+res.line+" 行"));
 
+          $('#ocrEng').text(res.ocr_eng);
+          $('#ocrCht').text(res.ocr_cht);
+
         if (res.ans !== null) {
           $('.cell-info').append($('<span></span>').text(" 已經有" +res.cnt + "人填寫確認了。"));
           $('.confirm').show();
@@ -72,6 +75,8 @@ $(document).ready(function(){
     $('.confirm').hide();
     $('.cell-image').html("");
     $('#unclear').hide();
+    $('#ocrEng').text('');
+    $('#ocrCht').text('');
 
     if (question_pools.length) {
         set_question(question_pools.shift());
