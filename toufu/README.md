@@ -33,4 +33,13 @@
     done
 
 
+    使用tesseract 做中英文的初步OCR，可以讓大家少打一點字
+    
+    需要先在系統上安裝好tesseract, 並裝好中文語言檔(chi_tra)，另外db裡toufu這個表要有ocr_eng, ocr_cht這兩欄
+
+	    for n in *.jpg; do
+	      php ocr_guess.php "$n";
+	    done
+
+
 4. 寫前端，從 https://github.com/ctiml/campaign-finance.g0v.ctiml.tw 抄一些設計過來

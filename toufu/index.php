@@ -44,6 +44,16 @@
     <div class="bar" style="width: 80%;"></div>
     <span id="progress_text"></span>
     </div>
+    <div><b>以下是供參考的機器自動辨識結果，可以複製正確的部份到答案欄，可以少打一些字</b></div>
+    <div class="ocr_block">
+        <label for="">英文OCR</label>
+        <textarea name="" id="ocrEng" cols="50" rows="4"></textarea>
+    </div>
+    <div class="ocr_block">
+        <label for="">中文OCR</label>
+        <textarea name="" id="ocrCht" cols="50" rows="4"></textarea>
+    </div>
+    <div style="clear: both;"></div>
 </div>
 <script src="cell.js"></script>
 <link rel="stylesheet" href="cell.css">
