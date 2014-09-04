@@ -34,6 +34,10 @@
     </ol>
     <img src="example.jpg" style="width:100%">
     </div>
+    <br>
+    <div class="span12" style="text-align: center;">
+    <button class="btn btn-primary submit" onClick="document.location='pages/index.php';">好的，開始校對囉!</button>
+    </div>
   </div>
 </div>
 <link rel="stylesheet" href="cell.css">
