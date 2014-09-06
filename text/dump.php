@@ -1,7 +1,7 @@
 <?php
 $pdo = new PDO("sqlite://tmp/toufu.sq3");
 
-for($i = 301; $i <= 310; $i++) {
+for($i = 311; $i <= 320; $i++) {
   echo "Page $i\n";
   $st = $pdo->prepare("SELECT cont FROM pages WHERE p=:p");
   $st->execute(array(':p' => $i));
