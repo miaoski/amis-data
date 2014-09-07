@@ -12,7 +12,7 @@ piko - intersection * place where there is a turn in the road 交叉
 pikoen - (a command to) turn at that point 使彎曲，弄彎 (驅使
 語，命令語)
 talapiko - to go to the intersection 走向交叉點，走到轉角
-salopiko  - an intersection 轉彎處
+salopiko - an intersection 轉彎處
 pikpik - to fly 擺動翅膀而飛
 sapikpik - wing * wings 翅膀
 mapikpik - wings flap 擺動著翅膀

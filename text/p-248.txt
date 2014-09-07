@@ -25,7 +25,7 @@ Marfay ko towaso. - The rope is slack. 粗繩已鬆弛了
 rfog - a hollowed out piece of ground * a hole 在地上挖洞或井，
 洞穴
 talarfog - to fall in a gully 掉進洞裡
-rget  -  a red head-band which is part of the Amis festive
+rget - a red head-band which is part of the Amis festive
 costume 紅帶子，阿美族節日的服飾 (綁在
 頭上 ) 的一部份
 rgos - grass * the generic for small grass

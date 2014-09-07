@@ -1,6 +1,6 @@
 safalod - thing used to bind * as string 用以綁東西的器具 - 繩
 子
-falohag  -  chest * anatomy of the body 胸部，胸膛
+falohag - chest * anatomy of the body 胸部，胸膛
 falotoy - fat on the belly * middle aged spread 腹部肥胖一般中年
 人的模樣
 fana' - generic term for knowledge 知識之一般用語，智慧，知
