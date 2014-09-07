@@ -5,8 +5,8 @@ import sys
 import re
 
 def extractFromFile(curpage, lx):
-    re1 = re.compile(r"(^[a-z':]+) -")
-    re2 = re.compile(r"(^[a-z':]+) /")
+    re1 = re.compile(r"(^[a-z':]+) *-")
+    re2 = re.compile(r"(^[a-z':]+) */")
     for l in lx:
         grp = re1.search(l) or re2.search(l)
         if grp:
