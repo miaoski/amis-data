@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
 
+import re
+
 import fileinput
 import unicodedata as ud
 
@@ -9,7 +11,11 @@ def unbreak_line(iterator):
     buf = []
     for l in iterator:
         l = l.decode("utf8")
-        if "-" in l:
+        new_entrie_match = re.match("^\w+ (/ \w+)\.?", l)
+        if "-" in l or new_entrie_match:
+            if "-" not in l:
+                begin, end = new_entrie_match.span()
+                l = l[:end] + " - " + l[end:]
             if len(buf) != 0:
                 yield " ".join(buf)
                 buf = []
@@ -34,5 +40,16 @@ if __name__ == "__main__":
             print "problem with", l.encode("utf8")
             continue
         amis, remaining = l.split("-", 1)
-        english, mandarin = split_on_first_CJK(remaining)
-        print "\n".join([amis, english, mandarin, "\n"]).encode("utf8")
+        heteronyms = []
+        for nym in re.split("\d\.", remaining):
+            english, mandarin = split_on_first_CJK(nym)
+            if english.strip() == "" and mandarin.strip() == "":
+                continue
+            heteronyms.append((english, mandarin))
+        if len(heteronyms) > 0:
+            english, mandarin = zip(*heteronyms)
+            heteronyms = "\n".join(["%d. %s" % (i+1, x) for i, x in enumerate(english)] + ["%d. %s" % (i+1, x) for i, x in enumerate(mandarin)])
+        else:
+            heteronyms = ""
+            print "problem with (het)", l.encode("utf8")
+        print "\n".join([amis, heteronyms, "\n"]).encode("utf8")
