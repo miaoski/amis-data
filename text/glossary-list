@@ -1,3952 +1,3952 @@
-'a'am	23
-'a'olec	23
-'aca	23
-'acam	23
-'acaw	23
-'acfel	23
-'acicim	23
-'acis	23
-'aciyos	23
-'acocol	23
-'ad'ad	23
-'ada	23
-'adadogac	23
-'adapaw	23
-'adawag	23
-'adcaw	23
-'adepet	23
-'adidem	24
-'adif	24
-'adig	24
-'adigal	24
-'adigo	24
-'adimaceg	24
-'adipagpag	24
-'adipel	24
-'adipig	24
-'adit	24
-'adiyam	24
-'adiyoc	24
-'adop	24
-'a'adopen	24
-'adteg	24
-'adtom	24
-'afag	24
-'afala	25
-'afalag	25
-'afar	25
-'afas	25
-'afdo'ay	25
-'afel	25
-'afinog	25
-'afo	25
-'afofo	25
-'afono	25
-'afsaw	25
-'aftoy	25
-'agaget	25
-'agcep	25
-'agdisay	25
-'agi	25
-'aglis	25
-'agrer	25
-'agsaw	25
-'agsit	25
-'agtol	26
-'ahac	26
-'akawag	26
-'akaway	26
-'akik	26
-'akog	26
-'akonal	26
-'alagad	26
-'alapit	26
-'alem	26
-'alet	26
-'ali	26
-'alic	26
-'alilis	26
-'alimdas	26
-'alip	26
-'alitad	26
-'aliwac	26
-'aliwates	26
-'alo	26
-'alofo	26
-'alogdas	26
-'alol	27
-'alolil	27
-'alolog	27
-'aloman	27
-'alomaylay	27
-'alopal	27
-'alopaynay	27
-'alotoc	27
-'alpad	27
-'amis	27
-'amitir	27
-'amlas	27
-'anegag	27
-'anin	27
-'aninil	27
-'anip	27
-'ankak	28
-'anof	28
-'anognogan	28
-'antipal	28
-'aol	28
-'aolecen	28
-'ap'ap	28
-'apac	28
-'apaloay	28
-'api	28
-'apilis	28
-'aplad	28
-'apocok	28
-'apol	28
-'aporaw	28
-'apsak	28
-'aramisit	28
-'arapar	28
-'araw	29
-'arawhani	29
-'arawi	29
-'arawraw	29
-'ardet	29
-'ardo	29
-'ari	29
-'arikaya	29
-'ariray	29
-'ariri	29
-'arnim	30
-'arosaysay	30
-'arsak	30
-'arsig	30
-'asad	30
-'asilo	30
-'asiro	30
-'asisiw	30
-'asolo	30
-'at'at	30
-'atag	30
-'atal	30
-'atapa	30
-'atay	30
-'atem	30
-'atikak	30
-'atim	30
-'atimela	30
-'atip	31
-'atipal	31
-'atipil	31
-'atipnoc	31
-'atkak	31
-'atol	31
-'atomo	31
-'atomoay	31
-'atoray	31
-'atoto	31
-'aw'aw	31
-'awa	31
-'awas	31
-'awmig	31
-'ayam	31
-'ayaw	31
-'ca	32
-'cak	32
-'ced	32
-'ceg	32
-'cic	32
-'ciw	32
-'co	32
-'daw	32
-'def	33
-'deg	33
-'degan	33
-'des	33
-'dil	33
-'do	33
-'dog	33
-'dox	33
-'em'em	33
-'es'es	33
-'etol	33
-'fa	33
-'faw	33
-'fec	33
-'feg	34
-'fer	34
-'fo	34
-'fog	34
-'ged	34
-'gid	34
-'giw	34
-'i	34
-'i'ir	34
-'icag	34
-'icel	34
-'icep	35
-'id'id	35
-'idepet	35
-'idi	35
-'idoc	35
-'ifcag	35
-'ifowas	35
-'iga'ig	35
-'iger	35
-'ikay	35
-'ikes	35
-'ilo	35
-'ilol	35
-'ilos	35
-'imac	35
-'imced	36
-'imer	36
-'inal	36
-'inap	36
-'inaw	36
-'inco	36
-'inorog	36
-'intel	36
-'ipoc	36
-'irig	36
-'is'is	36
-'isag	36
-'isal	37
-'ised	37
-'iso	37
-'it'it	37
-'itis	37
-'iw'iw	37
-'iwal	37
-'iwas	37
-'iwil	37
-'iyak	37
-'iyof	37
-'iyot	37
-'kak	37
-'ked	37
-'kim	37
-'kog	38
-'li'	38
-'lo'	38
-'loc	38
-'mahay	38
-'mamosa	38
-'mec	38
-'mek	38
-'met	38
-'mi	38
-'mic	38
-'min	38
-'mo	38
-'moy	38
-'nec	38
-'nem	38
-'nep	38
-'nip	38
-'noc	39
-'nor	39
-'o'ol	39
-'ocil	39
-'odag	39
-'odagen	39
-'odal	39
-'odawis	39
-'odidal	39
-'odot	39
-'ofad	39
-'ofcag	39
-'og'og	39
-'ogagil	39
-'ogcoy	39
-'ogto	39
-'ok'ok	39
-'okak	39
-'okakay	39
-'okem	40
-'okot	40
-'olac	40
-'olalip	40
-'olaw	40
-'olic	40
-'olid	40
-'oliyat	40
-'olol	40
-'omlig	40
-'oner	40
-'onig	40
-'onoc	40
-'opic	40
-'opir	40
-'orac	40
-'orad	40
-'oret	40
-'orip	40
-'oriyat	41
-'orog	41
-'orsap	41
-'osal	41
-'osaw	41
-'osget	41
-'osi	41
-'ot'ot	41
-'oteg	41
-'otit	42
-'otkok	42
-'otkoy	42
-'otoc	42
-'owac	42
-'owag	42
-'owak	42
-'owal	42
-'oway	42
-'pag	42
-'pah	42
-'pec	42
-'pel	42
-'pi	42
-'pip	42
-'poc	42
-'pod	43
-'pog	43
-'rac	43
-'res	43
-'ric	43
-'roc	43
-'ros	43
-'sam	43
-'ses	43
-'sig	43
-'tah	43
-'tan	43
-'teg	43
-'tip	43
-'tolan	44
-'tot	44
-'xiw	44
-'yak	44
-'yof	44
-a	44
-a'iloc	44
-a'isedan	44
-aayad	44
-aca	44
-acag	44
-acek	44
-aci	45
-aciya	45
-acohod	45
-adada	45
-adah	45
-adahi	45
-adayay	45
-adegay	45
-adeses	45
-adihay	45
-afih	45
-aflaw	45
-afsa'	45
-agag	45
-agil	45
-ahowid	45
-aira	45
-aka	46
-akaki	46
-aki	46
-ako	46
-akog	46
-ala	46
-ala-	46
-alaf'af	46
-alafaf	46
-alafoh	46
-alapawan	46
-alem'em	46
-aligato	46
-alimacedan	46
-aliwatec	47
-aloponay	47
-ama	47
-amilika	47
-amo	47
-amoto	47
-ana:	47
-anakox	47
-ancoh	47
-anini	47
-ano	47
-anocila	47
-apa	47
-apac	48
-aped	48
-apet	48
-apiyan	48
-araaw	48
-arapanay	48
-aray	48
-ari	48
-ariyah	48
-aro'	48
-asik	48
-asimaan	48
-asip	49
-ata	49
-ati	49
-ato	49
-awa	49
-awid	49
-aya:	49
-ayi	49
-ayiw	49
-aykor	49
-aylog	49
-ca	49
-ca'ag	49
-ca'ca'	49
-ca'des	50
-ca'dog	50
-ca'fas	50
-ca'fay	50
-ca'fon	50
-ca'gar	50
-ca'gaw	50
-ca'get	50
-ca'i	50
-ca'it	50
-ca'lay	51
-ca'mot	51
-ca'not	51
-ca'nto	51
-ca'of	51
-ca'or	51
-ca'owaw	51
-caa'	51
-caay	51
-cacak	51
-cacaklaw	51
-cacay	51
-cacesces	51
-cacido'	51
-caciro'	51
-caciyaw	52
-cacodo	52
-cacopi	52
-cada	52
-cadi'ci'	52
-cadikis	52
-cadiw	52
-cadiway	52
-cadok	52
-cadokol	52
-cafay	52
-cafeg	52
-cafer	53
-cafi'	53
-cagal	53
-cagaw	53
-cagdi	53
-cager	53
-caglah	53
-caglal	53
-cagli	53
-cago'ot	53
-cagra	53
-cagray	53
-cahak	53
-cahal	53
-cahcah	54
-cahdal	54
-cahfay	54
-cahid	54
-cahiw	54
-cahkit	54
-cahni	54
-caho	54
-cahog	54
-cahok	54
-caholak	54
-cakal	54
-cakat	55
-cakay	55
-cakcak	55
-caki	55
-cakil	55
-caklis	55
-cakod	55
-cala'	55
-calacalaw	55
-calamay	56
-calap	56
-calascas	56
-calay	56
-calcal	56
-caleg	56
-calemcem	56
-calig	56
-caliw	56
-caloway	57
-camol	57
-canem	57
-cani'iw	57
-caniker	57
-canot	57
-canoy	57
-capa'	57
-capas	57
-capay	57
-caper	57
-capet	57
-capo'	58
-capox	58
-cara	58
-carcar	58
-carkah	58
-carofacof	58
-cascas	58
-cawag	58
-cawas	58
-cawhi	58
-cawi	58
-cawi'	58
-cawpi	59
-cayat	59
-cayna	59
-ccay	59
-cda'ah	59
-cdas	59
-cdeg	59
-cdem	59
-cdi	59
-cdo	59
-cdet	59
-cekcek	59
-celcel	59
-cepcep	59
-cfag	60
-cfis	60
-cfo	60
-cfog	60
-cfos	60
-cgaw	60
-cgel	60
-cgo'	60
-ci'ci'	60
-ci'em	60
-ci'ep	60
-ci'im	60
-ci'iwi	60
-ci'keg	61
-ci'lis	61
-cica'	61
-cicax	61
-cicih	61
-cicir	61
-ciciw	61
-cidal	61
-cidek	61
-cidem	61
-ciem	61
-cifar	61
-cifes	62
-cifolo'ay	62
-cifrag	62
-ciga	62
-cigaroan	62
-cigcig	62
-cigdis	62
-cigki	62
-cigra	62
-cihaf	62
-cihafayan	62
-cihak	62
-cihrag	62
-cikadaan	62
-cikaf	62
-cikasoan	62
-cikay	62
-cikcik	63
-cikeg	63
-ciker	63
-cikil	63
-ciko	63
-cikor	63
-cikowa'ay	63
-cila	63
-cilah	63
-cilamitay	63
-cilas	63
-cilgacay	63
-cilikesay	63
-cima	63
-cimaanan	63
-cimacima	64
-cimacimaan	64
-cimil	64
-cinag	64
-cinas	64
-cinaw	64
-cinco	64
-ciokagan	64
-cipa'	64
-cipat	64
-ciped	64
-cipoh	64
-cirakayan	64
-cirep	64
-ciriciri	64
-cirid	64
-ciriyahan	64
-ciro'	64
-cirokohay	65
-cirot	65
-citosiya	65
-ciwa'	65
-ciwcika	65
-ciwciw	65
-ciwi	65
-ciwidian	65
-ciwig	65
-ciwkeg	65
-ciwlo	65
-ciwlokiw	65
-ciyo'	65
-ciyor	65
-cka	65
-ckad	65
-ckah	65
-ckel	65
-ckem	66
-cker	66
-ckid	66
-ckig	66
-ckil	66
-ckiw	66
-ckok	66
-ckor	66
-ckos	66
-ckroh	67
-clahad	67
-clak	67
-clalono	67
-cled	67
-clem	67
-cli'	67
-clog	67
-cmahad	67
-cmet	67
-cna'	67
-cno'	67
-cnon	67
-co'a'ag	67
-co'af	67
-co'ay	67
-co'co	68
-co'ed	68
-co'ep	68
-co'ig	68
-co'is	68
-co'koy	68
-co'nek	68
-co'og	68
-co'os	68
-co'rog	68
-coaco'	68
-coca'	68
-coco	69
-cocok	69
-cocop	69
-codad	69
-codah	69
-cofay	69
-cofcof	69
-cofel	69
-coflis	69
-cogacog	69
-cogaw	69
-cogdis	69
-coged	69
-cohcoh	69
-cohel	69
-coho'	70
-cohog	70
-cokacok	70
-cokap	70
-cokar	70
-cokcok	70
-cokep	70
-coker	70
-cokis	70
-cokiwat	70
-cokoi	70
-cokor	70
-colal	70
-colcol	70
-coled	70
-colek	71
-coli	71
-colo'	71
-colok	71
-comcom	71
-comod	71
-conacon	71
-conoh	71
-copa	71
-copcop	71
-coplak	71
-coplis	71
-copo	72
-copras	72
-cora'	72
-coracor	72
-coraf	72
-corah	72
-coray	72
-corcor	72
-coroh	72
-corok	72
-coscos	73
-cowa	73
-cowaco'	73
-cowat	73
-cowi'	73
-coykeg	73
-coyoh	73
-cpa'	73
-cpapal	73
-cpet	73
-cpi'	73
-cpo	73
-cpo'	73
-cra'	74
-crar	74
-cred	74
-crig	74
-crnoh	74
-croh	74
-cror	74
-cyofo	74
-da'at	74
-da'ci	74
-da'moh	74
-da'oc	74
-da'so	74
-dacidac	74
-dacog	75
-dada	75
-dadacdac	75
-dadacidoc	75
-dadagoyan	75
-dadaya	75
-dadayday	75
-dadico	75
-dadigo	75
-dadimaw	75
-dadinas	75
-dadipis	75
-dadiwal	75
-dado'	75
-dadotos	75
-dadoy	75
-dafak	76
-dafdaf	76
-dafo'	76
-dafog	76
-dagah	76
-dagka	76
-dagoy	76
-dahag	76
-dahcog	76
-dahdah	76
-dahkat	76
-dahoc	76
-dahpay	76
-dahtal	76
-dakaw	76
-dakidakit	76
-dama	77
-damay	77
-damdam	77
-damek	77
-damihmih	77
-damsay	77
-damso'	77
-danis	77
-danta'	77
-daoc	77
-dapdap	77
-dapiyac	77
-dapo	77
-dapog	77
-dapowaw	77
-data	77
-datadat	77
-datay	78
-dateg	78
-datog	78
-datok	78
-dawa	78
-dawdaw	78
-dawmi'	78
-daya	78
-dayna	78
-dayom	78
-decdec	78
-demdem	78
-dfak	78
-dfit	78
-dfo	78
-dfog	79
-dga	79
-dget	79
-di'i	79
-dicoh	79
-digac	79
-diget	79
-dihapal	79
-dihdih	79
-dihif	79
-dihko	79
-dihway	79
-dika	79
-dikidiki	79
-diko	79
-dimata	79
-dimata'	79
-dimok	79
-dimokos	80
-dipdip	80
-dipi	80
-dipog	80
-dipot	80
-disdis	80
-dita'	80
-ditdit	80
-ditek	80
-diwas	80
-dkog	81
-dmak	81
-dmet	81
-dmi'	81
-do'do	81
-do'eg	81
-do'es	81
-docidoc	81
-docoh	81
-dodag	81
-dodem	81
-dodoh	82
-dofot	82
-dogec	82
-dogi	82
-dohdoh	82
-dohkit	82
-doka'	82
-dokdok	82
-dopoh	82
-dotoc	82
-fa'det	83
-fa'i	83
-fa'inay	83
-fa'inayan	83
-fa'loh	83
-fa'not	83
-fa'owic	83
-faca'	83
-facacido'	83
-facacnal	83
-facal	83
-facfac	83
-facidol	83
-facikcikay	83
-faco	83
-fadadico'	84
-fadagalan	84
-fadahog	84
-fadal	84
-fadat	84
-fadi'	84
-fadic	84
-fadihag	84
-fadil	84
-fadisaw	84
-fadisoso'	84
-fadito	84
-fadoc	84
-fadokos	84
-fadowac	84
-faes	84
-fafa	85
-fafa'ed	85
-fafac	85
-fafahi	85
-fafahian	85
-fafaod	85
-fafaw	85
-fafayoh	85
-fafikfik	85
-faflin	85
-fafoget	85
-fafokod	85
-fafoy	85
-fagad	85
-fagafag	86
-fagas	86
-fagaw	86
-fagcal	86
-fages	86
-fagfag	86
-fagkoy	86
-fagsis	86
-fagta	86
-fagto	86
-faha	86
-fahal	86
-fahfah	87
-fahka'	87
-fahkol	87
-faho	87
-fahol	87
-fail	87
-fakar	87
-fakciw	87
-fakec	87
-faked	87
-faki	87
-fakog	87
-faktaw	87
-fala'	87
-fala'fa	87
-falagaw	88
-falagfay	88
-falah	88
-falahodik	88
-falahta	88
-falako	88
-falalotog	88
-falat	88
-falatfat	88
-falawfawan	88
-fali	88
-falic	88
-falid	89
-falidas	89
-falihnaw	89
-falinono	89
-faliwfiw	89
-faliyos	89
-falo	89
-faloco'	89
-falod	89
-falohag	90
-falotoy	90
-fana'	90
-fanani'ol	90
-fanaw	90
-fanetfet	90
-faniw	90
-faniyot	90
-fanoh	90
-fanohog	90
-fanol	90
-fao	91
-farasi'	91
-farasiw	91
-farawafaw	91
-fariw	91
-faroro	91
-farsi'	91
-farsiw	91
-fasal	91
-fasaw	91
-fasfas	91
-fasiyaw	91
-fasolan	91
-fata'an	92
-fatac	92
-fatad	92
-fataogi'	92
-fateg	92
-fatel	92
-fater	92
-fati	92
-fati'ian	92
-fatis	92
-fawa	92
-fawah	92
-fawfaw	92
-fayag	93
-fayal	93
-faydoh	93
-fayfay	93
-fayo'	93
-fcacido'	93
-fcak	93
-fcek	93
-fcol	93
-fded	93
-fdi'	93
-fdoh	93
-fdol	93
-fedfed	93
-fenfenan	93
-ficig	93
-ficin	94
-fickot	94
-fida'og	94
-fida'olaw	94
-fidac	94
-fidag	94
-fidaol	94
-fidas	94
-fidgal	94
-fidic	94
-fihahak	94
-fiher	94
-fihfih	94
-fihid	94
-fihkac	94
-fikfik	94
-fila'	94
-filalonan	94
-filfil	94
-filo	94
-filowa	95
-finacadan	95
-finawlan	95
-fioho	95
-firag	95
-firo	95
-firo'ok	95
-fisac	95
-fita'o'	95
-fita'ol	95
-fitagila	95
-fitay	95
-fiteki	95
-fitig	95
-fitili'	96
-fitlak	96
-fitlok	96
-fitoka	96
-fitokol	96
-fitonay	96
-fitro	96
-fiwa'	96
-fiwfiw	96
-fiyac	96
-fiyal	96
-fiyaw	96
-fiyok	96
-fker	96
-fkot	96
-flac	96
-flalac	96
-flaloda'	96
-flalonan	97
-flalotog	97
-flat	97
-flay	97
-flih	97
-flin	97
-flot	97
-fo'das	97
-fo'is	97
-fo'not	97
-fo'ot	97
-focacig	97
-focigkay	97
-focirak	97
-focod	97
-focol	97
-fodas	97
-fodawan	97
-fodfod	98
-fodifod	98
-fodigaw	98
-fodo'	98
-fodos	98
-fofo	98
-fogfog	98
-fogoh	98
-fohad	98
-fohafoh	98
-fohag	98
-fohat	98
-fohcacay	99
-fohcalay	99
-fohci	99
-fohet	99
-fohid	99
-fohok	99
-fokafok	99
-fokaw	99
-fokes	99
-fokil	99
-fokloh	99
-fokog	99
-foksi	99
-fola	99
-folad	99
-folag	99
-folalac	100
-folaw	100
-foldi	100
-foles	100
-folfol	100
-folkok	100
-folo'	100
-folod	100
-folokok	100
-folsak	100
-fonal	100
-fonon	100
-fonor	100
-fonos	100
-foraw	100
-fori'ak	100
-forifor	100
-forok	100
-forsenan	101
-fosok	101
-fosoki	101
-foteg	101
-fotek	101
-fotfot	101
-foti'	101
-fotig	101
-foto	101
-fotod	101
-fotol	101
-fotos	101
-fowah	101
-fowak	101
-fowas	101
-foyol	102
-fray	102
-friw	102
-frot	102
-fsir	102
-fso	102
-fsoc	102
-ftak	102
-ftas	102
-ftes	102
-ftik	102
-ftir	102
-ga'	102
-ga'ay	102
-ga'ga	103
-gacol	103
-gafgaf	103
-gafol	103
-gagafolan	103
-gagal	103
-gagel	103
-gagan	103
-gagiw	103
-gagool	103
-gala'	103
-galay	104
-galef	104
-galiwgiw	104
-galo'go	104
-gapad	104
-gapir	104
-garap	104
-garawgaw	104
-gargar	104
-gari'gi'	104
-garoy	104
-gasaw	104
-gata	104
-gataa'	104
-gato	105
-gatowa'	105
-gawa'	105
-gawgaw	105
-gawi'	105
-gawit	105
-gayagay	105
-gelgel	105
-gelgelan	105
-gerger	105
-gidet	105
-gidip	105
-giep	105
-gigoy	105
-giha'	105
-gilos	105
-giraw	105
-girgir	105
-giriw	105
-giro	106
-gisgis	106
-gitagit	106
-gitgit	106
-gitid	106
-gito'	106
-giwgiw	106
-giwit	106
-glo'	106
-gocdis	106
-gocih	106
-godo	106
-gohagoh	107
-gohah	107
-gohgoh	107
-gosgos	107
-goso'	107
-gota	107
-goyi'	107
-goyos	107
-gric	107
-gyagi	107
-ha	107
-haca	107
-haciriwan	108
-hacok	108
-hacol	108
-hacowa	108
-hadag	108
-hadfek	108
-hadhad	108
-hadidi	108
-hadimel	108
-hadokhok	108
-haen	109
-hafay	109
-haflot	109
-hafotigay	109
-haftoy	109
-haherher	109
-hahidaw	109
-hai	109
-hakap	109
-hakeno	109
-hakhak	109
-haki-	110
-hakini	110
-hakira	110
-hakitira	110
-hakiya	110
-haklog	110
-hako	110
-hakowa	110
-hala	110
-halafin	111
-halaka	111
-halamham	111
-hales	111
-halhal	111
-hali-	111
-haliloya	111
-halo	111
-halodot	111
-halofaw	111
-haloya	111
-hamdac	112
-hamham	112
-hamon	112
-hamotod	112
-han	112
-hana	112
-hanaghag	112
-hanakliw	112
-hananay	112
-hanaw	112
-hanhan	112
-hanho	112
-hanighig	112
-hanima	112
-hanto	113
-haop	113
-hapinag	113
-hapric	113
-hara	113
-harakat	113
-harara	113
-harateg	113
-harawan	113
-hardo	114
-haregheg	114
-harek	114
-hata	114
-hatatad	114
-hater	114
-haterter	114
-hatfo	114
-hatini	114
-hatiped	114
-hatira	114
-hatiya	114
-hato	114
-hatotoan	115
-haw	115
-hawad	115
-hawag	115
-hawhaw	115
-hawikid	115
-hayda	115
-hca	115
-hcek	115
-hcep	115
-hci	115
-hcra	115
-hdot	116
-hegheg	116
-hemhem	116
-hfog	116
-hger	116
-hicay	116
-hicep	116
-hicoci	116
-hicra	116
-hifag	116
-higat	116
-highig	116
-higway	116
-hikoki	116
-hima	116
-himaw	116
-himed	117
-himrac	117
-hina-	117
-hinac	117
-hinag	117
-hinalomay	117
-hinam	117
-hinapec	117
-hinasolay	117
-hinefa	117
-hinig	117
-hinokop	117
-hinom	117
-hirahir	117
-hitay	117
-hiterter	117
-hitfo	117
-hitroc	117
-hiwatid	117
-hiya	117
-hkakan	117
-hkal	117
-hlip	118
-hlog	118
-hmay	118
-hmek	118
-hmot	118
-hna	118
-hnek	118
-hnot	118
-hodac	118
-hodhod	118
-hodoc	118
-hofoc	118
-hogko	118
-hogti	118
-hoig	118
-hoka'	118
-hokap	119
-hokhok	119
-holak	119
-holam	119
-holaymay	119
-holo	119
-holol	119
-homog	119
-homox	119
-honi	119
-hopac	119
-hopor	119
-horac	119
-horiyac	119
-horiyoc	119
-hotiso	119
-howad	119
-howak	120
-hpik	120
-hpol	120
-hrek	120
-htec	120
-i	120
-i'ic	120
-icila	120
-icowa	120
-idag	120
-idek	121
-ifnek	121
-igid	121
-igki	121
-igpic	121
-ihakowa	121
-ihoni	121
-iki	121
-ikor	121
-ilag	121
-iloh	121
-imah	121
-imatini	121
-imeg	121
-imowa	121
-impi	122
-ina	122
-inacila	122
-inafaran	122
-inaneg	122
-inapil	122
-incay	122
-ini	122
-inig	122
-ino'	122
-ira	122
-iray	123
-iro	123
-isaw	123
-isi'	123
-isig	123
-iso	123
-ita	123
-itini	123
-itira	123
-itiya	123
-iwatan	124
-iyo	124
-ka'dah	124
-ka'ka'	124
-ka'mag	124
-ka'mahay	124
-ka'med	124
-ka'mi'	124
-ka'nih	124
-kaogtoay	124
-ka'ped	124
-ka'red	124
-ka'so'	124
-ka'tohay	125
-kacaw	125
-kacawas	125
-kacep	125
-kacica'ay	125
-kacidalay	125
-kacihragan	125
-kaciki	125
-kaciw	125
-kacolah	125
-kadac	125
-kadafo	125
-kadafowagay	125
-kadag	125
-kadamat	125
-kadawagay	125
-kadipohaw	125
-kadit	126
-kadkad	126
-kado'egay	126
-kadodoc	126
-kadofah	126
-kadowagay	126
-kaen	126
-kafafag	126
-kafagasay	126
-kafaniw	126
-kafay	126
-kafer	126
-kafid	127
-kafit	127
-kaflaw	127
-kafog	127
-kafooy	127
-kafos	127
-kafsa'	127
-kafso	127
-kagcoh	127
-kagdaw	127
-kagdaway	127
-kagic	127
-kagkag	127
-kagkofo	127
-kahcid	127
-kahciday	127
-kahdogay	128
-kahgag	128
-kahi	128
-kahir	128
-kahirahira	128
-kahmaw	128
-kahmid	128
-kahnanini	128
-kahog	128
-kahot	128
-kahteg	128
-kaka	128
-kakahad	129
-kakahog	129
-kakarayan	129
-kakawag	129
-kakawasan	129
-kakawit	129
-kakaya'	129
-kakidec	129
-kakiri'an	129
-kakitaan	129
-kakitiw	129
-kakiw	129
-kakiwaci	129
-kakloy	129
-kako	129
-kakohkoh	129
-kakohkohay	129
-kakonah	130
-kakoreg	130
-kakoregay	130
-kakorot	130
-kakot	130
-kakowat	130
-kakoy	130
-kakoyol	130
-kakreg	130
-kaktol	130
-kala	130
-kala'ka'	130
-kalag	130
-kalaga	130
-kalagaay	130
-kalagagan	130
-kalah	130
-kalaha'ay	130
-kalala	131
-kalamkam	131
-kalapiyat	131
-kalas	131
-kalasal	131
-kalat	131
-kalatim	131
-kalaw	131
-kalawal	131
-kaleg	131
-kales	131
-kali	131
-kalic	131
-kalidkid	131
-kaligko	131
-kaliki'	131
-kalileg	131
-kalilig	132
-kalim	132
-kalimnaw	132
-kalitag	132
-kaliti	132
-kaliwates	132
-kaliyah	132
-kaliyalaw	132
-kaliyawan	132
-kalo	132
-kalo'mi	132
-kalocoday	132
-kalodi	132
-kalogkog	132
-kaloh	133
-kalolo	133
-kalona	133
-kalosa'ay	133
-kalotogan	133
-kalto	133
-kamay	133
-kamaya	133
-kamet	133
-kami	133
-kamid	133
-kamit	133
-kamkam	133
-kamleg	133
-kamo	133
-kamodo'	133
-kamoko	133
-kamoko'	134
-kamoraw	134
-kamowag	134
-kanakan	134
-kanalatip	134
-kanalog	134
-kananel	134
-kananini	134
-kanas	134
-kanasal	134
-kanatal	134
-kani'ki	134
-kanicaw	134
-kanifagar	134
-kaniharan	134
-kanikis	134
-kanini	134
-kanir	135
-kanocoray	135
-kanoos	135
-kansiya	135
-kansiyasay	135
-kantiw	135
-kaolah	135
-kaos	135
-kapa	135
-kapagiay	135
-kapah	135
-kapal	135
-kapet	135
-kapi	135
-kapig	136
-kapitan	136
-kapkap	136
-kaponay	136
-kaporotay	136
-kapot	136
-kapowa	136
-kara	136
-kara'ka'	137
-kara-	137
-karahay	137
-karam	137
-karapanay	137
-kararem	137
-karat	137
-karayan	137
-kari'ag	137
-karico'co'	137
-karifateg	137
-karih	137
-karihic	137
-karihkih	138
-kariwkiway	138
-karkar	138
-karo'	138
-karog	138
-karoniron	138
-karooday	138
-karootay	138
-karop	138
-karoroan	138
-karot	138
-karotod	138
-karototoyay	138
-karteg	138
-kasaparan	139
-kasid	139
-kasoy	139
-katacomoli	139
-katakat	139
-katar	139
-katawa	139
-kater	139
-kati	139
-kato	139
-katofil	139
-katohay	139
-katol	139
-katop	139
-kawal	139
-kawala	139
-kawali	139
-kawanan	139
-kawar	140
-kawas	140
-kawat	140
-kawih	140
-kawil	140
-kawili	140
-kawit	140
-kawkaw	140
-kawrira	140
-kayakay	140
-kayap	140
-kayat	141
-kayhid	141
-kayig	141
-kayki	141
-kayko	141
-kaysig	141
-kcec	141
-kced	141
-kcor	141
-kdal	141
-kdec	141
-kdof	141
-kegkeg	141
-kelkel	141
-kemkem	141
-kenken	141
-keskes	141
-ketket	141
-kfig	142
-kfog	142
-kfoh	142
-ki'a'am	142
-ki'aot	142
-ki'caw	142
-ki'ciw	142
-ki'mel	142
-ki'tec	142
-kiawkiaw	142
-kicapos	142
-kickic	142
-kicocom	142
-kicofi	142
-kicon	142
-kida	142
-kidat	142
-kidfet	143
-kidkid	143
-kido	143
-kifsiw	143
-kiftol	143
-kigkig	143
-kigkiw	143
-kigko	143
-kihakih	143
-kihar	143
-kihcod	143
-kika	143
-kikaka	143
-kikay	143
-kilac	143
-kilag	144
-kilawa	144
-kilif	144
-kilim	144
-kilomot	144
-kimad	144
-kimadac	144
-kimced	144
-kimit	144
-kimolmol	144
-kimolo	144
-kimood	144
-kimor	145
-kimpi'	145
-kimto	145
-kimtor	145
-kina-	145
-kinafalah	145
-kinayra	145
-kincac	145
-kincay	145
-kinco	145
-kini	145
-kinih	145
-kipag	145
-kipat	146
-kira	146
-kiradom	146
-kirami	146
-kiric	146
-kirig	146
-kirikiri'	146
-kiro	146
-kirofim	146
-kiskis	146
-kiso	146
-kita	146
-kitad	146
-kitag	146
-kitakit	147
-kiteg	147
-kitig	147
-kitkit	147
-kitoh	147
-kiwakiw	147
-kiwalet	147
-kiwat	147
-kiwit	147
-kiwkiw	147
-kiya	147
-kiyafes	147
-kiyagkiyag	147
-kiyaig	147
-kiyaki'	147
-kiyalig	147
-kiyam	147
-kiyami	147
-kiyko	148
-kiyo	148
-kiyot	148
-klac	148
-klalaci	148
-klap	148
-kleg	148
-klet	148
-kli'	148
-klig	148
-kliw	148
-klog	148
-kltan	148
-kma	148
-kmi	148
-kmo	148
-kmod	149
-knanini	149
-knaw	149
-knayra	149
-kni'	149
-ko	149
-ko'gel	149
-ko'ko	149
-ko'mi	149
-ko'mih	149
-ko'san	149
-ko'sit	149
-ko'teg	149
-kodait	149
-kodasig	150
-kodfet	150
-kodic	150
-kodos	150
-kodpi'	150
-kofaw	150
-kofel	150
-kofig	150
-kofit	150
-kofo	150
-kofoc	150
-koga	150
-kogkog	150
-kohakoh	150
-kohaw	150
-kohcal	150
-kohced	150
-kohkohan	150
-kohnac	150
-kohpic	151
-kohtig	151
-koicaw	151
-kokag	151
-koki'	151
-kokih	151
-kokoa	151
-kokofag	151
-kokog	151
-kokoy	151
-koladot	151
-kolag	151
-kolah	151
-kolamet	151
-kolas	151
-kolced	151
-kolfo'	151
-koli	151
-koliciw	151
-kolit	151
-koliya'	152
-koliyol	152
-kolmi	152
-kolog	152
-kolomi	152
-komaig	152
-komes	152
-komi'ot	152
-komikili	152
-komimit	152
-komiyot	152
-komo	152
-komo'ko	152
-komod	152
-komog	153
-kona	153
-konac	153
-konai'i	153
-konayat	153
-konini	153
-konis	153
-koniyol	153
-konkon	153
-konoc	153
-konoy	153
-kool	153
-kopag	153
-kopid	154
-kopit	154
-kora	154
-korac	154
-korah	154
-korahot	154
-koraro	154
-korawit	154
-koreg	154
-korih	154
-korira	154
-korkor	154
-koror	155
-kosiya	155
-koskos	155
-kosoy	155
-kotag	155
-kotay	155
-kotem	155
-koti'	155
-kotkot	155
-koto	155
-kotod	155
-kotog	155
-kowa'	155
-kowad	155
-kowag	155
-kowako'	155
-kowan	156
-kowat	156
-kowaw	156
-kowawi	156
-kowit	156
-koya	156
-koyasi	156
-koyo	156
-koyod	156
-kpa	156
-kpid	156
-kpit	156
-kra	156
-krah	156
-kreg	156
-krem	156
-kric	157
-krid	157
-krih	157
-kris	157
-krismas	157
-kristo	157
-kristokiw	157
-krit	157
-kro	157
-kro'	157
-krog	157
-kros	157
-ksem	157
-ktem	158
-kter	158
-ktig	158
-ktil	158
-kton	158
-ktos	158
-kwamig	158
-kwapig	158
-kyokay	158
-la'caan	158
-la'ed	158
-la'il	159
-la'is	159
-la'no	159
-la'om	159
-la'oteg	159
-la'pa	159
-la'to	159
-lacaan	159
-lacal	159
-laccay	159
-laci'	159
-lacik	159
-lacinowas	159
-laciw	159
-laco	159
-lada'	159
-ladiw	160
-ladom	160
-lafac	160
-lafades	160
-lafag	160
-lafay	160
-lafel	160
-lafi	160
-lafii	160
-lafin	160
-lafir	161
-lafiwfiway	161
-lafo	161
-lafog	161
-lafot	161
-lagal	161
-lagas	161
-lagat	161
-lagod	161
-lagto	161
-laha'	161
-lahad	161
-lahat	162
-lahci	162
-lahdaw	162
-lahod	162
-lahok	162
-lahoper	162
-lakad	162
-lakaw	162
-lakec	162
-lakiw	163
-laklak	163
-laklal	163
-laklaw	163
-lakota	163
-lakowit	163
-lala'	163
-lala'em	163
-lalad	163
-lalag	163
-lalagaw	164
-lalago	164
-lalal	164
-lalan	164
-lalat	164
-lalen	164
-lales	164
-lalet	164
-laletlet	164
-lali'	164
-lali'op	164
-lalidec	164
-lalig	165
-lalinik	165
-lalipig	165
-lalisan	165
-laliw	165
-lalko	165
-lalo	165
-lalok	165
-laloma'	165
-lalopla'	165
-lama'	165
-lamal	165
-lamec	165
-lamit	165
-lamlam	166
-lamlo	166
-lamo	166
-lamok	166
-lanag	166
-lanhi	166
-lanto	166
-laoc	166
-laop	167
-lapac	167
-lapdit	167
-laplap	167
-lapot	167
-lasag	167
-lasak	167
-lasil	167
-laso'ay	167
-lasog	167
-lasot	167
-lata'	167
-lata'ag	167
-latag	168
-latak	168
-lataw	168
-latek	168
-lati'	168
-latiih	168
-lato'	168
-latoc	168
-lawa	168
-lawac	168
-lawal	168
-lawat	168
-laway	169
-lawdgan	169
-lawla	169
-lawlaw	169
-laya'	169
-layap	169
-laymay	169
-layog	169
-lcad	169
-lceg	169
-lcik	169
-lda'	170
-ldef	170
-ldo	170
-lelen	170
-lesles	170
-lfek	170
-lfit	170
-lfo	170
-lfoh	170
-lga	170
-lgac	170
-lgat	170
-lgaw	171
-li'ay	171
-li'el	171
-li'mi	171
-licag	171
-licay	171
-licig	171
-licinowas	171
-liclic	171
-licod	172
-licoh	172
-lidalid	172
-lidateg	172
-lidaw	172
-lidep	172
-lido	172
-lidog	172
-lies	172
-lifar	172
-lifawa	172
-lifes	172
-lifet	172
-lifog	172
-lifoh	173
-lifon	173
-lifot	173
-ligad	173
-ligato	173
-ligesa'	173
-ligka	173
-ligko	173
-liglig	173
-ligod	173
-ligses	173
-ligwa	173
-lihaf	173
-lihay	174
-lihco	174
-lihiw	174
-lihnaw	174
-lihoc	174
-lihoway	174
-likaf	174
-likat	174
-likel	174
-likes	174
-likid	174
-liklon	175
-likoda	175
-likot	175
-lilac	175
-lilal	175
-lileg	175
-lilid	175
-lilis	175
-lilit	175
-liliw	175
-lilom	175
-lima	175
-limad	175
-limaw	175
-limecedan	175
-limek	176
-limla	176
-limo'ot	176
-limpo	176
-linah	176
-linalin	176
-linay	176
-lineknek	176
-linfo	176
-lipa	176
-lipahak	176
-lipalaw	176
-lipaw	177
-lipay	177
-lipot	177
-lipowak	177
-lisaot	177
-lisin	177
-liso'	177
-lita'ag	177
-litahom	178
-liteg	178
-liti'	178
-litmoh	178
-litod	178
-litox	178
-liwal	178
-liwasak	178
-liway	178
-liyad	178
-liyag	178
-liyas	179
-liyaw	179
-liyoc	179
-liyok	179
-liyon	179
-liyot	180
-lkairaira	180
-lkakawa	180
-lkal	180
-lmed	180
-lnaf	180
-lnak	180
-lneg	181
-lno	181
-lo'gel	181
-lo'od	181
-lo'timay	181
-locok	181
-lodak	181
-lodas	181
-lodi'	181
-lodihag	181
-lodis	181
-lodot	181
-lofa	181
-lofag	181
-lofic	181
-loflof	182
-lofoc	182
-lofog	182
-logadi	182
-loglog	182
-logoc	182
-lohak	182
-lohok	182
-lokdaw	182
-lokes	182
-lokiyo	182
-lokot	182
-lolo	182
-lolod	183
-lolol	183
-lolop	183
-loma'	183
-lomaig	183
-lomin	183
-lomoh	183
-lonan	183
-lonayi'	183
-lonen	183
-lono'	183
-lonok	183
-lonol	183
-lood	183
-lopas	184
-lopeg	184
-lopet	184
-lopiko	184
-lopilop	184
-lopini'	184
-lopisak	184
-losa'	184
-losay	184
-losid	184
-losida'	184
-losimet	184
-losiyag	184
-loso'	184
-losok	185
-lotay	185
-lotlot	185
-lotoc	185
-lotog	185
-lotok	185
-lowad	185
-lowalo	185
-lowan	185
-lowi'	185
-lowid	185
-loyoh	186
-lpel	186
-lpon	186
-lsafon	186
-lsi'	186
-lso'	186
-ltek	186
-ltep	186
-ltoh	186
-ma'ifor	186
-maan	186
-mafolosi	187
-mafowakay	187
-magah	187
-magar	187
-magcel	187
-magta'	187
-mahad	187
-mahod	187
-maimai	188
-makalo	188
-mako	188
-mako-	188
-makotaay	188
-maia	188
-malataw	188
-mali	188
-malicagay	188
-malimpo	188
-malininaay	188
-malitmit	188
-malkakaay	189
-malo	189
-malonem	189
-mama	189
-mamag	189
-mamana	189
-mamayoh	189
-mami'	189
-mamiya	189
-mamo	190
-mamo'mo'	190
-mamoko'	190
-mamosa	190
-manis	190
-manowad	190
-manowan	190
-manto	190
-maomi'	190
-mapohaway	190
-maporahaw	190
-marad	190
-mararo'og	190
-maro'	190
-maroda'ci	190
-masay	190
-mata	191
-matadim	191
-matag	191
-matini	191
-matira	191
-matiya	191
-mato	192
-mced	192
-mdok	192
-mecmec	192
-metmet	192
-mi'mi'	192
-migkok	192
-migmig	192
-mihca	192
-milmil	193
-mimig	193
-mimit	193
-minaro'an	193
-minato	193
-minowad	193
-mintag	193
-mira	193
-mirmir	193
-misa	193
-misa'	193
-misamis	193
-misi'	193
-misig	193
-miso	193
-miso'em	194
-mison	194
-mita	194
-miyamay	194
-miyat	194
-mlet	194
-mli	194
-mnad	194
-mo'cel	194
-mo'ed	194
-mo'mo	194
-mo'tep	194
-moamo	194
-moamo'	195
-moco'	195
-modac	195
-moho	195
-mokel	195
-mokmaw	195
-mokmok	195
-mokon	195
-mola'	195
-molamol	195
-molcep	195
-moli	195
-moli'	195
-molisaka	195
-molmol	195
-molsa'	195
-momok	195
-monag	195
-monihar	195
-mono'	196
-mora	196
-mora'ay	196
-mori	196
-mori'	196
-moric	196
-morkoh	196
-moroho	196
-morok	196
-moronos	196
-mortes	196
-mosigaw	196
-moso'	196
-mowa	196
-mowak	196
-mrak	196
-mras	196
-mris	197
-mro	197
-na'ag	197
-na'ay	197
-na'on	197
-nacnac	197
-nafoy	197
-nages	197
-nagra	197
-nahay	197
-nahol	197
-nai	197
-naikoran	197
-nalacolan	197
-nalaloodan	197
-namal	197
-namo	198
-nanam	198
-nanaw	198
-nanay	198
-nani	198
-nani'ol	198
-naniwac	198
-nano	198
-nanom	199
-nanoy	199
-nanoya	199
-nanpokoy	199
-nao	199
-naol	199
-naop	199
-narikay	199
-nasa	199
-natawran	200
-naw	200
-nawhani	200
-nawnaw	200
-nayar	200
-nayat	200
-necnec	200
-negneg	200
-neknek	200
-nemnem	201
-nfak	201
-ngaw	201
-nigra	201
-nihar	201
-nika	201
-nikar	201
-nikaw	201
-nikawrira	201
-nikiw	201
-nima	201
-ninip	202
-nira	202
-nirnir	202
-nisnis	202
-nitiih	202
-niwaniw	202
-niyah	202
-niyam	202
-niyani'	202
-niyaro'	202
-nker	203
-no	203
-no'no'	203
-nohir	203
-noka	203
-nokay	203
-noli	203
-nona	203
-noneg	203
-nonini	203
-nonoh	203
-nonol	203
-nonor	203
-nora	204
-norira	204
-nornor	204
-noya	204
-ociya	204
-ocor	204
-odo'	204
-ofag	204
-ogog	204
-okag	204
-okos	204
-olah	204
-olat	205
-olatek	205
-oles	205
-olif	205
-olili	205
-omah	205
-omi	205
-omi'	205
-ona	205
-onaon	205
-onih	205
-onini	206
-onol	206
-oo'	206
-opih	206
-opoh	206
-opopay	206
-oraf	206
-orasaka	206
-orat	206
-oray	206
-orira	206
-oror	206
-osa	206
-osoy	206
-ota'	206
-oy	207
-oya	207
-pa'anifog	207
-pa'cas	207
-pa'el	207
-pa'ilasen	207
-pa'kel	207
-pa'nan	207
-pa'no	207
-pa'pa	207
-pa'pa'	208
-pa'tag	208
-pacahfak	208
-pacako	208
-pacarcar	208
-pacek	208
-pacfa	208
-paci'ci	208
-paci'eg	209
-pacig	209
-pacigko	209
-pacilit	209
-packil	209
-packis	209
-pacofcof	209
-pacok	209
-pacpac	209
-pacrem	209
-pada'ciay	209
-padadoki	209
-padag	209
-padagan	210
-padahaw	210
-padahof	210
-padaka	210
-padal	210
-padeg	210
-padek	210
-pades	210
-padiwawa	210
-padiyac	210
-padiyaw	210
-padogipog	210
-padopil	211
-padteg	211
-paen	211
-pafli	211
-pafsoc	211
-paga	211
-pagcah	211
-pagkiw	211
-pagloy	211
-pagpag	211
-pagpagan	211
-pagta	212
-paharawan	212
-paheg	212
-pahko	212
-pahotig	212
-paikor	212
-paini	212
-pakah	212
-pakapsi'	212
-pakara'ac	212
-pakatiih	212
-pakayni	212
-pakayra	213
-pakayraan	213
-pakido	213
-pakih	213
-pakinali	213
-pakiyaw	213
-pakociko	213
-pakogaw	213
-pakokot	213
-pakonira	214
-pakoyoc	214
-pakpak	214
-paktig	214
-pala	214
-palag	214
-palal	214
-palalaw	214
-palanotireg	214
-palayapay	215
-palfod	215
-pali'ayaw	215
-palidig	215
-palimagta'	215
-palimlim	215
-palit	215
-palita	215
-paliw	216
-paliyoken	216
-palo	216
-palokapok	216
-palolol	216
-paloma	216
-pamceg	216
-pamotek	216
-pana'	216
-panahal	217
-panay	217
-pances	217
-panco	217
-paniis	217
-paogogan	217
-paoror	217
-papa'og	217
-papah	217
-papeg	217
-papikdan	217
-papo	217
-para'	218
-parac	218
-paranaan	218
-parar	218
-parekpek	218
-parikor	218
-pariwan	218
-paro	218
-paro'ot	218
-parod	218
-misaparod	218
-parogapig	219
-parok	219
-parokpok	219
-parpar	219
-pasamo	219
-pasayni	219
-pasayra	219
-paska	219
-paso	220
-paso'lin	220
-pasogan	220
-pasta'	220
-pasteg	220
-patahtah	220
-patala	220
-patalahkal	220
-pataloma'	220
-patarod	221
-patay	221
-patdo	221
-patek	221
-pater	221
-patfo	222
-patih	222
-patireg	222
-patlac	222
-patlaw	222
-pato'	222
-pato'aya	222
-patogaren	222
-patonek	222
-patono	223
-patorod	223
-patosokan	223
-patrogan	223
-pawali	223
-pawan	223
-pawig	223
-pawli	223
-pawpaw	223
-pawti	223
-paya	224
-payak	224
-payax	224
-payayoka	224
-payci	224
-paydas	224
-payrag	224
-paysin	224
-payso	224
-paytmek	224
-pca'	224
-pcas	225
-pcec	225
-pci'	225
-pcici	225
-pcih	225
-pco'	225
-pcod	225
-pcoh	226
-pdadac	226
-pdadoki	226
-pdeg	226
-pdek	226
-pdik	226
-pdoc	226
-pdoh	226
-pedped	226
-pekpek	226
-pelpel	227
-pespes	227
-pi'ayaw	227
-pi'dac	227
-pi'ec	227
-pi'iw	227
-pi'kolan	227
-pi'pi	227
-pi'pi'	227
-picid	227
-piciw	227
-picpic	228
-pida	228
-pidah	228
-piec	228
-pigan	228
-pigapig	228
-pigaroy	228
-pigko	228
-pigo'	228
-pihpih	228
-piked	228
-pikel	229
-pikig	229
-piko	229
-pikpik	229
-pilec	229
-pilet	229
-pili'	229
-piloh	229
-pina	229
-pina'aw	230
-pina'orip	230
-pinag	230
-pinaloma	230
-pinani'ol	230
-pinaro	230
-pincas	230
-pinoer	230
-pintoh	231
-pip	231
-pirora'ay	231
-pisig	231
-pisot	231
-pisto'	231
-pitaw	231
-pitek	231
-pitig	231
-pito	231
-piya'	231
-piyak	231
-piyas	232
-piyoc	232
-pkaw	232
-pla'	232
-pleg	232
-plek	232
-ples	232
-ploc	232
-pna'orip	232
-pnaloma	232
-pnec	232
-pnen	233
-po'i	233
-po'lac	233
-po'ner	233
-po'ot	233
-poces	233
-poda'	233
-podac	233
-podaw	233
-podoh	233
-podok	233
-podpod	233
-poet	233
-pogkag	233
-pogki	234
-pogodan	234
-pohal	234
-pohaw	234
-pohed	234
-pohog	234
-pohpoh	234
-poki	234
-pokoh	234
-polahik	234
-polin	234
-polita	235
-polo'	235
-polog	235
-polol	235
-pololoc	235
-pona	235
-poneg	235
-poni'	235
-pono'	235
-popot	235
-poraric	236
-poraw	236
-porec	236
-porod	236
-porog	236
-porpor	236
-posak	236
-posi	236
-posir	236
-posisir	236
-posko	236
-posog	236
-pota'	236
-potal	236
-potapot	237
-potay	237
-potipot	237
-poton	237
-powak	237
-powar	237
-poyapoy	237
-prar	237
-praw	237
-prec	237
-proc	237
-psi'	238
-pyayoka	238
-pyoma	238
-ra'it	238
-ra'med	238
-ra'mih	238
-ra'sodan	238
-raag	238
-raay	238
-radac	238
-radiw	238
-radom	239
-rafac	239
-rafar	239
-rafas	239
-rafay	239
-rafi'	239
-rafir	239
-rafiyas	239
-rafraf	239
-ragi	240
-ragrag	240
-rahed	240
-rahid	240
-rahkad	240
-rahker	240
-rahmed	240
-rahod	240
-rahoday	240
-rahrah	240
-rakad	241
-rakam	241
-rakar	241
-rakarak	241
-rakat	241
-rakes	241
-rama'	241
-ramah	241
-ramet	241
-rami'	241
-ramo'	242
-ramod	242
-ramot	242
-ranam	242
-ranap	242
-ranih	242
-ranikay	242
-rao'	242
-raod	242
-rapic	243
-rapiyac	243
-rapot	243
-rara	243
-rara'	243
-raracan	244
-rarafos	244
-rarar	244
-raraw	244
-rarem	244
-raricay	244
-rarid	244
-rarikah	244
-rarima	245
-rarog	245
-rarokoh	245
-rarom	245
-rasiras	245
-rasit	245
-rasmas	245
-rasras	245
-ratar	245
-ratoh	245
-rawac	246
-rawag	246
-rawis	246
-rawraw	246
-rayaray	246
-rayas	246
-rayic	247
-rayray	247
-rcep	247
-rcik	247
-rda'	247
-rdat	247
-rdek	247
-rdes	247
-rdih	247
-rdo	248
-recrec	248
-regreg	248
-resres	248
-retret	248
-rfay	248
-rfog	248
-rget	248
-rgos	248
-ri'ag	248
-ri'iw	249
-ri'rid	249
-ri'rir	249
-ricaric	249
-ridrid	249
-rifowas	249
-rigasa'	249
-riger	249
-rigi	249
-rigo	249
-rihaday	249
-rihaked	249
-riharih	250
-rihaw	250
-rihi	250
-rihnac	250
-rihnaw	250
-rikaot	250
-rikec	250
-riko'	250
-rikor	250
-rikorar	251
-rikowat	251
-rimadac	251
-rimood	251
-rina'	251
-rinafo	251
-rinahem	251
-rini	251
-rinom	252
-ripa'	252
-riparip	252
-ripon	252
-riri'	252
-risris	252
-ritig	252
-ritos	252
-ritrit	252
-riwag	252
-rixi'	252
-riyad	252
-riyar	253
-riyo	253
-rkad	253
-rken	253
-rko	253
-rkoh	253
-rmes	253
-rnaf	253
-rnec	253
-rnok	254
-rocek	254
-rocod	254
-rocok	254
-rodiheg	254
-rodis	254
-rofo	254
-rogoh	255
-rohem	255
-roho	255
-rohroh	255
-rokitac	255
-rokrok	255
-roma	255
-romasato	255
-romi'ad	256
-romic	256
-romot	256
-ronag	256
-roni	256
-ronic	256
-roniron	256
-ronog	256
-roparop	256
-ropay	257
-rorag	257
-roray	257
-rorod	257
-rorog	257
-roroh	257
-rorox	257
-rosaros	257
-rotarot	257
-roto	257
-rowak	258
-rowis	258
-rpat	258
-rpet	258
-rpig	258
-rpon	258
-rsap	258
-rtep	258
-rtes	258
-sa'aniwan	258
-sa'et	259
-sa'fit	259
-sa'ged	259
-sa'ger	259
-sa'lec	259
-sa'let	259
-sa'mamokot	259
-sa'mel	259
-sa'opo	259
-sa'osi	260
-sa'owac	260
-sa'sa	260
-saan	260
-saca	260
-sackih	260
-sadak	260
-saday	261
-sadikay	261
-sadim	261
-sadit	261
-sadoasi'	261
-sadosdos	261
-sadoy	261
-safa	261
-safak	262
-safalat	262
-safana'	262
-safaw	262
-safel	262
-safi	262
-safit	262
-saflaw	262
-safon	262
-safool	263
-safraag	263
-safreg	263
-saga'	263
-sagasif	263
-saglay	263
-sagotfol	263
-sahalaka	263
-sahci	263
-saho	263
-sahto	264
-saikoray	264
-sair	264
-sait	264
-saka	264
-saka'ca	264
-sakacaaw	264
-sakamatini	264
-sakasaan	264
-sakasak	264
-saki	265
-sakmot	265
-sakoc	265
-sakola	265
-sakor	265
-saksak	265
-sala	265
-sala'sa'	265
-salag	265
-salama	265
-salikaka	265
-salikiki'	266
-salil	266
-salimpo	266
-salitata'ag	266
-saliway	266
-salkolko	266
-salo'afag	266
-salof	266
-salofal	267
-salog	267
-salogan	267
-salogasog	267
-solomaig	267
-salonan	267
-salowasi	267
-saloya	267
-sama'	267
-samaanen	267
-samadah	267
-samado	268
-samao	268
-sameced	268
-samisi	268
-samiyay	268
-samiyot	268
-samo'	268
-samolal	268
-samoro	268
-samsam	268
-sanalsal	268
-sanasal	269
-sanawsaw	269
-sanay	269
-sanayasay	269
-sanegseg	269
-sanek	269
-sano	269
-saog	269
-sapa	269
-sapad	269
-sapaini	270
-sapal	270
-sapat	270
-sapay	270
-sapayo	270
-sapi'	270
-sapsap	270
-sarad	270
-saradaw	270
-saraw	270
-sargad	271
-sarocod	271
-sarocor	271
-sasagi	271
-sasaw	271
-sasifod	271
-sasig	271
-sasigaran	271
-sasimi	271
-sata	271
-sata'os	272
-satadamata	272
-satan	272
-satapag	272
-satfo	272
-satnok	272
-sato	272
-satoko	272
-saw	272
-sawad	272
-sawi	273
-sawkit	273
-sawsaw	273
-say'od	273
-saycar	273
-sayho	273
-sayma	273
-saynay	273
-saysay	274
-saytaw	274
-sdak	274
-sdal	274
-sday	274
-sdef	274
-sdeg	274
-sdi	274
-sefsef	274
-seksek	274
-semsem	274
-serser	275
-sfay	275
-sfeg	275
-sfek	275
-sfel	275
-sfet	275
-sfi	276
-sga	276
-sged	276
-sger	276
-si'ac	276
-si'ed	276
-si'ked	276
-si'lac	276
-si'naw	276
-siciminciw	276
-sicoci	276
-sida'it	277
-siday	277
-sidsid	277
-sifasif	277
-sifed	277
-sifin	277
-sifo'	277
-sifod	278
-sigara'	278
-sigasig	278
-sigat	278
-sigda	278
-sigko	278
-sigsi	278
-siiked	278
-siikor	278
-sikal	278
-sikatay	278
-sikda	278
-siked	279
-siket	279
-sikiw	279
-sikol	279
-sila'	279
-silay	279
-silsil	279
-simaanay	279
-simal	279
-simanta'	280
-simaw	280
-simed	280
-simlag	280
-simpal	280
-simpo	280
-simpon	280
-sinag	280
-sinanot	280
-sinar	281
-sinawar	281
-sini'ada	281
-sino'et	281
-sioy	281
-sipasip	281
-sipolo'	281
-sipon	281
-siraw	282
-siri	282
-sisir	282
-sisit	282
-siwa	282
-siwala	282
-siwar	282
-siwasiw	282
-siwatid	282
-siwatik	283
-siwit	283
-siyam	283
-siyokeg	283
-siyop	283
-siyor	283
-ska'	283
-skak	283
-skay	283
-skig	283
-skog	283
-sla'	283
-slak	284
-slal	284
-slen	284
-sli'	284
-slic	284
-slog	284
-sma	284
-smer	284
-smo'ot	284
-smot	284
-sna'	284
-snat	285
-sneg	285
-sni'	285
-so'ac	285
-so'aw	285
-so'lin	285
-so'met	286
-so'er	286
-so'ol	286
-so'or	286
-so'ot	286
-so'so	286
-so'so'	287
-sodoc	287
-sodod	287
-sodsod	287
-sofac	287
-sofal	287
-sofitay	287
-sofoc	287
-sofok	287
-sofoy	287
-sogidet	287
-sogila'	287
-sogtol	287
-soikor	288
-soked	288
-sokir	288
-soklet	288
-soklot	288
-soko	288
-sokon	288
-sokoy	288
-solac	288
-solap	288
-solasol	288
-solek	288
-soliga'	289
-solimet	289
-solipa	289
-solol	289
-solot	289
-soloy	289
-solsol	289
-somad	290
-sona	290
-sonay	290
-soni	290
-sonol	290
-sonor	290
-soo'	290
-sopa'	290
-sopaliw	290
-sopay	291
-soped	291
-soprit	291
-sopsop	291
-sorar	291
-sorita	291
-sorot	291
-soso'	291
-sota'	291
-sotic	292
-soto	292
-sowaf	292
-sowal	292
-sowana	292
-sowasan	292
-spat	292
-spen	292
-sra	292
-sray	293
-srer	293
-sro	293
-sta'	293
-statihi	293
-stay	293
-stek	293
-stel	294
-sti'	294
-stik	294
-sto'	294
-stol	294
-syoni	294
-ta	295
-ta'dip	295
-ta'enagan	295
-ta'gad	295
-ta'ig	295
-ta'is	295
-ta'lif	295
-ta'man	295
-ta'mod	295
-ta'nek	295
-ta'og	296
-ta'sel	296
-tada	296
-tada'kim	296
-tada'mi	296
-tada-	296
-tadah	297
-tadamaan	297
-tadanca	297
-tadas	297
-tadek	297
-tadem	298
-tadi'ec	298
-tadimocok	298
-tadipi	298
-tadiwic	298
-tadiwid	298
-tadkel	298
-tadkes	298
-tado	298
-tadtad	299
-taeroran	299
-tafa	299
-tafa'	299
-tafad	299
-tafak	299
-tafal	299
-tafalog	299
-tafdo'	299
-tafihaw	299
-tafo	300
-tafok	300
-tafokod	300
-tafolod	300
-tafsiw	300
-tagal	300
-tagasa	300
-tagcon	300
-tagfor	300
-tagic	301
-tagiga	301
-tagiiw	301
-tagila	301
-tagkad	301
-tagki	301
-tago'	301
-tago'ol	301
-tagol	301
-tagola	301
-tagsol	301
-tagsoy	302
-tagtag	302
-tahaco'co	302
-tahacowa	302
-tahadoy	302
-tahaf	302
-tahafikod	302
-tahanini	302
-tahapiga'	302
-tahfod	302
-tahic	302
-tahidag	303
-tahini	303
-tahira	303
-tahka	303
-tahkal	303
-tahkol	303
-tahod	303
-tahoriyac	303
-tahpo	303
-tahtah	304
-taipiyaw	304
-taiwag	304
-takag	304
-takah	304
-takal	304
-takar	304
-takaraw	304
-takaw	304
-takay	304
-takec	305
-taker	305
-takid	305
-takini'	305
-taklig	305
-taknip	305
-takod	305
-takodicay	305
-takonfan	305
-takogkog	305
-takogkogay	305
-takokog	305
-takola'	305
-takolaw	306
-takolil	306
-takoliyaw	306
-takololo	306
-takomi	306
-takomod	306
-takonol	306
-takop	306
-takos	306
-takowanan	306
-taktak	306
-tala	306
-tala'ta'	307
-talacay	307
-talacowa	307
-talagawan	307
-talahkal	307
-talakal	307
-talakes	307
-talaktak	307
-talalokan	307
-talamagaw	308
-talaw	308
-talay	308
-talegteg	308
-talem	308
-tales	308
-tali	308
-talid	308
-taligafoh	308
-talik	308
-talimola'	308
-talip	308
-talipa'lal	309
-taliyok	309
-talo'an	309
-taloc	309
-talod	309
-taloged	309
-talokan	309
-taloko	309
-talolog	309
-talopiyak	309
-tama	309
-tama'	310
-tamako	310
-tamana	310
-tamarag	310
-tamayan	310
-tamdaw	310
-tamek	310
-tamina	310
-tamita	310
-tamiyanan	310
-tamlac	311
-tamod	311
-tamohog	311
-tamor	311
-tamorak	311
-tamorog	311
-tamowanan	311
-tampo	311
-tana	311
-tana'	311
-tanam	311
-taneg	312
-tanektek	312
-tanestes	312
-tanikay	312
-taniktik	312
-tanod	312
-tanohtoh	312
-tanoktok	312
-tanoman	313
-tanotireg	313
-tao	313
-taos	313
-tapa'	313
-tapac	313
-tapad	313
-tapag	314
-tapakad	314
-tapal	314
-tapay	314
-tapdak	314
-tapdoh	314
-taped	314
-tapes	314
-tapi'	315
-tapic	315
-tapid	315
-tapila'	315
-tapiror	315
-tapiyas	315
-taplig	315
-taplik	315
-tapnih	315
-tapod	315
-tapodo	315
-tapokaw	315
-taporo	315
-tapowaray	316
-taproc	316
-tapsi'	316
-tara'ar	316
-tarac	316
-tarag	316
-taragitag	316
-tararoan	316
-tarawid	316
-tared	316
-tarifaso	316
-tarig	317
-tarigtig	317
-tariktik	317
-tariwid	317
-tariwil	317
-tarnes	317
-tarodo'	317
-taroh	317
-tarok	317
-tarokos	317
-tarpes	317
-tasalamaan	317
-tastas	317
-tata	318
-tata'ag	318
-tata'ak	318
-tatafik	318
-tatahciw	318
-tatahgan	318
-tatamaan	318
-tatata	318
-tatextex	318
-tatig	318
-tatigih	318
-tatiih	318
-tatiplok	319
-tatiniir	319
-tatnaan	319
-tato'lep	319
-tatodog	319
-tatokem	319
-tatood	319
-tatoy	319
-tawa	320
-tawal	320
-tawasi	320
-tawataw	320
-tawataway	320
-tawciw	320
-tawi'ig	320
-tawinaan	320
-tawki	321
-tawtaw	321
-tayad	321
-tayal	321
-tayhaw	321
-tayhi	321
-tayi'	321
-tayko	321
-tayni	321
-tayo	321
-tayra	322
-tayrig	322
-tdac	322
-tdal	322
-tdi	322
-tdo	322
-tegteg	323
-tektek	323
-teltel	323
-temtem	323
-teptep	323
-terter	323
-tfad	323
-tfafac	323
-tfi'	323
-tfig	323
-tfo	324
-tfo'	324
-tfoc	324
-tfok	324
-tfon	324
-tfos	324
-tga'an	324
-tged	324
-tger	325
-tgil	325
-ti'aw	325
-ti'dap	325
-ti'enec	325
-ti'er	325
-ti'nag	325
-ti'raw	325
-tidos	325
-tifac	326
-tifarag	326
-tifek	326
-tifni	326
-tiftif	326
-tigalaw	326
-tigas	327
-tigasod	327
-tigdahan	327
-tigki	327
-tiglel	327
-tigroh	327
-tigsokiw	327
-tigsopayo	327
-tigtig	327
-tihfa	327
-tihi	327
-tihlom	328
-tihmok	328
-tihtih	328
-tikami	328
-tikda	328
-tiked	328
-tiko	328
-tikokay	328
-tikolac	329
-tilak	329
-tilfes	329
-tilid	329
-tilo	329
-tima	329
-tima'	329
-timel	329
-timol	330
-timpa'	330
-timpi'	330
-timra	330
-tina'i	330
-tinac	330
-tinako	330
-tinci	330
-tinol	330
-tioy	330
-tipaw	330
-tiped	330
-tipid	331
-tiplak	331
-tiplok	331
-tipod	331
-tipolo	331
-tipos	331
-tira'	331
-tireg	331
-tiri'	332
-tisek	332
-tisel	332
-tisil	332
-tisod	332
-tisowanan	332
-titaanan	332
-titi	332
-tiwa'	332
-tiwal	332
-tiwas	332
-tiwid	332
-tiwtiw	332
-tiyac	333
-tiyad	333
-tiyam	333
-tiyap	333
-tka	333
-tka'	333
-tkal	333
-tkatka	333
-tked	333
-tkef	333
-tkeg	333
-tkek	333
-tkel	334
-tkep	334
-tker	334
-tkes	334
-tki'	334
-tkig	334
-tko'	334
-tkog	334
-tkoh	334
-tkol	334
-tkop	334
-tlac	334
-tlaf	335
-tlag	335
-tlay	335
-tlec	335
-tleg	335
-tlek	335
-tlel	335
-tlep	335
-tli	335
-tli'i	335
-tloc	336
-tlof	336
-tlog	336
-tloh	336
-tloho'	336
-tlook	336
-tlookan	336
-tmek	336
-tmenek	336
-tmer	336
-tmik	337
-tmili'	337
-tmo	337
-tmok	337
-tmoy	337
-tna'	337
-tnak	337
-tnas	337
-tnaysi	337
-tneg	337
-tnem	337
-tnes	337
-tnod	338
-tnok	338
-tnooy	338
-tnor	338
-tnos	338
-to'ag	338
-to'as	338
-to'aya	339
-to'em	339
-to'man	339
-to'ol	339
-to'to	339
-to'to'	339
-toda	339
-todadac	339
-todal	339
-todidis	339
-todis	340
-todod	340
-todog	340
-todoh	340
-toem	340
-tofa	340
-tofafac	340
-tofeg	340
-tofific	340
-tofil	340
-tofor	340
-tofotofo	341
-toga'ef	341
-togagan	341
-togal	341
-togigic	341
-togih	341
-togod	341
-togroh	341
-togtog	341
-tohatoh	341
-tohem	342
-toka	342
-toka'	342
-tokad	342
-tokah	342
-tokar	342
-tokatok	342
-toked	342
-toker	342
-toki	342
-tokikar	342
-tokilaw	342
-tokinih	342
-tokinil	342
-tokiso	343
-tokitok	343
-tokiyar	343
-tokled	343
-toknih	343
-toko	343
-tokod	343
-tokoh	343
-tokos	343
-toktok	343
-tolac	344
-tolag	344
-tolampo	344
-tolas	344
-tolatolaw	344
-toled	344
-tolek	344
-tolem	344
-tolidac	344
-tolik	344
-tolo	344
-tolo'	345
-tolok	345
-tolon	345
-tomadaw	345
-tomay	345
-tomcek	345
-tomes	345
-tomiyac	346
-tomli'	346
-tomokol	346
-tona	346
-tonaton	346
-tonek	346
-toni'	346
-tonini	346
-tono'	346
-tood	346
-toor	346
-topa	347
-toper	347
-topi	347
-topida'	347
-toplak	347
-toptop	347
-tora	347
-torcek	347
-tores	347
-tori	347
-torik	347
-torira	347
-torirac	347
-toris	347
-toro'	348
-torod	348
-torok	348
-toron	348
-toror	348
-tortor	348
-tosa	348
-tosir	349
-tosok	349
-tosor	349
-tostos	349
-totag	349
-totat	349
-toto'	349
-totog	349
-totoh	349
-totom	349
-totoy	349
-towa'	349
-towapon	350
-towasig	350
-towaso	350
-towid	350
-tpa	350
-tpa'	350
-tpeg	350
-tpes	350
-tpi'	350
-tpih	350
-tpik	350
-tpo	350
-tpoc	350
-tpog	350
-tpor	350
-tra'	350
-trak	350
-tred	350
-treg	350
-trek	351
-trep	351
-trik	351
-troc	351
-tsek	351
-tsel	351
-wa	351
-wa'ay	351
-wa'cik	351
-waa'	351
-wacay	351
-waco	352
-wadihag	352
-wadis	352
-wagawag	352
-waheg	352
-wakag	352
-wakah	352
-wakawak	352
-waklid	352
-wakog	353
-wakwak	353
-waladwad	353
-walay	353
-wali	353
-walin	353
-walwal	353
-wama	353
-wanag	353
-waneg	353
-wanik	353
-wara	353
-warak	353
-waray	354
-warih	354
-warwar	354
-waswas	354
-wata	354
-watawat	354
-wawa	354
-wayway	354
-widag	354
-widawidan	354
-widi	354
-wigawig	354
-wihawih	354
-wikol	355
-wikwik	355
-wilet	355
-wina	355
-wisawisan	355
-witawit	355
-wiyawi'	355
-yafayaf	355
-yakyak	355
-yamayam	355
-yatayat	355
-yo	355
-yofig	355
-yolinohana	356
+'a'am	23	-1
+'a'olec	23	-1
+'aca	23	-1
+'acam	23	-1
+'acaw	23	-1
+'acfel	23	-1
+'acicim	23	-1
+'acis	23	-1
+'aciyos	23	-1
+'acocol	23	-1
+'ad'ad	23	-1
+'ada	23	-1
+'adadogac	23	-1
+'adapaw	23	-1
+'adawag	23	-1
+'adcaw	23	-1
+'adepet	23	-1
+'adidem	24	-1
+'adif	24	-1
+'adig	24	-1
+'adigal	24	-1
+'adigo	24	-1
+'adimaceg	24	-1
+'adipagpag	24	-1
+'adipel	24	-1
+'adipig	24	-1
+'adit	24	-1
+'adiyam	24	-1
+'adiyoc	24	-1
+'adop	24	-1
+'a'adopen	24	-1
+'adteg	24	-1
+'adtom	24	-1
+'afag	24	-1
+'afala	25	-1
+'afalag	25	-1
+'afar	25	-1
+'afas	25	-1
+'afdo'ay	25	-1
+'afel	25	-1
+'afinog	25	-1
+'afo	25	-1
+'afofo	25	-1
+'afono	25	-1
+'afsaw	25	-1
+'aftoy	25	-1
+'agaget	25	-1
+'agcep	25	-1
+'agdisay	25	-1
+'agi	25	-1
+'aglis	25	-1
+'agrer	25	-1
+'agsaw	25	-1
+'agsit	25	-1
+'agtol	26	-1
+'ahac	26	-1
+'akawag	26	-1
+'akaway	26	-1
+'akik	26	-1
+'akog	26	-1
+'akonal	26	-1
+'alagad	26	-1
+'alapit	26	-1
+'alem	26	-1
+'alet	26	-1
+'ali	26	-1
+'alic	26	-1
+'alilis	26	-1
+'alimdas	26	-1
+'alip	26	-1
+'alitad	26	-1
+'aliwac	26	-1
+'aliwates	26	-1
+'alo	26	-1
+'alofo	26	-1
+'alogdas	26	-1
+'alol	27	-1
+'alolil	27	-1
+'alolog	27	-1
+'aloman	27	-1
+'alomaylay	27	-1
+'alopal	27	-1
+'alopaynay	27	-1
+'alotoc	27	-1
+'alpad	27	-1
+'amis	27	-1
+'amitir	27	-1
+'amlas	27	-1
+'anegag	27	-1
+'anin	27	-1
+'aninil	27	-1
+'anip	27	-1
+'ankak	28	-1
+'anof	28	-1
+'anognogan	28	-1
+'antipal	28	-1
+'aol	28	-1
+'aolecen	28	-1
+'ap'ap	28	-1
+'apac	28	-1
+'apaloay	28	-1
+'api	28	-1
+'apilis	28	-1
+'aplad	28	-1
+'apocok	28	-1
+'apol	28	-1
+'aporaw	28	-1
+'apsak	28	-1
+'aramisit	28	-1
+'arapar	28	-1
+'araw	29	-1
+'arawhani	29	-1
+'arawi	29	-1
+'arawraw	29	-1
+'ardet	29	-1
+'ardo	29	-1
+'ari	29	-1
+'arikaya	29	-1
+'ariray	29	-1
+'ariri	29	-1
+'arnim	30	-1
+'arosaysay	30	-1
+'arsak	30	-1
+'arsig	30	-1
+'asad	30	-1
+'asilo	30	-1
+'asiro	30	-1
+'asisiw	30	-1
+'asolo	30	-1
+'at'at	30	-1
+'atag	30	-1
+'atal	30	-1
+'atapa	30	-1
+'atay	30	-1
+'atem	30	-1
+'atikak	30	-1
+'atim	30	-1
+'atimela	30	-1
+'atip	31	-1
+'atipal	31	-1
+'atipil	31	-1
+'atipnoc	31	-1
+'atkak	31	-1
+'atol	31	-1
+'atomo	31	-1
+'atomoay	31	-1
+'atoray	31	-1
+'atoto	31	-1
+'aw'aw	31	-1
+'awa	31	-1
+'awas	31	-1
+'awmig	31	-1
+'ayam	31	-1
+'ayaw	31	-1
+'ca	32	-1
+'cak	32	-1
+'ced	32	-1
+'ceg	32	-1
+'cic	32	-1
+'ciw	32	-1
+'co	32	-1
+'daw	32	-1
+'def	33	-1
+'deg	33	-1
+'degan	33	-1
+'des	33	-1
+'dil	33	-1
+'do	33	-1
+'dog	33	-1
+'dox	33	-1
+'em'em	33	-1
+'es'es	33	-1
+'etol	33	-1
+'fa	33	-1
+'faw	33	-1
+'fec	33	-1
+'feg	34	-1
+'fer	34	-1
+'fo	34	-1
+'fog	34	-1
+'ged	34	-1
+'gid	34	-1
+'giw	34	-1
+'i	34	-1
+'i'ir	34	-1
+'icag	34	-1
+'icel	34	-1
+'icep	35	-1
+'id'id	35	-1
+'idepet	35	-1
+'idi	35	-1
+'idoc	35	-1
+'ifcag	35	-1
+'ifowas	35	-1
+'iga'ig	35	-1
+'iger	35	-1
+'ikay	35	-1
+'ikes	35	-1
+'ilo	35	-1
+'ilol	35	-1
+'ilos	35	-1
+'imac	35	-1
+'imced	36	-1
+'imer	36	-1
+'inal	36	-1
+'inap	36	-1
+'inaw	36	-1
+'inco	36	-1
+'inorog	36	-1
+'intel	36	-1
+'ipoc	36	-1
+'irig	36	-1
+'is'is	36	-1
+'isag	36	-1
+'isal	37	-1
+'ised	37	-1
+'iso	37	-1
+'it'it	37	-1
+'itis	37	-1
+'iw'iw	37	-1
+'iwal	37	-1
+'iwas	37	-1
+'iwil	37	-1
+'iyak	37	-1
+'iyof	37	-1
+'iyot	37	-1
+'kak	37	-1
+'ked	37	-1
+'kim	37	-1
+'kog	38	-1
+'li'	38	-1
+'lo'	38	-1
+'loc	38	-1
+'mahay	38	-1
+'mamosa	38	-1
+'mec	38	-1
+'mek	38	-1
+'met	38	-1
+'mi	38	-1
+'mic	38	-1
+'min	38	-1
+'mo	38	-1
+'moy	38	-1
+'nec	38	-1
+'nem	38	-1
+'nep	38	-1
+'nip	38	-1
+'noc	39	-1
+'nor	39	-1
+'o'ol	39	-1
+'ocil	39	-1
+'odag	39	-1
+'odagen	39	-1
+'odal	39	-1
+'odawis	39	-1
+'odidal	39	-1
+'odot	39	-1
+'ofad	39	-1
+'ofcag	39	-1
+'og'og	39	-1
+'ogagil	39	-1
+'ogcoy	39	-1
+'ogto	39	-1
+'ok'ok	39	-1
+'okak	39	-1
+'okakay	39	-1
+'okem	40	-1
+'okot	40	-1
+'olac	40	-1
+'olalip	40	-1
+'olaw	40	-1
+'olic	40	-1
+'olid	40	-1
+'oliyat	40	-1
+'olol	40	-1
+'omlig	40	-1
+'oner	40	-1
+'onig	40	-1
+'onoc	40	-1
+'opic	40	-1
+'opir	40	-1
+'orac	40	-1
+'orad	40	-1
+'oret	40	-1
+'orip	40	-1
+'oriyat	41	-1
+'orog	41	-1
+'orsap	41	-1
+'osal	41	-1
+'osaw	41	-1
+'osget	41	-1
+'osi	41	-1
+'ot'ot	41	-1
+'oteg	41	-1
+'otit	42	-1
+'otkok	42	-1
+'otkoy	42	-1
+'otoc	42	-1
+'owac	42	-1
+'owag	42	-1
+'owak	42	-1
+'owal	42	-1
+'oway	42	-1
+'pag	42	-1
+'pah	42	-1
+'pec	42	-1
+'pel	42	-1
+'pi	42	-1
+'pip	42	-1
+'poc	42	-1
+'pod	43	-1
+'pog	43	-1
+'rac	43	-1
+'res	43	-1
+'ric	43	-1
+'roc	43	-1
+'ros	43	-1
+'sam	43	-1
+'ses	43	-1
+'sig	43	-1
+'tah	43	-1
+'tan	43	-1
+'teg	43	-1
+'tip	43	-1
+'tolan	44	-1
+'tot	44	-1
+'xiw	44	-1
+'yak	44	-1
+'yof	44	-1
+a	44	-1
+a'iloc	44	-1
+a'isedan	44	-1
+aayad	44	-1
+aca	44	-1
+acag	44	-1
+acek	44	-1
+aci	45	-1
+aciya	45	-1
+acohod	45	-1
+adada	45	-1
+adah	45	-1
+adahi	45	-1
+adayay	45	-1
+adegay	45	-1
+adeses	45	-1
+adihay	45	-1
+afih	45	-1
+aflaw	45	-1
+afsa'	45	-1
+agag	45	-1
+agil	45	-1
+ahowid	45	-1
+aira	45	-1
+aka	46	9
+akaki	46	10
+aki	46	12
+ako	46	13
+akog	46	19
+ala	46	20
+ala-	46	25
+alaf'af	46	33
+alafaf	46	34
+alafoh	46	35
+alapawan	46	37
+alem'em	46	39
+aligato	46	40
+alimacedan	46	41
+aliwatec	47	7
+aloponay	47	9
+ama	47	11
+amilika	47	13
+amo	47	15
+amoto	47	18
+ana:	47	20
+anakox	47	21
+ancoh	47	23
+anini	47	26
+ano	47	29
+anocila	47	33
+apa	47	38
+apac	48	8
+aped	48	12
+apet	48	14
+apiyan	48	16
+araaw	48	21
+arapanay	48	23
+aray	48	25
+ari	48	28
+ariyah	48	31
+aro'	48	32
+asik	48	40
+asimaan	48	42
+asip	49	11
+ata	49	13
+ati	49	14
+ato	49	15
+awa	49	16
+awid	49	26
+aya:	49	27
+ayi	49	28
+ayiw	49	30
+aykor	49	31
+aylog	49	36
+ca	49	37
+ca'ag	49	38
+ca'ca'	49	40
+ca'des	50	11
+ca'dog	50	17
+ca'fas	50	24
+ca'fay	50	26
+ca'fon	50	28
+ca'gar	50	30
+ca'gaw	50	34
+ca'get	50	36
+ca'i	50	37
+ca'it	50	39
+ca'lay	51	8
+ca'mot	51	12
+ca'not	51	16
+ca'nto	51	19
+ca'of	51	20
+ca'or	51	22
+ca'owaw	51	23
+caa'	51	25
+caay	51	27
+cacak	51	31
+cacaklaw	51	33
+cacay	51	37
+cacesces	51	39
+cacido'	51	40
+caciro'	51	41
+caciyaw	52	10
+cacodo	52	14
+cacopi	52	19
+cada	52	20
+cadi'ci'	52	22
+cadikis	52	25
+cadiw	52	27
+cadiway	52	30
+cadok	52	32
+cadokol	52	35
+cafay	52	37
+cafeg	52	41
+cafer	53	6
+cafi'	53	8
+cagal	53	12
+cagaw	53	16
+cagdi	53	18
+cager	53	20
+caglah	53	24
+caglal	53	27
+cagli	53	29
+cago'ot	53	30
+cagra	53	33
+cagray	53	35
+cahak	53	36
+cahal	53	38
+cahcah	54	8
+cahdal	54	9
+cahfay	54	11
+cahid	54	14
+cahiw	54	16
+cahkit	54	19
+cahni	54	23
+caho	54	25
+cahog	54	31
+cahok	54	33
+caholak	54	37
+cakal	54	39
+cakat	55	7
+cakay	55	18
+cakcak	55	21
+caki	55	24
+cakil	55	29
+caklis	55	33
+cakod	55	34
+cala'	55	36
+calacalaw	55	38
+calamay	56	13
+calap	56	14
+calascas	56	18
+calay	56	19
+calcal	56	26
+caleg	56	28
+calemcem	56	29
+calig	56	32
+caliw	56	38
+caloway	57	8
+camol	57	10
+canem	57	15
+cani'iw	57	16
+caniker	57	22
+canot	57	23
+canoy	57	26
+capa'	57	31
+capas	57	32
+capay	57	36
+caper	57	37
+capet	57	40
+capo'	58	6
+capox	58	10
+cara	58	14
+carcar	58	15
+carkah	58	18
+carofacof	58	21
+cascas	58	22
+cawag	58	23
+cawas	58	25
+cawhi	58	31
+cawi	58	42
+cawi'	58	42
+cawpi	59	8
+cayat	59	10
+cayna	59	12
+ccay	59	14
+cda'ah	59	21
+cdas	59	23
+cdeg	59	25
+cdem	59	26
+cdi	59	27
+cdo	59	31
+cdet	59	32
+cekcek	59	34
+celcel	59	38
+cepcep	59	4
+cfag	60	8
+cfis	60	14
+cfo	60	16
+cfog	60	18
+cfos	60	22
+cgaw	60	24
+cgel	60	28
+cgo'	60	33
+ci'ci'	60	34
+ci'em	60	35
+ci'ep	60	37
+ci'im	60	39
+ci'iwi	60	41
+ci'keg	61	9
+ci'lis	61	11
+cica'	61	13
+cicax	61	15
+cicih	61	17
+cicir	61	21
+ciciw	61	23
+cidal	61	24
+cidek	61	28
+cidem	61	32
+ciem	61	33
+cifar	61	37
+cifes	62	8
+cifolo'ay	62	9
+cifrag	62	12
+ciga	62	13
+cigaroan	62	16
+cigcig	62	18
+cigdis	62	20
+cigki	62	22
+cigra	62	25
+cihaf	62	27
+cihafayan	62	28
+cihak	62	30
+cihrag	62	32
+cikadaan	62	34
+cikaf	62	37
+cikasoan	62	38
+cikay	62	41
+cikcik	63	9
+cikeg	63	11
+ciker	63	13
+cikil	63	15
+ciko	63	17
+cikor	63	20
+cikowa'ay	63	21
+cila	63	23
+cilah	63	30
+cilamitay	63	32
+cilas	63	34
+cilgacay	63	36
+cilikesay	63	38
+cima	63	40
+cimaanan	63	41
+cimacima	64	6
+cimacimaan	64	9
+cimil	64	10
+cinag	64	11
+cinas	64	13
+cinaw	64	14
+cinco	64	20
+ciokagan	64	21
+cipa'	64	23
+cipat	64	25
+ciped	64	26
+cipoh	64	27
+cirakayan	64	29
+cirep	64	32
+ciriciri	64	33
+cirid	64	34
+ciriyahan	64	38
+ciro'	64	41
+cirokohay	65	10
+cirot	65	12
+citosiya	65	13
+ciwa'	65	15
+ciwcika	65	18
+ciwciw	65	20
+ciwi	65	21
+ciwidian	65	23
+ciwig	65	25
+ciwkeg	65	26
+ciwlo	65	28
+ciwlokiw	65	30
+ciyo'	65	31
+ciyor	65	33
+cka	65	35
+ckad	65	36
+ckah	65	37
+ckel	65	40
+ckem	66	9
+cker	66	13
+ckid	66	16
+ckig	66	17
+ckil	66	19
+ckiw	66	27
+ckok	66	32
+ckor	66	36
+ckos	66	39
+ckroh	67	8
+clahad	67	10
+clak	67	12
+clalono	67	13
+cled	67	15
+clem	67	16
+cli'	67	22
+clog	67	23
+cmahad	67	24
+cmet	67	25
+cna'	67	27
+cno'	67	30
+cnon	67	33
+co'a'ag	67	35
+co'af	67	38
+co'ay	67	40
+co'co	68	6
+co'ed	68	17
+co'ep	68	21
+co'ig	68	23
+co'is	68	24
+co'koy	68	30
+co'nek	68	31
+co'og	68	35
+co'os	68	37
+co'rog	68	39
+coaco'	68	41
+coca'	68	42
+coco	69	6
+cocok	69	8
+cocop	69	13
+codad	69	15
+codah	69	17
+cofay	69	18
+cofcof	69	21
+cofel	69	22
+coflis	69	23
+cogacog	69	27
+cogaw	69	31
+cogdis	69	34
+coged	69	35
+cohcoh	69	38
+cohel	69	40
+coho'	70	9
+cohog	70	11
+cokacok	70	13
+cokap	70	14
+cokar	70	17
+cokcok	70	19
+cokep	70	20
+coker	70	24
+cokis	70	27
+cokiwat	70	29
+cokoi	70	32
+cokor	70	33
+colal	70	37
+colcol	70	39
+coled	70	41
+colek	71	6
+coli	71	7
+colo'	71	13
+colok	71	15
+comcom	71	18
+comod	71	22
+conacon	71	26
+conoh	71	27
+copa	71	33
+copcop	71	34
+coplak	71	36
+coplis	71	39
+copo	72	10
+copras	72	13
+cora'	72	16
+coracor	72	22
+coraf	72	25
+corah	72	27
+coray	72	34
+corcor	72	36
+coroh	72	41
+corok	72	43
+coscos	73	10
+cowa	73	13
+cowaco'	73	20
+cowat	73	21
+cowi'	73	25
+coykeg	73	27
+coyoh	73	29
+cpa'	73	32
+cpapal	73	33
+cpet	73	34
+cpi'	73	35
+cpo	73	36
+cpo'	73	38
+cra'	74	11
+crar	74	14
+cred	74	15
+crig	74	16
+crnoh	74	19
+croh	74	21
+cror	74	24
+cyofo	74	28
+da'at	74	30
+da'ci	74	32
+da'moh	74	34
+da'oc	74	36
+da'so	74	41
+dacidac	74	42
+dacog	75	7
+dada	75	9
+dadacdac	75	12
+dadacidoc	75	13
+dadagoyan	75	15
+dadaya	75	16
+dadayday	75	19
+dadico	75	20
+dadigo	75	22
+dadimaw	75	24
+dadinas	75	26
+dadipis	75	27
+dadiwal	75	28
+dado'	75	30
+dadotos	75	35
+dadoy	75	4
+dafak	76	9
+dafdaf	76	14
+dafo'	76	15
+dafog	76	16
+dagah	76	20
+dagka	76	21
+dagoy	76	22
+dahag	76	25
+dahcog	76	27
+dahdah	76	29
+dahkat	76	32
+dahoc	76	35
+dahpay	76	37
+dahtal	76	40
+dakaw	76	42
+dakidakit	76	43
+dama	77	7
+damay	77	12
+damdam	77	15
+damek	77	17
+damihmih	77	19
+damsay	77	21
+damso'	77	23
+danis	77	26
+danta'	77	28
+daoc	77	30
+dapdap	77	32
+dapiyac	77	33
+dapo	77	34
+dapog	77	35
+dapowaw	77	38
+data	77	40
+datadat	77	41
+datay	78	6
+dateg	78	10
+datog	78	14
+datok	78	16
+dawa	78	18
+dawdaw	78	21
+dawmi'	78	25
+daya	78	28
+dayna	78	29
+dayom	78	31
+decdec	78	33
+demdem	78	34
+dfak	78	36
+dfit	78	39
+dfo	78	41
+dfog	79	7
+dga	79	9
+dget	79	11
+di'i	79	12
+dicoh	79	14
+digac	79	16
+diget	79	17
+dihapal	79	18
+dihdih	79	22
+dihif	79	24
+dihko	79	25
+dihway	79	30
+dika	79	32
+dikidiki	79	34
+diko	79	36
+dimata	79	37
+dimata'	79	38
+dimok	79	41
+dimokos	80	6
+dipdip	80	12
+dipi	80	14
+dipog	80	16
+dipot	80	18
+disdis	80	23
+dita'	80	25
+ditdit	80	27
+ditek	80	31
+diwas	80	39
+dkog	81	8
+dmak	81	10
+dmet	81	17
+dmi'	81	19
+do'do	81	20
+do'eg	81	23
+do'es	81	25
+docidoc	81	28
+docoh	81	30
+dodag	81	32
+dodem	81	39
+dodoh	82	12
+dofot	82	18
+dogec	82	21
+dogi	82	24
+dohdoh	82	31
+dohkit	82	33
+doka'	82	35
+dokdok	82	38
+dopoh	82	41
+dotoc	82	42
+fa'det	83	10
+fa'i	83	11
+fa'inay	83	12
+fa'inayan	83	14
+fa'loh	83	16
+fa'not	83	23
+fa'owic	83	25
+faca'	83	29
+facacido'	83	30
+facacnal	83	31
+facal	83	32
+facfac	83	34
+facidol	83	36
+facikcikay	83	39
+faco	83	40
+fadadico'	84	10
+fadagalan	84	13
+fadahog	84	15
+fadal	84	16
+fadat	84	17
+fadi'	84	18
+fadic	84	20
+fadihag	84	27
+fadil	84	28
+fadisaw	84	29
+fadisoso'	84	31
+fadito	84	35
+fadoc	84	36
+fadokos	84	38
+fadowac	84	40
+faes	84	41
+fafa	85	7
+fafa'ed	85	9
+fafac	85	12
+fafahi	85	14
+fafahian	85	16
+fafaod	85	19
+fafaw	85	21
+fafayoh	85	25
+fafikfik	85	26
+faflin	85	27
+fafoget	85	30
+fafokod	85	31
+fafoy	85	33
+fagad	85	5
+fagafag	86	6
+fagas	86	10
+fagaw	86	12
+fagcal	86	14
+fages	86	25
+fagfag	86	26
+fagkoy	86	27
+fagsis	86	29
+fagta	86	32
+fagto	86	34
+faha	86	35
+fahal	86	36
+fahfah	87	7
+fahka'	87	9
+fahkol	87	14
+faho	87	16
+fahol	87	17
+fail	87	19
+fakar	87	20
+fakciw	87	22
+fakec	87	25
+faked	87	28
+faki	87	31
+fakog	87	36
+faktaw	87	38
+fala'	87	40
+fala'fa	87	41
+falagaw	88	7
+falagfay	88	11
+falah	88	13
+falahodik	88	21
+falahta	88	22
+falako	88	23
+falalotog	88	25
+falat	88	26
+falatfat	88	32
+falawfawan	88	34
+fali	88	35
+falic	88	42
+falid	89	15
+falidas	89	17
+falihnaw	89	18
+falinono	89	20
+faliwfiw	89	21
+faliyos	89	23
+falo	89	24
+faloco'	89	26
+falod	89	41
+falohag	90	11
+falotoy	90	12
+fana'	90	14
+fanani'ol	90	26
+fanaw	90	27
+fanetfet	90	32
+faniw	90	34
+faniyot	90	35
+fanoh	90	39
+fanohog	90	42
+fanol	90	43
+fao	91	7
+farasi'	91	9
+farasiw	91	11
+farawafaw	91	12
+fariw	91	15
+faroro	91	18
+farsi'	91	21
+farsiw	91	23
+fasal	91	25
+fasaw	91	26
+fasfas	91	35
+fasiyaw	91	37
+fasolan	91	40
+fata'an	92	10
+fatac	92	15
+fatad	92	18
+fataogi'	92	21
+fateg	92	22
+fatel	92	23
+fater	92	25
+fati	92	26
+fati'ian	92	27
+fatis	92	30
+fawa	92	34
+fawah	92	37
+fawfaw	92	39
+fayag	93	7
+fayal	93	10
+faydoh	93	14
+fayfay	93	15
+fayo'	93	19
+fcacido'	93	21
+fcak	93	22
+fcek	93	25
+fcol	93	27
+fded	93	28
+fdi'	93	29
+fdoh	93	31
+fdol	93	34
+fedfed	93	36
+fenfenan	93	39
+ficig	93	41
+ficin	94	6
+fickot	94	11
+fida'og	94	13
+fida'olaw	94	15
+fidac	94	17
+fidag	94	18
+fidaol	94	19
+fidas	94	21
+fidgal	94	23
+fidic	94	25
+fihahak	94	26
+fiher	94	27
+fihfih	94	28
+fihid	94	31
+fihkac	94	33
+fikfik	94	35
+fila'	94	37
+filalonan	94	39
+filfil	94	41
+filo	94	42
+filowa	95	10
+finacadan	95	12
+finawlan	95	17
+fioho	95	23
+firag	95	24
+firo	95	25
+firo'ok	95	28
+fisac	95	29
+fita'o'	95	30
+fita'ol	95	32
+fitagila	95	33
+fitay	95	35
+fiteki	95	38
+fitig	95	40
+fitili'	96	12
+fitlak	96	13
+fitlok	96	16
+fitoka	96	17
+fitokol	96	18
+fitonay	96	20
+fitro	96	22
+fiwa'	96	23
+fiwfiw	96	25
+fiyac	96	26
+fiyal	96	28
+fiyaw	96	30
+fiyok	96	32
+fker	96	35
+fkot	96	36
+flac	96	39
+flalac	96	41
+flaloda'	96	42
+flalonan	97	6
+flalotog	97	7
+flat	97	8
+flay	97	10
+flih	97	12
+flin	97	18
+flot	97	21
+fo'das	97	23
+fo'is	97	24
+fo'not	97	25
+fo'ot	97	26
+focacig	97	28
+focigkay	97	30
+focirak	97	32
+focod	97	34
+focol	97	36
+fodas	97	37
+fodawan	97	4
+fodfod	98	6
+fodifod	98	11
+fodigaw	98	14
+fodo'	98	16
+fodos	98	19
+fofo	98	20
+fogfog	98	23
+fogoh	98	26
+fohad	98	35
+fohafoh	98	38
+fohag	98	40
+fohat	98	41
+fohcacay	99	7
+fohcalay	99	9
+fohci	99	10
+fohet	99	12
+fohid	99	13
+fohok	99	14
+fokafok	99	15
+fokaw	99	16
+fokes	99	18
+fokil	99	19
+fokloh	99	26
+fokog	99	27
+foksi	99	28
+fola	99	29
+folad	99	34
+folag	99	39
+folalac	100	5
+folaw	100	9
+foldi	100	14
+foles	100	15
+folfol	100	16
+folkok	100	18
+folo'	100	21
+folod	100	23
+folokok	100	24
+folsak	100	27
+fonal	100	28
+fonon	100	30
+fonor	100	31
+fonos	100	33
+foraw	100	34
+fori'ak	100	36
+forifor	100	38
+forok	100	41
+forsenan	101	8
+fosok	101	10
+fosoki	101	11
+foteg	101	13
+fotek	101	16
+fotfot	101	17
+foti'	101	18
+fotig	101	25
+foto	101	27
+fotod	101	30
+fotol	101	31
+fotos	101	32
+fowah	101	33
+fowak	101	36
+fowas	101	4
+foyol	102	6
+fray	102	10
+friw	102	11
+frot	102	12
+fsir	102	14
+fso	102	15
+fsoc	102	18
+ftak	102	21
+ftas	102	23
+ftes	102	25
+ftik	102	27
+ftir	102	30
+ga'	102	33
+ga'ay	102	35
+ga'ga	103	11
+gacol	103	12
+gafgaf	103	14
+gafol	103	16
+gagafolan	103	17
+gagal	103	19
+gagel	103	21
+gagan	103	22
+gagiw	103	34
+gagool	103	35
+gala'	103	37
+galay	104	5
+galef	104	12
+galiwgiw	104	19
+galo'go	104	21
+gapad	104	22
+gapir	104	24
+garap	104	26
+garawgaw	104	27
+gargar	104	28
+gari'gi'	104	32
+garoy	104	33
+gasaw	104	34
+gata	104	38
+gataa'	104	41
+gato	105	7
+gatowa'	105	13
+gawa'	105	16
+gawgaw	105	18
+gawi'	105	20
+gawit	105	21
+gayagay	105	22
+gelgel	105	23
+gelgelan	105	25
+gerger	105	26
+gidet	105	28
+gidip	105	29
+giep	105	30
+gigoy	105	32
+giha'	105	33
+gilos	105	34
+giraw	105	35
+girgir	105	39
+giriw	105	40
+giro	106	6
+gisgis	106	10
+gitagit	106	11
+gitgit	106	13
+gitid	106	14
+gito'	106	16
+giwgiw	106	17
+giwit	106	21
+glo'	106	24
+gocdis	106	27
+gocih	106	28
+godo	106	30
+gohagoh	107	7
+gohah	107	9
+gohgoh	107	13
+gosgos	107	15
+goso'	107	16
+gota	107	17
+goyi'	107	18
+goyos	107	19
+gric	107	29
+gyagi	107	30
+ha	107	36
+haca	107	41
+haciriwan	108	6
+hacok	108	11
+hacol	108	12
+hacowa	108	18
+hadag	108	26
+hadfek	108	28
+hadhad	108	32
+hadidi	108	34
+hadimel	108	37
+hadokhok	108	41
+haen	109	8
+hafay	109	14
+haflot	109	18
+hafotigay	109	20
+haftoy	109	21
+haherher	109	22
+hahidaw	109	24
+hai	109	25
+hakap	109	29
+hakeno	109	32
+hakhak	109	39
+haki-	110	6
+hakini	110	11
+hakira	110	14
+hakitira	110	17
+hakiya	110	19
+haklog	110	21
+hako	110	30
+hakowa	110	32
+hala	110	39
+halafin	111	8
+halaka	111	9
+halamham	111	13
+hales	111	16
+halhal	111	18
+hali-	111	26
+haliloya	111	31
+halo	111	33
+halodot	111	37
+halofaw	111	38
+haloya	111	39
+hamdac	112	6
+hamham	112	11
+hamon	112	13
+hamotod	112	16
+han	112	18
+hana	112	22
+hanaghag	112	24
+hanakliw	112	25
+hananay	112	27
+hanaw	112	29
+hanhan	112	31
+hanho	112	33
+hanighig	112	36
+hanima	112	38
+hanto	113	6
+haop	113	9
+hapinag	113	14
+hapric	113	20
+hara	113	4
+harakat	113	23
+harara	113	25
+harateg	113	26
+harawan	113	4
+hardo	114	6
+haregheg	114	10
+harek	114	12
+hata	114	14
+hatatad	114	15
+hater	114	17
+haterter	114	21
+hatfo	114	22
+hatini	114	24
+hatiped	114	32
+hatira	114	34
+hatiya	114	38
+hato	114	42
+hatotoan	115	6
+haw	115	7
+hawad	115	9
+hawag	115	11
+hawhaw	115	13
+hawikid	115	14
+hayda	115	16
+hca	115	18
+hcek	115	19
+hcep	115	23
+hci	115	25
+hcra	115	35
+hdot	116	8
+hegheg	116	9
+hemhem	116	11
+hfog	116	14
+hger	116	19
+hicay	116	21
+hicep	116	25
+hicoci	116	26
+hicra	116	28
+hifag	116	32
+higat	116	33
+highig	116	35
+higway	116	37
+hikoki	116	38
+hima	116	39
+himaw	116	42
+himed	117	7
+himrac	117	8
+hina-	117	9
+hinac	117	10
+hinag	117	13
+hinalomay	117	14
+hinam	117	15
+hinapec	117	17
+hinasolay	117	19
+hinefa	117	20
+hinig	117	22
+hinokop	117	24
+hinom	117	26
+hirahir	117	27
+hitay	117	28
+hiterter	117	29
+hitfo	117	30
+hitroc	117	31
+hiwatid	117	32
+hiya	117	38
+hkakan	117	40
+hkal	117	41
+hlip	118	13
+hlog	118	14
+hmay	118	16
+hmek	118	17
+hmot	118	21
+hna	118	22
+hnek	118	24
+hnot	118	26
+hodac	118	28
+hodhod	118	29
+hodoc	118	30
+hofoc	118	32
+hogko	118	34
+hogti	118	36
+hoig	118	39
+hoka'	118	40
+hokap	119	6
+hokhok	119	7
+holak	119	9
+holam	119	10
+holaymay	119	12
+holo	119	14
+holol	119	16
+homog	119	18
+homox	119	20
+honi	119	21
+hopac	119	26
+hopor	119	28
+horac	119	29
+horiyac	119	33
+horiyoc	119	35
+hotiso	119	37
+howad	119	40
+howak	120	8
+hpik	120	10
+hpol	120	12
+hrek	120	14
+htec	120	24
+i	120	19
+i'ic	120	29
+icila	120	31
+icowa	120	34
+idag	120	37
+idek	121	7
+ifnek	121	8
+igid	121	10
+igki	121	13
+igpic	121	14
+ihakowa	121	15
+ihoni	121	17
+iki	121	18
+ikor	121	20
+ilag	121	29
+iloh	121	31
+imah	121	32
+imatini	121	36
+imeg	121	37
+imowa	121	40
+impi	122	7
+ina	122	10
+inacila	122	20
+inafaran	122	22
+inaneg	122	24
+inapil	122	26
+incay	122	27
+ini	122	28
+inig	122	30
+ino'	122	31
+ira	122	36
+iray	123	7
+iro	123	10
+isaw	123	16
+isi'	123	17
+isig	123	18
+iso	123	23
+ita	123	24
+itini	123	26
+itira	123	30
+itiya	123	39
+iwatan	124	6
+iyo	124	14
+ka'dah	124	16
+ka'ka'	124	17
+ka'mag	124	18
+ka'mahay	124	21
+ka'med	124	22
+ka'mi'	124	28
+ka'nih	124	31
+kaogtoay	124	32
+ka'ped	124	34
+ka'red	124	39
+ka'so'	124	42
+ka'tohay	125	8
+kacaw	125	9
+kacawas	125	14
+kacep	125	15
+kacica'ay	125	17
+kacidalay	125	18
+kacihragan	125	19
+kaciki	125	20
+kaciw	125	22
+kacolah	125	23
+kadac	125	25
+kadafo	125	28
+kadafowagay	125	33
+kadag	125	35
+kadamat	125	37
+kadawagay	125	38
+kadipohaw	125	40
+kadit	126	8
+kadkad	126	10
+kado'egay	126	13
+kadodoc	126	15
+kadofah	126	17
+kadowagay	126	19
+kaen	126	21
+kafafag	126	35
+kafagasay	126	37
+kafaniw	126	38
+kafay	126	39
+kafer	126	42
+kafid	127	7
+kafit	127	11
+kaflaw	127	15
+kafog	127	16
+kafooy	127	19
+kafos	127	21
+kafsa'	127	22
+kafso	127	25
+kagcoh	127	28
+kagdaw	127	29
+kagdaway	127	30
+kagic	127	32
+kagkag	127	33
+kagkofo	127	37
+kahcid	127	38
+kahciday	127	40
+kahdogay	128	6
+kahgag	128	12
+kahi	128	13
+kahir	128	16
+kahirahira	128	18
+kahmaw	128	19
+kahmid	128	29
+kahnanini	128	31
+kahog	128	33
+kahot	128	36
+kahteg	128	39
+kaka	128	40
+kakahad	129	11
+kakahog	129	13
+kakarayan	129	14
+kakawag	129	16
+kakawasan	129	17
+kakawit	129	19
+kakaya'	129	20
+kakidec	129	21
+kakiri'an	129	23
+kakitaan	129	25
+kakitiw	129	28
+kakiw	129	29
+kakiwaci	129	30
+kakloy	129	32
+kako	129	4
+kakohkoh	129	4
+kakohkohay	129	4
+kakonah	130	8
+kakoreg	130	9
+kakoregay	130	11
+kakorot	130	14
+kakot	130	16
+kakowat	130	17
+kakoy	130	19
+kakoyol	130	21
+kakreg	130	23
+kaktol	130	24
+kala	130	26
+kala'ka'	130	30
+kalag	130	31
+kalaga	130	33
+kalagaay	130	36
+kalagagan	130	38
+kalah	130	39
+kalaha'ay	130	40
+kalala	131	7
+kalamkam	131	8
+kalapiyat	131	11
+kalas	131	12
+kalasal	131	15
+kalat	131	17
+kalatim	131	24
+kalaw	131	26
+kalawal	131	27
+kaleg	131	29
+kales	131	30
+kali	131	32
+kalic	131	35
+kalidkid	131	37
+kaligko	131	38
+kaliki'	131	39
+kalileg	131	40
+kalilig	132	7
+kalim	132	16
+kalimnaw	132	16
+kalitag	132	18
+kaliti	132	20
+kaliwates	132	23
+kaliyah	132	24
+kaliyalaw	132	29
+kaliyawan	132	30
+kalo	132	32
+kalo'mi	132	37
+kalocoday	132	38
+kalodi	132	41
+kalogkog	132	43
+kaloh	133	5
+kalolo	133	8
+kalona	133	9
+kalosa'ay	133	11
+kalotogan	133	14
+kalto	133	16
+kamay	133	18
+kamaya	133	24
+kamet	133	26
+kami	133	29
+kamid	133	31
+kamit	133	32
+kamkam	133	33
+kamleg	133	35
+kamo	133	36
+kamodo'	133	38
+kamoko	133	40
+kamoko'	134	6
+kamoraw	134	10
+kamowag	134	14
+kanakan	134	15
+kanalatip	134	17
+kanalog	134	19
+kananel	134	21
+kananini	134	22
+kanas	134	24
+kanasal	134	27
+kanatal	134	30
+kani'ki	134	33
+kanicaw	134	36
+kanifagar	134	38
+kaniharan	134	39
+kanikis	134	40
+kanini	134	42
+kanir	135	7
+kanocoray	135	8
+kanoos	135	11
+kansiya	135	13
+kansiyasay	135	15
+kantiw	135	17
+kaolah	135	18
+kaos	135	25
+kapa	135	27
+kapagiay	135	29
+kapah	135	30
+kapal	135	35
+kapet	135	37
+kapi	135	38
+kapig	136	16
+kapitan	136	18
+kapkap	136	22
+kaponay	136	26
+kaporotay	136	27
+kapot	136	29
+kapowa	136	36
+kara	136	41
+kara'ka'	137	8
+kara-	137	9
+karahay	137	15
+karam	137	18
+karapanay	137	23
+kararem	137	26
+karat	137	28
+karayan	137	31
+kari'ag	137	32
+karico'co'	137	34
+karifateg	137	36
+karih	137	37
+karihic	137	40
+karihkih	138	9
+kariwkiway	138	11
+karkar	138	13
+karo'	138	15
+karog	138	17
+karoniron	138	23
+karooday	138	25
+karootay	138	26
+karop	138	27
+karoroan	138	31
+karot	138	33
+karotod	138	36
+karototoyay	138	39
+karteg	138	41
+kasaparan	139	10
+kasid	139	14
+kasoy	139	15
+katacomoli	139	17
+katakat	139	20
+katar	139	22
+katawa	139	24
+kater	139	26
+kati	139	28
+kato	139	29
+katofil	139	30
+katohay	139	31
+katol	139	32
+katop	139	33
+kawal	139	34
+kawala	139	37
+kawali	139	39
+kawanan	139	40
+kawar	140	6
+kawas	140	9
+kawat	140	21
+kawih	140	22
+kawil	140	23
+kawili	140	24
+kawit	140	27
+kawkaw	140	28
+kawrira	140	30
+kayakay	140	31
+kayap	140	40
+kayat	141	6
+kayhid	141	10
+kayig	141	14
+kayki	141	16
+kayko	141	17
+kaysig	141	18
+kcec	141	20
+kced	141	21
+kcor	141	23
+kdal	141	25
+kdec	141	27
+kdof	141	28
+kegkeg	141	29
+kelkel	141	30
+kemkem	141	32
+kenken	141	33
+keskes	141	35
+ketket	141	37
+kfig	142	6
+kfog	142	10
+kfoh	142	12
+ki'a'am	142	13
+ki'aot	142	15
+ki'caw	142	16
+ki'ciw	142	18
+ki'mel	142	20
+ki'tec	142	26
+kiawkiaw	142	27
+kicapos	142	28
+kickic	142	29
+kicocom	142	33
+kicofi	142	35
+kicon	142	36
+kida	142	37
+kidat	142	38
+kidfet	143	7
+kidkid	143	10
+kido	143	11
+kifsiw	143	15
+kiftol	143	16
+kigkig	143	17
+kigkiw	143	24
+kigko	143	26
+kihakih	143	27
+kihar	143	29
+kihcod	143	34
+kika	143	36
+kikaka	143	37
+kikay	143	38
+kilac	143	41
+kilag	144	7
+kilawa	144	17
+kilif	144	19
+kilim	144	21
+kilomot	144	25
+kimad	144	27
+kimadac	144	32
+kimced	144	34
+kimit	144	36
+kimolmol	144	38
+kimolo	144	40
+kimood	144	42
+kimor	145	8
+kimpi'	145	11
+kimto	145	13
+kimtor	145	15
+kina-	145	16
+kinafalah	145	21
+kinayra	145	23
+kincac	145	24
+kincay	145	26
+kinco	145	27
+kini	145	32
+kinih	145	34
+kipag	145	41
+kipat	146	4
+kira	146	13
+kiradom	146	15
+kirami	146	16
+kiric	146	17
+kirig	146	23
+kirikiri'	146	25
+kiro	146	26
+kirofim	146	30
+kiskis	146	32
+kiso	146	33
+kita	146	35
+kitad	146	37
+kitag	146	39
+kitakit	147	5
+kiteg	147	8
+kitig	147	10
+kitkit	147	12
+kitoh	147	13
+kiwakiw	147	14
+kiwalet	147	16
+kiwat	147	18
+kiwit	147	23
+kiwkiw	147	24
+kiya	147	26
+kiyafes	147	27
+kiyagkiyag	147	28
+kiyaig	147	31
+kiyaki'	147	32
+kiyalig	147	34
+kiyam	147	36
+kiyami	147	37
+kiyko	148	6
+kiyo	148	9
+kiyot	148	10
+klac	148	12
+klalaci	148	14
+klap	148	16
+kleg	148	19
+klet	148	23
+kli'	148	24
+klig	148	26
+kliw	148	28
+klog	148	32
+kltan	148	34
+kma	148	35
+kmi	148	37
+kmo	148	39
+kmod	149	8
+knanini	149	13
+knaw	149	14
+knayra	149	16
+kni'	149	17
+ko	149	18
+ko'gel	149	20
+ko'ko	149	25
+ko'mi	149	26
+ko'mih	149	29
+ko'san	149	31
+ko'sit	149	36
+ko'teg	149	39
+kodait	149	41
+kodasig	150	6
+kodfet	150	9
+kodic	150	12
+kodos	150	14
+kodpi'	150	15
+kofaw	150	17
+kofel	150	18
+kofig	150	19
+kofit	150	20
+kofo	150	24
+kofoc	150	26
+koga	150	27
+kogkog	150	28
+kohakoh	150	33
+kohaw	150	34
+kohcal	150	37
+kohced	150	40
+kohkohan	150	41
+kohnac	150	42
+kohpic	151	9
+kohtig	151	10
+koicaw	151	11
+kokag	151	12
+koki'	151	13
+kokih	151	14
+kokoa	151	16
+kokofag	151	18
+kokog	151	20
+kokoy	151	21
+koladot	151	23
+kolag	151	24
+kolah	151	25
+kolamet	151	27
+kolas	151	28
+kolced	151	30
+kolfo'	151	32
+koli	151	34
+koliciw	151	38
+kolit	151	39
+koliya'	152	4
+koliyol	152	10
+kolmi	152	14
+kolog	152	16
+kolomi	152	18
+komaig	152	20
+komes	152	26
+komi'ot	152	27
+komikili	152	29
+komimit	152	33
+komiyot	152	34
+komo	152	36
+komo'ko	152	37
+komod	152	39
+komog	153	7
+kona	153	9
+konac	153	11
+konai'i	153	15
+konayat	153	17
+konini	153	19
+konis	153	21
+koniyol	153	25
+konkon	153	31
+konoc	153	33
+konoy	153	35
+kool	153	37
+kopag	153	39
+kopid	154	5
+kopit	154	15
+kora	154	18
+korac	154	20
+korah	154	22
+korahot	154	26
+koraro	154	28
+korawit	154	29
+koreg	154	31
+korih	154	34
+korira	154	39
+korkor	154	41
+koror	155	7
+kosiya	155	10
+koskos	155	12
+kosoy	155	13
+kotag	155	16
+kotay	155	17
+kotem	155	21
+koti'	155	23
+kotkot	155	25
+koto	155	26
+kotod	155	28
+kotog	155	29
+kowa'	155	30
+kowad	155	36
+kowag	155	40
+kowako'	155	41
+kowan	156	6
+kowat	156	12
+kowaw	156	15
+kowawi	156	18
+kowit	156	20
+koya	156	21
+koyasi	156	23
+koyo	156	24
+koyod	156	26
+kpa	156	29
+kpid	156	33
+kpit	156	34
+kra	156	35
+krah	156	36
+kreg	156	37
+krem	156	40
+kric	157	8
+krid	157	10
+krih	157	16
+kris	157	19
+krismas	157	22
+kristo	157	23
+kristokiw	157	25
+krit	157	27
+kro	157	32
+kro'	157	36
+krog	157	38
+kros	157	39
+ksem	157	41
+ktem	158	6
+kter	158	12
+ktig	158	15
+ktil	158	21
+kton	158	22
+ktos	158	30
+kwamig	158	31
+kwapig	158	33
+kyokay	158	35
+la'caan	158	36
+la'ed	158	40
+la'il	159	6
+la'is	159	7
+la'no	159	11
+la'om	159	15
+la'oteg	159	19
+la'pa	159	21
+la'to	159	22
+lacaan	159	23
+lacal	159	25
+laccay	159	27
+laci'	159	28
+lacik	159	31
+lacinowas	159	32
+laciw	159	36
+laco	159	37
+lada'	159	38
+ladiw	160	6
+ladom	160	12
+lafac	160	14
+lafades	160	17
+lafag	160	19
+lafay	160	25
+lafel	160	27
+lafi	160	30
+lafii	160	36
+lafin	160	42
+lafir	161	10
+lafiwfiway	161	11
+lafo	161	14
+lafog	161	21
+lafot	161	24
+lagal	161	27
+lagas	161	30
+lagat	161	31
+lagod	161	33
+lagto	161	35
+laha'	161	37
+lahad	161	39
+lahat	162	10
+lahci	162	13
+lahdaw	162	19
+lahod	162	26
+lahok	162	28
+lahoper	162	35
+lakad	162	37
+lakaw	162	39
+lakec	162	40
+lakiw	163	8
+laklak	163	9
+laklal	163	16
+laklaw	163	17
+lakota	163	22
+lakowit	163	24
+lala'	163	29
+lala'em	163	32
+lalad	163	35
+lalag	163	4
+lalagaw	164	8
+lalago	164	9
+lalal	164	12
+lalan	164	15
+lalat	164	24
+lalen	164	26
+lales	164	32
+lalet	164	34
+laletlet	164	36
+lali'	164	38
+lali'op	164	40
+lalidec	164	42
+lalig	165	8
+lalinik	165	11
+lalipig	165	12
+lalisan	165	13
+laliw	165	15
+lalko	165	18
+lalo	165	20
+lalok	165	22
+laloma'	165	23
+lalopla'	165	30
+lama'	165	31
+lamal	165	35
+lamec	165	36
+lamit	165	37
+lamlam	166	9
+lamlo	166	15
+lamo	166	18
+lamok	166	22
+lanag	166	25
+lanhi	166	30
+lanto	166	32
+laoc	166	38
+laop	167	10
+lapac	167	12
+lapdit	167	13
+laplap	167	18
+lapot	167	20
+lasag	167	23
+lasak	167	26
+lasil	167	29
+laso'ay	167	31
+lasog	167	33
+lasot	167	34
+lata'	167	35
+lata'ag	167	37
+latag	168	6
+latak	168	12
+lataw	168	16
+latek	168	19
+lati'	168	20
+latiih	168	23
+lato'	168	26
+latoc	168	27
+lawa	168	29
+lawac	168	34
+lawal	168	40
+lawat	168	41
+laway	169	6
+lawdgan	169	7
+lawla	169	9
+lawlaw	169	13
+laya'	169	14
+layap	169	16
+laymay	169	19
+layog	169	21
+lcad	169	23
+lceg	169	34
+lcik	169	38
+lda'	170	7
+ldef	170	8
+ldo	170	12
+lelen	170	15
+lesles	170	16
+lfek	170	17
+lfit	170	20
+lfo	170	23
+lfoh	170	26
+lga	170	28
+lgac	170	31
+lgat	170	38
+lgaw	171	7
+li'ay	171	15
+li'el	171	20
+li'mi	171	23
+licag	171	24
+licay	171	31
+licig	171	33
+licinowas	171	34
+liclic	171	4
+licod	172	6
+licoh	172	10
+lidalid	172	11
+lidateg	172	14
+lidaw	172	16
+lidep	172	18
+lido	172	20
+lidog	172	22
+lies	172	27
+lifar	172	28
+lifawa	172	30
+lifes	172	32
+lifet	172	33
+lifog	172	42
+lifoh	173	8
+lifon	173	9
+lifot	173	13
+ligad	173	20
+ligato	173	24
+ligesa'	173	25
+ligka	173	26
+ligko	173	27
+liglig	173	28
+ligod	173	30
+ligses	173	35
+ligwa	173	39
+lihaf	173	40
+lihay	174	6
+lihco	174	14
+lihiw	174	15
+lihnaw	174	19
+lihoc	174	23
+lihoway	174	25
+likaf	174	27
+likat	174	29
+likel	174	32
+likes	174	37
+likid	174	39
+liklon	175	7
+likoda	175	9
+likot	175	11
+lilac	175	13
+lilal	175	14
+lileg	175	16
+lilid	175	17
+lilis	175	21
+lilit	175	24
+liliw	175	27
+lilom	175	31
+lima	175	33
+limad	175	37
+limaw	175	38
+limecedan	175	40
+limek	176	6
+limla	176	10
+limo'ot	176	17
+limpo	176	20
+linah	176	22
+linalin	176	25
+linay	176	27
+lineknek	176	28
+linfo	176	30
+lipa	176	31
+lipahak	176	35
+lipalaw	176	40
+lipaw	177	7
+lipay	177	11
+lipot	177	15
+lipowak	177	17
+lisaot	177	21
+lisin	177	24
+liso'	177	34
+lita'ag	177	35
+litahom	178	8
+liteg	178	10
+liti'	178	14
+litmoh	178	15
+litod	178	19
+litox	178	26
+liwal	178	27
+liwasak	178	28
+liway	178	31
+liyad	178	35
+liyag	178	40
+liyas	179	11
+liyaw	179	30
+liyoc	179	34
+liyok	179	37
+liyon	179	40
+liyot	180	6
+lkairaira	180	13
+lkakawa	180	14
+lkal	180	19
+lmed	180	24
+lnaf	180	32
+lnak	180	35
+lneg	181	7
+lno	181	10
+lo'gel	181	13
+lo'od	181	15
+lo'timay	181	18
+locok	181	19
+lodak	181	22
+lodas	181	24
+lodi'	181	26
+lodihag	181	28
+lodis	181	29
+lodot	181	31
+lofa	181	32
+lofag	181	34
+lofic	181	37
+loflof	182	8
+lofoc	182	11
+lofog	182	13
+logadi	182	15
+loglog	182	18
+logoc	182	21
+lohak	182	25
+lohok	182	27
+lokdaw	182	31
+lokes	182	33
+lokiyo	182	35
+lokot	182	39
+lolo	182	41
+lolod	183	8
+lolol	183	10
+lolop	183	14
+loma'	183	18
+lomaig	183	25
+lomin	183	27
+lomoh	183	29
+lonan	183	31
+lonayi'	183	33
+lonen	183	34
+lono'	183	35
+lonok	183	36
+lonol	183	39
+lood	183	40
+lopas	184	7
+lopeg	184	11
+lopet	184	12
+lopiko	184	13
+lopilop	184	16
+lopini'	184	18
+lopisak	184	21
+losa'	184	24
+losay	184	27
+losid	184	30
+losida'	184	37
+losimet	184	39
+losiyag	184	41
+loso'	184	43
+losok	185	11
+lotay	185	12
+lotlot	185	16
+lotoc	185	21
+lotog	185	23
+lotok	185	26
+lowad	185	28
+lowalo	185	34
+lowan	185	35
+lowi'	185	40
+lowid	185	5
+loyoh	186	6
+lpel	186	14
+lpon	186	17
+lsafon	186	21
+lsi'	186	24
+lso'	186	25
+ltek	186	28
+ltep	186	29
+ltoh	186	34
+ma'ifor	186	35
+maan	186	37
+mafolosi	187	14
+mafowakay	187	19
+magah	187	22
+magar	187	30
+magcel	187	33
+magta'	187	37
+mahad	187	38
+mahod	187	5
+maimai	188	7
+makalo	188	11
+mako	188	12
+mako-	188	14
+makotaay	188	17
+maia	188	19
+malataw	188	25
+mali	188	35
+malicagay	188	37
+malimpo	188	39
+malininaay	188	41
+malitmit	188	43
+malkakaay	189	10
+malo	189	13
+malonem	189	25
+mama	189	26
+mamag	189	32
+mamana	189	34
+mamayoh	189	38
+mami'	189	39
+mamiya	189	5
+mamo	190	6
+mamo'mo'	190	9
+mamoko'	190	11
+mamosa	190	16
+manis	190	17
+manowad	190	18
+manowan	190	20
+manto	190	21
+maomi'	190	22
+mapohaway	190	25
+maporahaw	190	28
+marad	190	30
+mararo'og	190	31
+maro'	190	35
+maroda'ci	190	40
+masay	190	41
+mata	191	7
+matadim	191	11
+matag	191	13
+matini	191	18
+matira	191	28
+matiya	191	34
+mato	192	12
+mced	192	21
+mdok	192	24
+mecmec	192	28
+metmet	192	30
+mi'mi'	192	32
+migkok	192	34
+migmig	192	36
+mihca	192	41
+milmil	193	9
+mimig	193	12
+mimit	193	14
+minaro'an	193	17
+minato	193	18
+minowad	193	19
+mintag	193	21
+mira	193	23
+mirmir	193	28
+misa	193	32
+misa'	193	34
+misamis	193	36
+misi'	193	37
+misig	193	38
+miso	193	39
+miso'em	194	6
+mison	194	9
+mita	194	11
+miyamay	194	15
+miyat	194	18
+mlet	194	19
+mli	194	20
+mnad	194	22
+mo'cel	194	23
+mo'ed	194	34
+mo'mo	194	36
+mo'tep	194	38
+moamo	194	42
+moamo'	195	6
+moco'	195	7
+modac	195	8
+moho	195	10
+mokel	195	11
+mokmaw	195	12
+mokmok	195	14
+mokon	195	16
+mola'	195	18
+molamol	195	21
+molcep	195	23
+moli	195	25
+moli'	195	27
+molisaka	195	28
+molmol	195	30
+molsa'	195	33
+momok	195	35
+monag	195	38
+monihar	195	40
+mono'	196	8
+mora	196	10
+mora'ay	196	12
+mori	196	14
+mori'	196	16
+moric	196	17
+morkoh	196	19
+moroho	196	21
+morok	196	22
+moronos	196	25
+mortes	196	27
+mosigaw	196	31
+moso'	196	32
+mowa	196	34
+mowak	196	36
+mrak	196	38
+mras	196	39
+mris	197	6
+mro	197	7
+na'ag	197	8
+na'ay	197	10
+na'on	197	11
+nacnac	197	18
+nafoy	197	19
+nages	197	21
+nagra	197	22
+nahay	197	24
+nahol	197	26
+nai	197	27
+naikoran	197	32
+nalacolan	197	34
+nalaloodan	197	36
+namal	197	39
+namo	198	7
+nanam	198	12
+nanaw	198	26
+nanay	198	30
+nani	198	33
+nani'ol	198	36
+naniwac	198	37
+nano	198	38
+nanom	199	11
+nanoy	199	18
+nanoya	199	23
+nanpokoy	199	25
+nao	199	27
+naol	199	32
+naop	199	36
+narikay	199	38
+nasa	199	40
+natawran	200	5
+naw	200	13
+nawhani	200	15
+nawnaw	200	17
+nayar	200	22
+nayat	200	25
+necnec	200	32
+negneg	200	33
+neknek	200	39
+nemnem	201	6
+nfak	201	7
+ngaw	201	9
+nigra	201	11
+nihar	201	13
+nika	201	17
+nikar	201	24
+nikaw	201	29
+nikawrira	201	32
+nikiw	201	34
+nima	201	39
+ninip	202	7
+nira	202	14
+nirnir	202	17
+nisnis	202	22
+nitiih	202	23
+niwaniw	202	24
+niyah	202	26
+niyam	202	32
+niyani'	202	38
+niyaro'	202	40
+nker	203	10
+no	203	12
+no'no'	203	15
+nohir	203	18
+noka	203	20
+nokay	203	21
+noli	203	29
+nona	203	30
+noneg	203	32
+nonini	203	34
+nonoh	203	36
+nonol	203	38
+nonor	203	40
+nora	204	6
+norira	204	14
+nornor	204	16
+noya	204	19
+ociya	204	21
+ocor	204	23
+odo'	204	34
+ofag	204	35
+ogog	204	36
+okag	204	37
+okos	204	39
+olah	204	40
+olat	205	13
+olatek	205	14
+oles	205	18
+olif	205	19
+olili	205	21
+omah	205	22
+omi	205	31
+omi'	205	33
+ona	205	37
+onaon	205	39
+onih	205	40
+onini	206	6
+onol	206	11
+oo'	206	13
+opih	206	14
+opoh	206	15
+opopay	206	17
+oraf	206	18
+orasaka	206	20
+orat	206	25
+oray	206	29
+orira	206	30
+oror	206	32
+osa	206	35
+osoy	206	39
+ota'	206	41
+oy	207	9
+oya	207	12
+pa'anifog	207	16
+pa'cas	207	18
+pa'el	207	23
+pa'ilasen	207	28
+pa'kel	207	30
+pa'nan	207	36
+pa'no	207	38
+pa'pa	207	41
+pa'pa'	208	6
+pa'tag	208	13
+pacahfak	208	15
+pacako	208	19
+pacarcar	208	20
+pacek	208	29
+pacfa	208	32
+paci'ci	208	39
+paci'eg	209	7
+pacig	209	8
+pacigko	209	10
+pacilit	209	12
+packil	209	14
+packis	209	21
+pacofcof	209	24
+pacok	209	26
+pacpac	209	28
+pacrem	209	32
+pada'ciay	209	34
+padadoki	209	36
+padag	209	38
+padagan	210	6
+padahaw	210	12
+padahof	210	16
+padaka	210	18
+padal	210	23
+padeg	210	24
+padek	210	27
+pades	210	30
+padiwawa	210	38
+padiyac	210	40
+padiyaw	210	41
+padogipog	210	42
+padopil	211	8
+padteg	211	10
+paen	211	17
+pafli	211	18
+pafsoc	211	25
+paga	211	29
+pagcah	211	30
+pagkiw	211	33
+pagloy	211	36
+pagpag	211	40
+pagpagan	211	40
+pagta	212	6
+paharawan	212	12
+paheg	212	14
+pahko	212	16
+pahotig	212	18
+paikor	212	20
+paini	212	27
+pakah	212	30
+pakapsi'	212	31
+pakara'ac	212	33
+pakatiih	212	35
+pakayni	212	39
+pakayra	213	12
+pakayraan	213	23
+pakido	213	25
+pakih	213	29
+pakinali	213	30
+pakiyaw	213	34
+pakociko	213	36
+pakogaw	213	37
+pakokot	213	41
+pakonira	214	6
+pakoyoc	214	22
+pakpak	214	25
+paktig	214	28
+pala	214	30
+palag	214	33
+palal	214	34
+palalaw	214	41
+palanotireg	214	42
+palayapay	215	8
+palfod	215	9
+pali'ayaw	215	10
+palidig	215	14
+palimagta'	215	23
+palimlim	215	33
+palit	215	35
+palita	215	41
+paliw	216	6
+paliyoken	216	19
+palo	216	21
+palokapok	216	24
+palolol	216	26
+paloma	216	32
+pamceg	216	37
+pamotek	216	38
+pana'	216	41
+panahal	217	13
+panay	217	15
+pances	217	20
+panco	217	21
+paniis	217	23
+paogogan	217	25
+paoror	217	27
+papa'og	217	29
+papah	217	32
+papeg	217	34
+papikdan	217	35
+papo	217	5
+para'	218	7
+parac	218	13
+paranaan	218	18
+parar	218	20
+parekpek	218	21
+parikor	218	22
+pariwan	218	28
+paro	218	30
+paro'ot	218	38
+parod	218	41
+misaparod	218	42
+parogapig	219	8
+parok	219	9
+parokpok	219	13
+parpar	219	14
+pasamo	219	16
+pasayni	219	22
+pasayra	219	27
+paska	219	5
+paso	220	7
+paso'lin	220	10
+pasogan	220	19
+pasta'	220	21
+pasteg	220	24
+patahtah	220	26
+patala	220	32
+patalahkal	220	36
+pataloma'	220	42
+patarod	221	10
+patay	221	17
+patdo	221	30
+patek	221	36
+pater	221	4
+patfo	222	10
+patih	222	15
+patireg	222	17
+patlac	222	25
+patlaw	222	27
+pato'	222	29
+pato'aya	222	32
+patogaren	222	37
+patonek	222	38
+patono	223	8
+patorod	223	10
+patosokan	223	18
+patrogan	223	20
+pawali	223	22
+pawan	223	26
+pawig	223	30
+pawli	223	31
+pawpaw	223	32
+pawti	223	41
+paya	224	8
+payak	224	9
+payax	224	11
+payayoka	224	14
+payci	224	15
+paydas	224	18
+payrag	224	26
+paysin	224	27
+payso	224	34
+paytmek	224	37
+pca'	224	39
+pcas	225	10
+pcec	225	15
+pci'	225	21
+pcici	225	27
+pcih	225	30
+pco'	225	39
+pcod	225	5
+pcoh	226	6
+pdadac	226	15
+pdadoki	226	17
+pdeg	226	18
+pdek	226	20
+pdik	226	25
+pdoc	226	30
+pdoh	226	32
+pedped	226	39
+pekpek	226	42
+pelpel	227	10
+pespes	227	14
+pi'ayaw	227	18
+pi'dac	227	20
+pi'ec	227	22
+pi'iw	227	23
+pi'kolan	227	30
+pi'pi	227	31
+pi'pi'	227	33
+picid	227	34
+piciw	227	37
+picpic	228	6
+pida	228	13
+pidah	228	17
+piec	228	20
+pigan	228	24
+pigapig	228	27
+pigaroy	228	31
+pigko	228	33
+pigo'	228	34
+pihpih	228	38
+piked	228	42
+pikel	229	10
+pikig	229	14
+piko	229	15
+pikpik	229	21
+pilec	229	25
+pilet	229	27
+pili'	229	30
+piloh	229	38
+pina	229	40
+pina'aw	230	20
+pina'orip	230	22
+pinag	230	23
+pinaloma	230	37
+pinani'ol	230	39
+pinaro	230	40
+pincas	230	41
+pinoer	230	43
+pintoh	231	7
+pip	231	9
+pirora'ay	231	10
+pisig	231	12
+pisot	231	20
+pisto'	231	23
+pitaw	231	26
+pitek	231	30
+pitig	231	33
+pito	231	34
+piya'	231	38
+piyak	231	39
+piyas	232	6
+piyoc	232	11
+pkaw	232	12
+pla'	232	15
+pleg	232	19
+plek	232	25
+ples	232	28
+ploc	232	33
+pna'orip	232	37
+pnaloma	232	38
+pnec	232	40
+pnen	233	7
+po'i	233	9
+po'lac	233	13
+po'ner	233	18
+po'ot	233	21
+poces	233	23
+poda'	233	24
+podac	233	26
+podaw	233	29
+podoh	233	31
+podok	233	34
+podpod	233	36
+poet	233	38
+pogkag	233	40
+pogki	234	9
+pogodan	234	10
+pohal	234	11
+pohaw	234	15
+pohed	234	16
+pohog	234	20
+pohpoh	234	21
+poki	234	25
+pokoh	234	29
+polahik	234	34
+polin	234	35
+polita	235	7
+polo'	235	9
+polog	235	12
+polol	235	23
+pololoc	235	25
+pona	235	29
+poneg	235	33
+poni'	235	36
+pono'	235	39
+popot	235	5
+poraric	236	6
+poraw	236	15
+porec	236	17
+porod	236	18
+porog	236	20
+porpor	236	24
+posak	236	27
+posi	236	28
+posir	236	30
+posisir	236	34
+posko	236	35
+posog	236	37
+pota'	236	39
+potal	236	40
+potapot	237	9
+potay	237	11
+potipot	237	13
+poton	237	14
+powak	237	20
+powar	237	22
+poyapoy	237	23
+prar	237	32
+praw	237	36
+prec	237	37
+proc	237	40
+psi'	238	6
+pyayoka	238	17
+pyoma	238	18
+ra'it	238	19
+ra'med	238	20
+ra'mih	238	23
+ra'sodan	238	26
+raag	238	27
+raay	238	29
+radac	238	39
+radiw	238	42
+radom	239	8
+rafac	239	11
+rafar	239	16
+rafas	239	22
+rafay	239	28
+rafi'	239	34
+rafir	239	36
+rafiyas	239	37
+rafraf	239	40
+ragi	240	13
+ragrag	240	16
+rahed	240	18
+rahid	240	20
+rahkad	240	24
+rahker	240	26
+rahmed	240	32
+rahod	240	34
+rahoday	240	36
+rahrah	240	38
+rakad	241	6
+rakam	241	8
+rakar	241	10
+rakarak	241	11
+rakat	241	12
+rakes	241	23
+rama'	241	24
+ramah	241	34
+ramet	241	36
+rami'	241	39
+ramo'	242	6
+ramod	242	10
+ramot	242	22
+ranam	242	28
+ranap	242	30
+ranih	242	32
+ranikay	242	37
+rao'	242	39
+raod	242	41
+rapic	243	9
+rapiyac	243	16
+rapot	243	17
+rara	243	28
+rara'	243	39
+raracan	244	7
+rarafos	244	9
+rarar	244	10
+raraw	244	13
+rarem	244	26
+raricay	244	33
+rarid	244	35
+rarikah	244	41
+rarima	245	7
+rarog	245	14
+rarokoh	245	16
+rarom	245	18
+rasiras	245	24
+rasit	245	29
+rasmas	245	30
+rasras	245	31
+ratar	245	36
+ratoh	245	4
+rawac	246	14
+rawag	246	16
+rawis	246	19
+rawraw	246	27
+rayaray	246	36
+rayas	246	42
+rayic	247	10
+rayray	247	11
+rcep	247	21
+rcik	247	22
+rda'	247	25
+rdat	247	29
+rdek	247	33
+rdes	247	38
+rdih	247	39
+rdo	248	9
+recrec	248	17
+regreg	248	20
+resres	248	21
+retret	248	27
+rfay	248	29
+rfog	248	32
+rget	248	35
+rgos	248	38
+ri'ag	248	40
+ri'iw	249	9
+ri'rid	249	11
+ri'rir	249	15
+ricaric	249	16
+ridrid	249	18
+rifowas	249	22
+rigasa'	249	24
+riger	249	25
+rigi	249	27
+rigo	249	31
+rihaday	249	34
+rihaked	249	39
+riharih	250	14
+rihaw	250	17
+rihi	250	18
+rihnac	250	20
+rihnaw	250	21
+rikaot	250	23
+rikec	250	28
+riko'	250	34
+rikor	250	41
+rikorar	251	13
+rikowat	251	15
+rimadac	251	17
+rimood	251	23
+rina'	251	25
+rinafo	251	33
+rinahem	251	36
+rini	251	38
+rinom	252	8
+ripa'	252	9
+riparip	252	14
+ripon	252	19
+riri'	252	20
+risris	252	23
+ritig	252	24
+ritos	252	28
+ritrit	252	31
+riwag	252	34
+rixi'	252	36
+riyad	252	38
+riyar	253	5
+riyo	253	10
+rkad	253	12
+rken	253	24
+rko	253	26
+rkoh	253	31
+rmes	253	32
+rnaf	253	38
+rnec	253	39
+rnok	254	6
+rocek	254	14
+rocod	254	22
+rocok	254	28
+rodiheg	254	33
+rodis	254	34
+rofo	254	35
+rogoh	255	6
+rohem	255	9
+roho	255	11
+rohroh	255	17
+rokitac	255	21
+rokrok	255	22
+roma	255	40
+romasato	255	40
+romi'ad	256	6
+romic	256	24
+romot	256	26
+ronag	256	30
+roni	256	34
+ronic	256	37
+roniron	256	39
+ronog	256	41
+roparop	256	42
+ropay	257	-1
+rorag	257	14
+roray	257	16
+rorod	257	-1
+rorog	257	26
+roroh	257	29
+rorox	257	32
+rosaros	257	34
+rotarot	257	36
+roto	257	40
+rowak	258	11
+rowis	258	13
+rpat	258	16
+rpet	258	18
+rpig	258	22
+rpon	258	-1
+rsap	258	31
+rtep	258	33
+rtes	258	40
+sa'aniwan	258	42
+sa'et	259	7
+sa'fit	259	8
+sa'ged	259	11
+sa'ger	259	14
+sa'lec	259	-1
+sa'let	259	18
+sa'mamokot	259	23
+sa'mel	259	26
+sa'opo	259	30
+sa'osi	260	10
+sa'owac	260	19
+sa'sa	260	21
+saan	260	24
+saca	260	33
+sackih	260	35
+sadak	260	37
+saday	261	8
+sadikay	261	10
+sadim	261	13
+sadit	261	20
+sadoasi'	261	26
+sadosdos	261	27
+sadoy	261	29
+safa	261	30
+safak	262	6
+safalat	262	-1
+safana'	262	13
+safaw	262	22
+safel	262	29
+safi	262	31
+safit	262	33
+saflaw	262	39
+safon	262	41
+safool	263	7
+safraag	263	8
+safreg	263	10
+saga'	263	19
+sagasif	263	29
+saglay	263	31
+sagotfol	263	33
+sahalaka	263	-1
+sahci	263	36
+saho	263	38
+sahto	264	14
+saikoray	264	17
+sair	264	19
+sait	264	21
+saka	264	23
+saka'ca	264	-1
+sakacaaw	264	-1
+sakamatini	264	32
+sakasaan	264	34
+sakasak	264	37
+saki	265	9
+sakmot	265	12
+sakoc	265	15
+sakola	265	16
+sakor	265	19
+saksak	265	20
+sala	265	24
+sala'sa'	265	25
+salag	265	27
+salama	265	29
+salikaka	265	38
+salikiki'	266	14
+salil	266	16
+salimpo	266	18
+salitata'ag	266	20
+saliway	266	21
+salkolko	266	24
+salo'afag	266	26
+salof	266	36
+salofal	267	8
+salog	267	15
+salogan	267	15
+salogasog	267	18
+solomaig	267	-1
+salonan	267	20
+salowasi	267	22
+saloya	267	-1
+sama'	267	25
+samaanen	267	27
+samadah	267	5
+samado	268	6
+samao	268	10
+sameced	268	11
+samisi	268	13
+samiyay	268	20
+samiyot	268	22
+samo'	268	23
+samolal	268	28
+samoro	268	36
+samsam	268	38
+sanalsal	268	-1
+sanasal	269	6
+sanawsaw	269	7
+sanay	269	11
+sanayasay	269	-1
+sanegseg	269	19
+sanek	269	24
+sano	269	-1
+saog	269	29
+sapa	269	4
+sapad	269	4
+sapaini	270	7
+sapal	270	15
+sapat	270	17
+sapay	270	18
+sapayo	270	22
+sapi'	270	23
+sapsap	270	26
+sarad	270	32
+saradaw	270	39
+saraw	270	42
+sargad	271	-1
+sarocod	271	12
+sarocor	271	18
+sasagi	271	22
+sasaw	271	24
+sasifod	271	25
+sasig	271	31
+sasigaran	271	36
+sasimi	271	37
+sata	271	39
+sata'os	272	13
+satadamata	272	21
+satan	272	26
+satapag	272	27
+satfo	272	30
+satnok	272	31
+sato	272	32
+satoko	272	37
+saw	272	40
+sawad	272	42
+sawi	273	-1
+sawkit	273	24
+sawsaw	273	26
+say'od	273	27
+saycar	273	-1
+sayho	273	32
+sayma	273	35
+saynay	273	5
+saysay	274	6
+saytaw	274	14
+sdak	274	16
+sdal	274	20
+sday	274	25
+sdef	274	29
+sdeg	274	30
+sdi	274	32
+sefsef	274	34
+seksek	274	36
+semsem	274	-1
+serser	275	8
+sfay	275	12
+sfeg	275	19
+sfek	275	25
+sfel	275	27
+sfet	275	36
+sfi	276	6
+sga	276	11
+sged	276	12
+sger	276	17
+si'ac	276	26
+si'ed	276	30
+si'ked	276	32
+si'lac	276	36
+si'naw	276	37
+siciminciw	276	41
+sicoci	276	42
+sida'it	277	6
+siday	277	12
+sidsid	277	20
+sifasif	277	-1
+sifed	277	27
+sifin	277	35
+sifo'	277	39
+sifod	278	11
+sigara'	278	-1
+sigasig	278	14
+sigat	278	-1
+sigda	278	17
+sigko	278	-1
+sigsi	278	25
+siiked	278	27
+siikor	278	-1
+sikal	278	38
+sikatay	278	40
+sikda	278	41
+siked	279	10
+siket	279	11
+sikiw	279	20
+sikol	279	22
+sila'	279	27
+silay	279	30
+silsil	279	31
+simaanay	279	35
+simal	279	37
+simanta'	280	13
+simaw	280	16
+simed	280	24
+simlag	280	30
+simpal	280	34
+simpo	280	35
+simpon	280	-1
+sinag	280	39
+sinanot	280	40
+sinar	281	10
+sinawar	281	11
+sini'ada	281	14
+sino'et	281	25
+sioy	281	27
+sipasip	281	28
+sipolo'	281	-1
+sipon	281	40
+siraw	282	13
+siri	282	15
+sisir	282	21
+sisit	282	24
+siwa	282	28
+siwala	282	30
+siwar	282	36
+siwasiw	282	41
+siwatid	282	43
+siwatik	283	7
+siwit	283	9
+siyam	283	12
+siyokeg	283	14
+siyop	283	16
+siyor	283	17
+ska'	283	22
+skak	283	25
+skay	283	27
+skig	283	31
+skog	283	32
+sla'	283	4
+slak	284	6
+slal	284	11
+slen	284	16
+sli'	284	19
+slic	284	20
+slog	284	28
+sma	284	30
+smer	284	32
+smo'ot	284	37
+smot	284	39
+sna'	284	41
+snat	285	7
+sneg	285	13
+sni'	285	24
+so'ac	285	27
+so'aw	285	29
+so'lin	285	32
+so'met	286	6
+so'er	286	-1
+so'ol	286	-1
+so'or	286	21
+so'ot	286	34
+so'so	286	40
+so'so'	287	-1
+sodoc	287	11
+sodod	287	13
+sodsod	287	14
+sofac	287	19
+sofal	287	-1
+sofitay	287	-1
+sofoc	287	25
+sofok	287	27
+sofoy	287	28
+sogidet	287	31
+sogila'	287	32
+sogtol	287	40
+soikor	288	14
+soked	288	19
+sokir	288	-1
+soklet	288	22
+soklot	288	-1
+soko	288	28
+sokon	288	28
+sokoy	288	34
+solac	288	-1
+solap	288	37
+solasol	288	41
+solek	288	42
+soliga'	289	8
+solimet	289	18
+solipa	289	-1
+solol	289	21
+solot	289	27
+soloy	289	35
+solsol	289	4
+somad	290	8
+sona	290	15
+sonay	290	16
+soni	290	20
+sonol	290	-1
+sonor	290	32
+soo'	290	37
+sopa'	290	-1
+sopaliw	290	-1
+sopay	291	7
+soped	291	14
+soprit	291	19
+sopsop	291	21
+sorar	291	26
+sorita	291	-1
+sorot	291	30
+soso'	291	35
+sota'	291	38
+sotic	292	5
+soto	292	11
+sowaf	292	12
+sowal	292	-1
+sowana	292	27
+sowasan	292	29
+spat	292	32
+spen	292	36
+sra	292	38
+sray	293	7
+srer	293	9
+sro	293	18
+sta'	293	21
+statihi	293	26
+stay	293	28
+stek	293	4
+stel	294	9
+sti'	294	16
+stik	294	22
+sto'	294	25
+stol	294	36
+syoni	294	-1
+ta	295	6
+ta'dip	295	8
+ta'enagan	295	11
+ta'gad	295	13
+ta'ig	295	21
+ta'is	295	24
+ta'lif	295	29
+ta'man	295	-1
+ta'mod	295	36
+ta'nek	295	40
+ta'og	296	6
+ta'sel	296	24
+tada	296	29
+tada'kim	296	36
+tada'mi	296	37
+tada-	296	38
+tadah	297	8
+tadamaan	297	15
+tadanca	297	27
+tadas	297	33
+tadek	297	39
+tadem	298	15
+tadi'ec	298	18
+tadimocok	298	26
+tadipi	298	27
+tadiwic	298	-1
+tadiwid	298	33
+tadkel	298	35
+tadkes	298	-1
+tado	298	39
+tadtad	299	15
+taeroran	299	-1
+tafa	299	23
+tafa'	299	24
+tafad	299	25
+tafak	299	28
+tafal	299	32
+tafalog	299	34
+tafdo'	299	36
+tafihaw	299	38
+tafo	300	8
+tafok	300	17
+tafokod	300	17
+tafolod	300	19
+tafsiw	300	23
+tagal	300	-1
+tagasa	300	34
+tagcon	300	40
+tagfor	300	42
+tagic	301	-1
+tagiga	301	-1
+tagiiw	301	18
+tagila	301	-1
+tagkad	301	24
+tagki	301	25
+tago'	301	29
+tago'ol	301	31
+tagol	301	35
+tagola	301	35
+tagsol	301	39
+tagsoy	302	6
+tagtag	302	13
+tahaco'co	302	18
+tahacowa	302	19
+tahadoy	302	20
+tahaf	302	25
+tahafikod	302	30
+tahanini	302	35
+tahapiga'	302	-1
+tahfod	302	-1
+tahic	302	38
+tahidag	303	8
+tahini	303	14
+tahira	303	17
+tahka	303	21
+tahkal	303	28
+tahkol	303	30
+tahod	303	32
+tahoriyac	303	33
+tahpo	303	34
+tahtah	304	6
+taipiyaw	304	-1
+taiwag	304	18
+takag	304	-1
+takah	304	23
+takal	304	26
+takar	304	31
+takaraw	304	31
+takaw	304	36
+takay	304	42
+takec	305	6
+taker	305	11
+takid	305	15
+takini'	305	-1
+taklig	305	19
+taknip	305	22
+takod	305	29
+takodicay	305	29
+takonfan	305	30
+takogkog	305	32
+takogkogay	305	33
+takokog	305	-1
+takola'	305	40
+takolaw	306	6
+takolil	306	11
+takoliyaw	306	-1
+takololo	306	14
+takomi	306	-1
+takomod	306	18
+takonol	306	21
+takop	306	22
+takos	306	31
+takowanan	306	-1
+taktak	306	38
+tala	306	39
+tala'ta'	307	14
+talacay	307	16
+talacowa	307	18
+talagawan	307	24
+talahkal	307	25
+talakal	307	34
+talakes	307	36
+talaktak	307	37
+talalokan	307	4
+talamagaw	308	5
+talaw	308	8
+talay	308	15
+talegteg	308	-1
+talem	308	17
+tales	308	21
+tali	308	23
+talid	308	24
+taligafoh	308	26
+talik	308	30
+talimola'	308	31
+talip	308	-1
+talipa'lal	309	7
+taliyok	309	14
+talo'an	309	23
+taloc	309	26
+talod	309	29
+taloged	309	33
+talokan	309	34
+taloko	309	35
+talolog	309	36
+talopiyak	309	-1
+tama	309	39
+tama'	310	-1
+tamako	310	15
+tamana	310	-1
+tamarag	310	18
+tamayan	310	19
+tamdaw	310	21
+tamek	310	36
+tamina	310	37
+tamita	310	-1
+tamiyanan	310	42
+tamlac	311	7
+tamod	311	12
+tamohog	311	-1
+tamor	311	20
+tamorak	311	21
+tamorog	311	22
+tamowanan	311	26
+tampo	311	28
+tana	311	33
+tana'	311	36
+tanam	311	38
+taneg	312	6
+tanektek	312	17
+tanestes	312	-1
+tanikay	312	32
+taniktik	312	33
+tanod	312	35
+tanohtoh	312	38
+tanoktok	312	41
+tanoman	313	7
+tanotireg	313	9
+tao	313	18
+taos	313	26
+tapa'	313	32
+tapac	313	37
+tapad	313	39
+tapag	314	8
+tapakad	314	22
+tapal	314	24
+tapay	314	32
+tapdak	314	34
+tapdoh	314	35
+taped	314	39
+tapes	314	40
+tapi'	315	8
+tapic	315	12
+tapid	315	13
+tapila'	315	14
+tapiror	315	16
+tapiyas	315	18
+taplig	315	21
+taplik	315	-1
+tapnih	315	23
+tapod	315	31
+tapodo	315	31
+tapokaw	315	37
+taporo	315	38
+tapowaray	316	5
+taproc	316	13
+tapsi'	316	15
+tara'ar	316	18
+tarac	316	20
+tarag	316	24
+taragitag	316	29
+tararoan	316	30
+tarawid	316	32
+tared	316	37
+tarifaso	316	41
+tarig	317	9
+tarigtig	317	12
+tariktik	317	16
+tariwid	317	18
+tariwil	317	20
+tarnes	317	22
+tarodo'	317	24
+taroh	317	25
+tarok	317	26
+tarokos	317	-1
+tarpes	317	33
+tasalamaan	317	34
+tastas	317	39
+tata	318	7
+tata'ag	318	8
+tata'ak	318	16
+tatafik	318	23
+tatahciw	318	26
+tatahgan	318	27
+tatamaan	318	29
+tatata	318	35
+tatextex	318	37
+tatig	318	38
+tatigih	318	39
+tatiih	318	41
+tatiplok	319	17
+tatiniir	319	18
+tatnaan	319	19
+tato'lep	319	22
+tatodog	319	23
+tatokem	319	36
+tatood	319	38
+tatoy	319	40
+tawa	320	15
+tawal	320	25
+tawasi	320	29
+tawataw	320	33
+tawataway	320	33
+tawciw	320	36
+tawi'ig	320	-1
+tawinaan	320	41
+tawki	321	7
+tawtaw	321	9
+tayad	321	11
+tayal	321	-1
+tayhaw	321	21
+tayhi	321	23
+tayi'	321	25
+tayko	321	32
+tayni	321	33
+tayo	321	37
+tayra	322	9
+tayrig	322	18
+tdac	322	20
+tdal	322	24
+tdi	322	32
+tdo	322	39
+tegteg	323	7
+tektek	323	9
+teltel	323	13
+temtem	323	15
+teptep	323	17
+terter	323	20
+tfad	323	-1
+tfafac	323	36
+tfi'	323	-1
+tfig	323	40
+tfo	324	18
+tfo'	324	24
+tfoc	324	25
+tfok	324	34
+tfon	324	36
+tfos	324	38
+tga'an	324	40
+tged	324	41
+tger	325	10
+tgil	325	12
+ti'aw	325	20
+ti'dap	325	23
+ti'enec	325	25
+ti'er	325	28
+ti'nag	325	36
+ti'raw	325	37
+tidos	325	39
+tifac	326	9
+tifarag	326	17
+tifek	326	21
+tifni	326	30
+tiftif	326	31
+tigalaw	326	36
+tigas	327	7
+tigasod	327	7
+tigdahan	327	12
+tigki	327	13
+tiglel	327	15
+tigroh	327	17
+tigsokiw	327	22
+tigsopayo	327	24
+tigtig	327	26
+tihfa	327	34
+tihi	327	36
+tihlom	328	14
+tihmok	328	16
+tihtih	328	22
+tikami	328	23
+tikda	328	25
+tiked	328	28
+tiko	328	31
+tikokay	328	40
+tikolac	329	8
+tilak	329	9
+tilfes	329	12
+tilid	329	13
+tilo	329	27
+tima	329	33
+tima'	329	36
+timel	329	40
+timol	330	8
+timpa'	330	16
+timpi'	330	17
+timra	330	19
+tina'i	330	20
+tinac	330	21
+tinako	330	22
+tinci	330	33
+tinol	330	34
+tioy	330	38
+tipaw	330	39
+tiped	330	41
+tipid	331	6
+tiplak	331	9
+tiplok	331	15
+tipod	331	17
+tipolo	331	21
+tipos	331	25
+tira'	331	28
+tireg	331	29
+tiri'	332	-1
+tisek	332	18
+tisel	332	20
+tisil	332	24
+tisod	332	27
+tisowanan	332	29
+titaanan	332	31
+titi	332	33
+tiwa'	332	34
+tiwal	332	36
+tiwas	332	38
+tiwid	332	40
+tiwtiw	332	42
+tiyac	333	10
+tiyad	333	12
+tiyam	333	16
+tiyap	333	20
+tka	333	21
+tka'	333	23
+tkal	333	24
+tkatka	333	28
+tked	333	30
+tkef	333	37
+tkeg	333	38
+tkek	333	39
+tkel	334	8
+tkep	334	11
+tker	334	12
+tkes	334	14
+tki'	334	20
+tkig	334	23
+tko'	334	24
+tkog	334	26
+tkoh	334	33
+tkol	334	36
+tkop	334	39
+tlac	334	40
+tlaf	335	7
+tlag	335	8
+tlay	335	12
+tlec	335	16
+tleg	335	20
+tlek	335	21
+tlel	335	26
+tlep	335	31
+tli	335	36
+tli'i	335	41
+tloc	336	6
+tlof	336	19
+tlog	336	23
+tloh	336	27
+tloho'	336	29
+tlook	336	30
+tlookan	336	31
+tmek	336	32
+tmenek	336	38
+tmer	336	42
+tmik	337	7
+tmili'	337	12
+tmo	337	13
+tmok	337	17
+tmoy	337	20
+tna'	337	23
+tnak	337	26
+tnas	337	34
+tnaysi	337	35
+tneg	337	37
+tnem	337	38
+tnes	337	40
+tnod	338	8
+tnok	338	10
+tnooy	338	15
+tnor	338	21
+tnos	338	25
+to'ag	338	28
+to'as	338	31
+to'aya	339	8
+to'em	339	13
+to'man	339	15
+to'ol	339	23
+to'to	339	26
+to'to'	339	31
+toda	339	34
+todadac	339	36
+todal	339	38
+todidis	339	39
+todis	340	8
+todod	340	10
+todog	340	12
+todoh	340	23
+toem	340	28
+tofa	340	29
+tofafac	340	30
+tofeg	340	32
+tofific	340	34
+tofil	340	36
+tofor	340	40
+tofotofo	341	7
+toga'ef	341	11
+togagan	341	13
+togal	341	14
+togigic	341	18
+togih	341	20
+togod	341	21
+togroh	341	28
+togtog	341	34
+tohatoh	341	38
+tohem	342	9
+toka	342	11
+toka'	342	13
+tokad	342	15
+tokah	342	17
+tokar	342	19
+tokatok	342	21
+toked	342	22
+toker	342	23
+toki	342	28
+tokikar	342	32
+tokilaw	342	34
+tokinih	342	36
+tokinil	342	40
+tokiso	343	7
+tokitok	343	9
+tokiyar	343	10
+tokled	343	16
+toknih	343	19
+toko	343	21
+tokod	343	28
+tokoh	343	30
+tokos	343	34
+toktok	343	4
+tolac	344	5
+tolag	344	10
+tolampo	344	14
+tolas	344	16
+tolatolaw	344	23
+toled	344	26
+tolek	344	27
+tolem	344	29
+tolidac	344	34
+tolik	344	36
+tolo	344	38
+tolo'	345	9
+tolok	345	14
+tolon	345	16
+tomadaw	345	25
+tomay	345	26
+tomcek	345	28
+tomes	345	35
+tomiyac	346	5
+tomli'	346	11
+tomokol	346	13
+tona	346	15
+tonaton	346	17
+tonek	346	18
+toni'	346	22
+tonini	346	26
+tono'	346	27
+tood	346	30
+toor	346	35
+topa	347	13
+toper	347	15
+topi	347	17
+topida'	347	18
+toplak	347	22
+toptop	347	25
+tora	347	26
+torcek	347	28
+tores	347	31
+tori	347	33
+torik	347	35
+torira	347	36
+torirac	347	38
+toris	347	40
+toro'	348	8
+torod	348	17
+torok	348	24
+toron	348	26
+toror	348	30
+tortor	348	34
+tosa	348	39
+tosir	349	8
+tosok	349	10
+tosor	349	15
+tostos	349	18
+totag	349	22
+totat	349	23
+toto'	349	26
+totog	349	29
+totoh	349	34
+totom	349	36
+totoy	349	38
+towa'	349	39
+towapon	350	8
+towasig	350	9
+towaso	350	10
+towid	350	11
+tpa	350	12
+tpa'	350	14
+tpeg	350	16
+tpes	350	17
+tpi'	350	20
+tpih	350	21
+tpik	350	22
+tpo	350	25
+tpoc	350	28
+tpog	350	29
+tpor	350	30
+tra'	350	33
+trak	350	34
+tred	350	36
+treg	350	40
+trek	351	7
+trep	351	14
+trik	351	19
+troc	351	24
+tsek	351	25
+tsel	351	28
+wa	351	32
+wa'ay	351	35
+wa'cik	351	36
+waa'	351	39
+wacay	351	40
+waco	352	6
+wadihag	352	18
+wadis	352	19
+wagawag	352	23
+waheg	352	25
+wakag	352	26
+wakah	352	28
+wakawak	352	34
+waklid	352	40
+wakog	353	8
+wakwak	353	10
+waladwad	353	11
+walay	353	12
+wali	353	13
+walin	353	18
+walwal	353	22
+wama	353	23
+wanag	353	25
+waneg	353	27
+wanik	353	29
+wara	353	31
+warak	353	36
+waray	354	8
+warih	354	10
+warwar	354	12
+waswas	354	15
+wata	354	17
+watawat	354	19
+wawa	354	21
+wayway	354	25
+widag	354	28
+widawidan	354	32
+widi	354	33
+wigawig	354	38
+wihawih	354	39
+wikol	355	6
+wikwik	355	7
+wilet	355	8
+wina	355	12
+wisawisan	355	19
+witawit	355	21
+wiyawi'	355	23
+yafayaf	355	27
+yakyak	355	32
+yamayam	355	35
+yatayat	355	36
+yo	355	37
+yofig	355	38
+yolinohana	356	8
