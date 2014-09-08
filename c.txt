@@ -1161,9 +1161,10 @@ cigcig
 to change land boundary to add to one own's property
 擅改界線以蠶食手段將鄰土地占為己有
 
-cigdis / gocdis. 
+cigdis
 to bare ones teeth as a dog does
 露出牙齒(如狗)
+=> gocdis
 
 cigki 
 to become related through marriage of children to each other * the fathers of each couple (from Amoy dialect)
