@@ -55,33 +55,11 @@ market
 誠徵義工
 ========
 
-感謝 @audreyt 幫忙 OCR, 如果願意幫忙校對/轉換格式，請到 [阿美族字典OCR](https://www.moedict.tw/tmp/amis/) 下載。
+感謝 @audreyt 及廣大鄉民幫忙 OCR, 如果願意幫忙校對/轉換格式，請到 [阿美族字典OCR](https://www.moedict.tw/tmp/amis/) 下載。
 
 如果你有 Github 帳號: 請寄站內信給 @miaoski, 以便打開 commit 權限，謝謝！
+如果沒有 Github 帳號: 請寄信給 lin.zhemin at gmail.com 謝謝。
 
-如果沒有 Github 帳號: 請寄信給 lin.zhemin at gmail.com 謝謝。一次請認領一個字母。
-
-| 字首 | 認領人 | 完成日     |
-|------|--------|------------|
-| '    | miaoski| 2014-08-30 |
-| a    | 待認領 |            |
-| c    | 待認領 |            |
-| d    | 待認領 |            |
-| f    | 待認領 |            |
-| g    | 待認領 |            |
-| h    | 待認領 |            |
-| i    | 待認領 |            |
-| k    | 待認領 |            |
-| l    | 待認領 |            |
-| m    | 待認領 |            |
-| n    | 待認領 |            |
-| o    | 待認領 |            |
-| p    | 待認領 |            |
-| r    | 待認領 |            |
-| s    | 待認領 |            |
-| t    | 待認領 |            |
-| w    | 待認領 |            |
-| y    | 待認領 |            |
 
 
 轉換

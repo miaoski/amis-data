@@ -240,8 +240,6 @@ tobacco juice
 遺留在煙斗吸管內的菸鹼(尼古丁) (Kwangfu 光復語)
 => cica'
 
-cica' = 'adteg
-
 'adtom
 a kind of grass
 草植類之一
@@ -456,11 +454,9 @@ brother or sister-in-law
 'alic
 a sparrow
 華南麻雀
+=> cirep
 a species of fish
 魚的一種
-=> cirep
-
-cirep = 'alic
 
 'alilis
 eagle * Serpent eagle

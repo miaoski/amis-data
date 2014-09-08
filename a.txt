@@ -34,31 +34,36 @@ festive * merry m�king
 喜慶，會宴
 full of pride
 驕傲，自豪，不可一世，自誇
-    kaacagan
-    festival * day of .merry making
-    結婚喜慶之日，大喜之日
-    haliacagay
-    one given to carousing and pleasure
-    沉迷於宴樂的人
+=> kaacagan, haliacagay
+
+kaacagan
+festival * day of .merry making
+結婚喜慶之日，大喜之日
+
+haliacagay
+one given to carousing and pleasure
+沉迷於宴樂的人
 
 acek
 disgust * feeling of revulsion
 嫌惡，嘔心
-    kaacekan
-    something ritually unclean
-    儀式上不潔淨的東西
-    kaacekan
-    filthy * dirty
-    污穢，醜惡
-    maacek
-    feel revulsion toward
-    嫌惡感，厭惡感
     Paaceken nira ko tireg nira.
     He defiled himself.
     自取其辱
     Paaceken nira ko Kawas.
     He blasphemed against God.
     他褻潰上帝
+=> kaacekan, maacek
+
+kaacekan
+something ritually unclean
+儀式上不潔淨的東西
+filthy * dirty
+污穢，醜惡
+
+maacek
+feel revulsion toward
+嫌惡感，厭惡感
 
 
 # p.45
@@ -80,9 +85,11 @@ sickness * disease
 疾病，生病
 pain
 疼痛，苦痛
-    paadada
-    to make (someone) sick
-    使人生病
+=> paadada
+
+paadada
+to make (someone) sick
+使人生病
 
 adah
 heal
@@ -314,18 +321,16 @@ when (future)
     Ano hakowa ira kiso? 
     When will you come?
     你什麼時候來？你何時到？
-    anocila 
-    tomorrow
-    明天
-    anoci:la 
-    sometime in the near future
-    在最近將來的任何時間
 
 anocila 
 tomorrow
 明天
 when word is lengthened (anoci:la) the meaning can be extended to future several days or weeks away
 當:音拉長時表示未來數天或數星期之某時(日)
+
+anoci:la 
+sometime in the near future
+在最近將來的任何時間
 
 apa 
 dumb * unable to speak
@@ -404,16 +409,18 @@ dwelling place * place to stay
 asik 
 to sweep
 掃地，打掃
-    saasik 
-    broom
-    掃帚
+=> saasik
+
+saasik 
+broom
+掃帚
 
 asimaan 
 to do any way you wish
 悉聽尊便，沒有關係
 menial * of least value * anything will do
 卑賤的，下賤的
-    kasimaanay saan cagra to dafog ako. 
+    Kasimaanay saan cagra to dafog ako. 
     They showed no respect to my property.
     他們對我的財產不重視
     Fagcalay ko riko' nira. Asimaan kono mako. 
