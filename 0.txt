@@ -1988,8 +1988,6 @@ to wet * make wet * as from rain
 
 sger = 'opic
 
-cpa' = 'opic
-
 'opir
 a braid of hair or of rope
 束髮，編髮，編繩
