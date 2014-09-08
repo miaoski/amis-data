@@ -11,7 +11,7 @@ def unbreak_line(iterator):
     buf = []
     for l in iterator:
         l = l.decode("utf8")
-        new_entrie_match = re.match("^\w+ (/ \w+)\.?", l)
+        new_entrie_match = re.match("^[\w':]+ (/ [\w':]+ ?)+\.?", l)
         if "-" in l or new_entrie_match:
             if "-" not in l:
                 begin, end = new_entrie_match.span()
@@ -33,6 +33,15 @@ def split_on_first_CJK(line):
             pass
     return (line, "")
 
+def amis_synonym(glos):
+    glos = glos.strip()
+    syn = re.search(r"^/ ?([a-z':]+)[.]? ", glos)
+    if syn:
+        amis = "=> %s" % syn.group(1)
+        eng = glos.split(' ', 1)[1]
+        return amis+"\n"+eng
+    else:
+        return glos
 
 if __name__ == "__main__":
     for l in unbreak_line(fileinput.input()):
@@ -48,7 +57,7 @@ if __name__ == "__main__":
             heteronyms.append((english, mandarin))
         if len(heteronyms) > 0:
             english, mandarin = zip(*heteronyms)
-            heteronyms = "\n".join(["%d. %s" % (i+1, x) for i, x in enumerate(english)] + ["%d. %s" % (i+1, x) for i, x in enumerate(mandarin)])
+            heteronyms = "\n".join([amis_synonym(x) for i, x in enumerate(english)] + [x.strip() for i, x in enumerate(mandarin)])
         else:
             heteronyms = ""
             print "problem with (het)", l.encode("utf8")
