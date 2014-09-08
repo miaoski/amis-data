@@ -64,8 +64,9 @@ the name of a flimsy green spray of green * fern-like plant
 羊齒植物的一種
 
 dadagoyan 
-a raft made of large bamboo poles
-竹筏
+a raft made of large bamboo poles, used for fishing and catching minnows
+竹筏(捕魚用)
+=> dagoy
 
 dadaya 
 evening * up till midnight
@@ -195,11 +196,6 @@ dagoy
 to swim
 游泳
 => dadagoyan
-
-dadagoyan 
-raft used for fishing and catching minnows
-竹筏(捕魚用)
-=> dagoy
 
 dahag
 to be disturbed by noise and confusion
