@@ -678,8 +678,6 @@ name of a village where many facidol grew
 
 'apalo = 'apaloay
 
-facidol = 'apaloay
-
 'api
 twin
 孿生
