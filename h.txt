@@ -197,8 +197,9 @@ verbal question mark * uncertainty expressed about a third party with a strong p
 口頭上的疑問句，是說話者向別人反問的用語
 
 hakitira 
-place to start from
-起點，從那邊開始(工作進行活動、行動等)
+place to start from * starting there
+起點，從那邊開始(工作進行活動、行動等)；從那兒開始
+=> itira
 
 hakiya 
 verbal question mark * meaning is less than obvious * provoking thought
@@ -571,9 +572,9 @@ like this * the norm * the way something is done
     長久以來(從不知的過去一直到現在) 我們都缺水
 time word with particles attached
 附加字首後變成時間副詞
-ano hatini / imatini.
-right now * present time
-現在，此刻，這時
+    ano hatini / imatini.
+    right now * present time
+    現在，此刻，這時
     To hatiniay a halafin 'i 
     All this time...
     一直到現在

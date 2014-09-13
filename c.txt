@@ -1296,11 +1296,6 @@ time when marked, by particles before or after
     次日
 => anocila, inacila, icila, tahacila, cilacila
 
-icila 
-several days ago
-幾天前
-=> cila
-
 tahacila 
 until tomorrow
 到明天，迄明日
@@ -2295,11 +2290,6 @@ where?
 那裏，那兒，何處
 => icowa, naicowa, talacowa, hacowa, pakacowa, icowaay
 
-icowa 
-where?
-在哪裏？在哪兒？在何處？
-=> cowa
-
 naicowa 
 where from?
 從那裏？
@@ -2313,11 +2303,6 @@ go where?
 pakacowa 
 how? which way?
 怎樣？走那一條路？
-=> cowa
-
-icowaay 
-which?
-那一個？那一件？那一樁(事)？
 => cowa
 
 cowaco' 

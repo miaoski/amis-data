@@ -161,7 +161,8 @@ aira
 there will be
 將有，將會有
 there will be present (the a prefix indicates future)
-是有的現在式(前面+a表示未來或將來式)
+是有的現在式(前面 +a 表示未來或將來式)
+=> ira
 
 
 # p.46
