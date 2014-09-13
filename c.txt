@@ -2310,11 +2310,6 @@ go where?
 去哪裏？
 => cowa
 
-hacowa 
-how much?
-多少？
-=> cowa
-
 pakacowa 
 how? which way?
 怎樣？走那一條路？

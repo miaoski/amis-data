@@ -6,8 +6,6 @@ soft watery rice
 稀飯、粥、米乳、米湯
 => miki'a'am
 
-holo = 'a'am
-
 miki'a'm
 to professionally beg
 討飯、 乞討
@@ -1939,11 +1937,12 @@ someone who has poetic gifts
 => 'olic
 
 'olid
-/holol. to visit around
+to visit around
 拜訪，造訪
     pa'oliday / ma'oliday a fo'is
     a shooting star from a comet
     流星
+=> holol
 to look for a mate * to date
 約會，談戀愛
 
