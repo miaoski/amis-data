@@ -234,7 +234,7 @@ woman * women
 
 masafafahiananay 
 to act lady-like
-妞妮作態(男人)，行動像女人一樣(男人)
+忸怩作態(男人)，行動像女人一樣(男人)
 => fafahian
 
 fafaod
@@ -525,11 +525,6 @@ pifalahan
 toilet
 垃圾堆，廁所，垃圾場
 => pa'ilidan, falah, tafalahan
-
-kinafalah 
-to give oneself completely to a task
-為…冒生命的危險，犧牲
-=> falah
 
 tafalahan 
 garbage pit

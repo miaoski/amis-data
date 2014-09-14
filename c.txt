@@ -1194,11 +1194,6 @@ to be honored
 受尊重，敬重
 => kacihragan
 
-kacihragan 
-summer time
-夏天，夏季
-=> cihrag
-
 cikadaan 
 Kada is the name of a person kada
 係日人名賀田
@@ -1634,11 +1629,6 @@ to look down upon a scene from a high place
 從高處往下看，居高臨下，眺望，瞭望
 => pikcoran
 
-pikcoran 
-scenic view spot
-守望台，瞭望台
-=> ckor
-
 ckos 
 bent over and broken as rice grain standing in the field that has not been harvested
 折垂的稻穗
@@ -1943,7 +1933,7 @@ pass each other * as vehicles on the road
 
 cogacog
 to come without invitation * no embarrassment in doing something
-不請自來(如宴會時)，做事不妞妮作態
+不請自來(如宴會時)，做事不忸怩作態
 => cogcog, mikicogacog
 
 mikicogacog 

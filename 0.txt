@@ -489,8 +489,6 @@ festering sores with a core
 
 'itkiw = 'aliwates
 
-kaliwates = 'aliwates
-
 'alo
 river * stream * creek
 河，溪澗，小溪
