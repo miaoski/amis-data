@@ -949,6 +949,10 @@ the place of monkeys
 猴羣棲息之處
 the name of an Amis village 
 阿美族加禮洞部落名
+the name of an Amis village
+猴子羣集處，光復鄉東富部落名
+=> lotog
+
 => Kalotogan
 
 Kalotogan = kalotogan

@@ -971,8 +971,6 @@ earthquake
 地震
 => lonen
 
-lonen = 'atoray
-
 'atoto
 Caffre Lily * a shade flower (Clivia Miniata) Spider Lily
 君子蘭，水仙

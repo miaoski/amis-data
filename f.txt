@@ -843,7 +843,7 @@ autumn
 
 pafantagan = kafarawfawan
 
-kalalood = kafarawfawan
+# kalalood = kafarawfawan
 
 fariw 
 to cut brush * to make a clearing in the wilderness
