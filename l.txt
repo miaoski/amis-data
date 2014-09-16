@@ -994,11 +994,6 @@ frontier * dividing line
 邊界，分界線
 => lawac
 
-makolawac 
-both edges or sides of
-兩邊
-=> lawac
-
 lawal
 a flying squirrel
 松鼠
@@ -1286,11 +1281,6 @@ licag
 dry * generic word 
 乾燥，乾涸
 => 'icag, malicagay
-
-malicagay 
-name of a poisonous snake with black and white diamond shaped design * Taiwan Habu
-龜殼花(蛇)
-=> licag
 
 licay 
 greeting
