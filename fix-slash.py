@@ -14,7 +14,11 @@ for line in sys.stdin:
     if x is None:
         print ln
     else:
-        (word, dsc) = ln.split('.', 1)
+        try:
+            (word, dsc) = ln.split('.', 1)
+        except:
+            print "Error:", ln
+            raise
         wx = [w.strip() for w in word.split('/')]
         print wx[0]
         print "=>", ', '.join(wx[1:])

@@ -93,11 +93,6 @@ after * behind
 之後，以後
 => naikoran, naniaykor, talarikor, iikor
 
-naikoran 
-situation after something or someone has gone or happened
-所經過之事，事情經過之後，某人走了之後，之情境，事情發生之後
-=> ikor
-
 naniaykor 
 from the back (moving towards)
 從後面，從背後
@@ -286,15 +281,6 @@ a connective with some of the force of "why"
     Nisamaanan iro tomagic cigra? 
     What brought on his crying?
     他為何哭？
-
-nawiro
-why?
-為何？
-for what purpose?
-為何目的
-what was the cause?
-甚麼原因
-=> mana
 
 iromatini = imatini
 
