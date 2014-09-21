@@ -133,14 +133,16 @@ a saddle * a cushion
 
 tada'kim
 gold
-金的，純金
+黃金，金的，純金
+=> 'kim
 
 tada'mi
 barley
 大麥
+=> 'mi
 
-tada
-tada- a grammatical affix indicating a great amount of or a great degree of something in positive or negative forms
+tada-
+a grammatical affix indicating a great amount of or a great degree of something in positive or negative forms
 指文法上的附加詞表示肯定或否定形式的重大或東西的盛大程度
     Tada maolah cigra to wawa nira.
     He loves his child very very much.
@@ -616,8 +618,8 @@ to stumble * trip over
 => tahfikod
 
 tahanini
-up until now.  See anini.
-直到現在 參閱 anini.
+up until now.
+直到現在，一直到今天
 => anini
 
 tahapiga'
@@ -708,6 +710,7 @@ to eat immediately when the food is hot
 tahoriyac
 to slip * slide on something slick
 滑倒
+=> horiyac
 
 tahpo
 to cover over the top of something * as with a cloth
@@ -1032,6 +1035,7 @@ Where are (you) going?
     Talacowa kiso?
     Where are you going?
     你要去那裡?
+=> cowa
 although
 雖然
     Talacowa o mafana'ay cigra nikawrira awaay ko taneg nira.
@@ -1044,6 +1048,8 @@ rooster * male chicken
 => tagarawan
 
 talahkal
+come to light * be revealed
+到世上，到外面，顯露出來，啟示出來
 to come to shore * to come to the surface
 上岸，浮上水面
     Talahkalto ko fotig.
@@ -1062,6 +1068,7 @@ to appear
     O tatalahkal ci Yis Kristo.
     Jesus Christ will appear.
     耶穌基督即將顯現
+=> hkal
 
 talakal
 a metal trap for catching game
@@ -1600,6 +1607,9 @@ tapakad
 to all go together
 全體出動，勞師動眾
 => krih
+a smaller group belonging to a larger delegation of travelers walking
+成群結隊
+=> 'alpad
 to take a tree out completely including the roots
 連根拔起
 
@@ -2141,6 +2151,8 @@ to drop one's head
 tawinaan
 a mother animal
 雌性動物
+mother * of all animal life
+雌性動物 (家畜) 被選為繁殖者
     O tawinaan a kolong konini.
     This is a mother water buffalo.
     這是母牛 (種牛)
@@ -2514,2971 +2526,2359 @@ to cook till tender
 to cook too long * as vegetables
 煮的很久，如蔬菜
 
-
 tgil
 to listen * to listen to
-to hear
 聽，傾聽
+	O mitgilay kako.
+	I am listening.
+	我是在聽著
+	O maan ko tatgilen ita?
+	What are we to be listening to?
+	我們要聽甚麼？
+to hear
 聽
-
-
-O mitgilay kako.
-I am listening.
-我是在聽著
-
-
-Pakatgil kiso haw?
-Can you hear?
-你能聽到嗎?
-
-
-Matgil ako ko sowal iso.
-I can hear / I have heard what you said.
-你說的話，我都聽到
-
-
-Cima ko pitgilan iso?
-Who is your counsellor?
-你的顧問是誰?
-
-
-O maan ko tatgilen ita?
-What are we to be listening to?
-我們 要聽甚麼？
-
+	Pakatgil kiso haw?
+	Can you hear?
+	你能聽到嗎?
+	Matgil ako ko sowal iso.
+	I can hear / I have heard what you said.
+	你說的話，我都聽到
+	Cima ko pitgilan iso?
+	Who is your counsellor?
+	你的顧問是誰?
 
 ti'aw
+Opposited-leaves fig * a species of tree
+金氏榕
 => lomoh
-Opposited - leaves fig * a species of tree
-=> fariri
 a species of snake which leaps and is afraid of people
-金氏 榕
 一種很特別會飛躍的蛇且牠很怕人
-
+=> fariri
 
 ti'dap
 to be stacked * of paper or anything thin
-堆積，紙張或任 何薄的東西的堆疊狀
-
+堆積，紙張或任何薄的東西的堆疊狀
 
 ti'enec
 to put hand inside clothing
+把手插入襯衫或寬大衣服內
 to hold tightly * to press closely to (one's person)
+挾在腋窩，緊緊的
 to have * hold
-把手插入襯衫或寬大衣服 內
-挾在腋 窩，緊緊的
 有拿東西
-
 
 ti'er
 to trust * have faith in
-信任，信賴，對‧‧‧有信心 be faithful * trustworthy 忠實的，耿直的，可信賴的
-
-
-O tati'eren ita ci Yis.
-Jesus is trustworthy.
-耶穌是可信賴的
-
-
-O piti'eran ita ci Yis.
-Jesus is the object of our faith / the one to be trusted.
-耶穌是我們信仰的對象，是值得我們信賴的那一位
-
-
-O nano piti'er ita ci Kristoan ko saka mapa'orip kita.
-We are saved on the basis of our faith / trust in Christ.
-我們因相信耶穌 基督而得救
-
+信任，信賴，對…有信心
+be faithful * trustworthy 
+忠實的，耿直的，可信賴的
+    O tati'eren ita ci Yis.
+    Jesus is trustworthy.
+    耶穌是可信賴的
+    O piti'eran ita ci Yis.
+    Jesus is the object of our faith / the one to be trusted.
+    耶穌是我們信仰的對象，是值得我們信賴的那一位
+    O nano piti'er ita ci Kristoan ko saka mapa'orip kita.
+    We are saved on the basis of our faith / trust in Christ.
+    我們因相信耶穌 基督而得救
 
 ti'nag
-=> ta'nag
 to lie on one's back
 仰著睡
-
+=> ta'nag
 
 ti'raw
 to stretch one's body so he can see better
-傾注全力，睜開 眼睛看某人所以他能看的很清楚
-
+傾注全力，睜開眼睛看某人所以他能看的很清楚
 
 tidos
-=> tisod
 a change of clothing
 換衣服
-
-
-Patidosen ko riko' noya wawa.
-Change the child's clothing.
-把小孩的衣服換掉
-
+    Patidosen ko riko' noya wawa.
+    Change the child's clothing.
+    把小孩的衣服換掉
+=> tisod
 
 tifac
 to be taller than
+突出，超過，比…高
+    Matifac no wawa ako kako.
+    My child has grown taller than I.
+    我的小孩長的比我高
+    Matifac no loma' ko kilag.
+    Houses are being made higher than trees.
+    房子的高度比樹還高
 figuratively to be more than
-突出，超過，比……高
-比喻超過......以上
-
-
-Matifac no wawa ako kako.
-My child has grown taller than I.
-我的小孩長的比我高
-
-
-Matifac no loma' ko kilag.
-Houses are being made higher than trees.
-房子的高度比樹還高
-
-
-Mitifac ko fana' nira to sigsi nira.
-He knows more than his teacher.
-他比他的老師知道
-
+比喻超過…以上
+    Mitifac ko fana' nira to sigsi nira.
+    He knows more than his teacher.
+    他比他的老師知道
 
 tifarag
 to throw leg over body of a persion * lying next to and leaning against bed partner
-把腿橫放在別人身上睡，把身體橫躺在 鄰睡的人或同床的人身上睡覺
-
+把腿橫放在別人身上睡，把身體橫躺在鄰睡的人或同床的人身上睡覺
+=> patifarag
 
 patifarag
 to cross one's legs
 把腿交叉在別人腿上睡
-
+=> tifarag
 
 tifek
 to mill grain
 碾米
-
+    Matifekto ko panay niyam.
+    Our rice hase been milled.
+    我們的殼子碾好了
+=> pitifekan, tifekan
 
 pitifekan
 a mill
-a rice polishing machine
 碾米廠
+a rice polishing machine
 碾米機
-
-
-Matifekto ko panay niyam.
-Our rice hase been milled.
-我們的殼子 碾好了
-
+=> tifek
 
 tifekan
-a wooden stand for beat - ing out rice
-木製能站立著的，能用 來敲去稻穀的臼
-
+a wooden stand for beating out rice
+木製能站立著的，能用來敲去稻穀的臼
+=> tifek
 
 tifni
 heat rash
 痱子
 
-
 tiftif
+a mouth harp made of bamboo which is also a stringed instrument * single and double styles 
+竹口琴 (古老樂器) 也是弦樂器；黃銅單簧和黃銅雙簧
 => datok
-a mouth harp made of bamboo which is also a stringed instrument
-竹口琴 (古老樂器) 也是 弦樂器 * single and double styles 黃銅單簧和黃銅雙簧
-
 
 tigalaw
 clear * referring to water
-pure
-name of Amis village
 很清澈，很乾淨 (指水)
+    Tigalaway ko nanom noya fanaw.
+    The water in that lake is clear.
+    池塘的水很清潔乾淨
+pure
 純潔的
+    Tigalaw ko faloco' ako.
+    My conscience is clear.
+    我的良心清白，我的心很純淨
+name of Amis village
 豐濱鄉豐富部落名
+    
 
+# p.327
 
-Tigalaway ko nanom noya fanaw.
-The water in that lake is clear.
-池塘的水很清潔乾淨
-
-
-Tigalaw ko faloco' ako.
-My conscience is clear.
-我的良心清白， 我的心很純淨tigas / tigal. to have food caught in one's teeth 牙縫之殘留物
-
+tigas 
+to have food caught in one's teeth 
+牙縫之殘留物
+=> tigal
 
 tigasod
-=> tigasot
 to not be in unison
 不整齊，不劃一，不和諧
-
-
-Matatigasod ko rakat niyam.
-We didn't walk together (side by side) .
-我們沒有走得整齊劃一
-
-
-Matatigasod ko radiw nagra.
-They weren't singing in unison.
-我們歌唱的不和諧
-
+    Matatigasod ko rakat niyam.
+    We didn't walk together (side by side).
+    我們沒有走得整齊劃一
+    Matatigasod ko radiw nagra.
+    They weren't singing in unison.
+    我們歌唱的不和諧
+=> tigasot
 
 tigdahan
 a heifer * a young female cow
 未生子之母牛 (牝牛)
 
-
 tigki
-electricity
-the deed to a field / papers marking the boundaries
-電
-土地所有權狀 (from Japanese引自日語)
-
+electricity (from Japanese)
+電 (引自日語)
+the deed to a field / papers marking the boundaries (from Japanese)
+土地所有權狀 (引自日語)
 
 tiglel
 to have cracks at the base of toes on the bottom of one's foot
 腳趾底部破裂
 
-
 tigroh
-=> togroh
 the top surface of
 上層，頂峯
-
-
-Romakat ci Pitiro i tigroh no nanom.
-Peter walked on the surface of the water.
-彼得在水面上行走
-
-
-Tomireg ko wawa i tigroh no loma'.
-The child is standing on the top of the house.
-孩子在屋頂上站立着
-
+    Romakat ci Pitiro i tigroh no nanom.
+    Peter walked on the surface of the water.
+    彼得在水面上行走
+    Tomireg ko wawa i tigroh no loma'.
+    The child is standing on the top of the house.
+    孩子在屋頂上站立着
+=> togroh
 
 tigsokiw
-Catholic church and religion
-天主教 (from Japanese 引 自日語)
-
+Catholic church and religion (from Japanese)
+天主教 (引自日語)
 
 tigsopayo
-greeting of Catholics to each other meaning - May God take care of you.
-天主保佑你 (from Chinese引自國語)
-
+greeting of Catholics to each other meaning - May God take care of you. (From Chinese)
+天主保佑你 (引自國語)
 
 tigtig
-=> dadoy
 to weigh
-a swamp grass
-broom made from grass
 秤，量，稱
-芒草 花 (蘆葦)
+    Pina a tigtig ko karteg nonini?
+    How heavy this?
+    這有多重呢？
+    Tigtigen ta cipinag kita.
+    Weigh it and then we'll know.
+    稱起來我們才知道
+    Matigtigto konini a fotig.
+    This fish is weighed.
+    這條魚已經稱好了
+=> dadoy, tatigtigan
+a swamp grass
+芒草花 (蘆葦)
+broom made from grass
 掃帚是用草製成的
-
-
-Pina a tigtig ko karteg nonini?
-How heavy this?
-這有多重 呢？
-
-
-Tigtigen ta cipinag kita.
-Weigh it and then we'll know.
-稱起來 我們才知道
-
 
 tatigtigan
 scales for weighing
 體重機
-
-
-Matigtigto konini a fotig.
-This fish is weighed.
-這條魚已經稱好了
-
+=> tigtig
 
 tihfa
-=> hinefa
 to lie on stomach
-to lie on top of another person or animal
 面向下俯臥
+to lie on top of another person or animal
 俯身在別人身上或動物身上
-
+=> hinefa
 
 tihi
 the one next to
-one's companion
-mar- riage partner
 同事
+    O tihi ako cigra a matayal.
+    He works next to me.
+    他是我的同事
+    Matatihi kami a maro'.
+    We sat next to each other.
+    我們坐在一起
+one's companion
 同伴
+    Patihien kako a tayra i loma' nira.
+    Keep me company / go withme to his home.
+    你陪我去他家
+    Mala tihi ako cigra i kalasofitayan.
+    He was my companion in the military.
+    他是我當兵的伙伴
+marriage partner
 配偶
+    Aka pisatatihi.
+    Don't show favorites.
+    不要偏心
+    Masatatihi ko pipatli.
+    The thing is off balance.
+    東西安置的不平衡
 
 
-O tihi ako cigra a matayal.
-He works next to me.
-他是我的同事
-
-
-Matatihi kami a maro'.
-We sat next to each other.
-我們坐在一起
-
-
-Patihien kako a tayra i loma' nira.
-Keep me company / go withme to his home.
-你陪我去他家
-
-
-Aka pisatatihi.
-Don't show favorites.
-不要偏心
-
-
-Masatatihi ko pipatli.
-The thing is off balance.
-東西安置的不平 衡
-
-
-Mala tihi ako cigra i kalasofitayan.
-He was my companion in the military.
-他是我當兵的伙伴
-
+# p.328
 
 tihlom
 to surround * as for a group to stand around a person or thing or activity to watch
 圍觀，包圍，圍繞一人或東西觀看
 
-
 tihmok
 to learn over with head dowm
-to pros - trate oneself with head against the ground
-to reverse one's position * as to have one's head at the foot of the bed
 俯身頭朝下
+to prostrate oneself with head against the ground
 翻筋斗
-顛 倒的姿勢如睡覺時頭朝下趴著睡
-
-
-Matihmok ko foti' nira.
-He slept in a prostrate position (without stomach on the bed) .
-他趴著睡覺
-
+to reverse one's position * as to have one's head at the foot of the bed
+顛倒的姿勢如睡覺時頭朝下趴著睡
+    Matihmok ko foti' nira.
+    He slept in a prostrate position (without stomach on the bed).
+    他趴著睡覺
 
 tihtih
 to shake out the dust from
 抖落灰塵
 
-
 tikami
-letter
-信件 ( from Japanese 引自日語)
-
-
-Patikamien
-=> patiliden kako
-Write me a latter.
-請寫信給我
-
+letter (from Japanese)
+信件 (引自日語)
+    Patikamien / patiliden kako.
+    Write me a latter.
+    請寫信給我
 
 tikda
 to meet accidentally
 碰見，遇見，偶然遇見或碰見
-
-
-Matatikda kami i lalan.
-We met each other accidentally on the road.
-我們很偶然的在路上相遇
-
+    Matatikda kami i lalan.
+    We met each other accidentally on the road.
+    我們很偶然的在路上相遇
 
 tiked
-=> cmot
 fishing hook
 釣，鈎
-
-
-Patiked kako i riyar.
-I fish with hook and line in the ocean.
-我 在海邊釣魚
-
+    Patiked kako i riyar.
+    I fish with hook and line in the ocean.
+    我在海邊釣魚
+=> cmot
 
 tiko
-=> tikol
 to return * to come back to the starting point
+返回，回頭，歸還
+    Patikoen ko nicaliwan iso a codad.
+    Return the book you borrowed.
+    把你借走的書歸還
+    Matatikoto ko faloco' niyam a malaccay.
+    Our unity has been restored.
+    我們倆已回心轉意，和好如初
+    Mitiko cigra ihoni.
+    He came back a bit ago.
+    他剛回來過
+=> tikol
 a copper pan provided by Chinese for tribal people which polluted their food
-返 回，回頭，歸還
-中國人給山地人的一種銅鍋，用這 鍋煮，冷切後會變色，吃了對身體有害
-
-
-Patikoen ko nicaliwan iso a codad.
-Return the book you borrowed.
-把你借走的書歸還
-
-
-Matatikoto ko faloco' niyam a malaccay.
-Our unity has been restored.
-我們倆已回心轉意，和好如初
-
-
-Mitiko cigra ihoni.
-He came back a bit ago.
-他剛回來過
-
+中國人給山地人的一種銅鍋，用這鍋煮，冷卻後會變色，吃了對身體有害
 
 tikokay
 to be thrown and roll over before landing * referring to the body of a person
-=> tikolac
-tikolac. the name of a bird with a call like his name
 著地以前翻滾指一個人的身體
-牠的名字很像牠的聲音 * Bamboo Partridge 竹雞
+the name of a bird with a call like his name * Bamboo Partridge 
+牠的名字很像牠的聲音；竹雞
+=> tikolac
 
+
+# p.329
 
 tikolac
-=> tikokay
 a quail * Bamboo Partridge
 鵪鶉 (流氓)
-
+=> tikokay
 
 tilak
 to scatter * spread out in different directions * as rice * one's reputation * news
-撒播，四散，散落，向不同方向擴散，如 穀子，好名聲，新聞
-
+撒播，四散，散落，向不同方向擴散，如穀子，好名聲，新聞
 
 tilfes
 Chinese Cork Oak * a species of tree
 栓皮櫟
 
-
 tilid
-=> codad
 writing * to write
-pattern
 書，文章，書寫
+    Tiliden ko gagan iso.
+    Write your name.
+    寫你的姓名
+    O tadamaanay a tilid konini.
+    This is very important / special writing.
+    這是很重要的文件/特別的文件
+    O tilid ni Pawlo konini.
+    These are Paul's writings.
+    這是保羅的書信
+    Patiliden ni Pawlo ko salikaka no Loma.
+    Paul wrote to the brothers in Rome.
+    保羅寫信給在羅馬的信徒
+    O maan ko matiliday iso.
+    What have you written?
+    你寫的是什麼？
+    O nitilidan nima konini?
+    Who wrote this?
+    這是誰寫的
+pattern
 模範，模式
-
-
-Tiliden ko gagan iso.
-Write your name.
-寫你的姓名
-
-
-O tadamaanay a tilid konini.
-This is very important / special writing.
-這是很重要的文件/特別的文件
-
-
-O tilid ni Pawlo konini.
-These are Paul's writings.
-這是保羅的書 信
-
-
-Patiliden ni Pawlo ko salikaka no Loma.
-Paul wrote to the brothers in Rome.
-保羅寫信給在羅馬的信徒
-
-
-O maan ko matiliday iso.
-What have you written?
-你寫的是什 麼？
-
-
-O nitilidan nima konini?
-Who wrote this?
-這是誰寫的
-
-
-O citiliday a kiradom konini.
-This cloth is patterned.
-這件布料 是樣本
-
+    O citiliday a kiradom konini.
+    This cloth is patterned.
+    這件布料是樣本
+=> codad
 
 tilo
-=> talakal
 a trap made of string or twine
-用繩線或鐵絲佈設的
-
-
-捕獸陷阱 2. tilo ni Idek
-a rainbow
+用繩線或鐵絲佈設的捕獸陷阱 
+    Mitiloay cigra to fafoy.
+    He is snaring a wild boar.
+    他在佈設陷阱捕捉山豬
+tilo ni Idek - a rainbow
 彩虹
-
-
-Mitiloay cigra to fafoy.
-He is snaring a wild boar.
-他在佈設陷阱捕捉山豬
-
-
-Masadakto ko tilo ni ldek.
-A rainbow appeared.
-彩虹出現了
-
+    Masadakto ko tilo ni Idek.
+    A rainbow appeared.
+    彩虹出現了
+=> talakal
 
 tima
 to bewitch * put one under a spell * the act of a medium
-施以魔力或咒語使鬼魂附在某人 身上，巫師的行為
-
+施以魔力或咒語使鬼魂附在某人身上，巫師的行為
 
 tima'
-to have limbs go into spasm and not move
-腳痙攣 as after holding something for a long time or from the effect of cold 如長時間握 某東西之後或因天氣冷所致
-
+to have limbs go into spasm and not move, as after holding something for a long time or from the effect of cold 
+腳痙攣，如長時間握某東西之後或因天氣冷所致
 
 timel
-to be in pain of stiff from not changing
+to be in pain of stiff from not changing position 
+因沒有變換位置或姿勢而引起麻木酸痛
 
 
+# p.330
 
-position 因沒有變換位置或姿勢而引起麻木酸痛timol
+timol
 south
 南方
-
-
-Talatimolto kami.
-We went south.
-我們要去南方
-
-
-Pakatimol ko rakat niyam.
-We went to the south of...
-我們從南 方走，我們繞南部走過來
-
-
-Pasatimol ko rakat niyam.
-We are heading south.
-我們朝南方行 走
-
-
-I katimolay a niyaro' cigra.
-He is in a southern city.
-他住在南 方的一個城市
-
+    Talatimolto kami.
+    We went south.
+    我們要去南方
+    Pakatimol ko rakat niyam.
+    We went to the south of ...
+    我們從南方走，我們繞南部走過來
+    Pasatimol ko rakat niyam.
+    We are heading south.
+    我們朝南方行走
+    I katimolay a niyaro' cigra.
+    He is in a southern city.
+    他住在南方的一個城市
 
 timpa'
 a hunk of food
 一整塊食物
 
-
 timpi'
 long and narrow as the shape of a fish
-扁平的，長且窄的 像一條魚的形狀
-
+扁平的，長且窄的像一條魚的形狀
 
 timra
-=> laco
 a bullet
-a bomb
 子彈
+a bomb
 炸彈
-
+=> laco
 
 tina'i
-=> tinai'
 intestines * inwards
 腸子
-
+=> tinai'
 
 tinac
 to touch with the tip of the tongue
 用舌頭舔
 
-
 tinako
 an illustration
-to use an illustration to explain
-biblical term for parable
-to experience
 比喻
+    tinako sa
+    for example * to illustrate * the introductory word in a sentence
+    比如，比方，舉例來說，一個句子的導語
+to use an illustration to explain
 用例子說明
-聖經用法指比 喻
+    Patinakoen ta mafana' kako.
+    Use an illustration; then I will understand.
+    請你舉例說明我才能明白
+biblical term for parable
+聖經用法指比喻
+    Adihay ko tinako ni Yis.
+    Jesus used a lot of parables
+    耶穌用很多比喻
+to experience
 生經驗，體會
-
-
-tinako sa
-for example * to illustrate * the introductory word in a sentence
-比如，比方，舉例來說，一個句子的導語
-
-
-Patinakoen ta mafana' kako.
-Use an illustration; then I will understand.
-請你舉例說明我才能明白
-
-
-Adihay ko tinako ni Yis.
-Jesus used a lot of parables
-耶穌用很 多比喻
-
-
-Matinakoto ako ko matiraay a pades.
-I've experienced that kind of trouble.
-我已經體會過那種挫折了
-
+    Matinakoto ako ko matiraay a pades.
+    I've experienced that kind of trouble.
+    我已經體會過那種挫折了
 
 tinci
-flashlight
-手電筒(from Japanese 引自日語)
-
+flashlight (from Japanese)
+手電筒 (引自日語)
 
 tinol
 to sing in rounds
 輪流，輪唱
-
-
-Matatinol cagra a romadiw.
-They sang in rounds.
-他們在輪唱
-
-
-Matatinol ko soni no 'ayam.
-The birds alternated singing.
-小鳥 在交替的吱叫
-
+    Matatinol cagra a romadiw.
+    They sang in rounds.
+    他們在輪唱
+    Matatinol ko soni no 'ayam.
+    The birds alternated singing.
+    小鳥在交替的吱叫
 
 tioy
-=> kifsiw
 a tea kettle used in former days
 煮茶的水壺
-
+=> kifsiw
 
 tipaw
 a dead stem of a rice plant with no grain inside because it did not pollinate or was eaten by insects
 不結穗的穀子
 
-
 tiped
+to take something along with someone else's
+順便帶另外一個人的東一起完成
 => tipod
-to take something along with someone elae's
-順便帶
 
 
-另外一個人的東一起完成tipid
+# p.331
+
+tipid
 a large serving bowl made from wood
-a
 木製的碟盤
-
-
-
-boat
-shaped trough
-a freight car
+a boat-shaped trough
 船形槽
+a freight car
 鐵路貨運車
 
-
 tiplak
-=> toplak
 to open something that is closed like a book
+黏貼的東西整張脫落
 to split open * as bark or the skin of a baked potato
-黏貼的東 西整張脫落
-劈開，如樹皮或烘烤馬鈴薯的 皮
-
+劈開，如樹皮或烘烤馬鈴薯的皮
+=> toplak
 
 tiplok
-=> tatiplok, padakopak
 paper
 紙張
-
+=> tatiplok, padakopak
 
 tipod
-/Tipod. the name of an Amis village
-=> tiped
-tiped. to take something along with someone else's
+the name of an Amis village
 台東縣知本地名
-拿另外一個 人的東西一起完成 (from Hualien引自花蓮語)
+=> Tipod
+to take something along with someone else's (From Hualien)
+拿另外一個人的東西一起完成 (引自花蓮語)
+=> tiped
 
+Tipod = tipod
 
 tipolo
 flute * to play the flute
-笛子 , 喇叭
-
-
-Matana' cigra a mitipolo
-He knows how to play the flute.
-他 會吹奏笛子
-
+笛子，喇叭
+    Matana' cigra a mitipolo
+    He knows how to play the flute.
+    他會吹奏笛子
 
 tipos
-the name of a kind of
+the name of a kind of rice 
+在來米 
+the north wind 
+北方的風 
+=> tiposan
 
-
-
-rice 再來米 2. the north wind 北方的風 3. tiposan
-the win ter season
+tiposan
+the winter season
 冬季
-
+=> tipos
 
 tira'
 gall * gall bladder
 膽，膽囊
 
-
 tireg
 one's identity * self
-person * body of a living thing or inanimate object
-to stand
 身體，自己
-某人身體的有生命物體與無生命物 體
+    Ono tireg a harateg ko tatooren.
+    One should follow one's own thinking.
+    按照自己的意思去做
+    Micomod ko tireg nira toya pakayraan.
+    He has identified himself with that organization.
+    他自己參加那個宗教組織
+person * body of a living thing or inanimate object
+某人身體的有生命物體與無生命物體
+    Nima a tireg ko madoka'ay?
+    Whose body got hurt?
+    誰的身體受傷？
+    Adada ma'min ko tatiregan ako.
+    My body aches all over.
+    我全身都酸痛
+to stand
 站立
+    Katomireg han ako cigra 'i tireg sa cigra.
+    I told him to stand up and he stood up.
+    我叫他站起來他就站起來
 
 
-Ono tireg a harateg ko tatooren.
-One should follow one's own thinking.
-按照自己的意思去做
-
-
-Katomireg han ako cigra 'i tireg sa cigra.
-I told him to stand up and he stood up.
-我叫他站起來他就站起來
-
-
-Nima a tireg ko madoka'ay?
-Whose body got hurt?
-誰的身體 受傷？
-
-
-Adada ma'min ko tatiregan ako.
-My body aches all over.
-我全 身都酸痛
-
-
-Micomod ko tireg nira toya pakayraan.
-He has identified him-self with that organization.
-他自己參加那個宗教組織
-
+# p.332
 
 tiri'
 to show * to cause to be seen
-referred * compared to
 看，顯示，看見的原因
+    Matiri' ko 'okak ako.
+    My bones show.
+    我的骨頭顯現出來
+    Patiri'en kami to fa'lohay a palidig iso.
+    Show us your new vehicle.
+    把你的新車顯示給我們看
+referred * compared to
 指示，比較，比照
-
-
-Matiri' ko 'okak ako.
-My bones show.
-我的骨頭顯現出來
-
-
-Patiri'en kami to fa'lohay a palidig iso.
-Show us your new vehicle.
-把你的新車顯示給我們看
-
-
-Matatiri' konini a codad.
-These two books are laid side by side (for reference) .
-這兩本書可相互對照
-
-
-Pasasotiri'en konini a tosa
-Compare these two.
-將兩者對照一 下，把這兩者比較一下
-
+    Matatiri' konini a codad.
+    These two books are laid side by side (for reference).
+    這兩本書可相互對照
+    Pasasotiri'en konini a tosa
+    Compare these two.
+    將兩者對照一下，把這兩者比較一下
 
 tisek
 to stick a needle through the middle of to hold together * as a hair bun
 刺進去，從聚集之東西中央穿透，如髮捲
 
-
 tisel
 to pierce through
-to penetrate
 刺穿，穿孔，戳穿
-貫 穿，滲透 * figuratively to see through 比喻看穿，洞察
-
-
-Mitiselay ko pinegneg no Kawas to laloma' no faloco' ita.
-God sees inside our hearts.
-上帝能洞察我們的心
-
+to penetrate * figuratively to see through 
+貫穿，滲透；比喻看穿，洞察
+    Mitiselay ko pinegneg no Kawas to laloma' no faloco' ita.
+    God sees inside our hearts.
+    上帝能洞察我們的心
 
 tisil
 one after another
 排隊，縱隊，一個接著一個
-
-
-Satisil sa ko sofitay a romakat.
-The soldiers walked in a straight line.
-軍人排隊行進
-
+    Satisil sa ko sofitay a romakat.
+    The soldiers walked in a straight line.
+    軍人排隊行進
 
 tisod
-=> tidos
 a change of clothing
 換衣
-
-
-Patisoden ko riko' iso.
-Change your clothes.
-把你的衣服換下來
-
+    Patisoden ko riko' iso.
+    Change your clothes.
+    把你的衣服換下來
+=> tidos
 
 tisowanan
-you (singular)
-你 (單數) See Appendix Pronouns 參閱附錄I代名詞
-
+you (singular).  See Pronouns - Appendix 1.
+你 (單數) 。參閱附錄Ⅰ代名詞
 
 titaanan
-us (including the hearer)
-我們 (包含聽者) See Appen -
-
-
-dix
-Pronouns
-參閱附錄I代名詞
-
+us (including the hearer).  See Pronouns - Appendix 1.
+我們 (包含聽者) 。參閱附錄Ⅰ代名詞
 
 titi
 meat
 肉
 
-
 tiwa'
 to go off in a different direction from the others
-從某地方 前往不同的方向
-
+從某地方前往不同的方向
 
 tiwal
-to go off in different directions *not going in any certain course
+to go off in different directions * not going in any certain course
 前往不同的方向※不循任何設定的線路
 
-
 tiwas
-=> tiwag
 to use a long pole to loosen something out of reach so that it comes down
 用竹竿遙取東西
-
+=> tiwag
 
 tiwid
-lopsided one large and one small
+one large and one small
+不平均，大小不均勻
+=> lopsided 
 partial * not treated the same
-不平均，大小不均 勻
 部份，偏心，待遇不同
-
 
 tiwtiw
 to exceed that of others
 超過，超越，勝過，多出
+    Mitiwtiw cigra a matayal.
+    He works to excel (for some personal gain).
+    他比別人多做了一些工作
+    Patiwtiw kako a pafli toya wawa.
+    I gave that child more (than the rest).
+    我多給那位小孩 (比其他的人)
 
 
-Mitiwtiw cigra a matayal.
-He works to excel (for some personal gain) .
-他比別人多做了一些工作
-
-
-Patiwtiw kako a pafli toya wawa.
-I gave that child more (than the rest) .
-我多給那位小孩 (比其他的人)
-
+# p.333
 
 tiyac
 to slide on something slippery and fall
-在滑溜溜的東西上面 滑倒
-
+在滑溜溜的東西上面滑倒
 
 tiyad
 belly * stomach
 肚子，腹部
-
-
-Adada ko tiyad ako.
-My belly / stomach hurts.
-我肚子痛
-
-
-Citiyadto cigra.
-She has a belly / i.e. she us pregnant.
-她已有腹 部了，她懷孕了
-
+    Adada ko tiyad ako.
+    My belly / stomach hurts.
+    我肚子痛
+    Citiyadto cigra.
+    She has a belly / i.e. she is pregnant.
+    她已有腹部了，她懷孕了
 
 tiyam
-merchandise for sale
-店舖 (from Amoy dialect 引自閩南 語)
-
+merchandise for sale (from Amoy dialect)
+店舖 (引自閩南語)
+=> patiyam, patiyamay
 
 patiyam
 to sell merchandise
 做生意，做買賣，交易
-
+=> tiyam
 
 patiyamay
 a shop * place of business
 雜貨店，生意人，店舖
-
+=> tiyam
 
 tiyap
-=> togal, tolag
 to increase the amount
 補貼不足的部份
-
+=> togal, tolag
 
 tka
 to begin * to start to do a task
 開始
-
-
-Tka saho kami.
-We just started.
-我們剛開始
-
+    Tka saho kami.
+    We just started.
+    我們剛開始
 
 tka'
 to hit in the head with a stick or rock
 用木棒或石頭打頭部
 
-
 tkal
 to warp * to get twisted out of shape as by heat or weather
 熱度或天氣所引起的翹曲現象，如木製水桶經曝曬後漏水
-
-
-Matkal koya pa'tag.
-That (wooden) bucket is warped (and leaks) .
-木製水桶已翹曲漏水了
-
+    Matkal koya pa'tag.
+    That (wooden) bucket is warped (and leaks).
+    木製水桶已翹曲漏水了
 
 tkatka
-=> Tofotofo, Tkatka
 a demon who dulls people's senses so they cannot move or speak
-致人不能動彈亦不能說話的邪靈 tked/'akiw. for oneself 自己承受
+致人不能動彈亦不能說話的邪靈 
+=> Tofotofo, Tkatka
 
+Tofotofo = tkatka
 
-Matked nira ko roray.
-He kept to himself / carried alone his burdens.
-他自己一個人承受痛苦
+Tkatka = tkatka
 
-
-O mistkeday a tamdaw ciga.
-He is independent minded/ keeps his own counsel / does his own thing.
-他是自私自利的人
-
-
-Mapatked cigra to adihayay a tayal.
-He has been given a lot of work to do without any help.
-他被加諸許多工作而無任何幫助
-
+tked
+for oneself 
+自己承受
+    Matked nira ko roray.
+    He kept to himself / carried alone his burdens.
+    他自己一個人承受痛苦
+    O misatkeday a tamdaw cigra.
+    He is independent minded / keeps his own counsel / does his own thing.
+    他是自私自利的人
+    Mapatked cigra to adihayay a tayal.
+    He has been given a lot of work to do without any help.
+    他被加諸許多工作而無任何幫助
+=> 'akiw
 
 tkef
 large mature clam
 大而成熟的蛤貝
 
-
 tkeg
-=> Ineg
 to sink
 沈沒
-
+=> lneg
 
 tkek
 to snap * bite at * of snakes or birds
 咬，啄
+    Mitkekto ko 'oner.
+    The snake bites.
+    蛇在咬
 
 
-Mitkekto ko 'oner.
-The snake bites.
-蛇在咬
-
+# p.334
 
 tkel
 to be inhibited in speaking and to stammer * because of people present
 抑制說話，口吃，結結巴巴※因許多人的出現
-
+=> patkel
 
 patkel
 to make go without eating
 不給予吃東西
-
+=> tkel
 
 tkep
 the name of a trap
 捕捉器
 
-
 tker
 a trap made of metal
-the leg between
 鐵製的捕捉器
-
-
-
-the knee and ankle 小腿肌肉 3. tker ni Idek
-rainbow
+the leg between the knee and ankle 
+小腿肌肉 
+tker ni Idek - rainbow
 彩虹
-
 
 tkes
 a species of bamboo * small
-to cut bamboo or sugar cane
-expensive
 桂竹
+to cut bamboo or sugar cane
 砍伐竹林或甘蔗
+    Mitkes cigra anini.
+    He is cutting (bamboo or sugar cane) today.
+    他今天去砍竹子
+expensive
 昂貴的
-
-
-Matkes ko 'aca no dateg.
-The price of vegetables is high.
-菜 價很昂貴
-
-
-Mitkes cigra anini.
-He is cutting (bamboo or sugar cane) today.
-他今天去砍竹子
-
+    Matkes ko 'aca no dateg.
+    The price of vegetables is high.
+    菜價很昂貴
 
 tki'
 to make a sound
-the sound of rocks hitting
 打擊聲
-石
-
-
-頭碰撞聲 3. / tka'.
+the sound of rocks hitting
+石頭碰撞聲 
 to hit something in the head with a rock or stick
 用木棒或石頭打頭的聲音
-
+=> tka'
 
 tkig
-=> cris
-matches *a match
+matches * a match
 火柴
-
+=> cris
 
 tko'
-the sound of something getting broken
-東西破碎的聲音 or the sound of joints cracking 關節活動之聲
-
+the sound of something getting broken or the sound of joints cracking 
+東西破碎的聲音，關節活動之聲
 
 tkog
 to bump with one's head
-to bang * the sound of a thud
 頭部碰撞
+    Matkog nira ko fawahan.
+    He bumped the doorway.
+    他碰撞門檻
+to bang * the sound of a thud
 砰擊聲
-
-
-Aka pitkog to fawahan no loma'.
-Don't bump the doorway.
-不 要碰撞家裏的門扇
-
-
-Matkog nira ko fawahan.
-He bumped the doorway.
-他碰撞門檻
-
-
-Matatkog cagra tatosa
-The two of them bumped each other.
-他們倆相互碰撞
-
+    Aka pitkog to fawahan no loma'.
+    Don't bump the doorway.
+    不要碰撞家裏的門扇
+    Matatkog cagra tatosa.
+    The two of them bumped each other.
+    他們倆相互碰撞
 
 tkoh
+to be stacked up on top of each other till they touch the top or ceiling 
+互相堆積東西至頂部觸及天花板 
 => tokoh
-tokoh. to be stacked up on top of each other till they
-
-
-
-touch the top or ceiling 互相堆積東西至頂部觸及天花板 2. a hor
-net * stinging insect
+a hornet * stinging insect
 大黃蜂，虎頭蜂
-
 
 tkol
 to throw something
 擲，投
-
-
-Tkolen ko mali.
-Throw the ball.
-Patkolen ko
-把球投過去
-
-
-
-waco.
-Feed the dog.
-丟東西給狗吃 (餵狗)
-
+    Tkolen ko mali.
+    Throw the ball.
+    把球投過去
+    Patkolen ko waco.
+    Feed the dog.
+    丟東西給狗吃 (餵狗)
 
 tkop
 to perish * die * to be destroyed
 毀滅，死，全軍覆沒
 
-
 tlac
 to miss the mark
+沒有射中目的物
+    Patlac ko goyos ako.
+    I made a mistake speaking.
+    我說錯話了
 to polish * with reference to rice only
-沒有射中目地物
 精磨※單指碾米
 
 
-Patlac ko goyos ako.
-I made a mistake speaking.
-我說錯話了tlaf / yamayam. to burn with large flames 烈火熊熊
+# p.335
 
+tlaf 
+to burn with large flames 
+烈火熊熊
+=> yamayam
 
 tlag
 old * worn out
 老舊的
-
-
-Matlagto ko riko' ako.
-My clothes are old.
-我的衣服已經老舊了
-
-
-O matlagay a codad konini.
-This is an old book.
-這是一本古書 (舊書)
-
+    Matlagto ko riko' ako.
+    My clothes are old.
+    我的衣服已經老舊了
+    O matlagay a codad konini.
+    This is an old book.
+    這是一本古書 (舊書)
 
 tlay
 to be strung out tight * stretched across a space
-拉線，在空 中架線
-
-
-Tlayen nira ko towaso i fawahan no loma' nira.
-He put a rope across his doorway.
-他在家門口裝拉一條繩索
-
+拉線，在空中架線
+    Tlayen nira ko towaso i fawahan no loma' nira.
+    He put a rope across his doorway.
+    他在家門口裝拉一條繩索
 
 tlec
 to tie around the waist * or lower down off the hips
-束腰帶 或在臀部下方繫帶子
-
+束腰帶或在臀部下方繫帶子
+=> tatlecan, satlec, safaked, safakec
 
 tatlecan
 the waist
-lower back
 腰圍
+lower back
 背部下方
-
+=> tlec
 
 satlec
-=> safaked, safakec
 belt
 腰帶，皮帶
-
+=> safaked, safakec, tlec
 
 tleg
 to make a straight line
 拉緊 (線索或繩子)
 
-
 tlek
 to join together
 接在一起
-
-
-Matatlek kita to sowal.
-Let's make a pact together / i.e. a mutual agreement.
-我們互相約定
-
-
-O katatlekan no Kawas ato finawlan nira konini
-This is God's covenant with His people.
-這是上帝和他的子民所立的約
-
+    Matatlek kita to sowal.
+    Let's make a pact together / i.e. a mutual agreement.
+    我們互相約定
+    O katatlekan no Kawas ato finawlan nira konini.
+    This is God's covenant with His people.
+    這是上帝和他的子民所立的約
 
 tlel
 to stop * with reference to the wind
-停止，暫且等一回 (指 風)
-
-
-Tlelenho ko fali.
-Wait for the wind to stop.
-暫且等風停歇
-
-
-Matlelto ko fali.
-The wind stopped.
-風已停止了
-
-
-Kinatlel sa ko namal.
-The fire died out.
-火焰慢慢熄滅
-
+停止，暫且等一回 (指風)
+    Tlelenho ko fali.
+    Wait for the wind to stop.
+    暫且等風停歇
+    Matlelto ko fali.
+    The wind stopped.
+    風已停止了
+    Kinatlel sa ko namal.
+    The fire died out.
+    火焰慢慢熄滅
 
 tlep
 to fall * fell * with reference to a tree cut down etc.
+倒下，砍倒 (指看下的樹木)
 to fall on top of
-倒 下，砍倒 (指看下的樹木)
 壓倒
-
-
-Tlepen koya kilag.
-Fell that tree
-把木材堆倒
-
-
-Matlep noya kilag ko wawa nira.
-That tree fell on his son.
-他 的兒子被樹壓倒
-
+    Tlepen koya kilag.
+    Fell that tree
+    把木材推倒
+    Matlep noya kilag ko wawa nira.
+    That tree fell on his son.
+    他的兒子被樹壓倒
 
 tli
 to place * put
 放置
-
+=> mitli, matli, patli, patlian
 
 mitli
 to put or place
 放置
-
+=> tli
 
 matli
 to be put or placed
 放置
-
+=> tli
 
 patli
 to put or place
 放置
-
+=> tli
 
 patlian
 a place to put something
 放置處
-
+=> tli
 
 tli'i
-to be outraged *angered *furious *provoked
+to be outraged * angered * furious * provoked
 暴虐，生氣，狂怒，憤慨
+    Matli'i kako a mitgil to sowal nira.
+    I am outraged to hear what he said.
+    聽到他說的話，我很生氣
 
 
-Matli'i kako a mitgil to sowal nira.
-I am outraged to hear what he said.
-聽到他說的話，我很生氣
-
+# p.336
 
 tloc
-the end point of something
-a descendant
-東西的末端 * as the end of a branch　如枝葉末梢
+the end point of something * as the end of a branch　
+東西的末端，如枝葉末梢
+    Icowa ko tloc noya kliw?
+    Where is the end of the thread?
+    繩子的尾端在那裡
+a descendant 
 後代
-
-
-lcowa ko tloc noya kliw?
-Where is the end of the thread?
-繩子 的尾端在那裡
-
-
-Awaay ko tloc noya loma'.
-That family has no descendants.
-那 個家沒有後代
-
-
-Masamaan ko tloc noya dmak?
-How did that matter come to an end?
-那件事的結果如何?
-
+    Awaay ko tloc noya loma'.
+    That family has no descendants.
+    那個家沒有後代
+    Masamaan ko tloc noya dmak?
+    How did that matter come to an end?
+    那件事的結果如何？
 
 tlof
 to be obstructed * with reference to a road or path
-阻塞，妨 礙，干擾 ※ 指路或小徑
-
-
-Aka pitlof to lalan.
-Don't hinder travel on the road.
-不要阻攔道 路
-
+阻塞，妨礙，干擾 ※ 指路或小徑
+    Aka pitlof to lalan.
+    Don't hinder travel on the road.
+    不要阻攔道路
 
 tlog
 deep * with literal and figurative meanings
-深，含字面上和 比喻的意義
-
-
-Matlog ko pikagkag nira.
-He ploughed deeply.
-他把田犂的很深
-
-
-Matlog ko fana' nira.
-He is very intelligent.
-他是聰明的人
-
+深，含字面上和比喻的意義
+    Matlog ko pikagkag nira.
+    He ploughed deeply.
+    他把田犂的很深
+    Matlog ko fana' nira.
+    He is very intelligent.
+    他是聰明的人
 
 tloh
-matloh. to have a lot disappear with only a small part remaining
-大部份均消失，只剩下一小部份
+[No English description]
+[無中文解釋]
+=> matloh
 
+matloh
+to have a lot disappear with only a small part remaining
+大部份均消失，只剩下一小部份
+=> tloh
 
 tloho'
 phlegm
 濃痰
 
-
 tlook
 to hiccup
 打嗝
 
-
 tlookan
 to burp up food
-to hiccup
 打飽嗝兒
+to hiccup
 打嗝
-
 
 tmek
 secretly
-to do as self desires
 秘密地，悄悄地，暗暗地
+    Tmeken nira ko dmak.
+    He secretly killed an animal for meat.
+    他暗地殺動物做菜餚
+to do as self desires
 私自做自己所期望的
-
-
-Tmeken nira ko dmak.
-He secretly killed an animal for meat.
-他暗地殺動物做菜餚
-
-
-Paytmek
-=> pitmek kita a minokay
-Each of us will go home on his own.
-他們各自回家
-
+    Paytmek / pitmek kita a minokay
+    Each of us will go home on his own.
+    他們各自回家
 
 tmenek
 to be hungry for * craving for what one sees but can't have
-to be settled down * stable condition
-to sit down still * not walking around
 不能滿足，繼續渴望那不能擁有的
+to be settled down * stable condition
 固定在那兒
+to sit down still * not walking around
 一直坐在那兒，沒有走動過
-
 
 tmer
 to be shocked by electricity
-to have ashooting sensation of pain go to the heart
 被電電擊
+to have ashooting sensation of pain go to the heart
 內心深處的一陣劇痛
 
+
+# p.337
 
 tmik
 to pulsate with life * pulse
 心跳，動靜，搏動，脈搏
-
-
-Caay ka tatmitmik koya wawa.
-That child has no sign of life.
-那孩子沒有生命的動靜，沒有聲息
-
-
-awaay ko tmik
-to not respond or do anything
-沒有反應，或做 任何事
-
+    Caay ka tatmitmik koya wawa.
+    That child has no sign of life.
+    那孩子沒有生命的動靜，沒有聲息
+    awaay ko tmik
+    to not respond or do anything
+    沒有反應，或做任何事
 
 tmili'
-=> tomili'
 white * glistening
 潔白
-
+=> tomili'
 
 tmo
 to be able to eat something small completely
-可以直接入口啃 的小食物
-
-
-Tmoen nira ko damdam.
-He ate the hot pepper whole.
-他把辣 椒吞吃
-
+可以直接入口啃的小食物
+    Tmoen nira ko damdam.
+    He ate the hot pepper whole.
+    他把辣椒吞吃
 
 tmok
 to beat * pulse * with refeence to heart
 脈搏
-
-
-Tmoktmok sa ko faloco' ako.
-My heart is beating hard.
-我的心 臟跳動很厲害
-
+    Tmoktmok sa ko faloco' ako.
+    My heart is beating hard.
+    我的心臟跳動很厲害
 
 tmoy
 reserved * quiet * not talkative
 緘默的，遲鈍，寡言
-
-
-O matmoyay a tamdaw cigra.
-He is a quiet person.
-他是沈默寡 言的人
-
+    O matmoyay a tamdaw cigra.
+    He is a quiet person.
+    他是沈默寡言的人
 
 tna'
 to hinder * obstruct * stop
 阻擋，妨礙，停止
-
-
-Matna' ko karomakat niyam.
-We were hindered from going.
-我 們的路被阻擋了
-
+    Matna' ko karomakat niyam.
+    We were hindered from going.
+    我們的路被阻擋了
 
 tnak
 to spread
 擴散，傳播
-
-
-Patnak cigra to sowal no Kawas.
-He spread the Word of God.
-他傳播上帝的福音
-
-
-O patnakay cigra.
-He is an evangelist.
-他是傳道人
-
-
-Matnak ko sowal to pakayniay to dmak nira.
-Words about his activities have spread.
-有關他的事已傳開了
-
-
-Tnaken ko 'mi a mipawali.
-Spread out the wheat to dry.
-把小 麥散開曝晒
-
+    Patnak cigra to sowal no Kawas.
+    He spread the Word of God.
+    他傳播上帝的福音
+    O patnakay cigra.
+    He is an evangelist.
+    他是傳道人
+    Matnak ko sowal to pakayniay to dmak nira.
+    Words about his activities have spread.
+    有關他的事已傳開了
+    Tnaken ko 'mi a mipawali.
+    Spread out the wheat to dry.
+    把小麥散開曝晒
 
 tnas
 to dip food in a sauce or salt
 沾，把食物沾在醬油或鹽水中吃
 
-
 tnaysi
-a spatula for stir frying vegetables
-鏟子 (炒菜用) ( from Amoy dialect 引自閩南語)
-
+a spatula for stir frying vegetables (from Amoy dialect)
+鏟子 (炒菜用) (引自閩南語)
 
 tneg
-=> lneg
 to sink
 沈下去
-
+=> lneg
 
 tnem
 salty water (as is found in the village of Haciriwan)
-在花蓮 縣豐濱鄉八里灣附近的鹹水泉
-
+在花蓮縣豐濱鄉八里灣附近的鹹水泉
 
 tnes
-=> halafin
 a long time * for a long time
-很久，很長一段時間tnod/'nor. to anchor 錨
+很久，很長一段時間
+=> halafin
 
 
-sapatnod / sapa'nor
+# p.338
+
+tnod
+to anchor 
+錨
+=> 'nor, sapatnod, sapa'nor
+
+sapatnod 
 an anchor for a shop
 船錨
+=> sapa'nor
 
+sapa'nor = sapatnod
 
 tnok
-=> tokod
 to kick with one's heel
-=> sifo'
+用腳的後跟踢或用力踩
+    Matnok no 'fa kako.
+    I was kicked by a horse.
+    我被馬蹄踢傷
+=> tokod, satnok
 the middle * center
-用腳的後跟踢或用力 踩
 中間，中央
-
+    Tnokay a riyar
+    the Mediterranean Sea
+    地中海
+=> sifo'
 
 satnok
 the heel of the foot
 腳的後跟，腳踵
-
-
-Matnok no 'fa kako.
-I was kicked by a horse.
-我被馬蹄踢傷
-
-
-Tnokay a riyar
-the Mediterranean Sea
-地中海
-
+=> tnok
 
 tnooy
-=> tnoon
 to weave * to work with a loom
 織布
-
+    O nitnooyan a riko' konini.
+    This clothing is woven with a loom.
+    這件衣服是用人工織布器製成的
+=> tnoon, satnooy
 
 satnooy
 a weaver's loom
 織布機
-
-
-O nitnooyan a riko' konini.
-This clothing is woven with a loom.
-這件衣服是用人工織布器製 成的
-
+=> tnooy
 
 tnor
 to soak in water
-浸在水中，泡 在水中
-
-
-Patnorenho ko fafaca'en a riko'.
-Soak the clothes you want to wash.
-把要洗的衣服先泡在水中
-
+浸在水中，泡在水中
+    Patnorenho ko fafaca'en a riko'.
+    Soak the clothes you want to wash.
+    把要洗的衣服先泡在水中
 
 tnos
+a bamboo water container used by fisher men at sea
+用竹筒製成的盛水器，漁夫在海上用的，罐，刺竹節製成的
 => tayhaw, potot
-a bamboo water container used by fisher
-men at sea
-用竹筒製成的盛水器，漁夫在海上用的，罐，刺竹節製成 的
-
 
 to'ag
 to become lazy from the bad influences of another worker * becoming discouraged and wanting to quit
-受到另外工人的壞影 響變的很懶惰，變成沒有勇氣而想停止
-
+受到另外工人的壞影響變的很懶惰，變成沒有勇氣而想停止
 
 to'as
-=> liteg
 old in years
-to grow up * to mature
 古代，早年
+    Nano to'as ira ko matiniay a pinagan niyam.
+    From old times / antiquity we have had this kind of custom.
+    從古代我們就有這種習慣
+to grow up * to mature
 成熟，成長
+    O mato'asay cigra.
+    He is an old man / a man to be respected.
+    他是老人家/是可敬的人 
+    Mato'asto ko wawa iso anini.
+    Your child has grown up. 
+    你的孩子已經長大了
+    O samato'asay niyam cigra.
+    He is our oldest member.
+    他是我們年紀最大的
+=> liteg, tato'asan, pito'asan
 
-
-tato' asan
+tato'asan
 ancestors
 祖先，祖宗
-
+=> to'as
 
 pito'asan
 a place from which the parents of the home's family originated
 祖籍
+=> to'as
 
 
-Nano to'as ira ko matiniay a pinagan niyam.
-From old times/ antiquity we have had this kind of custom.
-從古代我們就有這種 習慣
-
-
-O mato'asay cigra.
-He is an old man / a man to be respected.
-他是老人家/是可敬的人 Mato'asto ko wawa iso anini. 一Your child has grown up. 你的孩 子已經長大了
-
-
-O samato'asay niyam cigra.
-He is our oldest member.
-他是我 們年紀最大的
-
+# p.339
 
 to'aya
 to raise one's head
 把頭抬舉，仰望天空
+=> pato'aya, pipato'ayaan
 
-
-pato'aya / patafag
+pato'aya 
 to offer an animal sacrifice
 獻祭牲物
-
+    Mala sapato'aya ko tireg ni Yis.
+    Jesus' body became a sacrifice.
+    耶穌的身體成為祭品
+=> patafag, to'aya
 
 pipato'ayaan
 place where sacrifice is made
 祭壇
-
-
-Mala sapato'aya ko tireg ni Yis.
-Jesus' body became a sacrifice.
-耶穌的身體成為祭品
-
+=> to'aya
 
 to'em
-=> kadit
 clouds * a cloud
 雲，彩
-
-
-Mato'em ko kakarayan.
-The sky is cloudy.
-今天烏雲彌佈
-
+    Mato'em ko kakarayan.
+    The sky is cloudy.
+    今天烏雲彌佈
+=> kadit
 
 to'man
 to be dark
-glowering
 變黑
+    To'man ko kakarayan.
+    The sky is dark.
+    天黑
+    To'manto ko romi'ad. O dadayato.
+    The day is dark. It is evening.
+    天黑了，已經是晚上了
+glowering
 形示不悅，怒目
-
-
-To'man ko kakarayan.
-The sky is dark.
-天黑
-
-
-To'manto ko romi'ad. O dadayato
-The day is dark. It is evening.
-天黑了，已經是晚上了
-
-
-To'manto ko pisig nira.
-His face is glowering.
-他愁眉苦臉，他 的臉上顯示不悅的樣子
-
-
-Sato'manen ita ko laloma'.
-Let's darken the inside.
-我們把裡面 弄暗
-
+    To'manto ko pisig nira.
+    His face is glowering.
+    他愁眉苦臉，他的臉上顯示不悅的樣子
+    Sato'manen ita ko laloma'.
+    Let's darken the inside.
+    我們把裡面弄暗
 
 to'ol
 to be lonesome
-a large shade tree
 孤單，寂寞
-可遮蔭 之樹林
-
-
-Mato'ol ko faloco' ako.
-My heart is lonely.
-我的心靈很寂寞
-
+    Mato'ol ko faloco' ako.
+    My heart is lonely.
+    我的心靈很寂寞
+a large shade tree
+可遮蔭之樹林
 
 to'to
-=> toeto
 to go to the source * to go directly to
-去追尋根 源，直接地去
+去追尋根源，直接地去
+    To'to sa kako a mitgil.
+    I went to the person directly to hear the status of things.
+    我直接去聽事情的狀態
+    mito'to to tayal
+    to keep working to the finish
+    繼續完成工作 
+=> toeto
 
-
-To'to sa kako a mitgil.
-I went to the person directly to hear the status of things.
-我直接去聽事情的狀態
-
-
-mito'to to tayal
-to keep working to the finish
+to'to'
 to bore a hole
-to carve * make a form from something hard like rock
-繼續完成工作 to'to'/kotkot.
 鑽洞，鑿孔
-刻，雕刻，雕塑※從硬如石 的東西彫塑成某種形體
-
+to carve * make a form from something hard like rock
+刻，雕刻，雕塑※從硬如石的東西彫塑成某種形體
+=> kotkot
 
 toda
 an eel
 鰻魚
-
-
-padagkaan a toda
-a kind of eel
-一種鰻魚
-
+    padagkaan a toda
+    a kind of eel
+    一種鰻魚
 
 todadac
 to skin a snake or fish
-剝蛇皮或魚皮 * to peel off all the bark of a tree 剝去 (一圈) 樹皮
-
+剝蛇皮或魚皮 
+to peel off all the bark of a tree 
+剝去 (一圈) 樹皮
 
 todal
 to burn one's mouth of skin
 嘴被燙傷或皮膚被灼傷
 
-
 todidis
-=> todadac
 to peel off the bark of * or skin
-剝
+剝皮
+taking hold of to unravel 
+拉開
+=> todadac
 
 
-皮 taking hold of to unravel 拉開todis
+# p.340
+
+todis
 to peel off the outside skin of stems of vegetables like broccoli
 剝蔬菜莖的皮
 
-
 todod
-=> solol
 to yield to * go along with
-讓步，順從，允准，容 許
-
+讓步，順從，允准，容許
+=> solol
 
 todog
-the representation of ⋯⋯
-to im - itate * copy
+the representation of
+…表象，…的代表
+    O todog no pisig nira konini.
+    This painting represents him.
+    這是他的肖像
+to imitate * copy
+模仿，複製
+    O mitodogay cigra takowanan.
+    He is copying me.
+    他在模仿我
 responsibility
-表象，⋯⋯的代表
-模仿, 複製
-責任 , 職責
-
-
-O mitodogay cigra takowanan.
-He is copying me.
-他在模仿我
-
-
-O todog no pisig nira konini.
-This painting represents him.
-這 是他的肖像
-
-
-o citodogay cigra tonini a tayal.
-He is responsible for / the representative of this work.
-他是負責這項工作的
-
-
-O cacitodog cigra to adihayay a tayal.
-He will have responsibil - ity for a lot of work.
-他將要負責繁重的工作
-
-
-Patodogen ko malo no mako a toki.
-Set aside time for me.
-煩 請安排我的時間
-
+責任，職責
+    o citodogay cigra tonini a tayal.
+    He is responsible for / the representative of this work.
+    他是負責這項工作的
+    O cacitodog cigra to adihayay a tayal.
+    He will have responsibility for a lot of work.
+    他將要負責繁重的工作
+    Patodogen ko malo no mako a toki.
+    Set aside time for me.
+    煩請安排我的時間
 
 todoh
 to burn * generic form
-to roast * barbecue
 燃燒的總稱
+    Matodohto ko tatiplok.
+    The paper is burned.
+    紙已被燒毀了
+    Todohen koya lakaw.
+    Burn up the waste.
+    把垃圾燒毀
+to roast * barbecue
 烘烤，全燒
-
-
-Matodohto ko tatiplok.
-The paper is burned.
-紙已被燒毀了
-
-
-Todohen koya lakaw.
-Burn up the waste.
-把垃圾燒毀
-
-
-Todohen koya titi.
-Roast
-=> barbecue that meat
-把肉烤燒
-
+    Todohen koya titi.
+    Roast / barbecue that meat
+    把肉烤燒
 
 toem
 to close one's mouth
 閉嘴
 
-
 tofa
 the rind of pomelo
 柚子的白色皮層
 
-
 tofafac
-=> tfafac
 to grab and rip when fighting
-to tear the skin
 抓取，扯裂
+to tear the skin
 抓破皮膚
-
+=> tfafac
 
 tofeg
-=> tmoy
-matofeg. to be shy * quiet * not talkative
-緘默， 木訥，不善辭令
+[No English description]
+[無中文解釋]
+=> tmoy, matofeg
 
+matofeg
+to be shy * quiet * not talkative
+緘默，木訥，不善辭令
+=> tofeg
 
 tofific
 to pull clothes off a person
-拉 扯衣服
-
+拉扯衣服
 
 tofil
 a sun or rain shield worn on the backs of farmers working in the fields * made from grass
-蓆草製成做為阿美族婦 女披在背上下田遮日防雨用具
-
+蓆草製成做為阿美族婦女披在背上下田遮日防雨用具
 
 tofor
 a calf * a young domesticated animal
 小牛，犢，家畜幼仔
+    O todog no tofor a siri ci Yis.
+    Jesus represents himself as the lamb.
+    耶穌把自己比擬成羔羊
 
 
-O todog no tofor a siri ci Yis.
-Jesusrepresents himself as the lamb.
-耶穌把自己比擬成羔羊
-
+# p.341
 
 tofotofo
-the name of a spirit that dulls the senses and makes people unable to speak or move * as when they are in a twilight state of sleep
-致人遲鈍，感覺上說不出話或無法移動的邪靈名，如 當在睡覺半麻醉狀態時 * makes them squirm 使坐臥不安
-
+the name of a spirit that dulls the senses and makes people unable to speak or move * as when they are in a twilight state of sleep * makes them squirm 
+致人遲鈍，感覺上說不出話或無法移動的邪靈名，如當在睡覺半麻醉狀態時；使坐臥不安
 
 toga'ef
-=> togaref
 to bite (of a dog) * with intent of hurting
 咬，狗有意傷害的大咬舉動
-
+=> togaref
 
 togagan
 to slander
 誹謗，中傷，詆譭
 
-
 togal
-=> tolag
 to increase * add more
 加，增加，添加
-
-
-Matogalto ko roray no faloco' ako anini.
-I have even more burdens of concern now.
-現在我心中的煩惱有增無減
-
+    Matogalto ko roray no faloco' ako anini.
+    I have even more burdens of concern now.
+    現在我心中的煩惱有增無減
+=> tolag
 
 Togalen ko tayal.
 Do more work.
 工作要增加，做更多的工作
 
-
 togigic
 to pull on meat with teeth tearing it apart to eat
-用牙齒 使勁咬撕韌肉
-
+用牙齒使勁咬撕韌肉
 
 togih
-to bite*breaking apart with teeth
+to bite * breaking apart with teeth
 咬一口
-
 
 togod
 a connection * joint
-to join
-to continue * go on
 連接
+to join
 使連接
+    Patatogoden konini.
+    Join these.
+    把這些連接起來
+    Matatogotogod ko tireg ita.
+    Our bodies are joined together in many ways.
+    我們的身體以種種不同的方式接合起來
+to continue * go on
 繼續，連續
-
-
-Patatogoden konini.
-Join these.
-把這些連接起來
-
-
-Matatogotogod ko tireg ita.
-Our bodies are joined together in many ways.
-我們的身體以種種不同的方式接合起來
-
-
-Togoden ko tayal iso.
-Pick up and continue on with the projcet.
-把你的工作繼續下去
-
+    Togoden ko tayal iso.
+    Pick up and continue on with the projcet.
+    把你的工作繼續下去
 
 togroh
-=> tigroh
 the top surface of
-to put on top of
 東西的頂部，上面
-放在......的上面
-
-
-Itira I togroh no Loma' ko mali.
-The ball is on the roof top.
-球 在屋頂上面
-
-
-Matatogroh ko loma'.
-The house has two stories / on surface on top of another.
-房子有兩層/一面在另一面的頂上
-
+    Itira I togroh no Loma' ko mali.
+    The ball is on the roof top.
+    球在屋頂上面
+to put on top of
+放在…的上面
+    Matatogroh ko loma'.
+    The house has two stories / one surface on top of another.
+    房子有兩層/一面在另一面的頂上
+=> tigroh
 
 togtog
 left over grain in the mill that was not milled
+補舂，把臼上溢下部分穀子補舂
+    Mitogtogay cigra to panay.
+    He is milling out the left over grain in the mill.
+    他在補舂溢下的部分穀子
 the sound of drums
-補 舂，把臼上溢下部分穀子補舂
 鼓聲
 
-
-Mitogtogay cigra to panay.
-He is milling out the left over grain in the mill.
-他在補舂溢下的部分穀子
-
-
 tohatoh
-=> lihalih
 to be loose and wiggle
-鬆動 , 擺動 , 搖動
-
-
-Matohatoh ko pitaw.
-The hoe handle is loose.
-鋤頭的柄鬆
-
-
-動Matohatoh ko palidig.
-The wagon rolls without braking.
-車子搖 擺地行進著
-
+鬆動，擺動，搖動
+    Matohatoh ko pitaw.
+    The hoe handle is loose.
+    鋤頭的柄鬆動
+    Matohatoh ko palidig.
+    The wagon rolls without braking.
+    車子搖擺地行進著
+=> lihalih
 
 tohem
-to be stuffy * have no fresh air*as a closed up house
+to be stuffy * have no fresh air * as a closed up house
 悶熱，無新鮮空氣，如緊閉的屋內
-
 
 toka
 to be lazy
 懶惰
-
-
-Matokato cigra.
-He is lazy.
-他是懶惰的人 toka'/tokah. to prop something up so that it won't fall 支柱，支 架
-
+    Matokato cigra.
+    He is lazy.
+    他是懶惰的人 
+    
+toka'
+to prop something up so that it won't fall 
+支柱，支架
+=> tokah
 
 tokad
 to cut open a carcass and dress
-to operate on * do surgery
 剖開動物屍體
+to operate on * do surgery
 開刀，動手術
-
 
 tokah
 to prop up
 支撐，支架，支
-
-
-Tokahen ko pawli.
-Prop up the banana tree.
-把香蕉支架起來
-
+    Tokahen ko pawli.
+    Prop up the banana tree.
+    把香蕉支架起來
 
 tokar
 a ladder
-a stairs
-the name of an Amis village
 梯子
+a stairs
 階梯
+the name of an Amis village
 玉里鎮觀音里山下部落名
-
 
 tokatok
 to be sleepy * to nod
 打瞌睡，打盹兒
 
-
 toked
 a crossbeam in a building
 橫梁
 
-
 toker
 to refuse to change * hindering the desires of the group
+拒絕改變※阻擋全體的願望
 to brace oneself to keep from losing footing
-拒絕改變 ※阻擋全體的願望
 撐住腳基以免失足或滑落
-
-
-patoker to sowal
-to help or support someone's ideas by follow - ing up what he said
-幫助或支持某人的想法
-
+    patoker to sowal
+    to help or support someone's ideas by following up what he said
+    幫助或支持某人的想法
 
 toki
-a clock * a watch
+a clock * a watch (from Japanese)
+鐘表 (引自日語)
 the time
-鐘表
-時間 ( from Japanese 引自日語)
-
-
-Pina ko toki?
-What time is it?
-請問現在幾點鐘?
-
-
-Tolo ko toki.
-It is three o'clock.
-三點鐘
-
+時間 
+    Pina ko toki?
+    What time is it?
+    請問現在幾點鐘?
+    Tolo ko toki.
+    It is three o'clock.
+    三點鐘
 
 tokikar
-=> togiri
 to stand on tiptoe for better advantage in doing something
 抬舉腳跟用腳趾尖站立，為更有利於做某事情 (拿東西)
-
+=> togiri
 
 tokilaw
-=> ti'law
 to stand on tiptoe from the perspective of the actor
 蹻足望
-
+=> ti'law
 
 tokinih
 to be unbalanced * off balance
 傾斜，不平均，失去平衡
-
-
-Satokinikinih han no faliyos kami.
-The storm was violent against us (literally: unbalanced us) .
-暴風雨把我們吹得搖來搖去 (字面上，使我們失去平衡)
-
+    Satokinikinih han no faliyos kami.
+    The storm was violent against us (literally: unbalanced us) .
+    暴風雨把我們吹得搖來搖去 (字面上，使我們失去平衡)
 
 tokinil
 to lie on ones side to rest or sleep
 使側身躺下或睡覺
+    Satokinikinil sa cigra a miharateg.
+    He tried every way to figureout what to do.
+    想盡各種辦法
 
 
-Satokinikinil sa cigra a miharateg.
-He tried every way to figureout what to do.
-想盡各種辦法
-
+# p.343
 
 tokiso
-term for the many species of Hibiscus
-木槿 (from Japanese 引自日語)
-
+term for the many species of Hibiscus (from Japanese)
+木槿 (引自日語)
 
 tokitok
 to do often or continually
 連續做，繼續做，時常做
 
-
 tokiyar
 to stand on tiptoe to reach
+抬舉脚跟用脚尖頂立伸手觸及或取物
+    Tokiyaraw ako.
+    I'll stand on tiptoe to reach.
+    我要蹻足伸手觸及或取物
 to strain the body * as when an ox strains to pull a cart
-to do by oneself
-抬舉脚跟用脚尖頂立伸手觸 及或取物
 使勁拉，如牛使勁的拉二輪輕便馬車
-做 自己的事
-
-
-Tokiyaraw ako.
-I'll stand on tiptoe to reach.
-我要蹻足伸手觸及 或取物
-
+to do by oneself
+做自己的事
 
 tokled
 to include in another's activity * to not do an activity separately
-=> to'to
-to'to. to deal directly with
 與別人一起做，而不獨自一人
+to deal directly with
 別人的分一起完成
-
+=> to'to
 
 toknih
-=> tokinih
 to tip over something like a dish or a boat
-傾 斜，有如盤子或船隻
-
+傾斜，有如盤子或船隻
+=> tokinih
 
 toko
+the large center beam of a house or a ship mast 
+房子的中央大柱，船的桅柱
 => satoko
-satoko. the large center beam of a house
 an edible snail from muddy fields
-to stop * stand or sit where one is
-房子的中央大 柱 or a ship mast 船的桅柱
 可食的田螺
-停止，站 著或坐在那兒
-
+to stop * stand or sit where one is
+停止，站著或坐在那兒
+=> patokoan
 
 patokoan
 place where beam is anchored to a cross beam
 木頭交叉會合之地方
-
+=> toko
 
 tokod
-=> tnok
 to kick with heels
-用腳踢或用 力踩踏
-
+用腳踢或用力踩踏
+=> tnok
 
 tokoh
 hornet
-=> tkoh
-tkoh. to be stacked up on top of each other till they touch the ceiling
 大黃蜂
-凡物的頂部能觸及到某種高 度 (如橫樑或天花板)
-
+to be stacked up on top of each other till they touch the ceiling
+凡物的頂部能觸及到某種高度 (如橫樑或天花板)
+=> tkoh
 
 tokos
 the top of a mountain * term used in central dialect
-mountains
-the spine of ones back * vertebrae
-the blunt side of a machete blade
 山脊，山頂
-山脈 * mountain * southern dialect term 山 (南部阿美語)
+mountains * mountain * southern dialect term 
+山脈，山 (南部阿美語)
+the spine of ones back * vertebrae
 脊骨，脊柱，脊椎
+the blunt side of a machete blade
 刀不鋒利的一邊，刀脊
-
 
 toktok
 to hit with a hammer
 鎚打
-
+=> satoktok, samokon
 
 satoktok
-=> samokon
 a hammer
 鐵鎚
+=> samokon, toktok
 
+
+# p.344
 
 tolac
-=> pi'dac
 a scar of long standing * from a wound
-傷疤，痕跡，傷痕 跡，傷痕
-
+傷疤，痕跡，傷痕
+=> pi'dac
 
 tolag
-=> togal
 to increase * add to
 增加，添加
-
-
-Matolag ko nika adihay no tayal anini.
-There is even more work now.
-今的工作項目增加
-
-
-Tolagen ko kasoy.
-Add more firewood.
-添加柴火
-
+    Matolag ko nika adihay no tayal anini.
+    There is even more work now.
+    今天的工作項目增加
+    Tolagen ko kasoy.
+    Add more firewood.
+    添加柴火
+=> togal
 
 tolampo
+the name of Amis village (from Amoy dialect)
+富里鄉新興阿美部落名 (引自閩南語)
 => Tolampo
-the name of Amis village
-富里鄉新興阿 美部落名 (from Amoy dialect 引自閩南語)
 
+Tolampo = tolampo
 
 tolas
 the end * final * the limits of
 結束，終止，限制，有限制
-
-
-Citolas ko fana' ita.
-Our knowledge is limited.
-我們的智慧是有 限的
-
-
-Awaay ko tolas no taneg no Kawas.
-God's wisdom is unlimited.
-上帝的智慧是無限的
-
-
-O tolasto no rakat ita.
-We come this far and no farther.
-我們的 行程到此為止
-
+    Citolas ko fana' ita.
+    Our knowledge is limited.
+    我們的智慧是有限的
+    Awaay ko tolas no taneg no Kawas.
+    God's wisdom is unlimited.
+    上帝的智慧是無限的
+    O tolasto no rakat ita.
+    We come this far and no farther.
+    我們的行程到此為止
 
 tolatolaw
-kadafowagay. a large white bird * Cattle
-
-
-
-Egret 黃鷺 * also Little Egret 2. wakwak) White
-breasted
-
-
-
-Water
-hen
+a large white bird * Cattle Egret * also Little Egret 
+黃鷺 
+=> kadafowagay
+White-breasted Water-hen
 白腹秧雞
-
+=> wakwak
 
 toled
-to be disappointed*discouraged
+to be disappointed * discouraged
 氣餒，洩氣，頹喪
 
-
 tolek
-=> do'eg
 to be deaf
-to extract wax from the ears
 耳聾
+to extract wax from the ears
 抽出耳垢
-
+=> do'eg
 
 tolem
 to bury alive in a hole
-to bury * cover over with soil
 埋，沉沒，活埋
+    Patolem han nira ko waco i nikarkaran nira a 'ofag.
+    He stuck the dog alive into a hole and buried him.
+    他把狗活埋於他挖掘的洞裡
+to bury * cover over with soil
 埋葬
 
-
-Patolem han nira ko waco i nikarkaran nira a 'ofag.
-He stuck the dog alive into a hole and buried him.
-他把狗活埋於他挖掘 的洞裡
-
-
 tolidac
-to rip or pull off * to peel
-剝開，剝皮 * with refer - ence to skin or bandage 指皮膚或繃帶 (被剝開的情形)
-
+to rip or pull off * to peel * with reference to skin or bandage 
+剝開，剝皮；指皮膚或繃帶 (被剝開的情形)
 
 tolik
 to use bamboo to make something
-編製，用竹片或籐片編製 東西
-
+編製，用竹片或籐片編製東西
 
 tolo
 three
 三
-
-
-Tatolo cagra.
-There are three of them.
-他們三個人
-
-
-Tolo ko ciciw.
-There are three piglets.
-三隻小豬
-
-
-Sakatatolo a wawa cigra.
-She is the third child.
-她是第三個孩
-
-
-子Latoloen nira a pasacfacafag cagra.
-He put them in three groups.
-他把他們編為三組
-
-
-O kalatolo / kalitolo konini.
-This is one third.
-這是三分之一
-
+    Tatolo cagra.
+    There are three of them.
+    他們三個人
+    Tolo ko ciciw.
+    There are three piglets.
+    三隻小豬
+    Sakatatolo a wawa cigra.
+    She is the third child.
+    她是第三個孩子
+    Latoloen nira a pasacfacafag cagra.
+    He put them in three groups.
+    他把他們編為三組
+    O kalatolo / kalitolo konini.
+    This is one third.
+    這是三分之一
 
 tolo'
 to fall literally
-to fall figuratively
 跌倒
-比喻上的，倒 下，落下，跌落
-
-
-Aka ka tolo'.
-Don't fall down.
-不要跌倒
-
-
-Matolo' ko faloco' ako a minegneg to dmak nira.
-My heart (i.e. I) stumbled seeing what he did.
-我看到他的行為就隨之犯罪
-
+    Aka ka tolo'.
+    Don't fall down.
+    不要跌倒
+to fall figuratively
+比喻上的，倒下，落下，跌落
+    Matolo' ko faloco' ako a minegneg to dmak nira.
+    My heart (i.e. I) stumbled seeing what he did.
+    我看到他的行為就隨之犯罪
 
 tolok
-a China Pheasant * a large game bird *Swinhoe's Pheasant
+a China Pheasant * a large game bird * Swinhoe's Pheasant
 皿腹[困鳥]
 
-
 tolon
-to pray* a prayer
-to carry a command or request to someone
+to pray * a prayer
 禱告，祈禱
+    O pitolon ko ga'ay.
+    You should pray.
+    最好還是禱告
+    O maan ko tatolonen?
+    What should we pray for?
+    我們為何事禱告？
+    Mitolon kako to saki tisowanan.
+    I am praying for you.
+    我為你禱告
+to carry a command or request to someone
 信息，叮嚀，吩咐或請託某人
-
-
-O pitolon ko ga'ay.
-You should pray.
-最好還是禱告
-
-
-O maan ko tatolonen?
-What should we pray for?
-我們為何事禱 告？
-
-
-Mitolon kako to saki tisowanan.
-I am praying for you.
-我為你禱 告
-
-
-Patolon cigra to sowal i takowanan.
-He gave me a message to pass on.
-他託我帶話
-
+    Patolon cigra to sowal i takowanan.
+    He gave me a message to pass on.
+    他託我帶話
 
 tomadaw
 to look over and check work done
 檢查和審驗工作
 
-
 tomay
 a bear
-to be fierce
 熊
-兇猛 * violent 兇暴
-
-
-Matomay cigra.
-He is fierce.
-他很兇，他粗暴，他撒野
-
+to be fierce * violent 
+兇猛，兇暴
+    Matomay cigra.
+    He is fierce.
+    他很兇，他粗暴，他撒野
 
 tomcek
 to focus on one thing only
 瞪眼，目不轉睛，凝視
-
-
-Patomcek sa cigra a somowal takowanan.
-He directed his words to me.
-他瞪眼看著我
-
-
-lcowa ko patomcekan iso?
-Where is your focus point? (in choosing a person)
-你的目標在那裡？
-
-
-Cima ko katomcekan iso?
-Whom are you considering?
-你在顧 慮誰呀！你在關心什麼人？
-
+    Patomcek sa cigra a somowal takowanan.
+    He directed his words to me.
+    他瞪眼看著我
+    Icowa ko patomcekan iso?
+    Where is your focus point? (in choosing a person)
+    你的目標在那裡？
+    Cima ko katomcekan iso?
+    Whom are you considering?
+    你在顧慮誰呀！你在關心什麼人？
 
 tomes
-to fill * to fill up
-使滿，充滿，裝滿，填滿 * with liter- al and figurative meanings 含字面上和比喻上的滿
+to fill * to fill up * with literal and figurative meanings 
+使滿，充滿，裝滿，填滿；含字面上和比喻上的滿
+    Tomesen ko pawti.
+    Fill the sack.
+    把麻袋盛滿
+    Matomes ko kaysig.
+    The dish is full
+    碗裝得滿滿的
+    Matomes no lipahak ko faloco' ako.
+    My heart is filled with joy. 
+    我心充滿喜樂
 
 
-Tomesen ko pawti.
-Fill the sack.
-把麻袋盛滿
+# p.346
 
-
-Matomes ko kaysig.
-The dish is full
-碗裝得滿滿的
-
-
-Matomes no lipahak ko faloco' ako.
-My heart is filled with
-
-
-
-joy. 我心充滿喜樂tomiyac
+tomiyac
 to hit and glance off * with reference to a rock or bullet or dart
+幌眼一看，瞥見，驚鴻一瞥，形容振動頻率或子彈或標箭的迅速，疾馳飛逝
 the name of an Amis village
-幌眼一看，瞥見，驚鴻一瞥，形容振動頻率或子彈或 標箭的迅速，疾馳飛逝
-台東縣成 功鎮博愛部落名 tomli'/tmli'/tmili'. to glisten * be very white 閃光，閃爍，潔 白
+台東縣成功鎮博愛部落名
 
+
+tomli'
+to glisten * be very white 
+閃光，閃爍，潔白
+=> tmli', tmili'
 
 tomokol
 to sprout * come out of the ground
-萌芽，擷牙，芽衝 破地表成長
-
+萌芽，擷牙，芽衝破地表成長
 
 tona
+this.  See Pronouns - Appendix 1.
+這 。參閱附錄Ⅰ代名詞
 => tonini
-this
 since * because
-這 See Appendix - Pronouns 參閱附錄 I 代 名詞
-之後，自......以來，因為
-
+之後，自…以來，因為
 
 tonaton
 to bruise
 打傷，瘀血發青的現象
 
-
 tonek
-to set *establish
-to decide * plan a course of action
+to set * establish
 設置，建設，建立
+to decide * plan a course of action
 決定※計劃行動的過程
-
-
-katatonekan nagra
-mutually agreed upon place or time
-互相約 定的地點或時間
-
+    katatonekan nagra
+    mutually agreed upon place or time
+    互相約定的地點或時間
 
 toni'
-=> poni'
 rotten * with reference to flesh or vegetation
+腐爛的※指肉或蔬菜
+=> poni'
 to soften
-腐 爛的※指肉或蔬菜
 柔軟的
-
-
-Masger ko lalan saka toni' sa ko lalan.
-The road is wet so the road is soft (muddy) .
-雨水使泥土鬆軟
-
+    Masger ko lalan saka toni' sa ko lalan.
+    The road is wet so the road is soft (muddy).
+    雨水使泥土鬆軟
 
 tonini
+this.  See Pronouns - Appendix 1.
+這。參閱附錄Ⅰ代名詞
 => tona
-this 這 See Appendix
-Pronouns
-參閱附錄 I 代名詞
-
 
 tono'
 precipice
 懸崖
-
-
-Aka pisalama i tonotono'an.
-Don't play around a precipice.
-不 要在懸崖玩耍
-
+    Aka pisalama i tonotono'an.
+    Don't play around a precipice.
+    不要在懸崖玩耍
 
 tood
 the name of a tree * Taiwan Acacia (Acacia confusa)
+相思樹
 to follow closely another
-相 思樹
 一個接著一個，跟隨著，接近的
-
-
-Matatood ko rakat noya tosaay a palidig.
-Those two vehicles are
-
-
-
-traveling close to each other / i.e. one is tail
-gating the other.
-兩部旅行車緊接著，一個車子接著一個
-
+    Matatood ko rakat noya tosaay a palidig.
+    Those two vehicles are traveling close to each other / i.e. one is tail-gating the other.
+    兩部旅行車緊接著，一個車子接著一個
 
 toor
 to follow
-to obey
-to follow a religion
 跟從
+to obey
+    Matoor nira kono mako a faloco'.
+    He goes along with my feelings / thinking.
+    他跟從我的意思，他跟隨我的想法
+    Patooren ako ko sowal.
+    I have something to add (to what has been said).
+    我要補充說明
+    Tooren ko rakat nira a mitakop.
+    Follow / pursue him and over-take him
+    跟踪他的腳步，趕上他
 順從，服從
+    Tooren ko Wama.
+    Follow / obey the (heavenly) Father.
+    跟隨 / 順從天上的父
+    Mitooray kako.
+    I am obeying.
+    我在服從
+to follow a religion
 信仰宗教
-
-
-Tooren ko Wama.
-Follow
-=> obey the (heavenly) Father
-跟隨/ 順從天上的父
-
-
-Mitooray kako.
-I am obeying.
-我在服從
-
-
-Matoor nira kono mako a faloco'.
-He goes along with my
-
-
-
-feelings
-=> thinking
-他跟從我的意思，他跟隨我的想法Patooren ako ko sowal.
-I have something to add (to what has been said) .
-我要補充說明
-
-
-O maan ko pitooran iso?
-What is your religion?
-你信奉什麼宗 教?
-
-
-Tooren ko rakat nira a mitakop.
-Follow
-=> pursue him and over - take him
-跟踪他的腳步，趕上他
-
+    O maan ko pitooran iso?
+    What is your religion?
+    你信奉什麼宗教？
 
 topa
 to stamp
 蓋章
-
+satopa, sarina'
 
 satopa
-=> sarina'
 a chop * a stamp
 印章，印記，戳記
-
+=> sarina', topa
 
 toper
 special headdress or crown worn by someone given special recognition
 在很特別的表彰某人時給予特別的冠冕來裝飾他
 
-
 topi
-=> fanol
 a dove * pigeon
 鴿子
-
+=> fanol
 
 topida'
-to hit with something filthy
-用污穢的東西擊打 *as to spit upon 如被吐唾液
-
-
-Mapatopida' no sopa' kako.
-I was hit with spit.
-我被吐一片唾 沫
-
+to hit with something filthy * as to spit upon 
+用污穢的東西擊打，如被吐唾液
+    Mapatopida' no sopa' kako.
+    I was hit with spit.
+    我被吐一片唾沫
 
 toplak
 to open up * as to rip a package open
-剝開* 如扯裂剝開 包裹
-
-
-Toplaken ko codad.
-Open the book.
-翻開書本
-
+剝開 * 如扯裂剝開包裹
+    Toplaken ko codad.
+    Open the book.
+    翻開書本
 
 toptop
 a feeding trough * manger
 槽
 
-
 tora
+that.  See Pronouns - Appendix 1.
+那個。參閱附錄Ⅰ代名詞
 => torira
-　that 那個 See Appendix
-Pronouns
-參閱附錄 I 代名 詞
-
 
 torcek
 to point at
 指摘
-
-
-Patorceken nira ko raraw ako.
-He pointed at my mistake.
-他指 摘我的過錯
-
+    Patorceken nira ko raraw ako.
+    He pointed at my mistake.
+    他指摘我的過錯
 
 tores
 a knot
-to join two pieces into a knot
 連接
-兩個連在 一起，把兩者接合
-
+to join two pieces into a knot
+兩個連在一起，把兩者接合
 
 tori
 one kilometer * a measure of distance
-See
-一公里距離的測量單 位
-參閱 lalidec / kakidec. the name of a tree 樹名
-
+一公里距離的測量單位
+the name of a tree 
+樹名
+=> lalidec, kakidec
 
 torik
 the name of an Amis village
 台東縣成功鎮都歷部落名
 
-
 torira
+that.  See Pronouns - Appendix 1.
+那個。參閱附錄Ⅰ代名詞
 => tora
-that 那個 See Appendix
-Pronouns
-參閱附錄I代名 詞
-
 
 torirac
 to slip or slide on something slippery
-滑倒或在滑溜溜的東 西上蹌踉欲倒
-
+滑倒或在滑溜溜的東西上蹌踉欲倒
 
 toris
 => tosir
-a line * a line on paper
-線，紙上的一直線　* or a
+a line * a line on paper * or a line of planted rice plants 
+線，紙上的一直線；成列的水稻行線
 
 
-line of planted rice plants 成列的水稻行線toro'
+# p.348 
+
+toro'
 to point with the finger
-to point figuratively
-to pick
 指向
-比 喻上的指
+    Toro'en ko kagalayan iso.
+    Point at what you want.
+    指出您喜歡的東西，您喜歡什麼指一指看
+=> satoro'
+to point figuratively
+比喻上的指
+    Iraay ko tatoro'en a raraw nira.
+    There is something blameworthy about him (literally: there is sin to be pointed at).
+    他有些該受非難的事情 (字面上：有罪可指摘)
+to pick
 挑選，採摘
-
-
-Toro'en ko kagalayan iso.
-Point at what you want.
-指出您喜歡 的東西，您喜歡什麼指一指看
-
-
-O nitoro'an cigra.
-He was picked / chosen
-他是被指定的
-
-
-Iraay ko totoro'en a raraw nira.
-There is something blamewor - thy about him (literally: there is sin to be pointed at) .
-他有些該 受非難的事情 (字面上：有罪可指摘)
-
+    O nitoro'an cigra.
+    He was picked / chosen.
+    他是被指定的
 
 satoro'
 the forefinger
 食指
-
+=> toro'
 
 torod
 to hand over * give into someone else's hands
-交給，給與 ※交給某人的手上
-
-
-Matatorotorod kita to tayal.
-Let's pass on the work from one to the other.
-我們把工作相互交接
-
-
-Patoroden ci Wamaan ko karorayan no faloco' iso.
-Turn over to the heavenly Father the responsibility for your burdens.
-把 心中的重擔交給上帝
-
+交給，給與※交給某人的手上
+    Matatorotorod kita to tayal.
+    Let's pass on the work from one to the other.
+    我們把工作相互交接
+    Patoroden ci Wamaan ko karorayan no faloco' iso.
+    Turn over to the heavenly Father the responsibility for your burdens.
+    把心中的重擔交給上帝
 
 torok
-a plant* Euphorbiaceae Glochidon lenceolatum
-光葉饅頭 粿
-
+a plant * Euphorbiaceae Glochidon lenceolatum
+光葉饅頭粿
 
 toron
 sticky rice bread made by beating out glutinous rice with a pestle
 糯米糕
-
+=> misatoron, tatoronan
 
 misatoron
 to maka rice bread
 製作糯米糕
-
+=> toron
 
 tatoronan
 a large earthen vessel * a steamer
 蒸飯陶甗
-
+=> toron
 
 toror
-to put wood into the stove
-添加爐灶的柴火 * pushing
-
-
-it in 推進 2. to encourage * exhort 鼓舞，鼓勵※勸告 * sup
-port a person so he is warmed and inspired
-支持一個人使他有溫 暖與鼓勵的感受
-
+to put wood into the stove * pushing it in 
+添加爐灶的柴火，推進 
+to encourage * exhort * support a person so he is warmed and inspired
+鼓舞，鼓勵※勸告；支持一個人使他有溫暖與鼓勵的感受
 
 tortor
 to peck at food
-tortoren. to do something quickly not allowing time to elapse
-to dip into something like salt
 連續而快速的啄食
-做事快速不容時間 過去
+(tortoren) to do something quickly not allowing time to elapse
+做事快速不容時間過去
+    Matortor ko sowal nira.
+    He spoke quickly and immediately to the issues.
+    他說話立刻發佈
+to dip into something like salt
 沾於像鹽一類的東西
-
-
-Matortor ko sowal nira.
-He spoke quickly and immediately to the issues.
-他說話立刻發佈
-
 
 tosa
 two
 二
+    Tatosa kami.
+    There are two of us.
+    我們倆個
+    Tosa ko cokap.
+    There are two shoes.
+    兩隻鞋子
+    Kalitosaen koya 'pag.
+    Divide the bread in two.
+    把麵包切成兩塊
+    O sakinatosa anini.
+    This is the second time.
+    這是第二次
 
 
-Tatosa kami.
-There are two of us.
-我們倆個
-
-
-Tosa ko cokap.
-There are two shoes.
-兩隻鞋子
-
-
-Kalitosaen koya 'pag.
-Divide the bread in two.
-把麵包切成兩塊
-
-
-O sakinatosa anini.
-This is the second time.
-這是第二次
-
+# p.349
 
 tosir
-=> toris
 a line * a line on paper
-a verse of scripture
 線，紙上的線條
+a verse of scripture
 聖經的章節
-
+=> toris
 
 tosok
 goal * direction to be headed
 目標，前進的方向
-
-
-Tosok Han cigra a somowal.
-Speak to him (not to someone else).
-指名跟他說 (不跟其他人說)
-
-
-Tosok han a miraod.
-Approach (him)./i.e. Don't bother with talking to others.
-悄悄的接近他，不打擾其他人
-
+    Tosok han cigra a somowal.
+    Speak to him (not to someone else).
+    指名跟他說 (不跟其他人說)
+    Tosok han a miraod.
+    Approach (him) / i.e. Don't bother with talking to others.
+    悄悄的接近他，不打擾其他人
 
 tosor
-=> toros
 knee * knees
-pitosor. to kneel
 膝蓋
+=> toros, pitosor
+
+pitosor
+to kneel
 跪下
-
-
-O mipitosoray cigra a mitolon.
-He is kneeling in prayer.
-他是 跪下來禱告的
-
+    O mipitosoray cigra a mitolon.
+    He is kneeling in prayer.
+    他是跪下來禱告的
+=> tosor
 
 tostos
 to shake down and make the same height * as a bundle of tied bamboo not bundled properly
+上下搖動使頭部平齊※如捆綁竹子
 to dip into salt or sugar before eating
-上下搖動使頭部平齊※如捆綁 竹子
-吃之前先把食物沾 在鹽巴或砂糖中
-
+吃之前先把食物沾在鹽巴或砂糖中
 
 totag
-aluminum sheeting
-鐵皮 (from Japanese引自日語)
-
+aluminum sheeting (from Japanese)
+鐵皮 (引自日語)
 
 totat
-=> la'pa
 a trumpet * made from water buffalo horn and used to call the community together
-用水牛的角製成的號角用以呼叫大 眾集合
-
+用水牛的角製成的號角用以呼叫大眾集合
+=> la'pa
 
 toto'
 a dipper made from a gourd or some other material
-=> tara'ar
-a gourd plant
 葫蘆 製成的汲水工具或其他用具 (杓子)
+a gourd plant
 瓠瓜，葫蘆
-
+=> tara'ar
 
 totog
-a token of doing something
-after eating at home to go somewhere else and sit and eat a little with others eating
-to give the appearance of working
-做某事不正經的 as
-在家吃過後，到別的地方又吃，蜻蜓點水式的吃飯 法
-好像要做又不做的樣子 (工作不徹底)
-
+a token of doing something as after eating at home to go somewhere else and sit and eat a little with others eating
+做某事不正經的：在家吃過後，到別的地方又吃，蜻蜓點水式的吃飯法
+a token of doing something as to give the appearance of working
+做某事不正經的：好像要做又不做的樣子 (工作不徹底)
 
 totoh
-=> tneg
 to sink * with reference to ships only
-沉沒，僅指船 沉
-
+沉沒，僅指船沉
+=> tneg
 
 totom
 to light a fire from one that is already burning
-從已點燃的 火中取火種
-
+從已點燃的火中取火種
 
 totoy
 puppy * a young dog
 小狗，仔狗
 
-
 towa'
 to open the jaws
-張嘴 See參閱 also gatowa' - to open the mouth 開口 a nickname given to a person who talks a lot and does nothing 光說而不做towapon / Towapon. name of Amis village 花蓮市中美部落名
+張嘴
+=> gatowa'
+to open the mouth 
+開口 
+a nickname given to a person who talks a lot and does nothing 
+光說而不做
 
+
+# p.350
+
+towapon 
+name of Amis village 
+花蓮市中美部落名
+=> Towapon
+
+Towapon = towapon
 
 towasig
 a pick axe
 十字篙
 
-
 towaso
-rope
-草繩 (from Amoy dialect 引自閩南語)
-
+rope (from Amoy dialect)
+草繩 (引自閩南語)
 
 towid
 the Tits (Paridae) family of birds
 山雀
 
-
 tpa
-=> tpa'
-to slao with hand
+to slap with hand
 拍打，打一巴掌
-
+=> tpa', tpatpa, tpatpa'
 
 tpatpa
 to clap hands together
-拍手 tpa'/tpa. to slap with one's hand 一拍，一擊 tpatpa'/tpatpa. to clap hands together 拍手
+拍手 
+=> tpatpa'
 
+tpatpa' = tpatpa
+
+tpa'
+=> tpa
+to slap with one's hand 
+一拍，一擊 
 
 tpeg
-=> latag
 to measure grain with a large measure
 量，衡量
-
+=> latag
 
 tpes
 term for grain that is immature and has no kernel to it
-未成 熟的稻穀，空穀粒
+未成熟的稻穀，空穀粒
+    Matpes ko panay ako.
+    My grain is no good.
+    我的水稻長的不好 
+    
+tpi'
+to slap on the face 
+打一巴掌在臉上
+=> tpih, tpa'
 
-
-Matpes ko panay ako.
-My grain is no good.
-我的水稻長的不好 tpi'/tpih / tpa'. to slap on the face 打一巴掌在臉上
-
-
-tpih / tpi'
-=> tpa'
-to slap on the face
-在臉上打一巴掌
-
+tpih = tpi'
 
 tpik
 to fold
 摺疊
-
-
-Tpiken ko nifaca'an iso a riko'.
-Fold the clothes you washed.
-把你洗過的衣服折好
-
+    Tpiken ko nifaca'an iso a riko'.
+    Fold the clothes you washed.
+    把你洗過的衣服折好
 
 tpo
 to thud * the noise from falling
 掉落聲
-
-
-Mapatpo koya codad.
-The book was dropped with a thud.
-那 本書砰然一聲掉下來
-
+    Mapatpo koya codad.
+    The book was dropped with a thud.
+    那本書砰然一聲掉下來
 
 tpoc
 to cut with one stroke
-一刀砍斷 tpog/'ofag. a hole * to make a hole 洞，孔，穴
+一刀砍斷 
 
+tpog
+a hole * to make a hole 
+洞，孔，穴
+=> 'ofag
 
 tpor
 to take everything given and leave nothing
-to cut a tree with a machete
-to beat out
 全部奉送
+to cut a tree with a machete
 用刀砍斷樹
-敲出，錘 薄
-
+to beat out
+敲出，錘薄
 
 tra'
 a drop of liquid
-to drip
 液體滴下
+to drip
 滴落
-
 
 trak
 to fall one at a time and be scattered as along a trail
-落下， 散落
-
+落下，散落
 
 tred
 to be an able speaker * communicating well and to the point
 口才流利，人際關係極佳
-
-
-Satretred sa koya wawa a caciyaw.
-That child surely knows how to talk.
-那孩子講話口辭伶俐
-
+    Satretred sa koya wawa a caciyaw.
+    That child surely knows how to talk.
+    那孩子講話口辭伶俐
 
 treg
 to pull till the thing is straight * as string
-to make a straight row as when planting young rice plants
-to line something up * as whenpreparing for building
 把東西拉緊 (直如繩線)
+to make a straight row as when planting young rice plants
 弄成直線如插秧
+to line something up * as whenpreparing for building
 把東西排成一線，如當準備蓋房子時
 
 
+# p.351
+
 trek
 to eat before the rest arrive
-to save over for further consideration
 留存，留下
+to save over for further consideration
 保留這個問題下次再做
-
+    Treken konini a dmak.
+    Save this for further consideration.
+    保留這個問題事情到下次再做
+=> matrek, satrek
 
 matrek
 to save * keep left over food for late comer
-留起來， 留存食物給後來的人
-
+留起來，留存食物給後來的人
+=> trek
 
 satrek
 food saved
 儲存之食物
-
-
-Treken konini a dmak.
-Save this for further consideration.
-保留 這個問題事情到下次再做
-
+=> trek
 
 trep
 to be silent * to stop activity
 安靜，沈默
-
-
-Tomrepto ko wawa imatini.
-The children have stopped talking.
-現在小孩子已肅靜了
-
-
-Pasowal saho ci Yis 'i trep sato ko fali.
-Jesus spoke and the wind stopped.
-耶穌剛說完, 風就停止了
-
+    Tomrepto ko wawa imatini.
+    The children have stopped talking.
+    現在小孩子已肅靜了
+    Pasowal saho ci Yis 'i trep sato ko fali.
+    Jesus spoke and the wind stopped.
+    耶穌剛說完，風就停止了
 
 trik
 to throw off and away from
 彈出去
-
-
-Mitrikay koya kikay to lakaw.
-That machine is throwing off debris.
-那機械會彈出碎物 (垃) 出來
-
-
-Matrik a matfad nai otofay cigra.
-He was thrown off and clear of the motor bike.
-他從機車上彈出落下
-
+    Mitrikay koya kikay to lakaw.
+    That machine is throwing off debris.
+    那機械會彈出碎物 (垃) 出來
+    Matrik a matfad nai otofay cigra.
+    He was thrown off and clear of the motor bike.
+    他從機車上彈出落下
 
 troc
 to jump over something
 跳越某東西
 
-
 tsek
 to pierce * stab
 刺穿
-
-
-Mitsek i faloco' ako ko sowal nira.
-His words stabbed me in the heart.
-他的話刺痛我的心，他的話感動我
-
+    Mitsek i faloco' ako ko sowal nira.
+    His words stabbed me in the heart.
+    他的話刺痛我的心，他的話感動我
 
 tsel
-=> ta'sel
-to pierce through
-穿過 * to penetrate 刺穿
-
-
-with minegneg
-to see throught
-to Stitch
+to pierce through * to penetrate 
+穿過，刺穿
+(with minegneg) to see throught
 識別，看穿，鑑別
+to stitch
 刺繡
-
-
-mitsel to talip
-to stitch a skirt
-刺繡裙子
-
-
-wa
-=> oa
-a grammatical particle used in the south indicating a pro
-jected or future concept
-文法上的一個用詞指出一個計劃或未來的觀 念
-
-
-wa'ay
-=> o'o
-leg * legs including the feet
-腳
-
-
-wa'cik
-to separate from the rest
-to roughly brush aside
-從其餘的部份分出來 * to lay aside and separate 拋開，挪開
-很 粗暴的推開，拋開 waa'/pohog. horns of an animal 動物的角
-
-
-wacay
-evidence
-mawacacy - to be naked
-證據，證物
-赤裸
-
-
+    mitsel to talip
+    to stitch a skirt
+    刺繡裙子
+=> ta'sel
