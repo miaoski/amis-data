@@ -2285,11 +2285,6 @@ where from?
 從那裏？
 => cowa
 
-talacowa 
-go where?
-去哪裏？
-=> cowa
-
 pakacowa 
 how? which way?
 怎樣？走那一條路？

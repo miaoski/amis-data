@@ -932,11 +932,6 @@ earth
 
 # p.118
 
-talahkal
-come to light * be revealed
-到世上，到外面，顯露出來，啟示出來
-=> hkal
-
 patalahkal 
 confess * reveal
 承認，認罪，自認，啓示，告別
@@ -1140,11 +1135,6 @@ horiyac
 to be slick
 滑
 => tahoriyac
-
-tahoriyac 
-to slip and slide on something slick
-滑倒
-=> horiyac
 
 horiyoc 
 crooked * winding * as the coast line

@@ -393,8 +393,6 @@ high
 高
 => takaraw
 
-takaraw = 'akawag
-
 'akaway
 stem of a plant
 植物的莖
@@ -542,8 +540,6 @@ deep
 深的，深遠的
 => talolog
 
-talolog = 'alolog
-
 'aloman
 many * of people and animals only
 許多…，很多…，眾多
@@ -570,8 +566,6 @@ edible snails from river or sea
 a smaller group belonging to a larger delegation of travelers walking
 成群結隊
 => tapakad
-
-tapakad = 'alpad
 
 'amis
 name of the Amis race
@@ -658,8 +652,6 @@ Banded Krait * a poisonous snake
 the name of a large frog
 俗稱田雞
 => opopay
-
-opopay = 'ap'ap
 
 'apac
 a trowel * a tool used by a carpenter to shave wood smooth
@@ -1629,12 +1621,6 @@ silver
 銀
 => tada'kim
 
-tada'kim
-gold
-黃金
-=> 'kim
-
-
 # p.38
 
 'kog
@@ -1691,19 +1677,14 @@ to hold back * control self
 
 'mi
 wheat
-大麥
+小麥
 => 'did, kato'mi, tada'mi
 
 'did = 'mi
 
 kato'mi
 barley
-小麥
-=> 'mi
-
-tada'mi
-wheat
-小麥
+大麥
 => 'mi
 
 'mic
