@@ -1,3347 +1,2671 @@
 # 單字與單字間請空一行
+# p.207
 pa'anifog
 name of an Amis village
 台東興昌，阿美族部落
+=> Pa'anifog
 
 pa'cas
 with negative * meaning to seek a temporary solution
 用以否定語句意指尋找暫時的決定
-    Awaay ko pa'casan no faloco' ako.
-    I feel there is no way to resolve (this situation) / i.e. no open door.
+    Awaay ko pa'casan no faloco' ako. 
+    I feel there is no way to resolve (this situation). / i.e. no open door.
     我的心實在無法下定決心
-
 
 pa'el
 to influence the feelings of
 影響對某事的感覺
+    Mapa'el no folad cigra.
+    He was moonstruck
+    他被月亮著迷
 to make feel sleepy
 令人感覺昏昏欲睡
-
-
-Mapa'el no folad cigra.
-He was moonstruck
-他被月亮著迷
-
-
-Mapa'el no sapayo cigra saka mafoti'to cigra.
-He was anesthe - tized so he went to sleep.
-他被藥麻醉，所以他一直在睡著
-
+    Mapa'el no sapayo cigra saka mafoti'to cigra.
+    He was anesthetized so he went to sleep.
+    他被藥麻醉，所以他一直在睡著
 
 pa'ilasen
-=> Pa'ilasen
 the name of an Amis village
-花蓮縣瑞穗 鄉富源部落名
-
+花蓮縣瑞穗鄉富源部落名
+=> Pa'ilasen
 
 pa'kel
 literally to put down or hold so that something doesn't move or blow away
+字面上指壓住或握住東西,使其不能動彈或被風吹走
 figuratively to control and restrain freedom
-字面上指壓住或握住東西, 使其不能動彈或被 風吹走
-比喻用於 控制和限制自由
-
-
-Mapa'kel noya tamdaw kako.
-I am controlled by that person.
-我被那個人控制得毫無自由
-
+比喻用於控制和限制自由
+    Mapa'kel noya tamdaw kako.
+    I am controlled by that person.
+    我被那個人控制得毫無自由
 
 pa'nan
-=> paenan
 the floor of a room
-the entrance way into a building (North
 地板
-北方阿美語) 建築物的大門
-
+the entrance way into a building (North Amis)
+建築物的大門 (北方阿美語)
+=> paenan
 
 pa'no
 the seed inside of a fruit
-the egg from an ovary
-sperm
-clitoris
-Adam's apple
 核子，種子
+the egg from an ovary
 卵巢
+sperm
 精液
+clitoris
 陰蒂，核
+Adam's apple
 喉結
 
-
 pa'pa
-=> pi'pi, pakpak
 to clap hands
-to hit onthe shoulder as a friendly gesture
 鼓掌，拍手
+to hit onthe shoulder as a friendly gesture
 拍別人的肩膀表示友愛的態度
+=> pi'pi, pakpak
 
+
+# p.208 
 
 pa'pa'
 to chew * the action of jaws and teeth in chewing
+咀嚼，顎部與牙齒的動作
 a dipper for measuring rice
+量米的杓子
 a gourd used as a water container
-咀 嚼，顎部與牙齒的動作
-量米的杓 子
 用來當作裝水的葫蘆
-
 
 pa'tag
 a bucket
-水桶 made from wood and of various types 各 式各樣木製的水桶
-
+水桶 
+made from wood and of various types 
+各式各樣木製的水桶
 
 pacahfak
 to spread out something to lay on as a cloth or coat
-to spread out for a cover or
-to take someone through an area that has no path
 攤開衣物披掛在某物上擊打
-攤 開東西以覆蓋
+to spread out for a cover
+攤開東西以覆蓋
+to take someone through an area that has no path
 帶人橫闖沒有路的地方
 
-
 pacako
-=> paca'of
 to answer * reply
 回答，答覆
-
+=> paca'of
 
 pacarcar
 to be in a temporary state
-居於暫時狀態中 with regard to staying 暫時逗留 * sleeping 躺臥休息 * thinking 思想
-
-
-Pacarcarho ko harateg ako anini.
-I am in a state of flux in my thinking.
-我臨時思潮汹湧
-
-
-Pacarcarho kako a mafoti'.
-I am going to sleep a few minutes.
-我暫時睡一下(一會兒)
-
-
-O mipacarcaray kako a maro' itini.
-I am staying here temporarily.
-我暫時在這裡逗留
-
+居於暫時狀態中
+    Pacarcarho ko harateg ako anini.
+    I am in a state of flux in my thinking.
+    我臨時思潮汹湧
+with regard to staying 
+暫時逗留
+    O mipacarcaray kako a maro' itini.
+    I am staying here temporarily.
+    我暫時在這裡逗留
+sleeping 
+躺臥休息
+    Pacarcarho kako a mafoti'.
+    I am going to sleep a few minutes.
+    我暫時睡一下(一會兒)
+thinking
+思想
 
 pacek
-a nail ＊ nails
+a nail * nails
 鐵釘，釘子
-
+=> mipacek, kapacekan
 
 mipacek
 to nail * hammer a nail into
 鐵釘，釘子，打釘，釘住
-
+=> pacek, kapacekan
 
 kapacekan
 place where nail is placed
 被鐵釘刺的地方
-
+=> pacek, mipacek
 
 pacfa
-=> patras
 to make up a story
+隨便亂講
 to do something incorrectly getting another into trouble
-隨便亂講 * to not tell the truth 說假話
+說假話
+to not tell the truth 
 做不正當的事情，使別人遇到困難
-
-
-Aka pacfa to sowal.
-Don't talk off the top of your head / make up a story.
-不要隨便說話
-
-
-Pacfa ko dmak nira.
-He did the thing altogether incorrectly leaving trouble behind him.
-胡作非為
-
+    Aka pacfa to sowal.
+    Don't talk off the top of your head / make up a story.
+    不要隨便說話
+    Pacfa ko dmak nira.
+    He did the thing altogether incorrectly leaving trouble behind him.
+    胡作非為
+=> patras
 
 paci'ci
 to force * insist on doing though not suitable or reasonable
 勉強堅持去做不適當或沒理性的事
+    Aka paci'cien ko faloco' ako.
+    Don't force me (my heart).
+    不要勉強我的心意
+    Paci'ci sa cigra a tayra.
+    He went against reason.
+    他硬著要去
 
 
-Aka paci'cien ko faloco' ako.
-Don't force me (my heart) .
-不要 勉強我的心意
+# p.209
 
-
-Paci'ci sa cigra a tayra.
-He went against reason.
-他硬著要去paci'eg / kaci'eg. cheek * part of the face 面頰
+paci'eg
+cheek * part of the face 
+面頰
+=> kaci'eg
 
 
 pacig
+a rubber slingshot or sword gun for shooting fish (from Japanese)
+魚槍，彈弓 (引自日語)
 => pacigko
-a rubber slingshot or sword gun for shooting fish
-魚槍，彈弓 (from Japanese 引自日語)
-
 
 pacigko
-=> pacig
 a rubber sling or sword gun for shooting fish
-彈 弓，魚槍
-
+彈弓，魚槍
+=> pacig
 
 pacilit
 a species of birds including the Pied Wagtail and Gray Wagtail
 白[春鳥]鴿，灰[春鳥]鴿
 
-
 packil
 to come upon in visitation
-to move upon * inspire
 來訪
+    Mapackil no 'afag nira koya cikawasay.
+    The medium was visited upon by his spiritual power (spirit).
+    魔靈附在某人身上
+to move upon * inspire
 鼓舞，激勵，感動
-
-
-Mapackil no 'afag nira koya cikawasay.
-The medium was visited upon by his spiritual power (spirit) .
-魔靈附在某人身上 Mapackil no Fagcalay ' Adigo ko mitiliday to Fagcalay a Codad.
-
-
-
-The writers of the Bible were inspired by the Holy Spirit.
-聖經的著者被聖靈所默示
-
+    Mapackil no Fagcalay ' Adigo ko mitiliday to Fagcalay a Codad.
+    The writers of the Bible were inspired by the Holy Spirit.
+    聖經的著者被聖靈所默示
 
 packis
-=> ra'it
 tusks of an animal
-the claw above the foot on a chicken
-eye teeth
 動物的尖牙，獠牙
+the claw above the foot on a chicken
 公雞的腳爪
-犬齒
-
-
-packis no wadis
 eye teeth
-門牙, 犬齒，獠牙
-
+犬齒
+    packis no wadis
+    eye teeth
+    門牙，犬齒，獠牙
+=> ra'it
 
 pacofcof
 to force a person to drink wine or eat something
-硬灌， 硬塞 (酒類或食物)
-
+硬灌，硬塞 (酒類或食物)
 
 pacok
 to slaughter * to kill with a knife or sword
-用刀或劍宰 殺 ， 刺殺
-
+用刀或劍宰殺，刺殺
 
 pacpac
-=> papeg
 to beat hard * to thresh out
+用力鞭打, 打穀
 to hit with twigs
-用力鞭打, 打 穀
 用細枝擊打
-
+=> papeg
 
 pipacpacan
 threshing frame on which harvested produce is lain and beaten out
 收割時用來打穀的框子
 
-
 pacrem
-=> maratar
 early * referring to morning only
 很早，起得早
-
+=> maratar
 
 pada'ciay
 a plant called Elatostema edule Rob.
 闊葉樓梯草
 
-
 padadoki
-=> padadoki
 bat * a mammal
 蝙蝠
-
+=> padadoki
 
 padag
 to help * assist
 幫忙
+    o mipadagay
+    a helper * assistant in a task
+    幫忙的人，某種任務上的助手或助理
+    Ira haw ko papadagen ako?
+    Is there anything I can do to help?
+    有我需要幫忙的嗎？
+    Mamaan mapapadag kita to tayal.
+    How about us helping each other with the work?
+    我們可否相互幫忙？
+    Mapapadapadag kita a mickroh.
+    Let's all help push.
+    讓我們用心協力來推
 
 
-o mipadagay
-a helper * assistant in a task
-幫忙的人，某種任務上的助手或助
-
-
-理Ira haw ko papadagen ako?
-Is there anything I can do to help?
-有我需要幫忙的嗎？
-
-
-Mamaan mapapadag kita to tayal.
-How about us helping each other with the work?
-我們可否相互幫忙?
-
-
-Mapapadapadag kita a mickroh.
-Let's all help push.
-讓我們用 心協力來推
-
+# p.210
 
 padagan
-=> kakonoyan
 a reed back pack
 藤製的背籃
-
+=> kakonoyan
 
 padahaw
 upper part of the leg
 陰部雙邊的大腹部分
 
-
 padahof
 to give or send a present without expecting return
-援助 金，贊助金
-
+援助金，贊助金
 
 padaka
-=> Padaka, Amilika
 a white foreigner * a foreign country
-an American * America
-=> 'ariray
-'ariray. corn
 外國人，外國
+    Tayni ko Padaka i Taiwag a mipatnak.
+    Foreigners came to Taiwan to spread the gospel.
+    外國人到台灣傳道
+an American * America
 美國人
+=> Padaka, Amilika
+corn
 玉米
-
-
-Tayni ko Padaka i Taiwag a mipatnak.
-Foreigners came to Taiwan to spread the gospel.
-外國人到台灣傳道
-
+=> 'ariray
 
 padal
 walls of a building
 牆壁
 
-
 padeg
 to put out * literally to extinguish a fire
-to turn off
-to neagate (words)
 熄滅
+    Padegen ko namal.
+    Put the fire out.
+    把火熄滅
+to turn off
 關燈
+to neagate (words)
 打消別人的話
-
-
-Padegen ko namal.
-Put the fire out.
-把火熄滅
-
 
 padek
 a step-child or step-parent
 前夫妻之子女或繼父母
-
+=> misapadek
 
 misapadek
 to show favoritism to someone
-對某些孩子偏愛，偏 袒
-
+對某些孩子偏愛，偏袒
+=> padek
 
 pades
 trials * a wide generic word covering trouble * suffering * difficulties in the world of the spirit as well as physical
-涵蓋 精神和肉體上的痛苦，苦難與困難
-
-
-Cipadesay kako.
-I am having trials.
-我有苦難，我有很多挫折
-
-
-Mapades kako.
-I am (in a state) of trouble.
-我很痛苦
-
-
-kapadesan a romi'ad
-time of trouble
-受難期間或日子
-
-
-O mipadesay kiso takowanan.
-You are causing me to go through trial.
-你帶給我麻煩
-
+涵蓋精神和肉體上的痛苦，苦難與困難
+    Cipadesay kako.
+    I am having trials.
+    我有苦難，我有很多挫折
+    Mapades kako.
+    I am (in a state) of trouble.
+    我很痛苦
+    kapadesan a romi'ad
+    time of trouble
+    受難期間或日子
+    O mipadesay kiso takowanan.
+    You are causing me to go through trial.
+    你帶給我麻煩
 
 padiwawa
-a funnel - shaped container used in fishing
-漏斗形的木 製品用來捕捉魚的
-
+a funnel-shaped container used in fishing
+漏斗形的木製品用來捕捉魚的
 
 padiyac
 a type of soil that is rocky
 峭壁
 
-
 padiyaw
 a square tin can
 四方形鐵罐
-
 
 padogipog
 a large bush * Common Melastoma and White-flower Melastoma
 野牡丹 (山石榴) 白花野牡丹
 
 
+# p.231
+
 padopil
 to make stick to * as to cause to cling to skin or paper etc.
 黏貼，如黏貼東西在皮膚上或紙張上
 
-
 padteg
-to deliberately do something when it may seem unreason- able ＊ with positive or negative connotations
-專程，故意，有意 的舉動看起來似乎毫無理由，蘊含肯定或否定的涵意
-
-
-Padteg sa cigra a mitakaw.
-He deliberately stole.
-他專程有意地 偷取東西
-
-
-Padteg sa ko Kawas a miocor ci Yis Kristoan.
-God deliberately sent Jesus Christ.
-上帝專蓄意差遣耶穌基督
-
+to deliberately do something when it may seem unreason-able * with positive or negative connotations
+專程，故意，有意的舉動看起來似乎毫無理由，蘊含肯定或否定的涵意
+    Padteg sa cigra a mitakaw.
+    He deliberately stole.
+    他專程有意地偷取東西
+    Padteg sa ko Kawas a miocor ci Yis Kristoan.
+    God deliberately sent Jesus Christ.
+    上帝專蓄意差遣耶穌基督
 
 paen
 an edible wild vegetation * bitter
 可看之野生植物有苦味
 
-
 pafli
 to give
 給予，贈給
-
-
-Paflien kami to riko'.
-Give me some clothes.
-請分衣服給我們
-
-
-o pafliay
-the ones who give
-施捨者，贈予者，給予的人
-
-
-O sapafli nira konini.
-This is his gift.
-這是他的贈品
-
-
-Papipaflien nira kako to riko'.
-Make him give me some clothes.
-託他人把衣服拿給我
-
-
-O halipafliay cigra.
-He is a generous giver.
-他是很慷慨的人
-
+    Paflien kami to riko'.
+    Give me some clothes.
+    請分衣服給我們
+    o pafliay
+    the ones who give
+    施捨者，贈予者，給予的人
+    O sapafli nira konini.
+    This is his gift.
+    這是他的贈品
+    Papipaflien nira kako to riko'.
+    Make him give me some clothes.
+    託他人把衣服拿給我
+    O halipafliay cigra.
+    He is a generous giver.
+    他是很慷慨的人
 
 pafsoc
 straight ahead * directly ahead * without distraction
-直 接，直達，直直走
-
-
-Pafsoc ko rakat nira.
-He went straight ahead / did not stop along the way.
-他直接去了，不作任何停留
-
+直接，直達，直直走
+    Pafsoc ko rakat nira.
+    He went straight ahead / did not stop along the way.
+    他直接去了，不作任何停留
 
 paga
 penis * male sexual organ
 陰莖，男人的生殖器
 
-
 pagcah
-=> Pagcah
 the name the Amis give themselves
+阿美族人自稱
 in some areas it can refer to all tribal peoples
-阿美族 人自稱
-在某些 地方以此字涵蓋所有的山地同胞
-
+在某些地方以此字涵蓋所有的山地同胞
+=> Pagcah
 
 pagkiw
 half
 一半
-
-
-Ccay ko toki ira ko pagkiw ira cigra a tayni.
-He came at one thirty (literally one and a half) .
-他一點半到達這裡
-
+    Ccay ko toki ira ko pagkiw ira cigra a tayni.
+    He came at one thirty (literally one and a half).
+    他一點半到達這裡
 
 pagloy
-a leafy vegetable
-萵苣植物 (from Amoy dialect 引自閩南 語)
-
+a leafy vegetable (from Amoy dialect)
+萵苣植物 (引自閩南語)
 
 pagpag
-=> pagpagan
-pagpagan. eaves on a building
-Double flow- er gardenia
+eaves on a building
 屋簷
+=> pagpagan
+Double flower gardenia
 重瓣黃梔
 
-
 pagpagan
-=> pagpag
 the eaves of a building
-a porch
 屋簷
+a porch* a covered entrance to a building 
+引自大門有屋頂覆蓋的走廊
+=> pagpag
 
 
+# p.212
 
-* a covered entrance to a building 引自大門有屋頂覆蓋的走廊pagta
+pagta
 shallow * with literal and figurative meanings
-淺的，不深 的，兼有字面上和比喻上的涵義
-
-
-Matalaw cagra to katalapagtaan no lonan.
-They were afraid of the ship running into shallows.
-他們很害怕船會擱淺
-
+淺的，不深的，兼有字面上和比喻上的涵義
+    Matalaw cagra to katalapagtaan no lonan.
+    They were afraid of the ship running into shallows.
+    他們很害怕船會擱淺
 
 paharawan
 a bird * migrates through Taiwan in the fall
-紫嘯 鶇，在台灣暫時停留棲息而後再繼續飛行
-
+紫嘯鶇，在台灣暫時停留棲息而後再繼續飛行
 
 paheg
-to have head feel aching and confused＊ears ring
-有頭暈 的感覺 (耳鳴)
-
+to have head feel aching and confused*ears ring
+有頭暈的感覺 (耳鳴)
 
 pahko
 a type of fern that is edible
 過貓菜，蕨類植物
-
-
-pahko no lotok
-wild fern ＊Taiwan China Fern
-山上的過貓菜
-
+    pahko no lotok
+    wild fern *Taiwan China Fern
+    山上的過貓菜
 
 pahotig
 to tend a flock (of sheep) * to be a shepherd
-照顧一羣 (羊) ，牧者
-
+照顧一羣(羊)，牧者
 
 paikor
+to do something for the last time
+臨走前或臨終時，交代事情，留言，遺言
+    paikor to sowal
+    give a farewell message
+    臨終前說遺言
+    paikor to dmak
+    to do something for the last time
+    做最後的事情，臨行前或臨終前做最後交代
+    paikor a pakaen
+    to give a farewell meal to (someone who is leaving)
+    給予餞行(對要離開的人)
 => parikor
-to do something for the last time
-臨走前或臨終 時，交代事情，留言，遺言
-
-
-paikor to sowal
-give a farewell message
-臨終前說遺言
-
-
-paikor to dmak
-to do something for the last time
-做最後的事 情，臨行前或臨終前做最後交代
-
-
-paikor a pakaen
-to give a farewell meal to (someone who is leaving)
-給予餞行 (對要離開的人)
-
 
 paini
 to give * place * provide for a situation or need
-給予，地 方或場地，提供一種情況或需要
-
+給予，地方或場地，提供一種情況或需要
+=> sapaini 
 
 sapaini
 a contribution
 贈品，捐助，捐贈，獻金
-
+=> paini
 
 pakah
 hip bone
-臀部 pakapsi'/pakatiihay ko hofoc. to abort * naturally 早產， 流產，難產，小產，含自然流產
+臀部
 
+pakapsi'
+to abort * naturally
+早產，流產，難產，小產，含自然流產
+=> pakatiihay, pakatiih
 
 pakara'ac
-=> Pakara'ac
 name of an Amis village
-台東縣長濱鄉竹 湖部落名
-
+台東縣長濱鄉竹湖部落名
+=> Pakara'ac
 
 pakatiih
-=> pakapsi'
 to abort spontaneously * to lose a child by aborting.
-to dream you aborted
 自然流產，以墮胎人工流產
+    Pakatiihan ko hofoc.
+    She aborted naturally.
+    她自然流產
+to dream you aborted
 夢見你小產
-
-
-Pakatiihan ko hofoc.
-She aborted naturally.
-她自然流產
-
+=> pakapsi'
 
 pakayni
 through * by way of
+經過，通過，經由，當作，作為，藉著
+    Pakayni kita a romakat.
+    We go this way.
+    我們經由這條路走
+    Pakayni i patay nira a mahpol ko raraw.
+    Through His deathsins are forgiven.
+    藉著 (通過) 他的死，使我們的罪得赦免
+    Pakaynien toya tamdaw ko pipasowal.
+    Use (as an instrument) that man to speak (to someone).
+    透過那個人，來說這件事
 concerning * with reference to
-經過，通過，經由，當作，作 為, 藉著
-關於, 參照如下
+關於，參照如下
+    Awaay ko sowal nira to pakayniay tonini a dmak.
+    He didn't say anything about this matter.
+    他沒有交待有關這件事情
 
 
-Pakayni kita a romakat.
-We go this way.
-我們經由這條路走
-
-
-Pakayni i patay nira a mahpol ko raraw.
-Through His deathsins are forgiven.
-藉著 ( 通過 ) 他的死，使我們的罪得赦免
-
-
-Awaay ko sowal nira to pakayniay tonini a dmak.
-He didn't say anything about this matter.
-他沒有交待有關這件事情
-
-
-Pakaynien toya tamdaw ko pipasowal.
-Use (as an instrument) that man to speak (to someone) .
-透過那個人，來說這件事
-
+# p.213
 
 pakayra
 by that means
-through that way
-concerning
 通過那個手段
+    O fa'lohay a pakayraan konini.
+    1. This is a new method.  2. This is a new religion.
+    1. 這是新辦法  2. 這是新的宗教
+through that way
 藉著那個方法
+    Pakayra kita a romakat.
+    Let's walk that way.
+    我們從那一條路走
+    Pakayra tora dmak a masalof cigra.
+    Through that event he was corrected.
+    通過那件事，使他回心轉意 (改正)
+    Awaay ko pakayraan ita.
+    We have no way (to accomplish a plan).
+    我們沒有辦法 (完成計劃)
+    Pakayraw kita a romakat.
+    Let's go that way (pointing in a certain direction).
+    我們從那邊走 (指出某種方向)
+concerning
 關於
-
-
-Pakayra kita a romakat.
-Let's walk that way.
-我們從那一條路走
-
-
-Pakayra tora dmak a masalof cigra
-Through that event he was corrected.
-通過那件事，使他回心轉意 (改正)
-
-
-Awaay ko pakayraan ita.
-We have no way (to accomplish a plan) .
-我們沒有辦法 (完成計劃)
-
-
-O fa'lohay a pakayraan konini.
-This is a new method.
-This is a new religion.
-這是 新辦法
-這是新的宗教
-
-
-Pakayraw kita a romakat.
-Let's go that way (pointing in a certain direction) .
-我們從那邊走 (指出某種方向)
-
 
 pakayraan
 method * way
-religion
 方法，道路
-宗教，信 仰 See pakayra 參閱 pakayra
-
+religion.  See pakayra
+宗教，信仰。參閱 pakayra
+=> pakayra
 
 pakido
-=> patdo
 to do something in a way that is contrary to rules or guidelines
 做某種與規則或指導原則相反的事情
-
-
-pakido a somowal
-to speak discourteously * without thought of courtesy
-說不禮貌的話
-
+    pakido a somowal
+    to speak discourteously * without thought of courtesy
+    說不禮貌的話
+=> patdo
 
 pakih
 ankle * ankles
 踝骨，腳踝
 
-
 pakinali
-=> pintek
 to go too far * exaggerate * to overdo
-超 過，過份，誇大
-
-
-Pakinali ko sowal nira.
-He exaggerated.
-他講的很過分，說話非 常誇張
-
+超過，過份，誇大
+    Pakinali ko sowal nira.
+    He exaggerated.
+    他講的很過分，說話非常誇張
+=> pintek
 
 pakiyaw
-to gamble＊ using cards or other means
-賭博，用撲克 牌或其他 (from Amoy dialect 引自閩南語)
-
+to gamble * using cards or other means (from Amoy dialect)
+賭博，用撲克牌或其他 (引自閩南語)
 
 pakociko
-=> tatla'an, linpac
 firecrackers
 爆竹，鞭砲
-
+=> tatla'an, linpac
 
 pakogaw
-=> padahof
-1. a strong word for giving without expect
-ing return ＊ especially to give to someone in need
+a strong word for giving without expecting return * especially to give to someone in need
+有強烈意味的援助，不計回報
 to change someone's message with intent to mislead the hearer
-有強烈意味的 援助，不計回報
 改變企圖，誤導聽者的消息
-
+=> padahof
 
 pakokot
-to accuse * to make a charge against * with referenceto actions
+to accuse * to make a charge against * with reference to actions
 控訴，控告，打小報告，誹謗，說壞話
+    O papakokoten ko dmak noya tamdaw.
+    An accusation must be made against the acts of that person.
+    那個人的行為勢必應該被控告
+    Aka pacfa a pakokot to dmak no sigsi.
+    Don't accuse without clear evidence the acts of a teacher.
+    沒有證據不要隨便告發老師的行為
 
 
-O papakokoten ko dmak noya tamdaw.
-An accusation must be made against the acts of that person.
-那個人的行為勢必應該被 控告
-
-
-Aka pacfa a pakokot to dmak no sigsi.
-Don't accuse without clear evidence the acts of a teacher.
-沒有證據不要隨便告發老師 的行為
-
+# p.214
 
 pakonira
-to leave on ones own * to let go
-任意，讓，放縱 * assuming no responsibility for but giving freedom to 不負責任意 給予充分的自由
-
-
-Pakonira aka haenen ko wawa a papisalama.
-Don't let children /a child go play without supervision.
-不要放任小孩子玩耍
-
-
-Tada mapakoniraay ko dmak nira.
-He is too much on his own/ without accountability.
-他的行為太任性了
-
+to leave on ones own * to let go * assuming no responsibility for but giving freedom to 
+任意，讓，放縱；不負責任意給予充分的自由
+    Pakonira aka haenen ko wawa a papisalama.
+    Don't let children / a child go play without supervision.
+    不要放任小孩子玩耍
+    Tada mapakoniraay ko dmak nira.
+    He is too much on his own / without accountability.
+    他的行為太任性了
 
 pakoyoc
-=> pakosiya
-poor ＊ destitute
+poor * destitute
+貧窮的，無依無靠的
+=> pakosiya, sapakoyocay
 orphan * without parents
-貧窮的，無依無靠 的
 孤兒
-
 
 sapakoyocay
 the poorest person
 最貧窮的人
-
+=> pakoyoc
 
 pakpak
-=> pa'pa
 to clap hands
-to hit with the hand
-to blow smoke from a cigarette or pipe
-to habitually do something
 拍手
+=> pa'pa
+to hit with the hand
 用手拍人
-吹 烟
+to blow smoke from a cigarette or pipe
+吹烟
+to habitually do something
 習慣的做某事
 
-
 paktig
-=> pasteg
 to stake out an animal tying it up
-栓住，把動物 繫住
-
+栓住，把動物繫住
+=> pasteg
 
 pala
 territory * district
-field (Kwangfu * Hualien
 田地
-花 蓮光復語) 田地
-
+field (Kwangfu * Hualien)
+田地 (花蓮光復語)
+=> talapala
 
 talapala
-to go to the fields (North
-北部阿美語) 到田裡去工作
-
+to go to the fields (North) 
+到田裡去工作 (北部阿美語)
+=> pala
 
 palag
 a crow * a raven
 烏鴉
 
-
 palal
 to awaken * literally from sleep
-to become aware * alert concerning
 指從睡夢中驚醒過來
-醒悟 Aninito a mapalal ko faloco' iso. At last you have come aware concerning... 你今天終於醒悟過來
-
-
-Palalen cigra.
-Awaken him.
-叫醒他
-
-
-Matalipa'lalto kako.
-I was awakened suddenly.
-I suddenly realized.
-我忽然驚醒 了
-我突然覺悟了
-
+to become aware * alert concerning
+醒悟
+    Aninito a mapalal ko faloco' iso. 
+    At last you have come aware concerning ... 
+    你今天終於醒悟過來
+    Palalen cigra.
+    Awaken him.
+    叫醒他
+    Matalipa'lalto kako.
+    1. I was awakened suddenly.  2. I suddenly realized.
+    1. 我忽然驚醒了  2. 我突然覺悟了
 
 palalaw
 a bird * Formosan Whistling Thrush
 紫嘯鶇
-
 
 palanotireg
 to take for oneself something that didn't belong to him
 佔為己有
 
 
-palayapay / Palayapay
+# p.215
+
+palayapay
 an Amis village
 台東縣鹿野村
-
+=> Palayapay
 
 palfod
 to rush to finish a task
 趕工
 
-
 pali'ayaw
 to do or make preparations before the time
-時間未到 以前預先準備
-
-
-Pali'ayaw cigra a pasowal to nika o aira ci Kristo.
-He prophe - sied of Christ's coming.
-他預言基督的降臨
-
+時間未到以前預先準備
+    Pali'ayaw cigra a pasowal to nika o aira ci Kristo.
+    He prophesied of Christ's coming.
+    他預言基督的降臨
 
 palidig
 a vehicle * such as a wagon or cart * generic term
-牛 車的總稱
-
-
-Pakapalidig cigra a tayra.
-He went by vehicle / cart.
-他坐車前 往 Pakapalidigen konini a si'lac. Take this gravel away in a vehicle / cart. 把這些砂礫用車 子載運
-
+牛車的總稱
+    Pakapalidig cigra a tayra.
+    He went by vehicle / cart.
+    他坐車前往
+    Pakapalidigen konini a si'lac. 
+    Take this gravel away in a vehicle / cart. 
+    把這些砂礫用車子載運
 
 palimagta'
-From magta' (raw * not cooked) * to suddenly be
+From magta' (raw * not cooked) * to suddenly be struck down*killed while in perfect health
+突然死亡，死於非命，英年早逝 (身體非常良好的情形下車禍死亡)
+    o palimagta' hananay a milifages
+    someone who is skinned alive
+    活生生地把它剝皮
+    palimagta' a somowal
+    to speak very bluntly with no tact
+    說話直截了當，不經思考就直接說
 
-
-
-struck down＊killed while in per
-fect health
-突然死亡，死於非命，英 年早逝 (身體非常良好的情形下車禍 死亡)
-
-
-o palimagta' hananay a milifages
-someone who is skinned alive
-活生生地把它剝皮
-
-
-palimagta' a somowal
-to speak very bluntly with no tact
-說話 直截了當，不經思考就直接說
-
-
-palimlim / pa'araw
-sanay. to do something openly
-炫耀，讓別 人羨慕
-
+palimlim
+to do something openly
+炫耀，讓別人羨慕
+    pa'araw sanay
+    to do something openly
+    炫耀，讓別人羨慕
 
 palit
-to be tied * ensnared
-被捆住，約束，被逮捕，被判坐牢 with literal and figurative meanings 包含字面上和比喻上的涵義
-
-
-Mapalit ko faloco' ako.
-My heart is ensnared.
-我的心被束縛 (捆住)
-
+to be tied * ensnared, with literal and figurative meanings 
+被捆住，約束，被逮捕，被判坐牢；包涵字面上和比喻上的涵義
+    Mapalit ko faloco' ako.
+    My heart is ensnared.
+    我的心被束縛 (捆住)
+=> sapalit
 
 sapalit
 instrument for snaring * as handcuffs
 手銬，監獄，逮捕 工具
-
+=> palit
 
 palita
-=> polita
 to discern * to look and see the true situation
-辨 認，指認，認清，判斷，弄清楚真正情況
+辨認，指認，認清，判斷，弄清楚真正情況
+    Misapalitalita kako anini.
+    I am searching out the matter / investigating now.
+    我正在探查事情的情況
+    Palitaenho.
+    Keep taking a look into the situation.
+    先看清楚，先弄清楚
+=> polita
 
 
-Misapalitalita kako anini.
-I am searching out the matter / investi- gating now.
-我正在探查事情的情況
-
-
-Palitaenho.
-Keep taking a look into the situation.
-先看清楚，先 弄清楚
-
+# p.216
 
 paliw
 to help each other with field work
 輪流相互幫忙田裡的工作
+    O paliw ako cigra a mipanay.
+    He is my partner in harvesting the grain.
+    他是我們割稻的夥伴
+    Mapapaliw kita a mipanay.
+    Let's take turns helping in each others' fields harvesting (no wages given but reciprocal labor).
+    我們以輪流的方式相互幫忙割稻
 
-
-O paliw ako cigra a mipanay.
-He is my partner in harvesting the grain.
-他是我們割稻的夥伴
-
-
-Mapapaliw kita a mipanay.
-Let's take turns helping in each others' fields harvesting (no wages given but reciprocal labor) .
-我們以輪流的方式相互幫忙割稻
-
-
-paliyoken / pi'ayaw
-a festival apron
-流蘇前裙 worn by men 男的佩裙
-
+paliyoken
+a festival apron worn by men 
+流蘇前裙，男的佩裙
+=> pi'ayaw
 
 palo
-to hit with something large or flat - surfaced or with the hand
-用比較大或表 面扁平的東西或用手打
-
+to hit with something large or flatsurfaced or with the hand
+用比較大或表面扁平的東西或用手打
 
 palokapok
 grass floating on a pond or lake
 浮萍，布袋蓮
 
-
 palolol
 to restore something to its original condition
 事情恢復有原來的狀態
-
-
-Mapalolol ko nika ga'ay ita.
-Our rela- tionship has been restored.
-我們和好如初
-
-
-Mapalololto ko matastasay a palidig.
-The vehicle has been restored * remade.
-車子已修復
-
+    Mapalolol ko nika ga'ay ita.
+    Our relationship has been restored.
+    我們和好如初
+    Mapalololto ko matastasay a palidig.
+    The vehicle has been restored * remade.
+    車子已修復
 
 paloma
 to plant growing things such as crops or flowers
 種植
-
+=> pipalomaan, sapaloma, mapaloma
 
 pipalomaan
 garden * place to plant and grow things
-花園，種 植之地
-
+花園，種植之地
+=> paloma, sapaloma, mapaloma
 
 sapaloma
 seed
 種子
-
+=> pipalomaan, paloma, mapaloma
 
 mapaloma
 to be planted
 栽種
-
+=> paloma, pipalomaan, sapaloma
 
 pamceg
 to stare
 凝視，瞪視，目不轉睛
 
-
 pamotek
 to stare * gaze intently
 瞪眼注視，瞪大眼睛
 
-
 pipamotekan
 the goal * object in view * place towards which one is headed
 目標，靶標的，鵠的
-
+=> amotek
 
 pana'
 a bow for shooting arrows
 弓箭
-
+    sapipana' a tilo
+    a bow snare
+    弓插機
+=> sapana', mipana', papana'en
 
 sapana'
 arrows
-箭mipana' - to shoot arrows 射箭
+箭
+=> pana'
 
+mipana' 
+to shoot arrows 
+射箭
+=> pana'
 
 papana'en
 the scoreboad
-箭 靶 * thing to be shot with arrows 目標
+箭靶
+thing to be shot with arrows 
+目標
+=> pana'
 
 
-sapipana' a tilo
-a bow snare
-弓 插機
-
+# p.217
 
 panahal
 a piece of ground with nothing growing on it but short grass
 平坦無物，只長短草的一塊地
 
-
 panay
 rice * the harvested grain
-/Panay. name for a woman
-generic word for grain
 稻子
-女人的名字
+Panay, name for a woman
+Panay, 女人的名字
+generic word for grain
 稻的總稱
-
+=> pipanayan, kapanayan
 
 pipanayan
 place of harvest
-time of harvesting
 割稻之地
+time of harvesting
 收割時期
-
+=> panay
 
 kapanayan
 the time of harvest
 割稻時期
-
+=> panay
 
 pances
 the rudder of a ship
 舵
 
-
 panco
-underpants
-內褲 ( from Japanese and English 引自日語和英 語)
-
+underpants (from Japanese and English)
+內褲 (引自日語和英語)
 
 paniis
 hair that grows above and beside the ears
-雙鬢的部分，臉 旁靠耳際的部位
-
+雙鬢的部分，臉旁靠耳際的部位
 
 paogogan
-=> Paogogan
 name of an Amis village
-台東成功鎮八翁翁. 部落名
-
+台東成功鎮八翁翁部落名
+=> Paogogan
 
 paoror
-=> pacoracor
 to stir up * arouse people to do something evil
 促使，唆使別人做不正當的事
+=> pacoracor
 
-
-problem with (het) papa'og/'alolil. 1. a bird * House Martin 燕子 2. Red -
 papa'og
+a bird * House Martin
+燕子
 => 'alolil
-1. a bird * House Martin 燕子 2. Red
-
-
-
-rumped Swallow 紅尾燕 3. House Swift and White
-throated Spinetail Swift
-=> 'apapog
-asparagus
+Red rumped Swallow
+紅尾燕
+House Swift and White throated Spinetail Swift
 褐雨燕
+asparagus
 蘆筍
-
+=> 'apapog
 
 papah
 leaf * leaves
 葉子
-
-
-cipapahay a dateg
-leafy vegetable
-有葉的蔬菜
-
+    cipapahay a dateg
+    leafy vegetable
+    有葉的蔬菜
 
 papeg
-=> pacpac
 to beat out * thresh out
 打稻具
-
+=> pacpac
 
 papikdan
-a term describing men in the 35 - 40 year age group * men in full strength of maturity with experience
-piko. a curve in the road
+a term describing men in the 35-40 year age group * men in full strength of maturity with experience
 描寫人到35 歲至40歲之間，壯年期的術語，男人正值精力充沛經驗豐富時期
+
+piko
+a curve in the road
 路的轉彎處
 
-
 papo
-hemorrhoid ＊a swelling at the anus
-a tree * Elaeocarpus argenteus
-a swelling
+hemorrhoid *a swelling at the anus
 腫脹，痔核
+a tree * Elaeocarpus argenteus
 腺葉杜英
-脹大，隆
+a swelling
+脹大，隆起，膨脹
 
 
-起，膨脹para'
-=> hmot
+# p.218
+
+para'
 seat * part of your body with which you sit * bottom
-the bottom of a container such as a bucket
-the stern of a ship * the back of a vehicle
 身體用以坐下的屁股部位
+=> hmot
+the bottom of a container such as a bucket
 容器如水桶底部
+the stern of a ship * the back of a vehicle
 輪船尾部，車子的後部
 
-
 parac
-=> cokat
 to interrupt sleep
 妨礙睡眠
-
-
-Maparac ko foti' ako.
-My sleep was interrupted.
-我的睡眠被干 擾
-
-
-Aka piparac to foti' ako.
-Don't interrupt my sleep.
-不要妨礙我 的睡眠
-
+    Maparac ko foti' ako.
+    My sleep was interrupted.
+    我的睡眠被干擾
+    Aka piparac to foti' ako.
+    Don't interrupt my sleep.
+    不要妨礙我的睡眠
+=> cokat
 
 paranaan
 the base * foundation
 地基，基部
-
-
-paranaan no loma'
-the building's foundation
-建築物的根基
-
+    paranaan no loma'
+    the building's foundation
+    建築物的根基
 
 parar
-=> cokoi
 a table
 桌子
-
+=> cokoi
 
 parekpek
 to march * the beat of feet
 長途跋涉，用力踏步
 
-
 parikor
-=> paikor
 to do for the last time
 最後的交代
-
-
-parikor to sowal
-to make a farewell speech
-告別辭
-
-
-parikor to dmak
-to help with some activity for the last time (before leaving)
-臨行前對一些活動，做最後的交代與協助
-
-
-parikor a pakaen
-to give a farewell meal to (someone who is leaving)
-臨別請客，餞行
-
+    parikor to sowal
+    to make a farewell speech
+    告別辭
+    parikor to dmak
+    to help with some activity for the last time (before leaving)
+    臨行前對一些活動，做最後的交代與協助
+    parikor a pakaen
+    to give a farewell meal to (someone who is leaving)
+    臨別請客，餞行
+=> paikor
 
 pariwan
-=> Pariwan
 the name of a neighboring tribal group in Taiwan called the Paiwan
 排灣族
-
+=> Pariwan
 
 paro
 members of a group
-contents of ⋯
-to put inside of
 一個團體的組成份子
-的內容
+    Papina ko paro no loma' iso?
+    How many members are there in your family?
+    你家有幾口人？
+contents of 
+⋯的內容
+    O maan ko paro noya kaysig
+    What is in that dish?
+    裝在碗裡面的是什麼東西？
+to put inside of
 裝進裡面
-
-
-Papina ko paro no loma' iso?
-How many members are there in your family?
-你家有幾口人？
-
-
-Paroen konini i palidig ako.
-Put this in my vehicle.
-請把這東西 裝在我的車子裡
-
-
-O maan ko paro noya kaysig
-What is in that dish?
-裝在碗裡 面的是什麼東西？
-
+    Paroen konini i palidig ako.
+    Put this in my vehicle.
+    請把這東西裝在我的車子裡
 
 paro'ot
+to see a person off * saying farewell and staying behind and watching him go
+目送，歡送，送行，說聲珍重再見，站在那裡目送他走
 => patono
-to see a person off ＊ saying farewell and staying behind and watching him go
-目送，歡送，送行，說聲珍重 再見，站在那裡目送他走
-
 
 parod
 cookig stove * hearth
-family
 爐灶
+family
 家庭
-
+=> misaparod
 
 misaparod
 to make a stove (by placing rocks so that a fire can be lit and food cooked)
-to take care of one'sfamily
 建造爐灶
+to take care of one'sfamily
 照顧家庭
+=> parod
 
+
+# p.219
 
 parogapig
 the edge of clothing
 縫紉，縫合衣服的邊緣
 
-
 parok
 the tree and its flower which is like cotton
-/
 棉花
-
-
-
-sawfag. heavy quilts * pugai * made from cotton
-like stuffing
+    no kilag a parok
+    a tree * Bombox helaphylla willd
+    木棉
+heavy quilts * pugai * made from cotton-like stuffing
 棉被
+=> sawfag
 
-
-no kilag a parok
-a tree * Bombox helaphylla willd
-木棉
-
+sawfag
+heavy quilts * pugai * made from cotton-like stuffing
+棉被
+=> parok
 
 parokpok
 to gallop
 飛馳，飛奔離去
 
-
 parpar
 to beat out grain or beans from the shells or husks
-打碎 外殼取五穀或豆類
-
+打碎外殼取五穀或豆類
 
 pasamo
 to improvise * do something temporarily
-臨時而作，即 興而作之意
-
-
-pasamo to sowal
-give the gist of the matter in words
-說要點， 即興略說事情的要旨
-
-
-Pasamoen ita ko dmak anini.
-For now let's improvise.
-今天讓 我們即興而作以表敬意
-
+臨時而作，即興而作之意
+    pasamo to sowal
+    give the gist of the matter in words
+    說要點，即興略說事情的要旨
+    Pasamoen ita ko dmak anini.
+    For now let's improvise.
+    今天讓我們即興而作以表敬意
 
 pasayni
 directly this way as the bird flies
 如飛鳥直飛而至
-
-
-Pasayni ko rakat nira.
-He is headed this direction.
-他走向這裡 來
-
-
-Pasaynien ko faloco'.
-Give me your full attention. (speaker is the focus point) . (
-請注意) ，請全神貫注在這裡
-
+    Pasayni ko rakat nira.
+    He is headed this direction.
+    他走向這裡來
+    Pasaynien ko faloco'.
+    Give me your full attention. (speaker is the focus point). 
+    (請注意)，請全神貫注在這裡
 
 pasayra
 to be directed the other direction as the bird flies
-別的 方向，如鳥之飛走
-
-
-Pasayra a minegneg.
-Look that direction.
-請向那邊觀看
-
-
-Pasayraen ko faloco.
-Give your full attention to that (away from speaker) .
-請全神向那邊貫注
-
-
-pasayra ko rakat nira.
-He is headed in that direction
-他往向那 邊走
-
+別的方向，如鳥之飛走
+    Pasayra a minegneg.
+    Look that direction.
+    請向那邊觀看
+    Pasayraen ko faloco.
+    Give your full attention to that (away from speaker).
+    請全神向那邊貫注
+    pasayra ko rakat nira.
+    He is headed in that direction
+    他往向那邊走
 
 paska
 to hesitate
-to be afraid * to have
 遲疑，躊躇
-
-
-
-inhibitions 害怕，抑制 3. to be double
-minded * to have reservations
+    O maan ko kapaskaan iso?
+    What is causing you to be inhibited / double-minded?
+    你擔心什麼/你遲疑什麼？
+to be afraid * to have inhibitions 
+害怕，抑制
+    Paskaska ko faloco' nira anini.
+    He seems so inhibited * unnatural in responding at present.
+    他現在心情似乎有些很驚慌，他現在反應不自然
+to be double minded * to have reservations
 三心二意
 
 
-Paskaska ko faloco' nira anini.
-He seems so inhibited ＊un- natural in responding at present.
-他現在心情似乎有些很驚慌，他 現在反應不自然
+# p.220
 
-
-O maan ko kapaskaan. iso?
-What is causing you to be inhibited
-
-
-
-/double
-minded?
-你擔心什麼/你遲疑什麼?paso - bus 巴士 ( from Japanese and English 引自日語和英語 )
-
+paso 
+bus (from Japanese and English)
+巴士 (引自日語和英語)
 
 paso'lin
-=> pakaso'lin
-to believe
-相信，信任 * literally to
-
-
-cause / make
-out to be true
-字面上說那是真的理由 * to have confidence 有確信 See 參閱 so'lin.
-
-
-Cima ko papaso'linen ita?
-Who can we believe?
-誰值得我們信 任?
-
-
-Pakapaso'lin kiso haw?
-Can you believe?
-你能相信嗎？
-
-
-Paso'linen ko sowal ako.
-Believe what I say.
-請相信我所說的話
-
-
-O maan ko nipaso'linan iso?
-What doctrine do you believe?
-你 相信什麼呢?
-
+to believe * literally to cause / make out to be true * to have confidence 
+相信，信任；字面上說那是真的理由；有確信 
+    Cima ko papaso'linen ita?
+    Who can we believe?
+    誰值得我們信任？
+    Pakapaso'lin kiso haw?
+    Can you believe?
+    你能相信嗎？
+    Paso'linen ko sowal ako.
+    Believe what I say.
+    請相信我所說的話
+    O maan ko nipaso'linan iso?
+    What doctrine do you believe?
+    你相信什麼呢？
+=> so'lin, pakaso'lin
 
 pasogan
-=> Pasogan
 an Amis village
-台東縣長濱鄉白桑安阿美族 部落
-
+台東縣長濱鄉白桑安阿美族部落
+=> Pasogan
 
 pasta'
 to suddenly fall down flat
 突然摔倒
-
-
-Mapasta' kako nai palidig.
-I fell out of the cart flat on the ground.
-我從車子摔出而跌在地上
-
+    Mapasta' kako nai palidig.
+    I fell out of the cart flat on the ground.
+    我從車子摔出而跌在地上
 
 pasteg
-=> paktig
-to stake out * tie up to *referring to animals
+to stake out * tie up to * referring to animals
 拴住，綁，捆，用繩子繫住 (家禽)
-
+=> paktig
 
 patahtah
 with sowal - to tell everything
-to do any way
 胡說
-
-
-
-but not correctly 任意做但不正確　3. with 'orip
-to live a life of ease and luxury
+to do any way but not correctly 
+任意做但不正確　
+    Patahtah saan cigra a parakat to citosiya.
+    He drove the car as he pleased (without regard to rules).
+    他開車橫衝直撞不顧交通規則
+with 'orip - to live a life of ease and luxury
 生活遊手好閒，並且奢侈
 
-
-Patahtah saan cigra a parakat to citosiya.
-He drove the car as he pleased (without regard to rules) .
-他開車橫衝直撞不顧交通規 則
-
-
 patala
-to prepare * make preparations
-準備，預備，籌備，預先 準備 ＊ literally to make / cause to wait 字面上說明等待的理 由 See 參閱 tala.
-
-
-Patalaen ko faloco' iso.
-Prepare your heart.
-請你預備心
-
+to prepare * make preparations literally to make / cause to wait 
+準備，預備，籌備，預先 準備；字面上說明等待的理由
+    Patalaen ko faloco' iso.
+    Prepare your heart.
+    請你預備心
+=> tala
 
 patalahkal
 to reveal
-to confess
 公開，顯示
-承認 See 參 閱 also hkal and talahkal.
+to confess
+承認
+See
+    Mapatalahkalto koya dmak
+    The thing is revealed.
+    事情已經被公開了
+    Patalahkalto ko raraw iso.
+    Confess your sin.
+    你要告白你的罪
+=> hkal, talahkal
 
-
-Mapatalahkalto koya dmak
-The thing is revealed.
-事情已經被 公開了
-
-
-Patalahkalto ko raraw iso.
-Confess your sin.
-你要告白你的 罪 pataloma'/paka'tim. to have a wedding ＊ to marry ＊ give in
-
-
-problem with (het) marriage 結婚，婚禮，娶親 Literally to take into the home be-
-marriage 結婚，婚禮，娶親 Literally to take into the home be
-
-
-
-cause an in
-law has been brought into the home
-字面上指把媳婦 (新娘)或贅婿(新郎)帶品家的意思 O pipataloma'an to wawa niyam anini. This is the day to marry our child. 今天是我們兒子結婚大喜的日子
-
+pataloma'
+to have a wedding * to marry * give in marriage 
+結婚，婚禮，娶親 
+Literally to take into the home be cause an in law has been brought into the home
+字面上指把媳婦(新娘)或贅婿(新郎)帶回家的意思
+    O pipataloma'an to wawa niyam anini.
+    This is the day to marry our child. 
+    今天是我們兒子結婚大喜的日子
+=> paka'tim
 
 patarod
 to substitute an item or person for the original
-儲備，後 補，代替
-
-
-O sapatarod cigra a mimali.
-He is a substitute ball player.
-他 是後補球員
-
-
-O sapatarod konini a kikay to matastasay
-This machine is a substitute for the original which is not working.
-這個機械是要 替換原來已損壞的機械
-
+儲備，後補，代替
+    O sapatarod cigra a mimali.
+    He is a substitute ball player.
+    他是後補球員
+    O sapatarod konini a kikay to matastasay
+    This machine is a substitute for the original which is not working.
+    這個機械是要替換原來已損壞的機械
 
 patay
 death * to die
-figurtatively to be crushed and despair
-to go to extreme limits to do something
 死
+    Mapatayto cigra.
+    He died.
+    他死了
+    Kinapatayto cigra.
+    He killed himself.
+    他自殺了
+    O kapatayan nira a romi'ad
+    the day he died
+    他死亡的日期
+    Patayen koya waco.
+    Kill that dog.
+    把那隻狗打死
+    Papipatayen cigra to 'ada ako.
+    Make him / have him kill my enemy.
+    叫他殺死我的敵人
+    O papatayen cigra.
+    He must be killed.
+    他是要被槍斃的人
+figurtatively to be crushed and despair
 比喻希望被粉碎和絕望
+    Mapatayto ko faloco' ako.
+    I have lost my spirit.
+    我的心已死了
+to go to extreme limits to do something
 極盡限制去做某些事情
-
-
-Mapatayto cigra.
-He died.
-他死了
-
-
-Kinapatayto cigra.
-He killed himself.
-他自殺了
-
-
-O kapatayan nira a romi'ad
-the day he died
-他死亡的日期
-
-
-Patayen koya waco.
-Kill that dog.
-把那隻狗打死
-
-
-Papipatayen cigra to 'ada ako.
-Make him / have him kill my enemy.
-叫他殺死我的敵人
-
-
-O papatayen cigra.
-He must be killed.
-他是要被槍斃的人
-
-
-Mapatayto ko faloco' ako.
-I have lost my spirit.
-我的心已死了
-
-
-patay sa a misimed to patlac
-search to protect ones reputation from scrutiny
-他極盡掩飾他的錯誤
-
+    patay sa a misimed to patlac
+    search to protect ones reputation from scrutiny
+    他極盡掩飾他的錯誤
 
 patdo
-=> pakido
 to do something in a way that is contrary to rules or guidelines
 做違犯規則與指導原則的事情
-
-
-Aka patdo to dmak.
-Don't do things without regard for principle.
-不要任意做違犯原則的事情
-
-
-Patdo sa ko sowal nira.
-He talked without thought for feelings or propriety.
-他隨便亂說
-
+    Aka patdo to dmak.
+    Don't do things without regard for principle.
+    不要任意做違犯原則的事情
+    Patdo sa ko sowal nira.
+    He talked without thought for feelings or propriety.
+    他隨便亂說
+=> pakido
 
 patek
-=> lfot
-/ cicig. a thousand
+a thousand, number value 
+一千，數目
+    O kakridan no masapatekey a sofitay cigra.
+    He is officer over one thousand soldiers.
+    他是千夫長
+=> lfot, cicig
 a knife or machete handle
-一千 * number value 數目 的價值
 刀柄，把手
-
-
-O kakridan no masapatekey a sofitay cigra.
-He is officer over one thousand soldiers.
-他是千夫長
-
 
 pater
 to make run fast with reference to pedaling a bicycle
 速度跑的很快，參考騎腳踏車
 
 
+# p.222
+
 patfo
 to light upon * to descend and perch or settle upon
-着 落，降落，飛棲安居
-
+着落，降落，飛棲安居
+    patfo to sowal
+    to decide to do something
+    答覆
+=> pipatfoan
 
 pipatfoan
 a place to settle down upon * a perch
-降落點，「烏 」棲木，安居之地，飛機場
-
-
-patfo to sowal
-to decide to do something
-答覆
-
+降落點，「烏」棲木，安居之地，飛機場
+=> patfo
 
 patih
 a fence or wall made of grass or bamboo
-圍牆，防風牆，或 草製或竹製牆壁
-
+圍牆，防風牆，或草製或竹製牆壁
 
 patireg
 to cause to stand * make stand
-to establish
-to build
 使之站立
+    Patiregen koya matfaday a hcek.
+    Stand up the pole that has fallen.
+    把倒下來的柱子豎立起來
+to establish
 建立
+to build
 就任，建築
-
-
-Mipatiregay cagra to loma' anini.
-They are building a house right now.
-他們現在正在建房子
-
-
-Mapatiregto cigra a mala hogti.
-He was elected president/ king.
-他已被封為王子，他已被選為總統了
-
-
-Patiregen koya matfaday a hcek.
-Stand up the pole that has fallen.
-把倒下來的柱子豎立起來
-
+    Mipatiregay cagra to loma' anini.
+    They are building a house right now.
+    他們現在正在建房子
+    Mapatiregto cigra a mala hogti.
+    He was elected president / king.
+    他已被封為王子，他已被選為總統了
 
 patlac
 to miss the mark
-to make a mistake * do the wrong thing
 錯劃記號，錯過記號
+to make a mistake * do the wrong thing
 犯錯，做錯事
-
 
 patlaw
 the upper arm * from the elbow to the shoulder
-手臂肌 肉，從肘部至肩膀的肌肉
-
+手臂肌肉，從肘部至肩膀的肌肉
 
 pato'
 to swell
 腫脹
-
-
-'Mapato' ko mata ako to nano katomagican ako.
-My eyes are swollen from crying
-我眼睛而哭泣而腫起來
-
+    Mapato' ko mata ako to nano katomagican ako.
+    My eyes are swollen from crying
+    我眼睛而哭泣而腫起來
 
 pato'aya
-=> patafag
 to offer in ritual a sacrifice something that must be killed
-殺生供奉祭品 See 參閱to'aya.
-
-
-Mala sapato'aya ko tireg ni Yis.
-Jesus' body became a blood sacrifice.
-耶穌的身體被供為祭品
-
-
-pipato'ayaan a romi'ad
-day for offering a sacrifice
-獻祭的日子
-
+殺生供奉祭品
+    Mala sapato'aya ko tireg ni Yis.
+    Jesus' body became a blood sacrifice.
+    耶穌的身體被供為祭品
+    pipato'ayaan a romi'ad
+    day for offering a sacrifice
+    獻祭的日子
+=> patafag, to'aya
 
 patogaren
 upper garments
 男用長外衣
 
-
 patonek
-to set ＊ establish ＊ decide
-設定，指定，設立，構 想 * with reference to time 指時間 place 地點 or words or ideas or plans 觀念或計畫
+to set * establish * decide
+設定，指定，設立，構想 
+    O pipatonekan a romi'ad anini.
+    This is the date that was set (as for a conference).
+    今天是指定 (決定) 的日子
+    Patoneken ko sowal.
+    Make a decision (about a matter).
+    做一個決定(有關事件)
+with reference to time 
+指時間 
+place or words or ideas or plans 
+地點、觀念或計畫
 
 
-O pipatonekan a romi'ad anini.
-This is the date that was set (as for a conference) .
-今天是指定 (決定) 的日子
-
-
-Patoneken ko sowal.
-Make a decision (about a matter) .
-做一個決定 (有關事件)
-
+# p.223
 
 patono
+to see someone off, to bid farewell staying behind 
+歡送，目送，餞行；囑咐後，停住目送
 => paro'ot
-to see someone off
-歡送，目送，餞行 * to bid farewell staying behind 囑咐後，停住目送
-
 
 patorod
 to hand over responsibility for
-委託，拜託，託負，交 記，交付
-
-
-Patoroden kako tonini a tayal.
-Give me this responsibility.
-把這 工作交給我做
-
-
-O pipatorodan a romi'ad anini.
-This is the day that the respon - sibility changes hands.
-今天是交負重任的日期
-
-
-O papatoroden ako i tisowanan konini a dmak.
-I must turn over this matter to you.
-這件事情我要交託給你去做
-
+委託，拜託，託負，交記，交付
+    Patoroden kako tonini a tayal.
+    Give me this responsibility.
+    把這工作交給我做
+    O pipatorodan a romi'ad anini.
+    This is the day that the responsibility changes hands.
+    今天是交負重任的日期
+    O papatoroden ako i tisowanan konini a dmak.
+    I must turn over this matter to you.
+    這件事情我要交託給你去做
 
 patosokan
+goal * objective * purpose
+目的地，目標，箭靶
 => patosekan
-goal *objective * purpose
-目的地， 目標，箭靶
-
 
 patrogan
-=> Patrogan
 name of an Amis village
-花蓮縣豐濱鄉新社 部落名
-
+花蓮縣豐濱鄉新社部落名
+=> Patrogan
 
 pawali
 to dry outside
 曬
-
-
-Mipawali ko fiyaw to panay nagra.
-The neighbors are drying their rice (on the drying floor) .
-隔壁鄰居在曬他們的穀子
-
-
-Pawalien ko riko'.
-Hang up the clothes to dry.
-把衣服拿去曬
-
+    Mipawali ko fiyaw to panay nagra.
+    The neighbors are drying their rice (on the drying floor).
+    隔壁鄰居在曬他們的穀子
+    Pawalien ko riko'.
+    Hang up the clothes to dry.
+    把衣服拿去曬
 
 pawan
-=> tawal
 to forget
 忘記
+    Mapawan kako a pasowal i cigraan.
+    I forgot to tell him.
+    我忘了告訴他
+    O maan ko kapawanan iso?
+    What did you forget?
+    你忘了什麼呢？ 
+=> tawal
 
-
-Mapawan kako a pasowal i cigraan.
-I forgot to tell him.
-我忘 了告訴他
-
-
-O maan ko kapawanan iso?
-What did you forget?
-你忘了什麼呢？ pawig/'irig. to lean head to one side 歪頭，頭傾向一邊
-
+pawig
+to lean head to one side
+歪頭，頭傾向一邊
+=> 'irig
 
 pawli
 banana * bananas
 香蕉
 
-
 pawpaw
-to drift * be afloat
-飄浮，猶豫，不固定，不穩重，輕 浮 with literal and figurative meanings 字面上和比喻上的涵義
-
-
-Mapawpaw ko faloco' ako anini.
-My heart is adrift / i. e. I have no direction for what to do.
-今天我心情猶豫不決，今天我 心飄浮不定
-
-
-Mapawpaw ko sowal nira.
-His words are without significance * impractical.
-他的話很膚淺
-
-
-Mapawpaw ko 'aol i riyar.
-Bamboo is adrift in the ocean.
-竹子 在海中飄浮
-
+to drift * be afloat, with literal and figurative meanings 
+飄浮，猶豫，不固定，不穩重，輕浮；字面上和比喻上的涵義
+    Mapawpaw ko faloco' ako anini.
+    My heart is adrift / i.e. I have no direction for what to do.
+    今天我心情猶豫不決，今天我心飄浮不定
+    Mapawpaw ko sowal nira.
+    His words are without significance * impractical.
+    他的話很膚淺
+    Mapawpaw ko 'aol i riyar.
+    Bamboo is adrift in the ocean.
+    竹子在海中飄浮
 
 pawti
 gunny sack * gunny sacking * burlap
-麻袋，粗麻布paya - a sign or notice attached to something牌子
+麻袋，粗麻布
 
+
+# p.224
+
+paya
+a sign or notice attached to something
+牌子
 
 payak
 to fall over in one piece as for a fence to fall down
-整塊 的傾倒在地上，如同整塊圍牆或籬笆
-
+整塊的傾倒在地上，如同整塊圍牆或籬笆
 
 payax
-=> pkoh, roroh
 to break down
-破壞，弄壞，壓毀 * as of dirt dikes between terraces of rice fields 如破壞田裡之間田埂及壕 溝
-
+破壞，弄壞，壓毀
+as of dirt dikes between terraces of rice fields 
+如破壞田裡之間田埂及壕溝
+=> pkoh, roroh
 
 payayoka
 an edible vegetation * Diplocyclos palmatus
 百香果
 
-
 payci
 a coin * coins
-generic in some dialects for money
 錢幣
+generic in some dialects for money
 某些方言指錢的總稱
-
+=> papaycian 
 
 papaycian
 coin purse
 錢袋，錢包
-
+=> payci
 
 paydas
 a species of tree * Philippine Hackberry cinnamon
 肉桂
 
-
 payo
 to apply medicine or insecticide
 治療
-
+    mipayo to panay
+    to spray the rice fields with insecticide
+    水稻噴灑農藥
+    mipayo to adadaay
+    1. take sick person to the doctor  2. give medicine to / treat the sick person
+    1. 帶病人給醫生看  2. 給病人吃藥/或治療病人
+=> sapayo
 
 sapayo
 medicine
-insecticide
 藥
+insecticide
 殺蟲劑
-
-
-mipayo to panay
-to spray the rice fields with insecticide
-水稻噴 灑農藥
-
-
-mipayo to adadaay
-take sick person to the doctor
-give medicine to / treat the sick person
-帶病人給 醫生看
-給病人吃藥 /或治療病人
-
+=> payo
 
 payrag
-=> Payrag
 Taiwanese people
 台灣人
-
+=> Payrag
 
 paysin
 taboo * the thought of taboo
 禁忌，迷信，忌諱
-
+    Paysin aka ka saan a komaen to titi.
+    Don't consider it taboo to eat meat.
+    不要以為吃豬肉是違犯禁忌
+    Adihay ko kapaysinan no 'Amis itiyaho.
+    The Amis used to have a lot of sacred and religious prohibitions / taboo.
+    古代阿美族有很多禁忌 (迷信)
+=> kapaysinan
 
 kapaysinan
 an activity or object that is taboo
 有禁忌的事物
-
-
-Paysin aka ka saan a komaen to titi.
-Don't consider it taboo to eat meat.
-不要以為吃豬肉是違犯禁忌
-
-
-Adihay ko kapaysinan no 'Amis itiyaho.
-The Amis used to have a lot of sacred and religious prohibitions / taboo.
-古代阿美族有 很多禁忌 (迷信)
-
+=> paysin
 
 payso
-=> payci, pida
 generic term for money
-錢，銀幣，錢幣， 鈔票
-
+錢，銀幣，錢幣，鈔票
+=> payci, pida, papaysoan
 
 papaysoan
 money bag * purse
 錢袋，錢包
-
+=> payso
 
 paytmek
-=> payniyah
 to each do his own way * do his own thing * individually
 各做各的，自掃門前雪
-
+=> payniyah
 
 pca'
 out of joint * dislocated from the joint so that the end hangs loose
-折斷，踹斷，脫臼，斷層 * referring to people or things 指人或事物
+折斷，踹斷，脫臼，斷層
+referring to people or things 
+指人或事物
+    Mapca' ko kamay.
+    The lower arm hangs loose at the elbow.
+    手折斷，手脫臼
+    Aka pipca' to ca'ag no kilag.
+    Don't break loose the tree branch (at the joint).
+    不要折樹枝
 
 
-Mapca' ko kamay.
-The lower arm hangs loose at theelbow.
-手折斷，手脫臼
-
-
-Aka pipca' to ca'ag no kilag.
-Don't break loose the tree branch (at the joint) .
-不要折樹枝
-
+# p.225
 
 pcas
-=> pca', pincas
 dislocated or broken at the joint so that the end hangs loose as of branches of a tree or a broken limb
-在結 枝部位斷裂使尾部倒懸在那兒如同斷裂的樹枝或手臂
-
-
-Pcasen ko ca'ag ta ma'araw.
-Break the branch so that it dangles then we can see.
-要折斷樹枝才可以看見
-
+在結枝部位斷裂使尾部倒懸在那兒如同斷裂的樹枝或手臂
+    Pcasen ko ca'ag ta ma'araw.
+    Break the branch so that it dangles then we can see.
+    要折斷樹枝才可以看見
+=> pca', pincas
 
 pcec
 flattened out and crushed by being stamped on or being hit with heavy weight (of living things)
-擠壓，壓扁，把有生命的東西 用很大的重量壓扁或擊碎
-
-
-Aka pipcec to fao.
-Don't smash living creatures.
-不要壓死昆蟲
-
-
-Mapcec no palidig ko posi.
-The vehicle smashed the cat.
-貓被 車子壓死
-
+擠壓，壓扁，把有生命的東西用很大的重量壓扁或擊碎
+    Aka pipcec to fao.
+    Don't smash living creatures.
+    不要壓死昆蟲
+    Mapcec no palidig ko posi.
+    The vehicle smashed the cat.
+    貓被車子壓死
 
 pci'
-to break in pieces ( South
-to break with only one piece missing ( Hualien
-=> pcih
-pcih. to divide and share * as for example food or land
-南部阿美語 ) 破碎
-花蓮語) 破缺一塊
+to break in pieces (South)
+破碎 (南部阿美語)
+to break with only one piece missing (Hualien) 
+破缺一塊 (花蓮語)
+to divide and share * as for example food or land
 擘開食 物分享給別人，分一塊給人
-
-
-Mapapci' to flyaw namo to ccay a siri.
-Divide with your neighbors one sheep.
-與你鄰居平分一隻羊
-
+    Mapapci' to flyaw namo to ccay a siri.
+    Divide with your neighbors one sheep.
+    與你鄰居平分一隻羊
+=> pcih
 
 pcici
 to press on from two directions as when squeezing out pus from an infected pimple
-從兩個不同的方向同時擠壓，如擠出疔瘡或 面疱的膿液
-
+從兩個不同的方向同時擠壓，如擠出疔瘡或面疱的膿液
 
 pcih
-to break in half or take a piece off of
-擘成一半或取走一 半 * as a loaf of bread 如擘一塊麵包 * as a lump of rice or lump of earth 如擘飯糰或成塊泥團
-
-
-Mapcihay koya 'pag.
-Part of the loaf has been broken off.
-麵 包被擘開一塊
-
-
-Mapcih nira ko 'pag.
-He broke off a piece of bread.
-他擘了一 塊麵包
-
+to break in half or take a piece off of as a loaf of bread as a lump of rice or lump of earth 
+擘成一半或取走一半，如擘一塊麵包，如擘飯糰或成塊泥團
+    Mapcihay koya 'pag.
+    Part of the loaf has been broken off.
+    麵包被擘開一塊
+    Mapcih nira ko 'pag.
+    He broke off a piece of bread.
+    他擘了一塊麵包
+=> pnapcih, kinapcih, pinapcih
 
 pinapcih
-=> pnapcih, kinapcih
-all the pieces
-麵包切片 * as left over pieces of loaves of bread 如被遺下的許多塊狀麵包
-
+=> pnapcih, kinapcih, pcih
+all the pieces, as left over pieces of loaves of bread 
+麵包切片，如被遺下的許多塊狀麵包
 
 pco'
 to pick fruit from a tree or a bush
 從樹或灌木上摘取果實
 
-
 pcod
 to leave * cause to leave place to which thing is attached
 相接的部位鬆掉
-
+=> mapcod, pcoden
 
 mapcod
-slippery * as when trying to grasp a fish
+slippery, as when trying to grasp a fish
+滑掉，如捉魚時被溜掉
 to squirt out fast as pus under pressure.
-滑掉，如 捉魚時被溜掉
-如膿 液被擠壓後噴出來
-
+如膿液被擠壓後噴出來
+=>pcod, pcoden
 
 pcoden
-grab hold of (a command
-命令) 鬆開
-
+grab hold of (a command)
+(命令)鬆開
+=>mapcod, pcod
 
 pcoh
 snails found on rocks on the beach with edible flesh
-黏 附在海岸岩石上可食的海螺 away from him 趕他走而後把他的住處佔為己有
-
+黏附在海岸岩石上可食的海螺 
+to take someone's place away from him
+趕他走而後把他的住處佔為己有
+=> 'afas
 
 pdadac
 ripped clothing * badly torn
-衣服被撕裂一塊 (穿在身上 的)
-
+衣服被撕裂一塊(穿在身上的)
 
 pdadoki
-=> padadoki
 a bat * mammal
 蝙蝠
-
+=> padadoki
 
 pdeg
 state of having ears hurt from too much noise and confusion
 聲音響的過大和嘈雜聲所引起的聽覺傷害
 
-
 pdek
-=> plek
 to put out * as when lights are turned off
-熄滅，關 燈
-
+熄滅，關燈
+    Mapdek ko tigki.
+    The electricity was switched off.
+    熄滅
+    Mapapdek ko mata.
+    Eyes are blinking.
+    眼睛會眨，眼睛開閉
+=> sapdek, plek
 
 sapdek
 eyelashes * something for blinking
 眼皮
-
-
-Mapdek ko tigki.
-The electricity was switched off.
-熄滅
-
-
-Mapapdek ko mata.
-Eyes are blinking.
-眼睛會眨，眼睛開閉
-
+=> pdek
 
 pdik
 drooping * folded over * as the ears of a dog
 摺疊，垂耳 (如狗)
-
-
-Pdiken ko tatiplok.
-Fold the paper over.
-把紙摺疊起來
-
-
-Mapdik ko tagila noya waco.
-That dog's ears droop.
-那隻狗的 耳朵垂下來
-
+    Pdiken ko tatiplok.
+    Fold the paper over.
+    把紙摺疊起來
+    Mapdik ko tagila noya waco.
+    That dog's ears droop.
+    那隻狗的耳朵垂下來
 
 pdoc
-=> piyoc
 to suddenly turn around and leave
-溜走，閃躲 (突 然開溜 )
-
+溜走，閃躲 (突然開溜)
+=> piyoc
 
 pdoh
 the white pulp inside of a tree such as is used in making paper
-to be empty * disappear
 樹幹中間有白軟塊可作為紙張的原料
-中空 * as the contents of a container 如容器內面
-
+to be empty * disappear, as the contents of a container 
+中空，如容器內面
+    Mapdohto / mahoracto ko lofoc ako.
+    My sack is empty (contents have disappeared / fallen out).
+    我的袋子已空了(內裝的物品不見了或完全倒出來)
+=> mipdoh, miltek
 
 mipdoh
-=> miltek
 to cut out the pulp
 弄成一個洞
-
-
-Mapdohto
-=> mahoracto ko lofoc ako
-My sack is empty (contents have disappeared / fallen out) .
-我的袋子已空了 (內裝的物品不 見了或完全倒出來)
-
+=> miltek, pdoh
 
 pedped
 to crowd * pack solid
 群眾擁擠，人山人海
-
-
-Mapedped ko salikaka a milihay.
-The Christians were packed/ crowded in the worship service.
-參加禮拜的信徒擠滿了教堂
-
+    Mapedped ko salikaka a milihay.
+    The Christians were packed / crowded in the worship service.
+    參加禮拜的信徒擠滿了教堂
 
 pekpek
 to beat with hand or board
-用手或木棍猛敲，猛打Pekpeken nira ko falohag nira. - He beat his chest.他捶打他的 胸部
+用手或木棍猛敲，猛打
+    Pekpeken nira ko falohag nira.
+    He beat his chest.
+    他捶打他的胸部
+    Mapekpek no wawa koya kolog.
+    That water buffalo was beaten by the children.
+    那隻牛被孩子們猛打
 
 
-Mapekpek no wawa koya kolog.
-That water buffalo was beaten by the children.
-那隻牛被孩子們猛打
-
+# p.227
 
 pelpel
 to break or crush by beating
 使破碎，使粉碎
-
-
-Mepelpel no palidig koya 'aol.
-That bamboo was broken by the vehicle.
-那根竹子被車子壓碎
-
-
-Aka pipelpel to kaysig.
-Don't break the dish.
-不要把碗打碎
-
+    Mepelpel no palidig koya 'aol.
+    That bamboo was broken by the vehicle.
+    那根竹子被車子壓碎
+    Aka pipelpel to kaysig.
+    Don't break the dish.
+    不要把碗打碎
 
 pespes
 the act of many people piling rebuke on one person
-one person saying a lot to put down someone
 許多人重複地，非難或叱責一個人的不是
-一個人說太多壓制或駁倒對方的 話
-
+one person saying a lot to put down someone
+一個人說太多壓制或駁倒對方的話
 
 pi'ayaw
+an apron * From 'ayaw
+圍裙，從字根'ayaw 衍生而來
 => pa'ayaw, ta'ayawan
-an apron ＊From 'ayaw
-圍 裙，從字根'ayaw衍生而來
-
 
 pi'dac
-=> tolac
 a scar from a wound
-a barren slope from a landslide or erosion
 傷疤，疤痕
+a barren slope from a landslide or erosion
 不毛之斜坡山崩或浸蝕
-
+=> tolac
 
 pi'ec
-=> kanas
 a small basket made of bamboo
 小竹籃
-
+=> kanas
 
 pi'iw
-to be lame * crippled in one's legs
-跛腳的 * or referring to the way one walks 或指一個人走路的樣子
-
-
-o mapi'iway
-a person who is crippled in his legs
-跛腳的人
-
-
-Mapi'iw ko rakat nira.
-He walks with lameness.
-他一拐一拐的 走，他搖擺的走
-
-
-ci pi'iw
-a nickname given to a lame person
-指跛腳的人，對跛腳者 的暱稱
-
+to be lame * crippled in one's legs or referring to the way one walks 
+跛腳的，或指一個人走路的樣子
+    o mapi'iway
+    a person who is crippled in his legs
+    跛腳的人
+    Mapi'iw ko rakat nira.
+    He walks with lameness.
+    他一拐一拐的走，他搖擺的走
+    ci pi'iw
+    a nickname given to a lame person
+    指跛腳的人，對跛腳者的暱稱
 
 pi'kolan
-=> knawikos
 hip bone
 臀骨，耻骨
-
+=> knawikos
 
 pi'pi
 to press and pack * as to pack a bowl with rice
-緊壓，如 緊壓碗裡的飯 pi'pi'/pa'pa. to clap hands 拍手，鼓掌
+緊壓，如緊壓碗裡的飯
 
+pi'pi'
+to clap hands 
+拍手，鼓掌
+=> pa'pa
 
 picid
 to be torn on the edge
+從邊緣破裂
+referring to paper or cloth 
+如紙或衣服
 a greenish seaweed
-從邊緣破裂 * referring to paper or cloth 如紙或衣服
-呈綠色的海草 (海 藻
-
+呈綠色的海草(海藻)
 
 piciw
 to have a piece torn off or out an object
+撕裂成大缺口
 comes to be a generic word for something broken or spoiled
-撕裂成大缺 口
 繁衍成任何東西破碎或損壞
+    Mapiciw ko tagila no rinom.
+    The head of the needle isbroken.
+    針孔斷裂了
 
 
-Mapiciw ko tagila no rinom.
-The head of the needle isbroken.
-針孔斷裂了
-
+# p.228
 
 picpic
 to tear in pieces paper or material
-把紙或資料撕成一片一 片的
-
-
-Mapicpic no totoy niyam ko tikami ako.
-Our puppy has shred - ded in pieces my letter.
-我的信被小狗咬碎成一片一片的
-
+把紙或資料撕成一片一片的
+    Mapicpic no totoy niyam ko tikami ako.
+    Our puppy has shredded in pieces my letter.
+    我的信被小狗咬碎成一片一片的
 
 pida
-=> payso, payci
 money
 錢，硬幣，鈔票
-
-
-o cipidaay a tamdaw
-a rich person
-有錢人，富裕的人
-
+    o cipidaay a tamdaw
+    a rich person
+    有錢人，富裕的人
+=> payso, payci, kalipidaan, papida
 
 kalipidaan
 pay day
 領薪之日，發餉之日
-
+=> pida
 
 papida
 pay money
 付錢
-
+=> pida
 
 pidah
-=> lowid, tapi', dawa
 to conquer
-征服，克服，打勝，打 贏
-
+征服，克服，打勝，打贏
+=> lowid, tapi', dawa, mapidah
 
 mapidah
 to be defeated
 被打敗
-
+=> pidah
 
 piec
 to become a narrow passage
-to become
 逐漸狹窄
-
-
-
-dead
-ended as a land structure
+to become dead ended as a land structure
 死路，如土地結構所形成的死巷
-
-
-Mapiec ko lalan.
-The trail has become very narrow.
-路愈來愈 狹窄，路逐漸變小
-
+    Mapiec ko lalan.
+    The trail has become very narrow.
+    路愈來愈狹窄，路逐漸變小
 
 pigan
-peace
-平安 (from Chinese 引自國語) * a Christian greeting used when passing or meeting a person of the same faith 基督徒相遇或交錯時互相問候與祝福的話
-
+peace (from Chinese) a Christian greeting used when passing or meeting a person of the same faith 
+平安 (引自國語) 基督徒相遇或交錯時互相問候與祝福的話
 
 pigapig
 to flap * as the disconnected jointed section of a thing that hangs loose
 東西相接的部位鬆脫而垂下飄動的現象
-
-
-Mapigapig ko sapikpik no 'ayam.
-The bird's wing hangs loose flapping from being broken.
-鳥的翅膀因受傷而垂下飄搖
-
+    Mapigapig ko sapikpik no 'ayam.
+    The bird's wing hangs loose flapping from being broken.
+    鳥的翅膀因受傷而垂下飄搖
 
 pigaroy
 to lean head on one's hand
-用手把頭撐起來，用手托住顎 的姿勢
-
+用手把頭撐起來，用手托住顎的姿勢
 
 pigko
 to be bankrupt
 破產，倒閉
 
-
 pigo'
 to bend as if to collapse
-拉住使人翻倒 * as to come behind a person and bend his legs so that he almost loses his balance 如來到別人的背後，在別人不備時拉住他的腳使他幾乎完全 失去平衡
-
+拉住使人翻倒
+as to come behind a person and bend his legs so that he almost loses his balance
+如來到別人的背後，在別人不備時拉住他的腳使他幾乎完全失去平衡
 
 pihpih
 to fan
 搖動，揮動
-
+    Mipihpih to sapikpik ko 'ayam.
+    Birds flap their wings and / or fly.
+    鳥揮動翅膀而飛
+=> sapihpih 
 
 sapihpih
 a fan
 扇子
+=> pihpih
 
 
-Mipihpih to sapikpik ko 'ayam.
-Birds flap their wings and / or fly.
-鳥揮動翅膀而飛
-
+# p.229
 
 piked
 bent crooked * as of metal
 弄曲，如金屬物質
-
+    Pikeden ko wa'ay iso.
+    Bend your legs * as to kneel.
+    彎曲雙腳，如跪下之狀
+=> papikedan
 
 papikedan
 informant * source of information
-眼線，資料或消 息來源
-
-
-Pikeden ko wa'ay iso.
-Bend your legs * as to kneel.
-彎曲雙腳 ，如跪下之狀
-
+眼線，資料或消息來源
+=> piked
 
 pikel
-strong and inflexible ＊ as a wire that springs back and refuses to bend
+strong and inflexible * as a wire that springs back and refuses to bend
 堅硬而無伸縮性的，如同竹子彈回來而不再彎曲
-
-
-inflexible figuratively 比喻上的堅定，不屈不撓 3. possible to in
-fluence and change
+inflexible figuratively 
+比喻上的堅定，不屈不撓
+possible to in fluence and change
 不易屈曲
-
 
 pikig
 disabled limb * shriveled * does not move
 手臂脫臼
 
-
 piko
 intersection * place where there is a turn in the road
-交叉 點，路轉彎的地方
-
+交叉點，路轉彎的地方
+=> pikoen, talapiko, salopiko
 
 pikoen
 (a command to) turn at that point
-使彎曲，弄彎 (驅使 語，命令語)
-
+使彎曲，弄彎 (驅使語，命令語)
+=> piko
 
 talapiko
 to go to the intersection
 走向交叉點，走到轉角
-
+=> piko
 
 salopiko
 an intersection
 轉彎處
-
+=> piko
 
 pikpik
 to fly
 擺動翅膀而飛
-
+=> sapikpik, mapikpik, mipikpik
 
 sapikpik
 wing * wings
 翅膀
-
+=> pikpik
 
 mapikpik
 wings flap
 擺動著翅膀
-
+=> pikpik
 
 mipikpik
 to fly * of birds
 鳥揮動翅膀而飛
-
+=> pikpik
 
 pilec
 to turn one's ankle
-to be weary or ill from work
 腳扭斷
+to be weary or ill from work
 疲倦，厭倦，精疲力竭
 
-
 pilet
-=> pilec
 to twist and break as of a limb
-to twist and break as to take cooked vegetables and break them off in one's hand
 手扭傷
+to twist and break as to take cooked vegetables and break them off in one's hand
 把菜扭斷去煮
-
+=> pilec
 
 pili'
 to choose * pick one
-=> osi'
-dislike * detest
 選擇，挑選
+    Cima ko nipili'an ita inacila?
+    Who did we choose the other day?
+    前幾天我們選的是誰？
+    Mapili' kako a mala mamatayal.
+    I was chosen to serve.
+    我被選選為服務員
+dislike * detest
 挑剔
-
-
-Cima ko nipili'an ita inacila?
-Who did we choose the other day?
-前幾天我們選的是誰？
-
-
-Mapili' kako a mala mamatayal.
-I was chosen to serve.
-我被選 選為服務員
-
-
-kapili'an no tamdaw / ka'osian no tamdaw
-someone who is disliked by people
-被人淘汰的，被人所厭惡的
-
+    kapili'an no tamdaw / ka'osian no tamdaw
+    someone who is disliked by people
+    被人淘汰的，被人所厭惡的
+=> osi'
 
 piloh
 to collapse * as a house blown by the wind
-使之傾倒，吹 倒，倒塌如房子
-
+使之傾倒，吹倒，倒塌如房子
 
 pina
 how many?
-several
 多少?
-幾個 * more than twoor three 比二或三多一點
-
-
-Pina a fotig ko maalaay namo?
-How many fish did you get?
-你們捕到多少魚？
-
-
-Caay ka pina ko maalaay niyam.
-We didn't get many.
-我們沒 有捕到很多
-
-
-Papina ko paro no loma' namo?
-How many members are in your family?
-你們家有幾口人？
-
-
-Tayra ko papinapina ita a miholol.
-Let's several of us go and visit.
-有幾個人去拜訪
-
-
-Kinapina
-=> kinapinapina kako a milicay cigraan
-I asked him a number of times.
-我問他好幾次
-
+    Pina a fotig ko maalaay namo?
+    How many fish did you get?
+    你們捕到多少魚？
+    Caay ka pina ko maalaay niyam.
+    We didn't get many.
+    我們沒有捕到很多
+    Papina ko paro no loma' namo?
+    How many members are in your family?
+    你們家有幾口人？
+several
+幾個 
+    Tayra ko papinapina ita a miholol.
+    Let's several of us go and visit.
+    有幾個人去拜訪
+more than two or three
+比二或三多一點
+    Kinapina / kinapinapina kako a milicay cigraan
+    I asked him a number of times.
+    我問他好幾次
 
 pina'aw
 a species of tree * Camptotheca acuminata Decne
-旱蓮 (喜樹)
-
+旱蓮(喜樹)
 
 pina'orip
-=> pna'orip
 domestic animals
 家禽家畜
-
+=> pna'orip
 
 pinag
 sign * evidence * clue
-符號, 證據, 線索 See also 參閱 hapinag.
-
-
-Awaay ko pinag to dmak nira.
-It is impossible to figure out what he is doing.
-無法了解他到底在做什麼
-
-
-Cipinagto kako anini a miharateg.
-I have some evidence now to go on in thinking.
-我現在已經有頭緒了
-
-
-Caay ka cipinag ko faloco' noya tamdaw.
-There is no clarity in viewing the attitude of that person / i.e. he appears ambiguous.
-那個人拿不定主意
-
-
-O maan ko kacipinagan iso a mafana'?
-How do you know?/ What evidence do you have to know?
-你是依據什麼瞭解的？你 是如何知道的呢?
-
-
-O pinagan nira konini.
-This is his nature / habit / way he acts.
-這是他的習慣
-
+符號, 證據, 線索
+    Awaay ko pinag to dmak nira.
+    It is impossible to figure out what he is doing.
+    無法了解他到底在做什麼
+    Cipinagto kako anini a miharateg.
+    I have some evidence now to go on in thinking.
+    我現在已經有頭緒了
+    Caay ka cipinag ko faloco' noya tamdaw.
+    There is no clarity in viewing the attitude of that person / i.e. he appears ambiguous.
+    那個人拿不定主意
+    O maan ko kacipinagan iso a mafana'?
+    How do you know? / What evidence do you have to know?
+    你是依據什麼瞭解的？你是如何知道的呢?
+    O pinagan nira konini.
+    This is his nature / habit / way he acts.
+    這是他的習慣
+=> hapinag
 
 pinaloma
-=> pnaloma
 anything planted to be used as food
-任何 種植的可食植物
-
+任何種植的可食植物
+=> pnaloma
 
 pinani'ol
-tadpoles ＊ offspring of frogs
+tadpoles * offspring of frogs
 小蝌蚪
-
 
 pinaro
 the contents of a container
-內容, 容量
-
+內容，容量
 
 pincas
+to be borken at the joint and hang loose as a branch of a tree 
+在分叉處斷裂，如樹枝
 => pcas
-to be borken at the joint and hang loose
-在分叉處 斷裂 * as a branch of a tree 如樹枝
-
 
 pinoer
 to use one's elbow to lean on something
 用手支撐在東西上
 
 
+# p.231
+
 pintoh
-to break ＊ pull out of the joint where it grows ＊ as tuberous kinds of plants
+to break * pull out of the joint where it grows * as tuberous kinds of plants
 把野薑花的莖扯斷
 
-
 pip
-=> tipolo
 a flute
 笛子，哨子
-
+=> tipolo
 
 pirora'ay
-=> dika
 a tree * Homalanthus fast uosus (Euphorbiacece)
 單萼木
-
+=> dika
 
 pisig
-=> laway
 face
 臉
-
-
-Mapapisipisig kita.
-Let's meet face to face.
-讓我們相互見面
-
-
-Papisig kita a tayra. O papisig aca ita
-Let's go and make our appearance (at a meeting) . We won't stay.
-我們去照個面將不逗 留
-
-
-Awaay ko pisig ako anini. Pa'onig kiso to pisig ako.
-I have lost face. You stained my face / made me lose face.
-我今天沒 有面子，你丟盡我的面子，你使我失面子
-
+    Mapapisipisig kita.
+    Let's meet face to face.
+    讓我們相互見面
+    Papisig kita a tayra. O papisig aca ita
+    Let's go and make our appearance (at a meeting). We won't stay.
+    我們去照個面將不逗留
+    Awaay ko pisig ako anini. Pa'onig kiso to pisig ako.
+    I have lost face. You stained my face / made me lose face.
+    我今天沒有面子，你丟盡我的面子，你使我失面子
+=> laway
 
 pisot
 to break * with reference to thread
 指線絲，纖維的斷裂
+    Mapisot ko kaciwawa nira.
+    She stopped bearing children.
+    他不再生小孩了 
 
-
-Mapisot ko kaciwawa nira.
-She stopped bearing children.
-他不 再生小孩了 pisto'/pintoh. to come apart 鬆脫
-
-
-Mapisto' ko pitaw.
-The handle of the hoe comes apart from the metal hoe.
-鋤頭的柄脫落
-
+pisto'
+to come apart
+鬆脫
+    Mapisto' ko pitaw.
+    The handle of the hoe comes apart from the metal hoe.
+    鋤頭的柄脫落
+=> pintoh
 
 pitaw
 hoe
 鋤頭
-
+    O papitawen konini a sra.
+    This soil must be worked up with a hoe.
+    這塊地是要用鋤頭耕作的
+=> mipitaw
 
 mipitaw
-to hoe ＊ cultivate with a hoe
+to hoe * cultivate with a hoe
 挖掘，用鋤頭耕作
-
-
-O papitawen konini a sra.
-This soil must be worked up with a hoe.
-這塊地是要用鋤頭耕作的
-
+=> pitaw
 
 pitek
 to break * snap off
 折斷
-
-
-Mapitek ko wa'ay nira.
-His leg is broken.
-他的腳折斷，他的腳 脫臼
-
+    Mapitek ko wa'ay nira.
+    His leg is broken.
+    他的腳折斷，他的腳脫臼
 
 pitig
 to snag a thread
 斷線，拉斷
 
-
 pito
 seven
 七
-
-
-Saka pito a romi'ad 'i pahanhanto ko Kawas.
-God rested the seventh day.
-第七天，上帝就休息
-
-
-Papito kita a tayra.
-Seven of us will go.
-我們共有七個人要去
-
+    Saka pito a romi'ad 'i pahanhanto ko Kawas.
+    God rested the seventh day.
+    第七天，上帝就休息
+    Papito kita a tayra.
+    Seven of us will go.
+    我們共有七個人要去
 
 piya'
 clams
 蛤，蚶
 
-
 piyak
-=> talakal
 a metal trap to catch the foot of something
-捕捉
+捕捉器
+=> talakal
 
 
-器piyas
+# p.232
+
+piyas
 diarrhea * loose bowels
 腹瀉
-
-
-Mapiyas koya adadaay.
-That sick person has diarrhea.
-那個病 人在下痢
-
+    Mapiyas koya adadaay.
+    That sick person has diarrhea.
+    那個病人在下痢
 
 piyoc
-=> pdoc
 to suddenly turn around and leave
 突然掉頭就走
-
+=> pdoc
 
 pkaw
 to suddenly run away quickly
 突然奔馳跑掉
-
-
-Alapkapkaw sa cagra a milaliw.
-They all fled.
-他們各自飛奔逃 走
-
+    Alapkapkaw sa cagra a milaliw.
+    They all fled.
+    他們各自飛奔逃走
 
 pla'
 to split into two
 劈開
-
+    O pla' konini.
+    This is half of something split.
+    這是另一半
+    Pla' en ko kasoy.
+    Chop / split wood
+    把柴火劈開
+=> mipla'
 
 mipla'
 to split into two
 分割為二
-
-
-O pla' konini.
-This is half of something split.
-這是另一半
-
-
-Pla' en ko kasoy.
-Chop
-=> split wood
-把柴火劈開
-
+=> pla'
 
 pleg
 to destroy * collapse * fall apart * break up
-打碎，毀 壞，倒閉，崩潰，瓦解
-
-
-Aka pipleg to loma' ita.
-Don't destroy our home.
-不要破壞我們 的家
-
-
-Maplegto ko niyaro' nagra.
-Their village is destroyed.
-他們的 部落被摧毀了
-
+打碎，毀壞，倒閉，崩潰，瓦解
+    Aka pipleg to loma' ita.
+    Don't destroy our home.
+    不要破壞我們的家
+    Maplegto ko niyaro' nagra.
+    Their village is destroyed.
+    他們的部落被摧毀了
 
 plek
-=> pdek
 to go off and on * to blink
 眨眼，閉眼死了，霎眼
-
+    Paplek ko mata.
+    The eyes blinked.
+    眼睛在霎著
+=> pdek, saplek , sapdek
 
 saplek
-=> sapdek
 eyelashes
 眼皮
-
-
-Paplek ko mata.
-The eyes blinked.
-眼睛在霎著
-
+=> sapdek, plek
 
 ples
 to knock people down with words * to criticize
+用話壓制別人
 to smash something large so that the insides come out or are detached as a chicken run over by a vehicle or hand smashed in machinery.
-用話壓制 別人
-打碎東西使裡面東西出來，或支離破碎如雞被輾死狀 或手被機器壓碎
-
+打碎東西使裡面東西出來，或支離破碎如雞被輾死狀或手被機器壓碎
 
 ploc
-to pull off * disengage
-鬆脫 * as to take off a ring 如 戒指，手燭等脫落 * as to let down a baby that has been tied on its mother's back 如揹在背上的孩子帶子鬆掉而墬落
-
-
-saploc a wawa
-the last child * the youngest
-最小的孩子
-
+to pull off * disengage as to take off a ring * as to let down a baby that has been tied on its mother's back 
+鬆脫，如戒指、手燭等脫落，如揹在背上的孩子帶子鬆掉而墬落
+    saploc a wawa
+    the last child * the youngest
+    最小的孩子
 
 pna'orip
-=> pina'orip
 domestic animals
 飼養的家畜
-
+=> pina'orip
 
 pnaloma
-=> pinaloma
 anything planted to be used as food
-任何 種植的可食植物
-
+任何種植的可食植物
+=> pinaloma
 
 pnec
 to press down so that the thing is under one's hand or tool
-to roll over on top of
-to press down so that liquid comes out as whenmaking soy milk
 用手或東西壓制東西
-在......頂上滾 壓過去
+to roll over on top of
+在…頂上滾壓過去
+to press down so that liquid comes out as whenmaking soy milk
 擠壓出汁如作豆漿的過程
 
+
+# p.233
 
 pnen
 a plant with a stalk used in making walls in huts or shelters
 關草桿用來製作茅屋或工寮的牆壁
 
-
 po'i
-=> kter, firag
 to be angry
-責罵, 生氣
-
-
-Mapo'i kako i tisowanan.
-I am angry with you.
-我對你很生氣
-
-
-O maan ko kapo'ian iso takowanan?
-What are you angry with me about?
-你對我生什麼氣?
-
+責罵,生氣
+    Mapo'i kako i tisowanan.
+    I am angry with you.
+    我對你很生氣
+    O maan ko kapo'ian iso takowanan?
+    What are you angry with me about?
+    你對我生什麼氣?
+=> kter, firag
 
 po'lac
 to get to the bottom of something * to expose * deal with
 深入事情的底部，揭露，處置
+    Po'lacen ko sowal.
+    Speak to issue.
+    請詳細說明，請說清楚
+    Mapo'lacto anini koya dmak.
+    The matter has been exposed now.
+    那件事情已經查出來了，已水落石出了
 
-
-Po'lacen ko sowal.
-Speak to issue.
-請詳細說明，請說清楚
-
-
-Mapo'lacto anini koya dmak.
-The matter has been exposed now.
-那件事情已經查出來了，已水落石出了
-
-
-po'ner / pa'ner
-=> 'amrek
+po'ner
 short * low in height
 矮，短小
-
-
-misapo'ner to faloco'
-to take a low place ＊ humble one's heart
-低姿勢，謙卑
-
+    misapo'ner to faloco'
+    to take a low place * humble one's heart
+    低姿勢，謙卑
+=> pa'ner, 'amrek
 
 po'ot
 knife * knives
 刀，匕首
-
-
-Cipo'ot cigra.
-He has a knife.
-他有帶刀，他有佩刀
-
+    Cipo'ot cigra.
+    He has a knife.
+    他有帶刀，他有佩刀
 
 poces
 boils
 膿疱，疔瘡
 
-
 poda'
 cataract * a white covering on the eye leading to partial or complete blindness
-pus from the eyes
 白內障
+pus from the eyes
 眼屎
-
 
 podac
 a covering * cover
-a shell * as a peanut shell
-bark
 皮
+a shell * as a peanut shell
 殼，蛋殼
+bark
 樹皮
-
+=> cipodacay
 
 cipodacay
 (something) has a covering / shell
 有皮的
-
+=> podac
 
 podaw
 small river fish * minnows
 魚苗，鯉科小魚
-
+=> mipodaw
 
 mipodaw
 to fish for minnows in a river
 撈小魚
-
+=> podaw
 
 podoh
+jealous (South) 
+嫉妒 (南部語)
 => 'inap
-jealous (South
+not want to share (Hualien county) 
+吝嗇 (花蓮語)
 => 'idi
-not want to share (Hualien county
 bone earrings
-南部語) 　嫉妒
-花蓮語) 吝嗇
 骨製耳環
-
 
 podok
 fungus * skin disease
-=> podas
-white skin
-albino
 皮膚病，頭癬
+white skin
 白癬
+=> podas
+albino
 白變種
-
 
 podpod
 to use hands to pick up pieces of things that are lying in the dirt
 撿拾散落在地上的東西
 
-
 poet
 to plug a hole
 塞住，堵住
-
-
-Aka poeten ko tagila iso.
-Don't plug your ears.
-不要把耳朵塞住
-
+    Aka poeten ko tagila iso.
+    Don't plug your ears.
+    不要把耳朵塞住
 
 pogkag
-tunnel * a road made through a mountain
-山洞，隧道(from Amoy dialect 引自閩南語)
+tunnel * a road made through a mountain (from Amoy dialect)
+山洞，隧道 (引自閩南語)
 
+
+# p.234
 
 pogki
-=> caki
 basket for rubbish
 簸箕
-
+=> caki
 
 pogodan
-=> Pogodan
 an Amis village
 台東市大橋部落名
-
+=> Pogodan
 
 pohal
 experience (with negative)
-holes in sweet potatoes
 沒有經驗
+holes in sweet potatoes
 把馬鈴薯燜在洞內
-
-
-Awaay ko pohal ako tonini a tayal.
-I have no experience in this kind of work.
-我沒有這種工作經驗
-
+    Awaay ko pohal ako tonini a tayal.
+    I have no experience in this kind of work.
+    我沒有這種工作經驗
 
 pohaw
-to be blind ＊ not able to see
+to be blind * not able to see
 瞎，看不見
-
 
 pohed
 generic word for rotten
 腐爛的總稱
-
-
-Mapohed koya kilag.
-That tree / wood is rotten.
-那棵樹腐爛了
-
-
-Mapohed ko mami' ita.
-Our oranges are rotten.
-我的柑橘腐爛 了
-
+    Mapohed koya kilag.
+    That tree / wood is rotten.
+    那棵樹腐爛了
+    Mapohed ko mami' ita.
+    Our oranges are rotten.
+    我的柑橘腐爛了
 
 pohog
-=> waa'
 horns of animals
 動物的角
-
+=> waa'
 
 pohpoh
 to stroke with hand
 撫摸
-
-
-Aka pipohpoh toya posi.
-Don't pet that cat.
-不要撫摸那隻貓
-
-
-o papohpohen
-something that should be stroked
-需要愛撫的東 西
-
+    Aka pipohpoh toya posi.
+    Don't pet that cat.
+    不要撫摸那隻貓
+    o papohpohen
+    something that should be stroked
+    需要愛撫的東西
 
 poki
 women's genitals * labia
-女人的生殖器 A vegetable called komiyat is given this term for a nickname because of its shape. 一種蔬菜叫 komiyat 給它一個 poki 的綽號因為它的形狀很像 女人生殖器
-
+女人的生殖器
+A vegetable called komiyat is given this term for a nickname because of its shape.
+一種蔬菜叫 komiyat 給它一個 poki 的綽號因為它的形狀很像女人生殖器
 
 pokoh
 => pogo
 a section in bamboo or in the body of an animal or person between joints
-knot
 竹的節，動物或人身體上的關節
+knot
 節
-
-
-Makakafit ko kasapokopokoh no tireg.
-All the parts in the body are joined to each other.
-身體的各關節是相連的
-
+    Makakafit ko kasapokopokoh no tireg.
+    All the parts in the body are joined to each other.
+    身體的各關節是相連的
 
 polahik
-=> pokakih
 chicken dung * manure
 雞糞
-
+=> pokakih
 
 polin
 to fall * with literal and figurative meanings
-跌倒，摔倒， 陷落，含字面比喻的意思
+跌倒，摔倒，陷落，含字面比喻的意思
+    Ano romakat kiso 'i, aka ka po'lin.
+    Don't fall when you walk.
+    你走路時可不要跌倒
+    Mapolinto ko kitakit ita.
+    Our country has fallen.
+    我們的國家被打倒了，我們的國家亡了
+    'Odoten nira koya tamdaw a mipolin.
+    He attacked the man and knocked him down.
+    他攻擊並打倒那個人
 
 
-Ano romakat kiso 'i, aka ka po'lin.
-Don't fall when you walk.
-你走路時可不要跌倒
+# p.235
 
-
-Mapolinto ko kitakit ita.
-Our country has fallen.
-我們的國家被打 倒了，我們的國家亡了
-
-
-'Odoten nira koya tamdaw a mipolin.
-He attacked the man and knocked him down.
-他攻擊並打倒那個人polita / palita. to discern * to look into making an investigation of 辨認，看清楚，鑑別
-
+polita
+to discern * to look into making an investigation of
+辨認，看清楚，鑑別
+=> palita
 
 polo'
-=> tikolac
 a bird * Bamboo Partridge
-ten * a group of ten
 鷓鴣鳥
+=> tikolac
+ten * a group of ten
 十，十的羣數
-
-
-tosa a polo'
-two groups of ten * twenty
-二十
-
+    tosa a polo'
+    two groups of ten * twenty
+    二十
 
 polog
 all * all together
 全體，團體，全部
-
-
-Mapolog kita a malahok.
-Let's all eat lunch together.
-我們一起 吃午飯
-
-
-Pologen ko paro no loma' a masa'opo.
-Have all the family gather together.
-讓全家人團聚
-
-
-kapologan a sa'opo konini.
-This is a gathering for all who belong (to a group * as for example a church denomination) .
-這是全體的聚合
-
-
-Sakapologan han nagra ko tayal ato dafog.
-They shared together their work and possessions.
-我們一起工作並分享所得， 他們共同工作並共有財產
-
+    Mapolog kita a malahok.
+    Let's all eat lunch together.
+    我們一起吃午飯
+    Pologen ko paro no loma' a masa'opo.
+    Have all the family gather together.
+    讓全家人團聚
+    O kapologan a sa'opo konini.
+    This is a gathering for all who belong (to a group * as for example a church denomination).
+    這是全體的聚合
+    Sakapologan han nagra ko tayal ato dafog.
+    They shared together their work and possessions.
+    我們一起工作並分享所得，他們共同工作並共有財產
 
 polol
 a basket very loosely woven
-prison
 籃，筐，簍筐
+prison
 牢 獄，看守所
 
-
 pololoc
-=> ploc, rpoc
 to slide down out of position * as for a baby to slide down too low in its mother's back
-沿背滑落下來，如 母親揹在背上的小孩帶鬆了而墜落
-
+沿背滑落下來，如母親揹在背上的小孩帶鬆了而墜落
+=> ploc, rpoc
 
 pona
 navel
 肚臍
-
-
-pona no palidig
-hole in center of wooden wheel for axle
-一孔在木製車輪的中心點叫 車軸
-
+    pona no palidig
+    hole in center of wooden wheel for axle
+    一孔在木製車輪的中心點叫車軸
 
 poneg
-maponegay * a single person * sur - vivor of the death of one's spouse * widow or widower
-單身， 獨自，鰥夫或寡婦
-
+maponegay * a single person * survivor of the death of one's spouse * widow or widower
+單身，獨自，鰥夫或寡婦
 
 poni'
 rotten * referring to flesh or living things or fruit
+指水果或生物或肉體的腐爛
 soft * sticky
-=> poni
-/po'ni. to bud
-指水 果或生物或肉體的腐爛
 柔軟的，黏黏的
+to bud
 芽
-
+=> poni, po'ni
 
 pono'
 brain
 腦，腦髓
 
-
 popot
-to wrap an object with something
-纏，捲某事務 *
+to wrap an object with something, usually cloth but also leaves or paper
+纏，捲某事務；通常是指纏衣物
+a bamboo container for needles used in making nets
+一個竹製的罐子裡面可以放竹針可用來製作魚網
+    Popoten ni Mariya ci Yis to kiradom a pakafoti' i toptop.
+    Mary wrapped Jesus in swaddling clothes and put him to sleep in a trough.
+    馬利亞把耶穌包裏於襁褓中並放置在馬槽裡
 
 
-usually cloth but also leaves or paper 通常是指纏衣物 2. a bam
-boo container for needles used in making nets
-一個竹製的罐子裡 面可以放竹針可用來製作魚網
-
-
-Popoten ni Mariya ci Yis to kiradom a pakafoti' i toptop.
-Mary wrapped Jesus in swaddling clothes and put him to sleep in a trough.
-馬利亞把耶穌包裏於襁褓中並放置在馬槽裡
-
+# p.236
 
 poraric
 to step on and squash the insides of something living
-用 腳踐踏，用力踩碎活的東西
-
+用腳踐踏，用力踩碎活的東西
 
 poraw
 to form seed or fruit
 結果
-
+=> kaporawan
 
 kaporawan
 time for fruit to form as flower drops off
 結果時期
-
+=> poraw
 
 porec
 mold
 發霉
 
-
 porod
 a ball of string or yarn
 線圈，編紗
-
+=> miporod
 
 miporod
 to wind string into a ball
 製線圈，捲線團
-
+=> porod
 
 porog
 to roll up hair into a knot and pin on the back of head
-to make fancy curls
-to take long grass or twine and tie it in a knot to mark a trail in the mountains
 把頭髮打結按住在頭後
-捲成奇特髮 捲
+to make fancy curls
+捲成奇特髮捲
+to take long grass or twine and tie it in a knot to mark a trail in the mountains
 把蘆葦的末端打結作為記號或信號
 
-
 porpor
-to disintegrate * fall apart
-使崩潰，分解 * as anything old like a log long lying in the forest 任何一個放置很久的圓木會 分解
-
+to disintegrate * fall apart * as anything old like a log long lying in the forest 
+使崩潰，分解；任何一個放置很久的圓木會分解
 
 posak
 crumbs * grains of food such as cooked rice
 飯粒
 
-
 posi
 a cat * a kitten
 貓
-
-
-posi no lotok
-a wildcat
-山貓
-
+    posi no lotok
+    a wildcat
+    山貓
 
 posir
 a thin skin or shell covering as the inner covering on peanuts
 皮膚或外殼如花生內部的皮
-
-
-Maposir ko fages no tarodo' ako.
-The (outer) skin came off my finger.
-我手指脫皮
-
+    Maposir ko fages no tarodo' ako.
+    The (outer) skin came off my finger.
+    我手指脫皮
 
 posisir
 to skid * slide on something smooth or slick
 溜滑，滑行
 
-
 posko
+Yuli * the town and surrounding area (from Japanese)
+玉里鎮及周圍地區 (引自日語)
 => Posko
-Yuli * the town and surrounding area
-玉里鎮及 周圍地區 (from Japanese 引自日語)
-
 
 posog
-=> Posog
 Taitung and the surrounding area
-台東，寶桑部落 名
-
+台東，寶桑部落名
+=> Posog
 
 pota'
 soil * soft mushy dirt
 沉澱物，泥漿
 
-
 potal
 outside of the front of the home * area of the threshing floor
 房子的前庭，曬穀場
+=> papotal, talapapotal
 
+
+# p.237
 
 papotal
-a generic word for outdoors * outside of the immedi- ate context
+a generic word for outdoors * outside of the immediate context
 外面的總稱，臨近的外圍
-
+=> potal
 
 talapapotal
 to go outside
-to go outside of the town to a place removed from the scene
 外面
+to go outside of the town to a place removed from the scene
 到城鎮的外面
-
+=> potal
 
 potapot
-=> kapkap
 to work in the rice field pulling weeds and cultivating young rice plants
 用手拔田地的雜草
-
+=> kapkap
 
 potay
 a head band or cloth wrapped around the head
+頭巾或包頭巾
 a decorative head band
-頭巾或 包頭巾
 裝飾性頭巾
-
 
 potipot
 a group of tents
 組織或一個團體
 
-
 poton
 to cut off * referring to someone or thing with a stump from a missing limb
 切斷，指動物或人斷肢
-
-
-Mapoton ko wikol noya posi.
-That cat's tail is bobbed.
-那隻貓 的尾巴被切斷，那隻貓的尾巴被剪短
-
-
-Mapoton ko kamay noya sigsi.
-That preacher has lost his arm.
-那位老師的手臂斷掉
-
+    Mapoton ko wikol noya posi.
+    That cat's tail is bobbed.
+    那隻貓的尾巴被切斷，那隻貓的尾巴被剪短
+    Mapoton ko kamay noya sigsi.
+    That preacher has lost his arm.
+    那位老師的手臂斷掉
 
 powak
 to burst open * as the contents of a sack
 破裂，爆發， 劈開，爆破
 
-
 powar
 to gush out * referring to water
 湧出，噴出，指水勢
 
-
 poyapoy
-to conceive * become pregnant
-懷孕 * referring
-
-
-both to plants and animal
-humans
-指生物之含苞待放或動物及人類 之懷孕
-
-
-Mapoyapoy anini ko panay.
-The rice is now in flower.
-現在水 稻已含苞待放了
-
-
-Cipoyapoy ci Mariya ci Yisan.
-Mary conceived Jesus.
-馬利亞懷 了耶穌
-
-
-Na'onen ko poyapoy iso.
-Be careful of the babe in your belly.
-你懷孕時要小心
-
+to conceive * become pregnant * referring both to plants and animal humans
+懷孕，指生物之含苞待放或動物及人類之懷孕
+    Mapoyapoy anini ko panay.
+    The rice is now in flower.
+    現在水稻已含苞待放了
+    Cipoyapoy ci Mariya ci Yisan.
+    Mary conceived Jesus.
+    馬利亞懷了耶穌
+    Na'onen ko poyapoy iso.
+    Be careful of the babe in your belly.
+    你懷孕時要小心
 
 prar
 to collapse into ruins
-to landslide
-
 倒塌，崩塌
-
-
-Maprarto koya lotok.
-The mountain came sliding down.
-那座山 倒塌，山崩
-
+to landslide
+山崩
+    Maprarto koya lotok.
+    The mountain came sliding down.
+    那座山倒塌，山崩
+=> kinaprar 
 
 kinaprar
 ruins of something
 倒塌的土方
-
+=> prar
 
 praw
-=> kfig
 a skin rash
 痲疹
-
+=> kfig
 
 prec
 to squeese out * as to extract juice
-to show disrespect for so that the person has no way to express himself
 擠壓出來
+to show disrespect for so that the person has no way to express himself
 表示不尊重，所以那人不知道如何表現自己
-
 
 proc
 to slide dowm
 脫落，滑落
+    Mataproc ko kafer nira.
+    His trousers don't stay up.
+    他的褲子脫落
+=> tahproc
 
+
+# p.238
 
 tahproc
 (for a garment) to slide down * come off the waist
-滑 落，從腰部脫落
-
-
-Mataproc ko kafer nira.
-His trousers don't stay up.
-他的褲子脫 落
-
+滑落，從腰部脫落
+=> proc
 
 psi'
 to smash dead * as an insect
-to squeeze juice
 壓死，如昆蟲
+to squeeze juice
 壓榨擠汁出來
-
-
-Mapsi' nira ko damdam i kohaw.
-He squeezed pepper juice into the soup.
-他把辣椒擠碎混在湯裡
-
+    Mapsi' nira ko damdam i kohaw.
+    He squeezed pepper juice into the soup.
+    他把辣椒擠碎混在湯裡
 
 pyayoka
 a plant called Thladiantha nudiflora Hemsl.
 青牛膽
 
-
 pyoma
-=> Pyoma
 the Pyuma tribe neighboring the Amis
 卑南族
-
-
-ra'it
-=> packis
-tusk of an animal
-動物長牙
-
-
-ra'med
-=> ra'mih
-soft cushion
-like
-柔軟的，柔滑的 * referring to flesh * food * kind of cloth or pillow 指肉體，食物，布料或 枕頭的柔軟
-
-
-ra'mih
-=> ra'med
-soft cushion
-like
-柔軟的 * referring to flesh * food * a kind of cloth or pillow 指肉體，食物，布料或枕頭的 柔軟
-
-
-ra'sodan
-to cry in broken sobs
-啜泣，嗚咽
-
-
-raag
-a female mammal such as a cow * sheep * pig as opposed to a bull (okag)
-母牛，母羊，母豬與公牛，公羊，公豬相對
-
-
-raay
-far * a long distance
-遙遠
-
-
-Hakowa ko nika raay?
-How far is it?
-有多遠呢?
-
-
-Hakowa ko nika raraay?
-How far apart are the two?
-兩者相隔 多遠？
-
-
-Maraay ko loma' ako.
-My home is a long distance away.
-我家 住很遠
-
-
-I raay a ma'araw ako cigra.
-I saw him a long distance away.
-我在很遠的地方看到他
-
-
-Mararaay ko loma' ita
-Our homes are far from each other.
-我 們家相隔的距離很遠
-
-
-radac
-level surface
-外表平坦
-
-
-Paradacen ko lalan.
-Level the road.
-把路面整平
-
-
-Maradac ko lalan.
-The road is level.
-路面很平坦
-
-
-radiw
-=> ladiw
-song ＊ music
-唱歌，音樂
-
-
-O nika romadiw ita ko ga'ay.
-We should sing.
-我們最好來唱歌
-
-
+=> Pyoma
