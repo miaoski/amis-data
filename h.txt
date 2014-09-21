@@ -932,11 +932,6 @@ earth
 
 # p.118
 
-patalahkal 
-confess * reveal
-承認，認罪，自認，啓示，告別
-=> hkal
-
 hlip 
 to suck in as with a straw
 吸，用吸管吸取。

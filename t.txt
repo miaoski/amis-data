@@ -1007,11 +1007,6 @@ to wait
     他在路上埋伏
 => patala, pisitalaan
 
-patala
-to prepare
-準備
-=> tala
-
 pisitalaan
 fortress
 碉堡，要塞
@@ -3751,14 +3746,6 @@ to'aya
 to raise one's head
 把頭抬舉，仰望天空
 => pato'aya, pipato'ayaan
-
-pato'aya 
-to offer an animal sacrifice
-獻祭牲物
-    Mala sapato'aya ko tireg ni Yis.
-    Jesus' body became a sacrifice.
-    耶穌的身體成為祭品
-=> patafag, to'aya
 
 pipato'ayaan
 place where sacrifice is made

@@ -799,8 +799,6 @@ corn
 玉米，玉蜀黍
 => padaka
 
-padaka = 'ariray
-
 'ariri
 granary * storeroom for grain of all kinds
 穀倉

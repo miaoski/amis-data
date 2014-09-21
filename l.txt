@@ -2507,13 +2507,6 @@ to give a house or land for a house to someone
 蓋房子，割地建房子
 => loma'
 
-pataloma' 
-marry * have a wedding for
-結婚，儀式
-to take home
-帶回家
-=> pararamod, loma'
-
 misaloma' 
 to build a building or house
 蓋房子
@@ -2603,12 +2596,7 @@ to grow thick with no space in between
 lopiko 
 the bend * curve of a road
 彎路 (交叉路口)
-=> salopiko
-
-salopiko 
-a place where the road is curved
-有彎路的地方，轉彎處
-=> lopiko
+=> piko, salopiko
 
 lopilop 
 to feel light-headed and weak from walking

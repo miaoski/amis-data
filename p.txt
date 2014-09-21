@@ -381,6 +381,9 @@ straight ahead * directly ahead * without distraction
     Pafsoc ko rakat nira.
     He went straight ahead / did not stop along the way.
     他直接去了，不作任何停留
+to go straight ahead without making turns
+直直走
+=> fsoc
 
 paga
 penis * male sexual organ
@@ -553,6 +556,9 @@ to do something in a way that is contrary to rules or guidelines
     to speak discourteously * without thought of courtesy
     說不禮貌的話
 => patdo
+to exaggerate * misrepresent
+誇張，詐稱
+=> kido
 
 pakih
 ankle * ankles
@@ -604,6 +610,9 @@ to leave on ones own * to let go * assuming no responsibility for but giving fre
     Tada mapakoniraay ko dmak nira.
     He is too much on his own / without accountability.
     他的行為太任性了
+let do by oneself * not interfere with * not be involved in
+讓某人任意去做，任其隨心所慾去作，不干涉
+=> paonol
 
 pakoyoc
 poor * destitute
@@ -914,10 +923,6 @@ papikdan
 a term describing men in the 35-40 year age group * men in full strength of maturity with experience
 描寫人到35 歲至40歲之間，壯年期的術語，男人正值精力充沛經驗豐富時期
 
-piko
-a curve in the road
-路的轉彎處
-
 papo
 hemorrhoid *a swelling at the anus
 腫脹，痔核
@@ -1160,9 +1165,8 @@ to prepare * make preparations literally to make / cause to wait
 patalahkal
 to reveal
 公開，顯示
-to confess
-承認
-See
+confess * reveal
+承認，認罪，自認，啓示，告別
     Mapatalahkalto koya dmak
     The thing is revealed.
     事情已經被公開了
@@ -1179,7 +1183,7 @@ Literally to take into the home be cause an in law has been brought into the hom
     O pipataloma'an to wawa niyam anini.
     This is the day to marry our child. 
     今天是我們兒子結婚大喜的日子
-=> paka'tim
+=> paka'tim, pararamod, loma'
 
 patarod
 to substitute an item or person for the original
@@ -1304,7 +1308,7 @@ to swell
 
 pato'aya
 to offer in ritual a sacrifice something that must be killed
-殺生供奉祭品
+獻祭牲物；殺生供奉祭品
     Mala sapato'aya ko tireg ni Yis.
     Jesus' body became a blood sacrifice.
     耶穌的身體被供為祭品
@@ -1880,8 +1884,8 @@ to go to the intersection
 
 salopiko
 an intersection
-轉彎處
-=> piko
+有彎路的地方，轉彎處
+=> piko, lopiko
 
 pikpik
 to fly
