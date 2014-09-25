@@ -100,10 +100,10 @@ from the back (moving towards)
 
 talarikor 
 to go to the back
-到後面
+到後面，後退，倒退
 regress
 退步，落後
-=> ikor
+=> ikor, rikor
 
 iikor 
 in position of being behind

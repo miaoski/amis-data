@@ -366,6 +366,7 @@ quickly * soon referring to time
 rao'
 Soap nut tree * used by Amis to make soap
 無患子樹，阿美族使用來做肥皂
+=> 'adimaceg
 
 raod
 to approach * come near * referring to time and people 
@@ -1001,13 +1002,6 @@ behind * in the back of * after
     after this
     這以後
 => ikor, talarikor
-
-talarikor
-to go to the back
-後退，倒退
-to regress
-撤退， 退步
-=> rikor
 
 
 # p.251
