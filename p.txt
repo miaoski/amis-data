@@ -469,11 +469,6 @@ to give * place * provide for a situation or need
 給予，地方或場地，提供一種情況或需要
 => sapaini 
 
-sapaini
-a contribution
-贈品，捐助，捐贈，獻金
-=> paini
-
 pakah
 hip bone
 臀部
@@ -1461,13 +1456,6 @@ to apply medicine or insecticide
     1. take sick person to the doctor  2. give medicine to / treat the sick person
     1. 帶病人給醫生看  2. 給病人吃藥/或治療病人
 => sapayo
-
-sapayo
-medicine
-藥
-insecticide
-殺蟲劑
-=> payo
 
 payrag
 Taiwanese people

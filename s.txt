@@ -9,6 +9,9 @@ the name of an Amis village
 sa'et
 to obstruct passage * barricade
 阻塞，阻擋，阻礙
+to stop * hinder
+阻止，遏止，妨礙，妨害，阻礙
+=> 'alet
 
 sa'fit
 to deceive
@@ -235,6 +238,7 @@ inferior to * lesser in rank
 safak
 a single grain * kernel of grain
 殼粒子
+=> 'asad
 
 safalat
 south wind
@@ -577,7 +581,7 @@ the soul * human spirit.  In Amis thinking the soul wanders and appears to anoth
     Masafa no salo'afag no 'oner kako.
     The soul of the snake has conquered me (I've been bitten by a snake).
     我的靈魂被蛇征服，我被蛇咬了
-=> 'adigo
+=> 'adigo, 'afag
 
 salof
 to correct * rectify * amend
@@ -657,7 +661,7 @@ method to do
     Ma'deg samaanen. Awaay ko lalan ita.
     There is nothing that can be done about it. We have no way.
     無可奈何！我們沒有辦法可行
-=> maan
+=> maanen, maan
 
 samadah
 to do something gently
@@ -850,6 +854,8 @@ to make board-shaped
 sapaini
 a gift
 禮物，贈
+a contribution
+贈品，捐助，捐贈，獻金
 => paini
 
 sapal
@@ -877,6 +883,9 @@ medicine
 藥
 poison
 肥料，農藥
+insecticide
+殺蟲劑
+=> payo
 
 sapi'
 to be heavy and fall over
@@ -1052,6 +1061,7 @@ the name of an Amis village
 satnok
 heel * part of the foot
 後腳跟，踵
+=> tnok
 
 sato
 a dry measure for measuring grain
@@ -1358,6 +1368,7 @@ wet
     Sgeren ko flac.
     Wash the rice for cooking.
     淘米煮飯，把米浸在水中 
+=> 'opic
 a species of tree * Formosan Sweet Gum * Fragrant Maple (Liquidambar formosana Hance) 
 一種樹，有香味的槭 (楓香)
 => cpa'
@@ -2014,9 +2025,9 @@ one who has the breath of life
 pasla'
 to rest
 休息
+to give breath * i.e. to rest
+休息，放假
 => pahanhan, sla'
-
-pahanhan = pasla'
 
 
 # p.284
@@ -2196,11 +2207,6 @@ norm * standard
     This is the standard / norm.
     這是很標準的
 => paso'lin
-
-paso'lin
-literally: cause to be true * i.e. believe
-意指為真理，如相信
-=> so'lin
 
 
 # p.286

@@ -250,10 +250,6 @@ the spirit a medium receives when possessed
 
 # p.25
 
-salo'afag
-human soul or spirit
-人類的魂或靈
-
 misalo'afag
 (witch doctor) breaths a spirit into a person
 巫師替人招魂，巫師注入靈魂給人
@@ -438,8 +434,6 @@ ant-eater with long tongue * Manis tricupis
 to stop * hinder
 阻止，遏止，妨礙，妨害，阻礙
 => sa'et
-
-sa'et = 'alet
 
 'ali
 brother or sister-in-law
@@ -835,8 +829,6 @@ dew
 a kernel of grain
 舂米或碾米時未脫殼之穀粒
 => safak
-
-safak = 'asad
 
 'asic = 'acis
 
@@ -1953,8 +1945,6 @@ a bamboo carrying pole
 to wet * make wet * as from rain
 濕，弄濕
 => sger, cpa'
-
-sger = 'opic
 
 'opir
 a braid of hair or of rope
