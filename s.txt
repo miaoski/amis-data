@@ -1373,12 +1373,13 @@ a species of tree * Formosan Sweet Gum * Fragrant Maple (Liquidambar formosana H
 一種樹，有香味的槭 (楓香)
 => cpa'
     
-si'ac/'rac
+si'ac
 to be gone * referring to water having left an area 
 離去 (指水離開某地)
     Masi'ac ko nanom no 'alo.
     The river is dried up.
     河川的水乾涸了
+=> 'rac
 
 si'ed
 to choke * to have food get caught in windpipe * to aspirate
