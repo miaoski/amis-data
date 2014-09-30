@@ -2524,23 +2524,23 @@ to cook too long * as vegetables
 tgil
 to listen * to listen to
 聽，傾聽
-	O mitgilay kako.
-	I am listening.
-	我是在聽著
-	O maan ko tatgilen ita?
-	What are we to be listening to?
-	我們要聽甚麼？
+    O mitgilay kako.
+    I am listening.
+    我是在聽著
+    O maan ko tatgilen ita?
+    What are we to be listening to?
+    我們要聽甚麼？
 to hear
 聽
-	Pakatgil kiso haw?
-	Can you hear?
-	你能聽到嗎?
-	Matgil ako ko sowal iso.
-	I can hear / I have heard what you said.
-	你說的話，我都聽到
-	Cima ko pitgilan iso?
-	Who is your counsellor?
-	你的顧問是誰?
+    Pakatgil kiso haw?
+    Can you hear?
+    你能聽到嗎?
+    Matgil ako ko sowal iso.
+    I can hear / I have heard what you said.
+    你說的話，我都聽到
+    Cima ko pitgilan iso?
+    Who is your counsellor?
+    你的顧問是誰?
 
 ti'aw
 Opposited-leaves fig * a species of tree
