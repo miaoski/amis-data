@@ -8,11 +8,12 @@ import json
 with open('index.json', 'r') as f:
     INDEX = [x.replace('ng', 'g') for x in json.load(f)]
 
-prefix = [ 'ci', 'ka', 'ma', 'mi', 'na', 'ni', 'pa', 'pi', 'sa', 'nai',
-'hali', 'kasa', 'mala', 'miki', 'misa', 'nama', 'nani', 'nika', 'nipi',
-'paka', 'paki', 'pako', 'pala', 'papi', 'pasa', 'piki', 'saka', 'sapa',
-'sapi', 'sasi', 'saso', 'mipaka', 'nipipa', 'papipa', 'pasasi', 'nipipaka',
-'papipaka', ]
+# ordering is important
+prefix = [ 'papipaka', 'nipipaka', 'pasasi', 'papipa', 'nipipa', 'mipaka',
+'saso', 'sasi', 'sapi', 'sapa', 'saka', 'piki', 'pasa', 'papi', 'pala',
+'pako', 'paki', 'paka', 'nipi', 'nika', 'nani', 'nama', 'misa', 'miki',
+'mala', 'kasa', 'hali', 'nai', 'sa', 'na', 'ni', 'ma', 'mi', 'ka', 'ci',
+'pa', 'pi', ]
 
 pre_suffix = [
     ('ka', 'an'),
@@ -24,9 +25,11 @@ pre_suffix = [
     ('sapa', 'aw'),
     ('sapaka', 'aw'),
     ('sa', 'en'), ]
-suffix = ['an', 'ay', 'en', 'aw', 'ho', 'to', 'ananay', ]
-#duplication: lomaloma', romaroma, tamtamdaw, kasakitakitakit, dadayadaya
 
+# ordering is important
+suffix = [ 'ananay', 'en', 'ay', 'an', 'aw', 'to', 'ho', ]
+
+# stem duplication: lomaloma', romaroma, tamtamdaw, kasakitakitakit, dadayadaya
 test_suits = {
     'mitolon': 'tolon',
     'pitolon': 'tolon',
@@ -76,7 +79,7 @@ test_suits = {
     'mapalawaco': 'palawaco',
     'mikihatiya': 'mikihatiya',
     'pikihatiya': 'hatiya',
-    'pakitira': 'tira',
+    "pakitira'": "tira'",
     'pakomagah': 'magah',
     'citilid': 'tilid',
     'ciina': 'ina',
@@ -86,12 +89,14 @@ test_suits = {
     "mafana'to": "fana'",
     'tatayra': 'tayra',
     'mamatayal': 'mamatayal',
-# 'cacitodog': 'todog', # removed, not in our dictionary
+    'mapararaw': 'raraw',
+# 'cacitodog': 'todo]g', # removed, not in our dictionary
     "lomaloma'": "loma'",
     'romaroma': 'roma',
     'malalicalicay': 'licay',
     'malalicay': 'licay',
     'kasakitakitakit': 'kitakit',
+    'dadayadaya': 'dadaya',
     'dadayadaya': 'dadaya',
     'tamtamdaw': 'tamdaw',}
 
@@ -105,13 +110,13 @@ def gnostic(w):
             if psw in INDEX: return psw
     # prefix
     psw = w
-    for p in prefix[::-1]:      # longest -> shortest
+    for p in prefix:        # longest -> shortest
         if w.startswith(p):
             psw = w[len(p):]
             if psw in INDEX: return psw
-            break
+            else: w = psw
     w = psw
-    for p in suffix[::-1]:
+    for p in suffix:
         if w.endswith(p):
             psw = w[:-len(p)]
             if psw in INDEX: return psw
