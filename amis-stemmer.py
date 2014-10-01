@@ -114,7 +114,7 @@ def gnostic(w):
         if w.startswith(p):
             psw = w[len(p):]
             if psw in INDEX: return psw
-            else: w = psw
+            break
     w = psw
     for p in suffix:
         if w.endswith(p):
