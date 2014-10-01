@@ -33,7 +33,7 @@ def mkdef(defi, examples, link):
     if defi[2] != '':
         defdic['def'] = addsplt(defi)
     if link:
-        defdic['link'] = map(ngtilde, link.split(','))
+        defdic['synonyms'] = map(ngtilde, link.split(','))
     return defdic
 
 def readdict(fn):
