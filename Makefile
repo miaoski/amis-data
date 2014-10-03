@@ -12,3 +12,14 @@ sqlite:	dict-amis.sql
 
 quickdic:
 	python quickdic.py
+	java -Xmx512m -jar DictionaryBuilder.jar \
+		--dictOut=AMIS-CMN.quickdic   \
+		--lang1=AMIS   \
+		--lang2=CMN   \
+		--dictInfo="moedict no pangcah"   \
+		--input1=amis-cmn.dicts.txt   \
+		--input1Name="amis-cmn.dicts.txt"   \
+		--input1Charset=UTF8   \
+		--input1Format=tab_separated   \
+		--input1FlipColumns=false
+	@echo "請上傳至手機的 /SDCard/quickdic 目錄中"
