@@ -29,7 +29,7 @@ def load_amis():
                     en = x[p1+1:p2]
                     zh = x[p2+1:]
                     conn.execute('INSERT INTO amis VALUES (?, ?, ?, ?)', (title, am, en, zh))
-                conn.commit()
+    conn.commit()
 
 if __name__ == '__main__':
     load_amis()

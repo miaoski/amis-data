@@ -3,3 +3,4 @@ CREATE TABLE amis (
     example text,
     en text,
     cmn text);
+CREATE INDEX amis_title ON amis (title);
