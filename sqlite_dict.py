@@ -21,14 +21,15 @@ def load_amis():
                 p2 = dx.find(u'\ufffb')
                 en = dx[2:p2]
                 zh = dx[p2+1:]
-                c.execute('INSERT INTO amis VALUES (?, NULL, ?, ?)', (title, en, zh))
+                conn.execute('INSERT INTO amis VALUES (?, NULL, ?, ?)', (title, en, zh))
                 for x in ex:
                     p1 = x.find(u'\ufffa')
                     p2 = x.find(u'\ufffb')
                     am = x[1:p1].replace('`', '').replace('~', '')
                     en = x[p1+1:p2]
                     zh = x[p2+1:]
-                    c.execute('INSERT INTO amis VALUES (?, ?, ?, ?)', (title, am, en, zh))
+                    conn.execute('INSERT INTO amis VALUES (?, ?, ?, ?)', (title, am, en, zh))
+                conn.commit()
 
 if __name__ == '__main__':
     load_amis()
