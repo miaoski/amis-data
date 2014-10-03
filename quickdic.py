@@ -10,6 +10,7 @@ import codecs
 def quickdic():
     dictionary = json.load(open("dict-amis.json"))
     amis_cmn = codecs.open('amis-cmn.dicts.txt', 'w', 'utf8')
+    amis_en = codecs.open('amis-en.dicts.txt', 'w', 'utf8')
     for word in dictionary:
         title = word['title']
         for het in word['heteronyms']:
@@ -22,7 +23,9 @@ def quickdic():
                 en = dx[2:p2]
                 zh = dx[p2+1:]
                 amis_cmn.write('\t'.join((title, zh)) + '\n')
+                amis_en.write('\t'.join((title, en)) + '\n')
     amis_cmn.close()
+    amis_en.close()
 
 if __name__ == '__main__':
     quickdic()

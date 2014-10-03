@@ -16,10 +16,22 @@ quickdic:
 		--dictOut=AMIS-CMN.quickdic   \
 		--lang1=AMIS   \
 		--lang2=CMN   \
+		--lang2Stoplist=CMN_stoplist.txt \
 		--dictInfo="moedict no pangcah"   \
 		--input1=amis-cmn.dicts.txt   \
 		--input1Name="amis-cmn.dicts.txt"   \
 		--input1Charset=UTF8   \
 		--input1Format=tab_separated   \
 		--input1FlipColumns=false
-	@echo "請上傳至手機的 /SDCard/quickdic 目錄中"
+	java -Xmx512m -jar DictionaryBuilder.jar \
+		--dictOut=AMIS-EN.quickdic   \
+		--lang1=AMIS   \
+		--lang2=EN   \
+		--lang2Stoplist=EN_stoplist.txt \
+		--dictInfo="moedict no pangcah"   \
+		--input1=amis-en.dicts.txt   \
+		--input1Name="amis-en.dicts.txt"   \
+		--input1Charset=UTF8   \
+		--input1Format=tab_separated   \
+		--input1FlipColumns=false
+	@echo "請上傳 *.quickdic 至手機的 /SDCard/quickdic 目錄中"

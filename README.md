@@ -52,21 +52,20 @@ market
 
 請保留原有的拼法，如 negneg 請不要寫成 nengneng, 轉換格式的時候，我們會用程式轉成現在比較通用的形式。
 
-誠徵義工
-========
-
-感謝 @audreyt 及廣大鄉民幫忙 OCR, 如果願意幫忙校對/轉換格式，請到 [阿美族字典OCR](https://www.moedict.tw/tmp/amis/) 下載。
-
-如果你有 Github 帳號: 請寄站內信給 @miaoski, 以便打開 commit 權限，謝謝！
-如果沒有 Github 帳號: 請寄信給 lin.zhemin at gmail.com 謝謝。
-
-
 
 轉換
 ====
 
+萌典
+----
 請用 `python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
-之後預定會寫轉換成 WeSay 或其它格式的程式。
+
+
+QuickDic
+--------
+Android 上的好用字典軟體 QuickDic. 請在 [quickdic-dictionary] (https://code.google.com/p/quickdic-dictionary/wiki/BuildDictionary) 下載 DictionaryBuilder.jar 後， `make quickdic` 即可。
+
+預先轉換好的詞典檔，檔名叫 AMIS-CMN.quickdic 及 AMIS-EN.quickdic 也可以直接下載後，上傳到手機的 `/SDCard/quickdic` 目錄使用。
 
 
 切豆腐
