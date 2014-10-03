@@ -451,9 +451,9 @@ eagle * Serpent eagle
 大冠鷹
 
 'alimdas
-=> 'alogdas
 Pytas korros, a snake
 花草蛇
+=> 'alogdas
 
 'alip
 sexual intercourse * of humans
@@ -503,11 +503,11 @@ a bribe
 紅包，賄路，行賄之物
 
 'alogdas
-=> 'alimdas
 large harmless edible snake * Mock Viper (Achalinus niger Maki)
 無毒可食之蟒蛇
 (Calamaria pavimentata formosana)
 南蛇，標蛇
+=> 'alimdas
 
 
 # p.27
@@ -1121,16 +1121,17 @@ the activity of a medium
 巫師的活動
 
 'def
-/ldef - to spread out over the whole area
+to spread out over the whole area
 撒佈整個區域
-to close (heavy glottal stop) 關閉
+to close (heavy glottal stop) 
+關閉
     mi'def to loma'
     to close the house up
     關閉門戶
     Mi'def ko simal to riyar.
     The ocean has a large oil slick.
     浮油佈滿海面
-=> sa'def
+=> ldef, sa'def
 
 sa'def
 a door
@@ -1184,9 +1185,9 @@ a pair of arm coverings attached together
 套袖(手臂套)筒袖
 
 'dox
-=> 'dok
 a plant called Rose Mallow * (Urena lobata) with berries
 種子
+=> 'dok
 
 'em'em
 to keep to oneself worry or trouble
@@ -1244,8 +1245,8 @@ to fly
 overwhelmed by work * unable to handle something
 無法勝任，不能勝任，嫌工作或任務太多或太大
 stigma from moral failure
-=> 'ilo
 道德上的污點，犯法事件
+=> 'ilo
 just dessert
 點心
 
@@ -1267,7 +1268,6 @@ to be wormy and rotten
     這是一棵不健康的樹，這是一棵被蛀壞的樹
 
 'giw
-=> adeses
 the sound of a living thing
 指有生命物的聲音
     Awaay ko 'giw.
@@ -1276,6 +1276,7 @@ the sound of a living thing
     ma'giw ko giha'
     high pitch of the voice
     聲音高而尖銳
+=> adeses
 
 'i
 an untranslatable particle at the end of a dependent clause * as for that with a description or explanation following
@@ -1475,9 +1476,9 @@ pyramid shaped * skinny at the top and wide at the bottom or wide at the top and
 由大而小，式微，金字塔形，由粗而尖
 
 'irig
-=> pawig
 to have head bent to the side * as when a baby is asleep
 側頭
+=> pawig
 
 'is'is
 to shave * referring to beard or hair
@@ -2236,9 +2237,9 @@ attitude of being tired of looking at something
 'ses
 to the point * direct
 指出，指導
-Awaay ko paka'esesay a somowal cigraan.
-No one is able to speak pointedly to him.
-沒有一個人敢當面指責他
+    Awaay ko paka'esesay a somowal cigraan.
+    No one is able to speak pointedly to him.
+    沒有一個人敢當面指責他
 => 'eses
 
 'eses = 'ses

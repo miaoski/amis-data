@@ -199,9 +199,9 @@ the name of edible seaweed
 海上可食用的海草
 
 sadosdos
-=> ta'lidan, tarokos
 the person who goes ahead of the rest leading the way
 陣線前鋒
+=> ta'lidan, tarokos
 
 sadoy
 a shield for use in battle
@@ -753,9 +753,9 @@ to mistreat * insult * mock
     我被他愚弄 
 
 sanalsal
-=> sanasal
 to tickle * be ticklish 
 逗癢，輕癢的感覺
+=> sanasal
 
 
 # p.269
@@ -785,7 +785,6 @@ Green Island off the east coast of Taiwan
 綠島
 
 sanegseg
-=> salogan
 just right 
 恰到好處　
 appropriate * fitting * becoming
@@ -793,6 +792,7 @@ appropriate * fitting * becoming
     Sanegseg a negnegen ko kaciriko' iso tonini.
     It looks very appropriate and fitting for you to wear those clothes.
     你穿這件衣服看起來很標緻
+=> salogan
 
 sanek
 a bad odor * smell
@@ -1040,9 +1040,9 @@ to look very closely at something
     我靠近地看它但還是不能看出那是什麼東西
 
 satan
-=> satag
 title for the devil * Satan
 撒但
+=> satag
 
 satapag
 to begin 
@@ -2539,12 +2539,12 @@ to string together
 # p.290
 
 somad
-=> 'iwil
 feelings of sadness * mixed feelings 
 傷心，悲傷；混亂
     Yo paka'araw kako to ina nira 'i, masomad ko faloco' ako.
     When I saw his mother I had sad mixed up feelings.
     當我看到他母親的時候，我心裡很難過
+=> 'iwil
 to change
 改變，轉變，變化，悔改
     Palisomaden ko faloco'.
@@ -2584,11 +2584,11 @@ a time reference word
 => honi
 
 sonol
-=> 'alol
 to drift * of a boat
 漂流，漂浮，如小船
 to move from one place to another * usually with reference to water
 從這個地方移動到另一個地方，浮起漂流，通常指水勢
+=> 'alol
 
 sonor
 [No English description]

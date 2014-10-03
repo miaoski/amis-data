@@ -1554,9 +1554,9 @@ to break in half or take a piece off of as a loaf of bread as a lump of rice or 
 => pnapcih, kinapcih, pinapcih
 
 pinapcih
-=> pnapcih, kinapcih, pcih
 all the pieces, as left over pieces of loaves of bread 
 麵包切片，如被遺下的許多塊狀麵包
+=> pnapcih, kinapcih, pcih
 
 pco'
 to pick fruit from a tree or a bush
@@ -2352,7 +2352,6 @@ A vegetable called komiyat is given this term for a nickname because of its shap
 一種蔬菜叫 komiyat 給它一個 poki 的綽號因為它的形狀很像女人生殖器
 
 pokoh
-=> pogo
 a section in bamboo or in the body of an animal or person between joints
 竹的節，動物或人身體上的關節
 knot
@@ -2360,6 +2359,7 @@ knot
     Makakafit ko kasapokopokoh no tireg.
     All the parts in the body are joined to each other.
     身體的各關節是相連的
+=> pogo
 
 polahik
 chicken dung * manure

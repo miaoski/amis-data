@@ -137,9 +137,9 @@ calf of the leg
 => 'aftoy
 
 haherher
-=> samoro
 Milk Three * Common Yellow Stem-fig
 稜果榕
+=> samoro
 
 hahidaw 
 a cape wrap around
@@ -159,7 +159,6 @@ to touch lightly * intending to find out the identity of an object
 觸摸，輕撫(以確定物體)
 
 hakeno
-=> hayken
 a statement that you do not know 
 不知道
 to ex press noncommitment * to be evasive
@@ -167,6 +166,7 @@ to ex press noncommitment * to be evasive
     Mihakeno ci Pitiro ci Yisan. 
     Peter denied Jesus / was evasive about his relationship.
     彼得否認耶穌
+=> hayken
 
 hakhak 
 milled rice from falinono * a kind of rice used to make glutinous rice bread or feast rice
@@ -1143,12 +1143,12 @@ to lift up
 # p.120
 
 howak
-=> maimai
 ducks
 鴨
     howak no riyar
     Wigeon
     赤頸鳧，水鳧
+=> maimai
 
 hpik 
 to fold wings * as a bird folds its wings

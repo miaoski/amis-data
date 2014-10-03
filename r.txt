@@ -971,7 +971,8 @@ law * rule
     要聽從法律，要遵守規則 
 
 riko'
-clothing 衣服
+clothing 
+衣服
     malo riko'
     something (usable) to wear
     可做為衣服的東西

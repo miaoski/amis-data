@@ -532,11 +532,11 @@ to give direction to * correct
 指示方向，匡正
 
 dipdip
-=> hinig
 to peek * take a quick look
 窺視
 to secretly watch
 偷看，悄悄地看
+=> hinig
 
 dipi 
 a shelter * to seek refuge near * as to hide behind a fence or a rock

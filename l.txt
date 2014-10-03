@@ -114,8 +114,8 @@ radio (from Japanese)
 
 laco 
 a bullet * bullets
-=> timra
 子彈 
+=> timra
 
 lada'
 something to be shared or taken 
@@ -254,9 +254,9 @@ leather
 => rafir, sikal
 
 lafiwfiway 
-=> faliwfiw, farsi'
 a reed-plant that grows in river beds, Woody Ramie (Boehmeria densiflora)
 蘆葦，木葶麻
+=> faliwfiw, farsi'
 Leucoskye quadrinervia
 四脈苧麻
 => higliw
@@ -595,9 +595,9 @@ same height, as the height of poles of a fence
 平均；高度一致，平等
 
 laletlet 
-=> lalen, lalet
 the same * with reference to speed in running
 相同，不分高下，指在跑的速度
+=> lalen, lalet
 
 lali' 
 clay used in making pottery * hard * not fertile
@@ -614,11 +614,11 @@ place to wash one's face
 => lali'op
 
 lalidec
-=> kakidec
 Subcostate CrapeMyrtle
 九芎 (拘邢花)
 Queen Crape Myrtle with pink blossoms
 大花柴
+=> kakidec
 
 
 # p.165
@@ -745,9 +745,9 @@ to make into a mixture * mixing items together as different kinds of books
 => lamlam
 
 lamlo
-=> hafay
 millet * staple food for the Amis in former years. Many legends are related to millet. 
 小米栗，阿美族昔日主要的食物，有很多與小米有關的傳說
+=> hafay
 
 lamo 
 copulation of animals * breeding
@@ -960,9 +960,9 @@ miscarriage
 => tapsi'
 
 lato'
-=> lafot
 to break apart 
 拉斷，斷裂 (如繩索斷裂)
+=> lafot
 
 latoc 
 a torch of burning wood * burning embers 

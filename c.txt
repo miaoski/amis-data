@@ -1509,9 +1509,9 @@ the name of a species of birds
 一種鳥的名稱
 
 ciwkeg
-=> cikeg
 large earthen water container for storage (from Amoy dialect)
 水缸(引自閩南語)
+=> cikeg
 
 ciwlo 
 biblical term for elders * the church leaders (from Japanese)
@@ -1904,9 +1904,9 @@ to return
 pacofay 
 to return something
 歸還東西
-   pacofay to sowal 
-   to give an answer
-   回答某人的話，答腔
+    pacofay to sowal 
+    to give an answer
+    回答某人的話，答腔
 => cofay
 
 cofcof

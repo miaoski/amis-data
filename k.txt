@@ -190,9 +190,9 @@ name of a vegetable
 => kadifowagay
 
 kadipohaw
-=> maporahaw, mafodad, karipohaw
 to have bad vision 
 視覺模糊
+=> maporahaw, mafodad, karipohaw
 
 
 # p.126
@@ -515,8 +515,8 @@ one more advanced than * in superior position
 => malikaka, malkaka, ikakaay, palakaka
 
 malikaka
-    brothers and sisters belonging to eachother
-    兄弟姐妹，手足之情 (字須與複數代名詞連用)
+brothers and sisters belonging to eachother
+兄弟姐妹，手足之情 (字須與複數代名詞連用)
 => malkaka, kaka
 
 
@@ -781,9 +781,9 @@ eyebrows
 眉毛
 
 kalawal
-=> lawal
 a flying squirrel
 飛鼠
+=> lawal
 walking stilts
 高蹺
 => koka
@@ -1073,9 +1073,9 @@ gums * flesh in the mouth
 齒齦，牙牀
 
 kananini
-=> kahnanini, nahini
 a request "come here" (close)
 請靠過來，挨近一點
+=> kahnanini, nahini
 
 kanas 
 a basket made of bamboo reeds
@@ -1243,9 +1243,9 @@ partner * one like the other
 # p.136
 
 kapig 
-=> Holam, Migkok
 Chinese China
 外省人，大陸人，官兵，漢人
+=> Holam, Migkok
 a large red bean
 大型紅豆
 
@@ -1388,9 +1388,9 @@ bamboo and wood rake
 => karih
 
 karihic
-=> kapitan, kanas
 a basket for shellfish and snails etc. made of bamboo * small and carried on the waist 
 裝魚蝦或海產的小籠 (小口提簍，口緣繫一根繩子) 形小而繫在腰間
+=> kapitan, kanas
 
 
 # p.138
@@ -3134,9 +3134,9 @@ to rake
 收集
 
 korira
-=> kora
 that.  See Appendix 1 Pronouns.
 那個，參閱附錄I代名詞
+=> kora
 
 korkor
 to dig in the soil
@@ -3278,9 +3278,9 @@ to measure by long strides
     半英畝 (2023.4 平方公尺)
 
 kowaw 
-=> kakahog
 a species of fish called Flying Fish (Cypse lurus poecilopterus) * a fish used by Yami in tribal worship 
 飛魚，雅美族祭禮之魚
+=> kakahog
 eagle
 鷹
 
