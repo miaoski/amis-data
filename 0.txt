@@ -1326,8 +1326,8 @@ to get a bruise the size of a betel nut
 搗碎定量的檳榔果
 
 'id'id
-烤，烘烤，烘倍
 roasted * to roast * to barbecue
+烤，烘烤，烘倍
 => dohdoh
 
 'idepet
