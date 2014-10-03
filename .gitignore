@@ -1,3 +1,5 @@
 *.json
 pic/
 dict-amis.sq3
+amis-cmn.dicts.txt
+cmn-amis.dicts.txt
