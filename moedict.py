@@ -7,7 +7,8 @@ JSON = {}
 INDEX = []
 
 def ng(s):
-    return s.strip().replace('g', 'ng')
+    #return s.strip().replace('g', 'ng')
+    return s.strip()
 
 def ngtilde(s):
     import re
