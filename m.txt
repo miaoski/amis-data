@@ -986,3 +986,11 @@ to stare at
 mro
 to swallow whole without chewing
 吞食，未經咀嚼即吞食物
+
+mi
+active verbal particles
+主動的動詞前置詞
+
+ma
+active verbal particles / passive verbal particles
+主動的動詞前置詞/被動的動詞前置詞

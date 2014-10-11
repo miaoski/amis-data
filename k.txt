@@ -3549,3 +3549,7 @@ Chinese * China (from Amoy dialect)
 kyokay 
 church (from Japanese)
 教會 (引自日語)
+
+ka
+prefix
+前綴，行為本身
