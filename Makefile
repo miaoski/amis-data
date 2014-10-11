@@ -13,8 +13,8 @@ sqlite:	dict-amis.sql
 quickdic:
 	python quickdic.py
 	java -Xmx512m -jar DictionaryBuilder.jar \
-		--dictOut=AMIS-CMN.quickdic   \
-		--lang1=AMIS   \
+		--dictOut=AMI-CMN.quickdic   \
+		--lang1=AMI   \
 		--lang2=CMN   \
 		--lang2Stoplist=CMN_stoplist.txt \
 		--dictInfo="moedict no pangcah"   \
@@ -24,8 +24,8 @@ quickdic:
 		--input1Format=tab_separated   \
 		--input1FlipColumns=false
 	java -Xmx512m -jar DictionaryBuilder.jar \
-		--dictOut=AMIS-EN.quickdic   \
-		--lang1=AMIS   \
+		--dictOut=AMI-EN.quickdic   \
+		--lang1=AMI   \
 		--lang2=EN   \
 		--lang2Stoplist=EN_stoplist.txt \
 		--dictInfo="moedict no pangcah"   \
