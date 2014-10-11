@@ -51,6 +51,7 @@ test_suits = {
     'pakacowa':     '`pakacowa~',
     'pakatimol':    '`paka~`timol~',
     'pakalahci':    '`paka~`lahci~',
+    'gagasawan':    '`ga~`gasaw~`an~',
     'papipakatayalen': '`papipaka~`tayal~`en~',
     'saasik':       '`saasik~',
     'sapitilid':    '`sapi~`tilid~',
@@ -109,6 +110,7 @@ def compose(*wx):
 
 def gnostic(w):
     "Stemmer without referring to index.json"
+    if len(w) < 4: return w
     if w in INDEX: return compose(w)
     if w in EXCEPTIONS: return compose(*EXCEPTIONS[w])
 
