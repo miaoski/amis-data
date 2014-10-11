@@ -38,6 +38,8 @@ suffix = [ 'ananay', 'en', 'ay', 'an', 'aw', 'to', 'ho', ]
 test_suits = {
     'mitolon':      '`mi~`tolon~',
     'pitolon':      '`pi~`tolon~',
+    'Pitolon':      '`Pi~`tolon~',
+    'Mararaw':      '`Ma~`raraw~',
     'matayal':      '`ma~`tayal~',
     "ma'araw":      "`ma~`'araw~",
     'katayal':      '`ka~`tayal~',
@@ -118,7 +120,7 @@ def gnostic(w):
     px = None
     sx = None
     for (pre, suf) in pre_suffix:
-        if w.startswith(pre) and w.endswith(suf):
+        if w.lower().startswith(pre) and w.endswith(suf):
             psw = w[len(pre):-len(suf)]
             if psw in INDEX: 
                 (px, psw, sx) = (w[:len(pre)], psw, w[-len(suf):])
@@ -126,7 +128,7 @@ def gnostic(w):
     # prefix
     psw = w
     for p in prefix:        # longest -> shortest
-        if w.startswith(p):
+        if w.lower().startswith(p):
             psw = w[len(p):]
             if psw in INDEX: 
                 (px, psw) = (w[:len(p)], psw)
