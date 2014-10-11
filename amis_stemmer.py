@@ -112,7 +112,8 @@ def compose(*wx):
 
 def gnostic(w):
     "Stemmer without referring to index.json"
-    if len(w) < 4: return w
+    import re
+    if len(w) < 1 or not re.search(r"[\w:']+", w): return w
     if w in INDEX: return compose(w)
     if w in EXCEPTIONS: return compose(*EXCEPTIONS[w])
 
