@@ -13,4 +13,8 @@
 ![Menu-Settings-QuickDic directory](http://i.imgur.com/ihlfGC9.png)
 ![Set down /SDCard/Download](http://i.imgur.com/rD96xWk.png)
 
-6. 
+6. 選好後，可以在 dictionary manager 中看到字典
+![In dictionary manager](http://i.imgur.com/YsEmV9r.png)
+
+7. 按返回鍵，就可以開始查囉...
+![Screenshot of query interface](http://i.imgur.com/zqWzjpc.png)
