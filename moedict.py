@@ -12,7 +12,11 @@ def ng(s):
 
 def ngtilde(s):
     import re
-    return re.sub(r'([\w\']+)', r'`\1~', ng(s))
+    from amis_stemmer import gnostic
+    w1 = re.split(r"([\w:']+)", s.strip())
+    w2 = map(gnostic, w1)
+    #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
+    return ''.join(w2)
 
 def addsplt(s):
     return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
