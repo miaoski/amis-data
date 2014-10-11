@@ -1,5 +1,8 @@
 如何在 Quickdic (Android) 安裝方敏英字典
 ========================================
+
+天主教拼音
+----------
 1. 在 Google Play 下載並安裝 Quickdic 字典。
 ![Quickdic in Google Play](http://i.imgur.com/QI9tL2R.png)
 
@@ -18,3 +21,8 @@
 
 7. 按返回鍵，就可以開始查囉...
 ![Screenshot of query interface](http://i.imgur.com/zqWzjpc.png)
+
+
+原民會拼音
+----------
+吳明義老師正在編寫中，敬請期待。
