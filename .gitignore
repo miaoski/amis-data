@@ -6,3 +6,5 @@ DictionaryBuilder.jar
 amis-en.dicts.txt
 *.py[co]
 revdict-amis.txt
+revdict-amis-ex.txt
+revdict-amis-title.txt
