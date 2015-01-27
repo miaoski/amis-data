@@ -32,7 +32,7 @@ def load_amis():
     for (k, v) in longTitle.iteritems():
         if len(v) == 0: continue
         longstr += u'\ufffa' + k + u'\ufffb' + v + '\n'
-        codecs.open("revdict-amis-title.txt", "w", "utf8").write(longstr)
+        codecs.open("revdict-amis-def.txt", "w", "utf8").write(longstr)
     longstr = ''
     for (k, v) in longEx.iteritems():
         if len(v) == 0: continue
