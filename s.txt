@@ -273,7 +273,7 @@ more than ten
     Ccay ko safaw ko fafoy niyam.
     We have eleven pigs
     我們有十一頭豬
-    Safaw ccay ko fafoy niyam.
+    Safaw cecay ko fafoy niyam.
     We have eleven pigs.
     我們有十一頭豬
 
@@ -296,7 +296,7 @@ a cloth used as a headdress like that of a shepherd
 a cloth wrapped around the feet to help climb betel nut tree
 把腳綁帶套起，以便爬到樹上不致滑落
 
-saflaw
+safelaw
 flock * referring to sheep or cattle or chickens or ducks
 羣集，指牛羊雞鴨 (家畜) 等
 
@@ -353,7 +353,7 @@ hot water for drinking
 燒開水
 tea
 茶
-    Pasagasifen ko flac.
+    Pasagasifen ko felac.
     Put rice in the kettle.
     放米在鍋子裡面
 
@@ -592,7 +592,7 @@ to correct * rectify * amend
     Salofen ita ko nitilidan ita a kimad.
     We must edit the story we wrote.
     我們要修改我們寫的故事
-    Masalof koya dmak anini.
+    Masalof koya demak anini.
     That matter has been rectified.
     那件事已經修正了
 to reprove
@@ -696,7 +696,7 @@ to eat only one kind of food on the table
 samisi
 off just a little from being right in size or becoming to the situation * not quite right
 捉襟見肘，只差一點，不完全
-    Masamisimisi ko dmak nira.
+    Masamisimisi ko demak nira.
     He didn't act quite right / his acts were not fitting for the occasion
     他的作法不完好，只差一點點，他做的不完善
     Masamisi ko pilatag nira.
@@ -819,7 +819,7 @@ to be surprised
     O maan ko kasapaan iso cigraan?
     What surprises you about him? (implied change or something impressive)
     你到底忌諱他甚麼?
-=> ckok
+=> cekok
 to be physically able but lazy
 可以做而不做，生理上能，但很懶惰
     Masapa ko tireg nira a negnegen.
@@ -1068,7 +1068,7 @@ a dry measure for measuring grain
 稱量器，量杯，斗量
 a grammatical particle indicating a response at a point of time in the sequence of action
 在文法是指時態的關聯
-    Yo matgil ako ko sowal nira 'i, kter sato kako.
+    Yo matgil ako ko sowal nira 'i, keter sato kako.
     When I heard what he said I became angry.
     當我聽到他說的話後，我很生氣
 
@@ -1313,7 +1313,7 @@ fear * the kind of fear makes a person avoid a situation out of experience of ge
     Minegneg koya wawa to kiyafes 'i, masfelto.
     When the child sees the guavas he is afraid (to pick them because of former punishment).
     當那小孩子看見番石榴時，他不敢摘下他們，由於前次的教訓
-=> cnon
+=> cenon
 
 sfet
 to tie into a knot
@@ -1339,7 +1339,7 @@ the community gathering house of the Amis village
 阿美村集會所
 kitchen
 廚房
-=> 'dmi
+=> demi'
 
 sga
 to be bored * tired of something
@@ -1365,13 +1365,13 @@ wet
     Masger no 'orad ko sra.
     The rain wet the ground.
     雨水滋潤大地
-    Sgeren ko flac.
+    Sgeren ko felac.
     Wash the rice for cooking.
     淘米煮飯，把米浸在水中 
 => 'opic
 a species of tree * Formosan Sweet Gum * Fragrant Maple (Liquidambar formosana Hance) 
 一種樹，有香味的槭 (楓香)
-=> cpa'
+=> cepa'
     
 si'ac
 to be gone * referring to water having left an area 
@@ -1468,7 +1468,7 @@ to catch * get caught in grass or brush
     Masifed ko wa'ay ako.
     My leg is caught in brush.
     我的腳被草叢鈎住了
-    Tahasifed ko waa' no siri i dmedmetan.
+    Tahasifed ko waa' no siri i demedemetan.
     The goat's horns were caught in brush.
     羊角被草叢絆住了，羊的角被陷在坑裡
 
@@ -1571,7 +1571,7 @@ choir (from Japanese)
 sikda
 to hit a target * to lodge upon
 擊中，投中，投宿於
-    Masikda no fokloh kako.
+    Masikda no fokeloh kako.
     I was hit by a rock.
     我被石頭擊中
     Masikda no adada kako anini.
@@ -1747,7 +1747,7 @@ sinanot
 to be careful
 謹慎小心
 to be organized
-    Sinanoten ko dmak iso.
+    Sinanoten ko demak iso.
     Organize your activities.
     組織一下你的活動，你的行為要謹慎
 組織，有計劃 
@@ -1792,7 +1792,7 @@ kindness * kind
 sino'et
 sweat perspiration
 汗，流汗，出汗
-=> cifrag, ifagat, cahiw
+=> ciferag, ifagat, cahiw
 
 sioy
 kettle * pan for cooking
@@ -2107,7 +2107,7 @@ the object of one's hurt
 => smer
 
 smo'ot
-(ccay no 'li', ccay a 'li'an) one hundred
+(cecay no 'li', cecay a 'li'an) one hundred
 百
 => so'ot
 
@@ -2186,7 +2186,7 @@ to freeze * become ice
 so'lin
 genuine * real
 誠實，真的，實在的
-    O so'linay a dmak konini.
+    O so'linay a demak konini.
     1. This thing really happened.  2. This is the way that activity is / the nature of the activity. 
     1. 這是真實的事情  2. 這個活動是自然活躍的動作 (FIXME)
 true
@@ -2318,7 +2318,7 @@ to yield * give in
 sodsod
 to give secretly and gradually over a period of time * being afraid to give all at once
 在一段時間內悄悄地給付一點一點的給，或因恐懼而立即付清 (FIXME)
-    Pasodsod han nira ko pipafli to payso.
+    Pasodsod han nira ko pipafeli to payso.
     He gradually and secretly gave money.
     他暗中悄悄地以金錢施予
 
@@ -2518,7 +2518,7 @@ to attract * exert influence on
     Masolot nira ko faloco' ako.
     He has influenced me.
     他感化我的心，我的心被他影響
-    O ko'sanay a sowal nira ko sapisolot nira toya fafahian.
+    O ko'sanay a sowal nira ko sapisolot nira toya fafahiyan.
     He used polished speech to attract that woman.
     他用甜言蜜語引誘那女孩
 
@@ -2807,7 +2807,7 @@ land
 sray
 to relax * release * let go of
 鬆弛，寬鬆，解開，解脫
-=> fray
+=> feray
 
 srer
 to slide down * landslide
@@ -2857,7 +2857,7 @@ to be exhausted
 stek
 to literally cut * sever
 字面上指切斷
-    Ini ko ccay a nistekan a titi. 
+    Ini ko cecay a nistekan a titi. 
     Here is a piece of cut meat. 
     這裡有一塊切好的肉
 => pastek

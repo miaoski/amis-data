@@ -96,13 +96,13 @@ to cry from mixed emotions of memories * as when seeing someone you have not see
 haen 
 such as this * like this
 就是如此，像這樣
-    Haenen ko dmak. 
+    Haenen ko demak. 
     Do it like this.
     你要這樣做
     Mahaen ko sowal. nira. 
     That is what he said.
     他是這樣說的
-    O tatiihay a tamdaw 'i kinahated hanto ao tatiihay ko dmak. 
+    O tatiihay a tamdaw 'i kinahated hanto ao tatiihay ko demak. 
     An evil person persists in not changing his ways (literally: always the same) .
     任由惡人做壞事
 
@@ -123,7 +123,7 @@ someone who is rich
 有財富的人
 => hafay
 
-haflot 
+hafelot 
 to be carried along by * as the wind carries things 
 冲進，推進；捲，纏東西
 
@@ -449,7 +449,7 @@ clear * evident * definite
     Pakahapinag to faloco' ita ko Kawas. 
     God is able to discern our hearts.
     上帝能鑑別我們的心思意念
-    Mahapinag ko kter nira. 
+    Mahapinag ko keter nira. 
     His anger is evident.
     看得出他很生氣
 => pahapinag
@@ -487,7 +487,7 @@ thoughts * thinking * point of view
     Harategen ko sowal nira. 
     Don't forget; remember what he said.
     他是要我考慮(思考)什麼，要記住他的話
-    O papiharateg nira takowanan to so'linay a dmak konini.
+    O papiharateg nira takowanan to so'linay a demak konini.
     What he is doing is making me consider what I really ought to do.
     他是要我考慮(思想)什麼是我該做的
     nao harateg ako 'i 
@@ -561,7 +561,7 @@ to leap * jump from above
 hatini 
 like this * the norm * the way something is done
 像這樣，就是這樣，做事的標準或準則
-    Hatinien ko dmak. 
+    Hatinien ko demak. 
     Do it like this (standard) .
     要這樣做(標準)
     To hatiniay 'i, awaay ko nanom niyam. 
@@ -591,14 +591,14 @@ that standard
     ano hatira 'i 
     in that case
     如果是那樣的話
-    Hatiraen ko dmak. 
+    Hatiraen ko demak. 
     Do it like that.
     要那樣做
 
 hatiya 
 compared with * even as
 正如，比較…
-    Hatiyaen onini a dmak 
+    Hatiyaen onini a demak 
     Do it like this (standard) .
     做的要像這一樣
 => mikihatiya
@@ -691,13 +691,13 @@ fruit
 果實
 result
 結果
-    Malahciayto ko dmak ako. 
+    Malahciayto ko demak ako. 
     My work is accomplished.
     我的工作已經完成
     Pahcien ko sowal. 
     Clarify what (you) are saying.
     你說什麼要講清楚
-    Cihciay ko dmak nira. 
+    Cihciay ko demak nira. 
     What he did has fruit / is lasting.
     他的事業(事情、工作)已經有了成果
     Adihay ko hci no panay. 
@@ -1178,7 +1178,7 @@ after something is done
     I pahrekan no tayal nira 
     after his work is finished (time when)
     當他的工作完成之後
-    Mapahrekto ko kter no Kawas to raraw. 
+    Mapahrekto ko keter no Kawas to raraw. 
     God has been satisfied concerning sin (implying adequacy of Jesus' work).
     上帝的憤怒已中止了 (意指耶穌的工作)
 

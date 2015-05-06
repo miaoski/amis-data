@@ -5,18 +5,18 @@ a
 a connecting particle with some of the meaning of "and" * modifying particle
 連結詞 (為某種意義或修飾用)
 
-a'iloc
+'a'iloc
 the back of the head * neck
 脖子，頸，頸項
 
-a'isedan
+'a'isedan
 chief witch doctor
 巫師之首領，領袖
 leader of the town
 部落或村莊的領袖，領導人物
-=> a'isidan
+=> 'a'isidan
 
-a'isidan = a'isedan
+'a'isidan = 'a'isedan
 
 aayad
 white ants * termites
@@ -97,7 +97,7 @@ heal
     maadahto ko adada
     the sickness is healed
     病痊癒了
-    maadah ko kter no faloco'
+    maadah ko keter no faloco'
     the anger of heart is healed / gone.
     氣消了，不再生氣了，心中的憎恨平息了
 
@@ -105,7 +105,7 @@ adahi
 improved * better than formerly * former condition being bad
 稍稍有進步，聊勝於無
 
-adayay
+aday^ay
 pity * no thought of involvement
 同情，憐憫
 
@@ -130,10 +130,10 @@ chaff
 name of an Amis village
 玉里鎮鐵粉部落名
 
-aflaw
+afelaw
 saltless soup
 鹹度不夠，鹽味不足
-=> kaflaw
+=> kafelaw
 
 afsa'
 not flavored * tasteless * of food or speech or song
@@ -182,7 +182,7 @@ exclamation of admiration
 ako
 my * mine * by me.  See Appendix 1 pronouns.
 我的。請參閱附錄Ⅰ - 代名詞
-    Halo akoen a pafli 
+    Halo akoen a pafeli 
     (Please) include me when you give
     請你也分給我
     Misaakoakoay cigra. 
@@ -207,10 +207,10 @@ take * generic form
 ala-
 a grammar particle added to a word meaning for each one
 文法詞類加在各個之意義上
-    Alaccay kita to sowal. 
+    Alacecay kita to sowal. 
     Each of us is to say sentence.
     我們各人(每人)說一句
-    Alaccayen ko pipafli. 
+    Alacecayen ko pipafeli. 
     Give each one thing.
     每人分一個
     Alasadasadak sa cagra a militmoh tamiyanan. 
@@ -220,9 +220,9 @@ a grammar particle added to a word meaning for each one
 alaf'af
 lukewarm
 溫熱的，暖暖的 (水)
-=> alafaf, fala'fa
+=> alaf^af, fala^fa
 
-alafaf
+alaf^af
 lukewarm
 溫熱的，微熱的 (水)
 => alaf'af
@@ -279,7 +279,7 @@ Amilika = amilika
 amo 
 See kamo. you plural
 你們〈第二人稱複數〉
-    Halo amo a mafana' tonini a dmak. 
+    Halo amo a mafana' tonini a demak. 
     Even you know about this matter.
     連你都知道這件事
 
@@ -334,7 +334,7 @@ dumb * unable to speak
 啞巴
 stupid * not intelligent * no sense
 愚蠢，不智，遲頓
-    misaapa to fafahian 
+    misaapa to fafahiyan 
     commit sexual sin towards a woman
     愚弄女人，對女人犯性騷擾
 
@@ -399,7 +399,7 @@ dwelling place * place to stay
     Aro'en ko loma' nira. 
     Go to his home and get a recompense by expecting the family to give you a feast.
     去他家以便取得該家喜宴的回報
-    Aro' sa cigra a caciyaw. 
+    Maro' sa cigra a caciyaw. 
     He sat down and talked.
     他坐著說話，他坐著演講
 
@@ -417,7 +417,7 @@ to do any way you wish
 悉聽尊便，沒有關係
 menial * of least value * anything will do
 卑賤的，下賤的
-    Kasimaanay saan cagra to dafog ako. 
+    Asimaanay saan cagra to dafog ako. 
     They showed no respect to my property.
     他們對我的財產不重視
     Fagcalay ko riko' nira. Asimaan kono mako. 
@@ -484,13 +484,13 @@ ayiw
 Swamp Eel (Fluta alba)
 鱓魚
 
-aykor 
+aikor 
 rear * back of
 背後，後面
-    Talaaykor cigra. 
+    Talaaikor cigra. 
     He moved to the rear.
     他退到後面 , 他轉移到後面，他落後
-    O iaykoray cagra a maro'. 
+    O i aikoray cagra a maro'. 
     They sat in the back.
     他們是坐在後面的
 

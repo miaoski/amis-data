@@ -28,7 +28,7 @@ okay * a response to an idea
     O maan konini?
     What is this?
     這是什麼？
-    Masamaan konini a dmak?
+    Masamaan konini a demak?
     What is this like?
     這件事情到底如何
 => maan
@@ -68,7 +68,7 @@ insincerity
     misamagah to sowal
     to lie * deceive
     說謊
-    misamagah to dmak
+    misamagah to demak
     to be insincere * deceptive
     不誠實
     o misamagahay a tamdaw
@@ -169,7 +169,7 @@ to become * a grammatical marker for becoming (mala-)
     Mala wawa ako konini.
     This has become my child.
     變成我的孩子
-    Mala awaay ko 'poc ko dmak nira.
+    Mala awaay ko 'poc ko demak nira.
     What he does has become useless.
     徒勞無功
 
@@ -463,10 +463,10 @@ the state of affairs * like this
 事務狀態；像這樣
 standard * norm
 標準，準則
-    Matini ko ga'ayay a dmak.
+    Matini ko ga'ayay a demak.
     This is the standard way to do it.
     這是做這件事情的準則
-    Matini koya dmak.
+    Matini koya demak.
     This is the way the thing happened.
     事情是這樣發生的
     matini ko sowal nira
@@ -490,7 +490,7 @@ like that * as told by a second party * state of affairs
 matiya
 even as * compared with
 好像，比較以下兩句
-    Samatiyaen o dmak ako.
+    Samatiyaen o demak ako.
     Do it like I do.
     要作的像我一樣
     Samatiyaen nira o so'linay.
@@ -515,10 +515,10 @@ a shortened form for matiya without pointing to a specific person or activity * 
     Mato mafana'ay cigra.
     He appeared to be knowledgeable.
     他好像很聰明的樣子，他好像知道
-    Mato so'linay kora dmak.
+    Mato so'linay kora demak.
     What is happening appears to be genuine * right.
     那件是被認為是真的
-    Mato sowal nira ko dmak.
+    Mato sowal nira ko demak.
     The event turned out like he said.
     那件事情如他所說的(一點都不差)
 

@@ -26,7 +26,7 @@ light * diffused without reference to the source
     Ta'gad ko pisig nira.
     His face is alight / he is happy.
     他的臉上充滿喜悅
-=> tadgal
+=> tadegal
 
 ta'ig
 to swing one's head or hair, e.g., a water buffalo swings its head at its foe
@@ -71,10 +71,10 @@ ta'mod
 to swallow whole without chewing
 未經咀嚼就吞食食物 (囫圇吞下)
 
-ta'nek
+taenek
 a state of sitting or leaning on something that makes one uncomfortable
 表坐着或傾斜時感到不舒服的狀態
-    Ta'nekto kako a maro'.
+    Taenekto kako a maro'.
     I am uncomfortable sitting. (probablysitting on something I am not aware of or am not supposed to be sitting on)
     我坐的很不舒服 (可能是因坐在並未事先知道的東西上面或困坐在不想坐的地方)
 
@@ -147,7 +147,7 @@ a grammatical affix indicating a great amount of or a great degree of something 
     Tada maolah cigra to wawa nira.
     He loves his child very very much.
     他非常愛他的孩子
-    Tada o katalawan ko dmak nira.
+    Tada o katalawan ko demak nira.
     What he is doing is very frightening.
     他的行為實在令人甚為害怕
 
@@ -157,7 +157,7 @@ a grammatical affix indicating a great amount of or a great degree of something 
 tadah
 debt
 債務，欠帳
-    Citadah kako to ccay a 'ofad a payso.
+    Citadah kako to cecay a 'ofad a payso.
     I am in debt / owe ten thousand dollars.
     我有一萬元的債務
     Patadah kako cigraan.
@@ -183,7 +183,7 @@ honorable * noble
     他是偉大的人物
 magnificent
 莊嚴的，重要
-    Satadamaanen ko dmak.
+    Satadamaanen ko demak.
     Make a big occasion of the thing / do it up fancy.
     願你做大事，但願你的表現特殊
     O tadamaanay a romi'ad konini.
@@ -309,7 +309,7 @@ to take what is available for oneself
     Ini ko kakaenen. Tado han a miala.
     Here is food. Help yourselves.
     這裡有食物，請便自己取用，不用客氣
-    Papipatadoen cigra to dmak to saki wawa ako.
+    Papipatadoen cigra to demak to saki wawa ako.
     Have him take care of the matter for my child.
     為了我孩子之事情，請他幫忙
 => patado
@@ -317,7 +317,7 @@ to take what is available for oneself
 patado
 to do for someone else so they don't have to do it themselves
 代某人默默的去做，使他們不必為他們該做的事去做
-    Patado ci Yis titaanan a milahci to dmak.
+    Patado ci Yis titaanan a milahci to demak.
     Jesus did the work for us (we don't have to do it).
     耶穌為我們完成救贖的工作
 => tado
@@ -395,7 +395,7 @@ to wrap up * to make a bundle
     Tafoen ko codad iso a panokay.
     Wrap up your books and take them home.
     把書本包起來帶回家
-    Aka pitafo i faloco' iso to kter.
+    Aka pitafo i faloco' iso to keter.
     Don't keep anger in your heart.
     不要把怨氣埋藏在心裡
     O malo satafo konini.
@@ -554,7 +554,7 @@ immediately
     Yo pakatgil cigra tonini a sowal 'i, tagsol sa cigra a lomowad.
     When he heard these words, he immediately left.
     當他聽到這消息，他馬上起來(起程)
-    O tatagsolen konini a dmak
+    O tatagsolen konini a demak
     This matter must be cared for immediately.
     這件事必須要馬上辦
 
@@ -612,7 +612,7 @@ to stumble * trip over
     Aka ka tahafikod a romakat.
     Don't stumble walking.
     小心走路不要被絆倒
-    Aka ka tahafikod a minegneg to dmak nira.
+    Aka ka tahafikod a minegneg to demak nira.
     Don't stumble at what he does.
     不要因為看到他的行為而跌倒
 => tahfikod
@@ -715,7 +715,7 @@ to slip * slide on something slick
 tahpo
 to cover over the top of something * as with a cloth
 用布或其他東西覆蓋
-    Matahpo ko pisig no fafahian i Alapo.
+    Matahpo ko pisig no fafahiyan i Alapo.
     Arabian women's faces are covered over.
     阿拉伯婦女的臉部是遮掩起來的
     Matahpo no to'man ko faloco' nira.
@@ -1052,10 +1052,10 @@ to come to shore * to come to the surface
     魚衝上沙灘
 to be revealed
 揭露
-    Talahkalto anini ko tatiihay a dmak nira.
+    Talahkalto anini ko tatiihay a demak nira.
     The wrong he did has come to light.
     他的壞事以暴露出來了，他的劣跡已東窗事發了
-    O pipatalahkal to dmak iso ko ga'ay.
+    O pipatalahkal to demak iso ko ga'ay.
     You should confess the truth about what you did.
     你還是坦白承認你所做的一切為上策
 to appear
@@ -1109,7 +1109,7 @@ to be afraid * to fear * generic term
     O maan ko katalawan iso?
     What are you afraid of?
     怕什麼？
-    O katalawan ko dmak nira.
+    O katalawan ko demak nira.
     What he is doing is dangerous.
     他的所做所為很危險
     Patalawen nira kako.
@@ -1194,7 +1194,7 @@ a skirt (both Amis men and women wore skirts)
 talipa'lal
 to awaken out of sleep with literal and figurative meanings
 從睡夢中甦醒，含有字面上和比喻上的意義
-    Talipa'lalto kako anini to dmak nira.
+    Talipa'lalto kako anini to demak nira.
     I finally realize what he is doing.
     我終於了解他的所做所為
 
@@ -1223,7 +1223,7 @@ community meeting house
 taloc
 to be too late
 遲到，太慢
-    Mataloc ko dmak nira.
+    Mataloc ko demak nira.
     He was too late with what he did.
     他做得太慢了
 
@@ -1435,7 +1435,7 @@ to try to do something
     試著做這份工作
 to taste
 品嚐
-    Tanamen konini a fa'lohay a kakaenen.
+    Tanamen konini a fa^lohay a kakaenen.
     Try eating this new kind of food. 
     嚐嚐這新種類的食物
 
@@ -1614,7 +1614,7 @@ to observe * pass judgment on * oversee
     Cima ko mitapalay tonini a katayalan?
     Who oversees this business?
     是誰在監督這份工作
-    O Kawas ko mitapalay to dmak ita o tamdaw.
+    O Kawas ko mitapalay to demak ita o tamdaw.
     God oversees everything we do.
     上帝鑑察我們一切的行為
 to intimidate
@@ -1726,7 +1726,7 @@ to veil * a veil
     Citapodoto ko pisig ni Mosi.
     Moses' face was veiled.
     摩西的臉用布遮掩 
-    O tapodo no fa'lohay a malo fafahi konini.
+    O tapodo no fa^lohay a malo fafahi konini.
     This is a bride's veil.
     這是新娘子的面紗
 
@@ -2039,10 +2039,10 @@ sea clams
 tatodog
 the essence of something * the meaning 
 東西的本質，意義 
-    O maan ko tatodog nonini a dmak?
+    O maan ko tatodog nonini a demak?
     What is the meaning of this affair? / What is this all about?
     這件事的意義是什麼？
-    Caay ka tatodog ko dmak nira.
+    Caay ka tatodog ko demak nira.
     His act is unbecoming.
     他的行為太離譜了
 the center * core 
@@ -2317,7 +2317,7 @@ to set free * release
 tdi
 splendor * glory * shining light
 光輝，燦爛，榮耀，光線
-    Tadamaanay ko tdi / 'dil no cidal.
+    Tadamaanay ko tdi / 'edil no cidal.
     The splendor of the sun is very bright.
     太陽的光芒是壯麗的
     O maan ko matdiay?
@@ -2329,7 +2329,7 @@ splendor * glory * shining light
     Patdien ko lalan.
     Shine a light on the path.
     請照亮道燈
-=> 'dil
+=> 'edil
 
 tdo
 to do without reason * without forethought.
@@ -2505,7 +2505,7 @@ a Ring-necked Pheasant * a large bird
 tged
 to stay for a long time * to stay too long
 逗留一段時間，停留太久
-    Mitged ko cka.
+    Mitged ko ceka.
     A thorn has lodged (in my flesh and become infected).
     荊棘長久刺入在肉體中以致於感染
     Nawiro tged sa kiso?
@@ -2812,7 +2812,7 @@ fishing hook
     Patiked kako i riyar.
     I fish with hook and line in the ocean.
     我在海邊釣魚
-=> cmot
+=> cemot
 
 tiko
 to return * to come back to the starting point
@@ -2820,7 +2820,7 @@ to return * to come back to the starting point
     Patikoen ko nicaliwan iso a codad.
     Return the book you borrowed.
     把你借走的書歸還
-    Matatikoto ko faloco' niyam a malaccay.
+    Matatikoto ko faloco' niyam a malacecay.
     Our unity has been restored.
     我們倆已回心轉意，和好如初
     Mitiko cigra ihoni.
@@ -3010,12 +3010,12 @@ a boat-shaped trough
 a freight car
 鐵路貨運車
 
-tiplak
+tipelak
 to open something that is closed like a book
 黏貼的東西整張脫落
 to split open * as bark or the skin of a baked potato
 劈開，如樹皮或烘烤馬鈴薯的皮
-=> toplak
+=> topelak
 
 tiplok
 paper
@@ -3087,7 +3087,7 @@ to show * to cause to be seen
     Matiri' ko 'okak ako.
     My bones show.
     我的骨頭顯現出來
-    Patiri'en kami to fa'lohay a palidig iso.
+    Patiri'en kami to fa^lohay a palidig iso.
     Show us your new vehicle.
     把你的新車顯示給我們看
 referred * compared to
@@ -3165,7 +3165,7 @@ to exceed that of others
     Mitiwtiw cigra a matayal.
     He works to excel (for some personal gain).
     他比別人多做了一些工作
-    Patiwtiw kako a pafli toya wawa.
+    Patiwtiw kako a pafeli toya wawa.
     I gave that child more (than the rest).
     我多給那位小孩 (比其他的人)
 
@@ -3492,7 +3492,7 @@ a descendant
     Awaay ko tloc noya loma'.
     That family has no descendants.
     那個家沒有後代
-    Masamaan ko tloc noya dmak?
+    Masamaan ko tloc noya demak?
     How did that matter come to an end?
     那件事的結果如何？
 
@@ -3540,7 +3540,7 @@ to hiccup
 tmek
 secretly
 秘密地，悄悄地，暗暗地
-    Tmeken nira ko dmak.
+    Tmeken nira ko demak.
     He secretly killed an animal for meat.
     他暗地殺動物做菜餚
 to do as self desires
@@ -3618,7 +3618,7 @@ to spread
     O patnakay cigra.
     He is an evangelist.
     他是傳道人
-    Matnak ko sowal to pakayniay to dmak nira.
+    Matnak ko sowal to pakayniay to demak nira.
     Words about his activities have spread.
     有關他的事已傳開了
     Tnaken ko 'mi a mipawali.
@@ -4273,7 +4273,7 @@ to fall literally
     不要跌倒
 to fall figuratively
 比喻上的，倒下，落下，跌落
-    Matolo' ko faloco' ako a minegneg to dmak nira.
+    Matolo' ko faloco' ako a minegneg to demak nira.
     My heart (i.e. I) stumbled seeing what he did.
     我看到他的行為就隨之犯罪
 
@@ -4460,10 +4460,10 @@ to hit with something filthy * as to spit upon
     I was hit with spit.
     我被吐一片唾沫
 
-toplak
+topelak
 to open up * as to rip a package open
 剝開 * 如扯裂剝開包裹
-    Toplaken ko codad.
+    Topelaken ko codad.
     Open the book.
     翻開書本
 
@@ -4807,7 +4807,7 @@ to eat before the rest arrive
 留存，留下
 to save over for further consideration
 保留這個問題下次再做
-    Treken konini a dmak.
+    Treken konini a demak.
     Save this for further consideration.
     保留這個問題事情到下次再做
 => matrek, satrek

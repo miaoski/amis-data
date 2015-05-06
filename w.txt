@@ -127,7 +127,7 @@ the way the person acts * behaviour patterns
 waklid
 to carry along * as a result of motion that was initiated
 波及，禍及，累及
-    Mawaklid no tata'agay a fokloh ko talo'an niyam. 
+    Mawaklid no tata'agay a fokeloh ko talo'an niyam. 
     Our hut was carried along with a large rock (that rolled). 
     我們的工寮被巨石衝垮
 
@@ -168,7 +168,7 @@ to roll over
     Mawalinto koya kolog.
     The water buffalo rolled over (and died).
     那隻牛滾下來 (死了)
-    Walinen konini a fokloh.
+    Walinen konini a fokeloh.
     Roll this stone over.
     把石頭翻掉
 

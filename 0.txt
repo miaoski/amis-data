@@ -45,12 +45,12 @@ dry stalks useable for firewood
 to dip out water
 汲水、 搖水
 
-'acfel
+'acefel
 smoke
 煙、蒸氣
-=> ci'acfelay
+=> ci'acefelay
 
-ci'acfelay
+ci'acefelay
 train
 火車，冒煙者
 
@@ -721,7 +721,7 @@ seen * visible
     Pa'arawen kami toya nitatoyan iso.
     Show us what you are holding.
     請你把手上的東西顯示給我們看
-    Pa'araw cigra to dmak nira.
+    Pa'araw cigra to demak nira.
     He revealed what he was doing.
     他顯露他的作為(行為)
     Masaso'araw kita anini.
@@ -1056,7 +1056,7 @@ negative particle
     caay ka 'ca
     definitely
     一定
-    O nika'caan pidmak ko ga'ay.
+    O nika'caan pidemak ko ga'ay.
     It is best not to do it.
     最好不去做，不如不做。
 => caay
@@ -1140,7 +1140,7 @@ a door
 'deg
 only
 唯，只有，僅僅，獨一
-=> ma'deg, 'degan, dgan, pa'deg
+=> ma'deg, 'degan, degan, pa'deg
 
 ma'deg
 can be done
@@ -1149,9 +1149,9 @@ can be done
 'degan
 only
 僅僅，唯一
-=> dgan
+=> degan
 
-dgan = 'degan
+degan = 'degan
 
 pa'deg
 to do only so much * not overdo * including the idea of being content with what you have
@@ -1161,20 +1161,20 @@ to do only so much * not overdo * including the idea of being content with what 
 cruel
 嚴厲，殘酷，兇悍
 
-'dil
+'edil
 glory * radiance
 光亮，閃耀
-=> ma'dilay, ci'dilay
+=> ma'edilay, ci'edilay
 
-ma'dilay
+ma'edilay
 shiny
 閃亮的
-=> 'dil
+=> 'edil
 
-ci'dilay
+ci'edilay
 something that is radiant * glorious
 發亮的，榮耀的
-=> 'dil
+=> 'edil
 
 'do
 rat
@@ -1428,7 +1428,7 @@ to not waste
     ma'imer to riko'
     well groomed
     衣著整齊，愛惜衣物
-    Misa'imer ko Farisay a tamdaw to dmak ni Yis.
+    Misa'imer ko Farisay a tamdaw to demak ni Yis.
     The Pharisees watched (to find something wrong with) what Jesus did.
     法利賽人注目耶穌的行動
 => ma'imer, misa'imer
@@ -1621,10 +1621,10 @@ black as the burn on a pan or soot
 'li'
 a bundle of one hundred stems of grass, one hundred
 一百枝一束的茅草
-    ccay no 'li'
+    cecay no 'li'
     one hundred
     一百
-    ccay a 'li'an
+    cecay a 'li'an
     one hundred
     一百
 grass used to root a house
@@ -1637,7 +1637,7 @@ condition of being spoiled * not disciplined * of a child
 'loc
 to wear * to be worn away
 磨損
-    Ma'loc no nanom ko fokloh.
+    Ma'loc no nanom ko fokeloh.
     The rocks are worn by the water.
     石頭被水磨滑(平)了
 
@@ -1695,7 +1695,7 @@ complete * all * every one included
     Tayra kita a ma'min.
     All of us will go.
     我們全部都要去
-    Pa'min han cigra a pafli.
+    Pa'min han cigra a pafeli.
     Give it all to him.
     全部給他
 
@@ -1945,7 +1945,7 @@ a bamboo carrying pole
 'opic
 to wet * make wet * as from rain
 濕，弄濕
-=> sger, cpa'
+=> sger, cepa'
 
 'opir
 a braid of hair or of rope
@@ -2025,9 +2025,9 @@ to carry on the shoulder
     Ma'orog nira ko kartegay a 'inorog.
     He carried a heavy load.
     他挑起了沉重的擔子，他運走(扛在肩上)了很沉重的荷物
-=> a'orogen
+=> 'a'orogen
 
-a'orogen
+'a'orogen
 something to be carried
 荷物，包袱，即將運走的東西
 => 'orog
@@ -2063,7 +2063,7 @@ to strongly dislike * reject
     O 'osi a tamdaw cigra.
     He is true.
     他是正直的人，他是了不起的人物
-    Ka'osian ko dmak nira.
+    Ka'osian ko demak nira.
     What he does is despicable.
     他的作為令人討厭
 

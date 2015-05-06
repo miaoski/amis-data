@@ -31,7 +31,7 @@ a response word - look * here
 yofig
 the post office * postman (from Japanese)
 郵局，郵差 (引自日語)
-    Pakayofigen ko payso a pafli i takowanan.
+    Pakayofigen ko payso a pafeli i takowanan.
     Send me money by mail.
     請將錢匯給我.
 

@@ -25,7 +25,7 @@ man * men
     Be courageous.
     你必須勇敢
 
-fa'loh 
+fa^loh 
 new
 新的
     Safa' lohen ko faloco' iso. 
@@ -34,11 +34,11 @@ new
     Fa'lohay ko loma' ako. 
     I have a new home.
     我的房子是新的/ 我有新房子
-    Masafa'loh ko faloco' ako. 
+    Masafa^loh ko faloco' ako. 
     My attitude has changed for the better.
     我的態度改變得比較好一點
 
-fa'not 
+fa'enot 
 to molt * lose feathers or hair or fur * as animals do after winter
 脫毛如動物(飛禽走獸)冬天過後脫毛換季現象
 
@@ -54,7 +54,7 @@ facacido'
 a dragonfly
 蜻蜓
 
-facacnal 
+facacenal 
 a wasp
 黃蜂，胡蜂
 
@@ -201,18 +201,18 @@ to carry a baby tied on one's back
 to piggy back ride
 騎在背上
 
-fafa'ed
+fafaed
 above
 上面，上方
-    o ifafa'eday 
+    o ifafaeday 
     the things that are above
     在上面的(東西)
-=> faled, kafkag, pasifafa'ed
+=> faled, kafkag, pasifafaed
 
-pasifafa'ed 
+pasifafaed 
 directed towards above
 向上(走或看)
-=> fafa'ed
+=> fafaed
 
 fafac 
 a section of bamboo * distance between two joints
@@ -225,17 +225,17 @@ wife
     Get him a wife.
     給他娶妻
 
-fafahian 
+fafahiyan 
 female
 雌性
 woman * women
 女人
-=> masafafahiananay
+=> masafafahiyananay
 
-masafafahiananay 
+masafafahiyananay 
 to act lady-like
 忸怩作態(男人)，行動像女人一樣(男人)
-=> fafahian
+=> fafahiyan
 
 fafaod
 an edible vegetation * Thadiantha punotata
@@ -264,15 +264,15 @@ fafikfik
 gecko
 壁虎
 
-faflin 
+fafelin 
 to turn over when lying down
 翻身
-=> misafafaflin
+=> misafafafelin
 
-misafafaflin 
+misafafafelin 
 to keep turning over / to squirm
 翻來覆去，坐臥難安
-=> faflin
+=> fafelin
 
 fafoget 
 the generic for gnats
@@ -339,7 +339,7 @@ very good * fine
     misafagcal to faloco' 
     to make changes in attitude
     清心，改變態度(往好的方面)，修身養性
-    misafagcal to dmak 
+    misafagcal to demak 
     to do work very well
     把事情做好
 beautiful * very nice
@@ -402,7 +402,7 @@ strange * unexpected
     kafahalan a tamdaw 
     a stranger
     陌生人
-    kafahalan a dmak 
+    kafahalan a demak 
     something that came up suddenly without notice * unexpected
     意料之外的事情
     Talifahal sa ira cigra. 
@@ -419,7 +419,7 @@ to drive out * referring usually to evil spirits
 fahka' 
 surprise * amazement
 驚訝，驚異
-    kafahka'an a dmak 
+    kafahka'an a demak 
     something amazing * biblical term for a miracle
     令人驚奇的事情，聖經上指神蹟
     paka'araw kako 'i, safahka' sa kako. 
@@ -451,7 +451,7 @@ fakar
 large round multi-purpose basket * there are several shapes of fakar
 大型多用途竹籃
 
-fakciw
+fakeciw
 to measure * a meter-length measure
 測量，量長度的尺具
 => ditek
@@ -486,7 +486,7 @@ name of a herb used on broken bones
 name of an Amis village
 花蓮縣豐濱部落之名
 
-faktaw 
+faketaw 
 instrument used by lumbermen to mark trees(from Amoy dialect)
 木匠用來正曲直的墨線(引自閩南語)
 
@@ -494,7 +494,7 @@ fala'
 lungs
 肺臟
 
-fala'fa
+fala^fa
 lukewarm
 微熱的，微溫的 (水)
 => alaf'af
@@ -546,7 +546,7 @@ hide * dried animal skin used for clothing or other purposes
 falalotog
 spider
 蜘蛛
-=> flalotog
+=> felalotog
 
 falat 
 crossbeam in a house
@@ -716,7 +716,7 @@ fat on the belly * middle aged spread
 fana' 
 generic term for knowledge * including understanding what is heard 
 知識之一般用語，智慧，知道，包括聽聞而知的知識
-    Kafana'anto ko dmak nira. 
+    Kafana'anto ko demak nira. 
     What he does is known.
     他的所作所為盡人皆知，他做的行為已經被人知道，東窗事發
     O samafana'ay cigra. 
@@ -875,7 +875,7 @@ cooled off
     Mafasaw ko hmay. 
     The rice is cold.
     冷飯，飯是冷的，飯已冷卻
-    Mafasawto ko kter ako. 
+    Mafasawto ko keter ako. 
     My anger is cooled off.
     我的氣已消了
     Mafasawto ko faloco' ako to saki cigraan. 
@@ -1037,40 +1037,40 @@ fayo'
 to feel hot or dizzy from having chewed betel nut
 嚼檳榔後面紅耳赤
 
-fcacido' 
+facacido' 
 dragonfly
 蜻蜓
 
-fcak 
+fecak 
 cracked * as from the sun
 破裂，裂開(因陽光照射導致泥土龜裂的現象)
-    Mafcak ko sra. 
+    Mafecak ko sra. 
     The ground is cracked.
     地裂開
 
-fcek 
+fecek 
 to have a side ache * as after running
 運動劇烈時身體之兩側感到疼痛如跑步後之感覺
 
-fcol 
+fecol 
 full * satisfied from eating
 飽，足，滿足
 
-fded 
+feded 
 to have a head cold * stopped up nose
 鼻塞
 
-fdi' 
+fedi' 
 for skin to be cracked along the side of the foot * as in winter working outdoors bare foot
 龜裂，凍傷
 
-fdoh 
+fedoh 
 vegetables or potatoes that are old and full of holes
 地瓜或白蘿蔔生長在地上太久而使老化成空心
 the white substance in succulent tree trunks like papaya
 樹幹有白色物體的液汁很像木瓜
 
-fdol 
+fedol 
 endema * to have fluids retained in one's flesh causing swelling
 腫，水腫，分泌液滯留在人體中導致身體的腫脹
 
@@ -1096,7 +1096,7 @@ a measure of rice (from Amoy dialect)
 
 ficin = ficig
 
-fickot 
+ficekot 
 to cramp * double up with pain * have a spasm * convulse
 抽筋，痙攣
 
@@ -1106,7 +1106,7 @@ a broken neck
 a whiplash injury
 因受鞭打而搖晃
 
-fida'olaw 
+fada'olaw 
 Wooly-flowered persimmon tree
 軟毛柿，花蓮阿美稱 (kamaya)
 => kamaya
@@ -1130,7 +1130,7 @@ skin cracked * as from being in cold water
 皮膚病，白癬
 => fodas
 
-fidgal
+fidegal
 evergreen tree * fir * cedar * spruce
 樅樹，杉木，常綠樹，針樅樹
 => fahdil
@@ -1190,7 +1190,7 @@ to be able * possible
     Mafilo iso konini haw?
     Is this thing possible by you? i.e. Can you do it?
     你能做這件事嗎？
-    Pakafilo kiso tonini a dmak? 
+    Pakafilo kiso tonini a demak? 
     Are you able to do this?
     這事你能做嗎？你能勝任這個工作嗎？
 
@@ -1234,7 +1234,7 @@ name of an Amis village
 firag
 anger
 脾氣，生氣，怒火上升
-=> kter
+=> keter
 
 firo 
 to feel trapped
@@ -1302,13 +1302,13 @@ fitili'
 streaks of lightning
 雷電，閃電
 
-fitlak 
+fitelak 
 to split open * as flowers beginning to bloom
 破開，分開，劈開
 to crack open as an egg when a chick hatches
 孵化
 
-fitlok 
+fitelok 
 to have a distended belly
 膨脹(腹部)
 
@@ -1327,7 +1327,7 @@ a thorny species of bamboo
 the largest bamboo poles used as supports for a house
 最大種竹常用來建築房屋
 
-fitro 
+fitero 
 a bloated stomach
 腹部發脹，發脹
 
@@ -1362,33 +1362,33 @@ to blow * of the wind
     The wind blew off my hat.
     我的帽子被風吹掉了
 
-fker 
+feker 
 to cramp * as a leg or neck
 發麻似抽筋，手腳或頸部麻木
 
-fkot 
+fekot 
 to bend one's body * as to hump over double
 彎，屈
-    Mafkot ko tireg nira a mitolon. 
+    Mafekot ko tireg nira a mitolon. 
     He is bent prostrate praying.
     他彎下身體禱告
 
-flac 
+felac 
 milled rice grain
 米
-=> piflacan
+=> pifelacan
 
-piflacan 
+pifelacan 
 a basket for rice that has been milled
 貯放米的籃筐
-=> flac
+=> felac
 
-flalac
+felalac
 quartz * clear semi-transparent rock
 石英，水晶
 => folalac
 
-flaloda'
+felaloda'
 a lizard * gecko
 蜥蜴，四腳蛇
 => kaloda'ay
@@ -1396,34 +1396,34 @@ a lizard * gecko
 
 # p.97
 
-flalonan
+felalonan
 water storage vessel
 水缸
 => ciwkeg
 
-flalotog
+felalotog
 a spider
 蜘蛛
 => falalotog
 
-flat 
+felat 
 to flicker * light appearing and then disappearing * as of a lighted match
 閃光，亮光容然閃亮
 
-flay
+felay
 to fall aprt * crumble as an earthen jar poorly made
 硬塊粉碎，破碎
-=> maflay
+=> mafelay
 
-maflay = flay
+mafelay = felay
 
-flih 
+felih 
 opposite side
 反面
-    Mafaflih ko tilid. 
+    Mafafelih ko tilid. 
     The writing is side by side / or on each side of the page.
     印得顛三倒四
-    Negnegen ko flih noya payci. 
+    Negnegen ko felih noya payci. 
     Look at the other side of that coin.
     請看硬幣的反面
 to oppose * turn around what has been done or said
@@ -1431,7 +1431,7 @@ to oppose * turn around what has been done or said
 a page of a book
 書頁
 
-flin 
+felin 
 to turn over * upside down
 倒翻(如車、船等翻倒的慘劇)
 to change sides as when sleeping
@@ -1439,11 +1439,11 @@ to change sides as when sleeping
 to oppose an activity or message
 反對等種活動或訊息
 
-flot 
+felot 
 to leave suddenly without permission * as when disliking a command
 突然離去，離開，離棄，未經同意(許可)下突然離開
 
-fo'das 
+fo^das 
 dry skin from cold weather
 寒冷季節皮膚乾燥而脫白皮現象
 
@@ -1465,7 +1465,7 @@ focacig
 a betel nut that is not fully developed
 指檳榔樹開花結果的形容詞
 
-focigkay 
+fucigkay 
 women's group in the church (from Japanese)
 婦女會(引自日語)
 
@@ -1658,12 +1658,12 @@ to ignore * pay no attention to
 不注意
 => fokil
 
-fokloh
+fokeloh
 stone * rock * smaller type
 石頭
-=> fakloh
+=> fakeloh
 
-fakloh = fokloh
+fakeloh = fokeloh
 
 fokog 
 name of a species of fish
@@ -1692,7 +1692,7 @@ month
     Masafolad ko nika awa nira. 
     He has been gone a month.
     他已有一個月不在
-    saka ccay a folad 
+    saka cecay a folad 
     January
     一月，第一個月，元月
     saka mo'tep a folad 
@@ -1735,9 +1735,9 @@ to leave the village
 搬離這個村莊，移居他村
 => folaw
 
-foldi 
+foredi 
 a tree
-台灣櫸
+漆樹
 
 foles 
 a plant called Chinese toona * Chinese mahogany
@@ -1777,10 +1777,9 @@ to scare a person
 chickens fighting
 鬥雞
 
-folsak 
+folesak 
 to sow * scatter seed
 撒佈，撒種，播種
-
 
 fonal 
 to crumble
@@ -1824,7 +1823,7 @@ rough surface of ground
 
 # p.101
 
-forsenan
+foresenan
 numb * tingling feeling as when circulation has been cut off
 麻木，失去知覺
     Forsenan ko faloco' no tamdaw. 
@@ -1941,15 +1940,15 @@ foyol
 to push so it sits at an angle * to be about to fall
 推到角落而倒下
 
-fray 
+feray 
 to relax the tension * as a rope
 鬆弛，鬆掉，鬆解(如線索)
 
-friw 
+feriw 
 to begin to blow * of the wind
 風(吹，飛似地跑)
 
-frot 
+ferot 
 to leave stranded * leave behind
 難堪的離去，很為難地離開，未取得在場人們的諒解硬性離開
 
@@ -1957,45 +1956,45 @@ fsir
 gall bladder
 膽囊
 
-fso 
+feso 
 bloated * filled with air * refers to stomach, bread, balloon
 充氣而鼓，指胃、麵包、氣球、飛船
 bladder
 膀胱
-=> cfo
+=> cefo
 
-fsoc 
+fesoc 
 straight
 直直去
-=> pafsoc
+=> pafesoc
 direct * no side track
 直行沒有旁路(沒有分支的路)
 
-ftak
+fetak
 craked * dry * as of soil
 裂開，土面或地表龜裂(指水田無水灌溉經暴晒之後產生龜裂現象)
-=> fcak
+=> fecak
 
-ftas 
+fetas 
 to burst open * blow up with insides coming out
 爆炸，爆破
 to blow up
 爆裂(輪胎等)
 
-ftes 
+fetes 
 to puncture * make small hole as the nose of a water buffalo
 穿孔穿洞(指豬耳，牛鼻等)
 
-ftik
+fetik
 to wet fingers with wine and snap them to the gods
 阿美族喝酒第一杯用食指濺酒滴祭神明
 to pluck strings of a muscial instrument
 撥響樂器的線
-=> ftir
+=> fetir
 
-ftir
+fetir
 to snap fingers * as when touching wine and snapping to the gods
 用食指濺彈酒滴祭祖先及神明
 to pluck at * as strings of a musical instrument
 撥響樂器的絲絃
-=> ftik
+=> fetik

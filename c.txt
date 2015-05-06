@@ -23,55 +23,55 @@ a portable bamboo mat for sitting or sleeping
 
 # p.50
 
-ca'des 
+ca^des 
 to sting as when putting salt on a cut
 擦傷痛，割傷上放鹽的痛楚
-    ca'des ko sowal 
+    ca^des ko sowal 
     words are stern or sting
     他的話很嚴厲，他的話傷人，他的話有刺
-    o saca'desay a dmak no lisin 
+    o saca^desay a demak no lisin 
     the strictest activities of the religion
     宗教 (迷信) 最嚴酷的活動
 
-ca'dog 
+ca'edog 
 covering for the body
 遮蓋身體的衣物
 to put on
 穿，穿上
-=> caca'dogan, cica'dogananay, paca'dog 
+=> caca'edogan, cica'edogananay, paca'edog 
 
-caca'dogan 
+caca'edogan 
 sleeves
 袖子
-=> ca'dog
+=> ca'edog
 
-cica'dogananay 
+cica'edogananay 
 clothing with sleeves
 有袖子的衣服
-=> ca'dog
+=> ca'edog
 
-paca'dog 
+paca'edog 
 to provide clothing or covering
 給予，穿上或蓋上
 to drop yoke on the neck of (an ox)
 將軛套上牛頸
 to put an ornament on someone
 將裝飾品給某人帶上
-=> ca'dog
+=> ca'edog
 
-ca'fas 
+ca'efas 
 for waves to splash over a barrier * fast powerful motion of water
 浪溢出坡堤，水快速而有力的運動
 
-ca'fay 
+ca'efay 
 to put on * drape over the shoulder or shoulders
 披上，懸掛在肩上
 
-ca'fon 
+ca'efon 
 to throw dirt or dust on one's head
 將塵埃或粉末撒在別人的頭上
 
-ca'gar 
+caegar 
 to cross two poles and stand them up
 交叉兩支竿架起來
 to heat food that is cold
@@ -79,11 +79,11 @@ to heat food that is cold
 to cook a plant whole
 番薯或芋頭等塊狀食物不經切割處理即放在鍋上煮
 
-ca'gaw 
+ca'egaw 
 to look up or into the distance
 開眼，眼睛由合而開，注視，眺望
 
-ca'get 
+caeget 
 itch * generic word for
 癢
 
@@ -109,34 +109,34 @@ to be hung up
 
 # p.51
 
-ca'lay 
+ca'elay 
 to use a shoulder strap
 戴上肩帶
 ornamental shoulder cross band worn with tribal costume
 阿美族交叉佩掛在肩上的 裝飾品
-=> paca'lay
+=> paca'elay
 
-paca'lay 
+paca'elay 
 to drape over the shoulder
 披戴在肩上
 
-ca'mot
+ca'emot
 to listen to instruction
 聆聽，領悟(教導或教訓)，吸收
-    Mafana' cigra a mica'mot to sowal. 
+    Mafana' cigra a mica'emot to sowal. 
     He is an attentive listener.
     他聽講的吸收力很強，他是專注的聽眾
-=> ca'not
+=> ca'enot
 
-ca'not
+ca'enot
 to listen * hold in memory
 記憶，記憶力
-    Pakaca'not cigra. 
+    Pakaca'enot cigra. 
     He is able to remember the first time he is told.
     第一次所講的，他都記得很清楚
-=> ca'mot
+=> ca'emot
 
-ca'nto 
+ca'ento 
 a negative meaning "forget about it"
 不做也罷了，算了
 
@@ -192,7 +192,7 @@ to cook
 調理，烹飪
 => cacak
 
-cacaklaw
+cacakelaw
 ringed black and white poisonous snake * no antidote for bite * White Plum Blossom Snake
 雨傘節
 Common Scaled Water Snake * non-poisonous
@@ -206,7 +206,7 @@ Common Scaled Water Snake * non-poisonous
 cacay
 to be alone * no companion
 一，一個，單獨，沒有伙伴
-=> ccay
+=> cecay
 
 cacesces 
 a snake * Chinese cobra * poisonous
@@ -253,7 +253,7 @@ to hold hands out to catch
 to figuratively receive
 象徵性的，寓意性的接受，承受
 
-cadi'ci' 
+cadi^ci' 
 the sting of a wound as when salt touches it
 傷口觸鹽時之陣痛
 heart pain
@@ -564,11 +564,11 @@ to scoop material into basket on the ground as sand or rubbish
 cakil 
 very steep path in the mountains
 險陡小徑
-    Micakli ko rakat niyam. 
+    Micakeli ko rakat niyam. 
     Our path was very steep.
     我們沿著陡峭的小徑走
 
-caklis
+cakelis
 an ax * instrument for chopping
 斧頭
 => timpo
@@ -793,7 +793,7 @@ to temporarily do something
     1. sit down for a few minutes 2. stay in someone's home
     1. 坐下休息片刻 2. 暫住他人家
 
-carkah 
+carekah 
 rough * description of the surface of something scratchy * wiry * to have traction 
 粗燥，形容東西的表面；有牽引力；抓痕，搔痕
 
@@ -856,57 +856,57 @@ cayna
 a basket to carry on shoulder for vegetables (from Amoy dialect)
 菜籃(引自閩南語)
 
-ccay 
+cecay 
 one * the first of in counting
 一，數算的第一，首位
-    Mapakaccayto kako.
+    Mapakacecayto kako.
     I am isolated from the rest / left alone.
     我被孤立, 身影孤單
-=> haccayen, kinaccay, sakaccay, alaccay
+=> hacecayen, kinacecay, sakacecay, alacecay
 
-haccayen 
+hacecayen 
 do (something) to each one
 一件一件做…
-=> ccay
+=> cecay
 
-kinaccay 
+kinacecay 
 one time
 一次
-=> ccay
+=> cecay
 
-sakaccay 
+sakacecay 
 the first one
 第一，頭一次
-=> ccay
+=> cecay
 
-alaccay 
+alacecay 
 one for each
 每人一件，每人一個
-=> ccay
+=> cecay
 
-cda'ah
+cedaah
 groan as when in distress * voiceless letting out of air
 嘆息
 => hodiyak
 
-cdas 
+cedas 
 rushing water as of a fast moving river
 洪水，因雨或颱風所 引發之河水暴漲
 
-cdeg 
+cedeg 
 to do something slowly
 慢慢地做，慢條斯理
 
-cdem 
+cedem 
 sweet tasting
 甜，甘蜜
 good tasting
 好的滋味
 
-cdi 
+cedi 
 power * strength, with literal and figurative meanings
 力量，能力，動力；字面上與寓意上的能力意義兼有
-    Cicdi ko sowal nira. 
+    Cicedi ko sowal nira. 
     He is a forceful speaker.
     他的話強而有力，他義正詞嚴，他的話一針見血
 
@@ -914,7 +914,7 @@ cdo
 to put in water
 放進水中
 
-cdet 
+cedet 
 to burn the skin as when splashed by hot water
 當被熱水潑到那種突熱的感覺
 
@@ -937,67 +937,67 @@ to suck * as a mosquito sucks blood
 
 # p.60
 
-cfag 
+cefag 
 a group * chapter * division of people or things
 羣、章，團，組，班(東西或人的組成單位)
-    Palatoloen nira a pasacfag ko sofitay. 
+    Palatoloen nira a pasacefag ko sofitay. 
     He made the soldiers into three groups.
     他把士兵分成三隊
-=> masacfacfag
+=> masacfacefag
 
-masacfacfag 
+masacfacefag 
 in the state of being grouped into groups
 一團一團，構成一團一團(一羣一羣)的狀態
-=> cfag
+=> cefag
 
-cfis 
+cefis 
 to snatch something held by another from his hands
 搶奪，掠取
 
-cfo 
+cefo 
 bladder * container for urine
 膀胱
-    Macfo ko wawa ako. 
+    Macefo ko wawa ako. 
     My child bed-wets.
     我的孩子尿床
 
-cfog 
+cefog 
 to dip into * as vegetables into boiling water
 浸泡(如蔬菜放入滾開水中)
-    Pacfogen ko wawa i pitilidan. 
+    Pacefogen ko wawa i pitilidan. 
     Enter the child into school.
     讓小孩入學吧!
 
-cfos 
+cefos 
 to splash liquid or water on something 
 潑，澆，灑，撒液體或水在東西上面的動作
 
-cgaw 
+cegaw 
 to open * of one who has been sleeping and opens eyes
 從睡夢中睜開眼睛看
-    macgaw ko faloco' 
+    macegaw ko faloco' 
     awareness * of heart attitude
     心門開竅，覺醒，醒悟
 
-cgel 
+cegel 
 color
 顏色
 contamination
 汙染
 
-micgel 
+micegel 
 to paint
 著色，染色
 to contaminate
 污染，弄髒， 弄污
 
-macgel 
+macegel 
 to be painted * dyed
 被著了顏色
 to be contaminated
 被污染，被弄髒，被弄污
 
-cgo' 
+cego' 
 tender shoots on a vegetation
 芽，嫩芽
 
@@ -1038,7 +1038,7 @@ to diverge from the main path * go off main trail
 ci'keg
 a large water vessel for storing water
 水缸，大的儲水器
-=> ciyokeg, talafinan, flalonan
+=> ciyokeg, talafinan, felalonan
 
 ci'lis 
 the amount of pitch to the placement of something * angle
@@ -1138,7 +1138,7 @@ to have a lot of small bamboo trees of the species of folo'
 the name of a village * many bamboo trees grew there
 花蓮縣壽豐鄉崩崁部落名
 
-cifrag
+ciferag
 to perspire * perspiration
 悶熱，出汗
 => sinoet, ifagat
@@ -1150,12 +1150,12 @@ to look up responding to hearing
     to look back and forth at each other
     [因聽到聲音而]東張西望彼此相視
 
-cigaroan
+cigaloan
 the name of an Amis village * the Amis name of Fenglin
 花蓮縣鳳林鎮鳳信部落名
-=> Cigaroan
+=> Cigaloan
 
-Cigaroan = cigaroan
+Cigaloan = cigaloan
 
 cigcig 
 to change land boundary to add to one own's property
@@ -1164,7 +1164,7 @@ to change land boundary to add to one own's property
 cigdis
 to bare ones teeth as a dog does
 露出牙齒(如狗)
-=> gocdis
+=> gocedis
 
 cigki 
 to become related through marriage of children to each other * the fathers of each couple (from Amoy dialect)
@@ -1189,10 +1189,10 @@ cihak
 the name of a tree
 樹名(阿美族有時剝其皮當檳榔的的替代品來嚼)
 
-cihrag 
+ciherag 
 to be honored
 受尊重，敬重
-=> kacihragan
+=> kaciheragan
 
 cikadaan 
 Kada is the name of a person kada
@@ -1529,22 +1529,22 @@ ciyor
 to follow a pattern marked on cloth or paper or wood and cut out
 順著劃線切割布料、紙張或木板的動作
 
-cka 
+ceka 
 thorns * stickers
 刺，荊棘
 
-ckad 
+cekad 
 to be awakened from sleep
 從睡夢中驚醒
 
-ckah
+cekah
 a person virginity
 最初的性經驗
 the first time to experience a person or thing
 第一次的經驗
-=> ckad
+=> cekad
 
-ckel 
+cekel 
 to bow the head * as when expressing respect
 點頭表示尊敬
 to look down as at the ground
@@ -1555,81 +1555,81 @@ to bowheads *of heavy rice heads
 
 # p.66
 
-ckem 
+cekem 
 sharp pain caused by either moving body or something sharp piercing skin
 刺痛，因活動或某種尖銳的東西刺穿皮膚的刺痛
-    Sackeckem sa ko adada ako. 
+    Sacekecekem sa ko adada ako. 
     I have a sharp pain.
     我的病像針刺似地一陣陣痛
 
-cker
+ceker
 [No English]
 [無漢語解釋]
-=> sacker
+=> saceker
 
-sacker 
+saceker 
 the webbing * support system frame used for support
 支架，支撐系統，用以支持的架構
-=> cker
+=> ceker
 
-ckid 
+cekid 
 [No English]
 [無漢語解釋]
-=> mackid
+=> macekid
 
-mackid
+macekid
 to be scared by a noise
 被聲音(吵雜聲)所驚嚇
-=> ckid
+=> cekid
 
-ckig 
+cekig 
 Siganus puellus or Zebrasoma veliferum * a species of fish
 魚的一種名稱，臭肚仔
 
-ckil 
+cekil 
 to take off guard * to suddenly be moved upon
 突然受驚或被感動
-    Mapackil no Fagcalay 'Adigo kako. 
+    Mapacekil no Fagcalay 'Adigo kako. 
     I am inspired by the Holy Spirit.
     我被聖靈感動
-    Mackil ko cikawasay. 
+    Macekil ko cikawasay. 
     The medium is aroused by possession by a spirit.
     巫師被精靈激發
-    Mackil ko wawa. 
+    Macekil ko wawa. 
     The child is suddenly awakened and so cries.
     小孩突然被驚嚇而哭起來
 
-ckiw 
+cekiw 
 something stuck on or inside
 泛指黏附在上面或裏面的東西
 sea snails found on rocks
 黏附在岩石上的海螺
-=> mickiw
+=> micekiw
 
-mickiw
+micekiw
 to hunt for snails
 摘黏附在岩石上的海螺
 to dig out something as a thorn in one's flesh
 從肌肉內(身體任何部位)挖刺出來
 => misadipit
 
-ckok 
+cekok 
 taken off guard or surprised
 驚懼，受驚，驚訝
 to be alarmed
 警告，告誡
-=> packok
+=> pacekok
 
-packok 
+pacekok 
 to cause someone to be taken totally unawares
 嚇人，在別人毫無警戒的狀態下突然作出令人驚嚇的舉動
 
-ckor 
+cekor 
 to look down upon a scene from a high place
 從高處往下看，居高臨下，眺望，瞭望
 => pikcoran
 
-ckos 
+cekos 
 bent over and broken as rice grain standing in the field that has not been harvested
 折垂的稻穗
 to return * as to go back and get something
@@ -1640,89 +1640,89 @@ a spool made of bamboo on which string is wound forweaving
 
 # p.67
 
-ckroh 
+cokeroh 
 to push literally
 字面上的推
 to push figuratively
 喻意上的推
 
-clahad 
+celahad 
 an act of a medium to blow out water in ritual activity
 巫師在儀式上噴水的舉動
 
-clak 
+celak 
 to open up * bloom
 攤開，開花
 
-clalono 
+celalono 
 the name of a species of birds that belong to the duck family
 尖屋鴨，小水鴨，小鸊鷉
 
-cled 
+celed 
 a bundle of rice
 一束稻穗
 
-clem 
+celem 
 to sink into
 潛水
-    Miclem ko cidal. 
+    Micelem ko cidal. 
     The sun is setting.
     日落，太陽下山
-    miclem i nanom 
+    micelem i nanom 
     to dive into the water
     潛水
-    piclemanto no cidal 
+    picelemanto no cidal 
     at sunset
     日落時分，黃昏
-    Tahaclem ko tayal ako. 
+    Tahacelem ko tayal ako. 
     My work continues to the end of the day.
     我(的工作)日落而息
 
-cli' 
+celi' 
 to scream
 大聲喊叫，大聲責備人
 
-clog 
+celog 
 a tree
 南洋杉
 
-cmahad 
+cemahad 
 prosperous * prosperity
 增長，發展，擴大，繁榮
 
-cmet 
+cemet 
 an interval of sleep
 短暫歇息，小睡一會兒
-    Pacmet cigra a mafoti'. 
+    Pacemet cigra a mafoti'. 
     He took a nap.
     他稍躺一會兒
 
-cna' 
+cena' 
 to rest for a short period
 休息一會兒，短暫休息，暫時
-=> pacna', sacnacna'
+=> pacena', sacnacena'
 
-pacna' 
+pacena' 
 to take a short break
 歇一會兒
-=> cna'
+=> cena'
 
-sacnacna' 
+sacnacena' 
 to do something at irregular intervals
 做事斷斷續續
-=> cna'
+=> cena'
 
-cno' 
+ceno' 
 to dip oneself * to immerse in liquid
 沾入水中，浸入水中
-=> pacno'
+=> paceno'
 
-pacno' 
+paceno' 
 to dip or immerse something in liquid
 把東西弄濕或浸入水中
-=> cno'
+=> ceno'
 
-cnon 
+cenon 
 fear from experience * thus refusing to approach or do something 
 因噎廢食，從一次失敗的經驗而不敢再做同樣的事情
 
@@ -1786,7 +1786,7 @@ to sip up (water) * to drink by slurping at the source
 伏在水面直接用嘴啜飲
 => ci'ep
 
-co'ig 
+co^ig 
 a apecies of lake fish
 淡水魚的一種
 
@@ -1806,21 +1806,21 @@ upside down to each other * backwards
     他的話顛三倒四，他的話語無倫次
 => co'is
 
-co'koy 
+co'ekoy 
 to have head down * bowed
 垂頭
 
-co'nek 
+coenek 
 to force something in between two objects tightly joined
 在兩物件中硬插東西
-=> paco'nek
+=> pacoenek
 to go aground * as of a ship
 擱淺(如船)
 
-paco'nek 
+pacoenek 
 to put inside
 插入，插枝
-=> co'nek
+=> coenek
 
 co'og 
 bud
@@ -1836,7 +1836,7 @@ co'os
 greedy about eating or consuming something that he did not work to get
 貪婪，好吃
 
-co'rog 
+coerog 
 to stand end on end * as firewood
 一捆捆柴火倒立排放儲藏
 
@@ -1918,18 +1918,18 @@ cofel
 knife or machete holder
 刀鞘
 
-coflis 
+cofelis 
 to return * receive back
 回(信)答謝，回禮，回敬
-    pacoflis to tikami 
+    pacofelis to tikami 
     return a letter
     回信
-=> macacoflis
+=> macacofelis
 
-macacoflis 
+macacofelis 
 pass each other * as vehicles on the road
 交會，交錯(如車子在路上交會)
-=> coflis
+=> cofelis
 
 cogacog
 to come without invitation * no embarrassment in doing something
@@ -2157,14 +2157,14 @@ to suck * as the activity of a mosquito to suck blood
 吸，咂，如蚊子之吸血
 => cepcep
 
-coplak 
+copelak 
 astringent * a feeling in the mouth of puckering
 嘴有澀味(吃水草時)
-    macoplakay ko sowal 
+    macopelakay ko sowal 
     figuratively: speech is unacceptable
     在喻上: 所說的話無法接受
 
-coplis 
+copelis 
 to spray water out of the mouth as when dampening something
 當弄濕東西時用嘴巴噴水的舉動
 animistic practiceinvolving driving out spirits
@@ -2182,7 +2182,7 @@ name of an Amis village located near an embankment
 
 Copo = copo
 
-copras 
+coperas 
 to feel good and firm in the mouth, as sweet potatoes cooked just right and not mushy
 味道佳酥，如地瓜煮後之味道，但不易嚥下
 
@@ -2258,7 +2258,7 @@ to relieve oneself of responsibility
 corok 
 each in turn
 輪流, 輪番
-    micorok to kahaccaccay a loma' 
+    micorok to kahaccacecay a loma' 
     to go to each home
     挨家挨戶
 => macacorocorok
@@ -2317,46 +2317,46 @@ original meaning was someone sent by the elders
 biblical usage - angels
 聖經的用法 - 天使
 
-cpa'
+cepa'
 wet * damp
 濕，弄濕，潮濕
 => sger, 'opic
 
-cpapal 
+cepapal 
 ripped apart * of clothing
 扯裂，割裂(布或衣物)
 
-cpet 
+cepet 
 to squeese or wring out
 榨取(果汁)或扭乾(濕衣物)
 
-cpi' 
+cepi' 
 hip * thigh
 大腿
 
-cpo 
+cepo 
 the bark of Indian Rubber Tree
 印度橡樹
-    micpo' 
+    micepo' 
     to remove the bark
     取榕樹皮切成碎片
 
-cpo' 
+cepo' 
 the end of
 尾末(水流的末端)
-    O cpo' no kegkeg konini. 
+    O cepo' no kegkeg konini. 
     This is the end of the ditch.
     這是水圳的末端
 the lowest place in a stream
 漁網之竹架放於河流最下游的地方
-=> pacpo'an
+=> pacepo'an
 
-pacpo'an 
+pacepo'an 
 a frame on which is attached a fish dam * a place where fish gather to be caught in traps
 捕漁時之漁網竹架，漁網竹架放置在河流之最下游，使被捕之魚滙集在一起
-=> cpo'
+=> cepo'
 
-cra' 
+cera' 
 to be bored
 膩，厭膩，厭煩
 => sga
@@ -2367,17 +2367,17 @@ to dislike
 to be fed up with
 吃膩
 
-crar
+cerar
 to landslide * cave in
 泥土，土牆，洞穴等崩坍
 => prar
 
-cred
+cered
 person in same age group
 同年齡階段的成員
 => slal
 
-crig 
+cerig 
 a fence type dam to keep fish in an area so they will get into a trap * made of bamboo and string
 用竹片編製來圍捕魚類的用具，漁簾
 
@@ -2385,7 +2385,7 @@ crnoh
 for body hair or fur to stand on end
 毛骨悚然，毛髮直立
 
-croh 
+ceroh 
 to add water
 加添水量
 to suck out
@@ -2393,7 +2393,7 @@ to suck out
 the name of an Amis village
 春日部落名
 
-cror 
+ceror 
 to take the place of * of work * position of leadership or responsibility
 取代，取代某人的工作或領袖的地位，責任
 

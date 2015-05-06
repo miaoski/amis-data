@@ -37,7 +37,7 @@ soft * light
 => ka'ped
 easy to manage
 容易管理，操縱，掌握，控制
-    misaka'med to dmak 
+    misaka'med to demak 
     do something the easy way
     以簡單的方法做事情
     ka'med ko 'aca 
@@ -124,7 +124,7 @@ kacidalay
 an insect * praying mantis
 螳螂
 
-kacihragan 
+kaciheragan 
 summertime
 夏天
 
@@ -329,7 +329,7 @@ related to
     We are related * have a relationship to Jesus.
     我們和耶穌相連
 
-kaflaw
+kafelaw
 to be without taste
 沒味道，淡淡的
 => afsa', kafsa'
@@ -366,7 +366,7 @@ tasteless * as something without salt
     說話無趣，索然無味
 => afsa'
 
-kafso 
+kafeso 
 to be hollow * as the inside of a balloon
 中空的，空的
     kafosay a knaw 
@@ -731,7 +731,7 @@ Kalala = kalala
 kalamkam
 soon * quickly
 迅速，立刻
-    Kalamkamen ko dmak. 
+    Kalamkamen ko demak. 
     Do the activity quickly.
     動作要迅速敏捷
 => kaliki
@@ -1623,7 +1623,7 @@ gods * spirits * super-natural beings
     palakawakawasen ako ko nika somowal. 
     I spoke in riddles.
     我說似謎的話
-    palakawas to fokloh 
+    palakawas to fokeloh 
     make the stone a god
     尊石頭為神
 ghosts
@@ -1660,7 +1660,7 @@ a handle for a hoe * spear * etc.
 kawili 
 left * as opposed to right
 左邊
-    masakawiliay ko dmak 
+    masakawiliay ko demak 
     to be out of step * awkward
     動作笨拙不敏捷
 
@@ -1766,7 +1766,7 @@ to look down from above
 pikcoran 
 viewpoint to look on a scene
 守望台，瞭望台
-=> ckor, kcor
+=> cekor, kecor
 
 kdal 
 drought
@@ -2006,7 +2006,7 @@ relate to * relationship
     Awaay ko kihar ako. 
     I have no involvement with ...
     和我無關，我沒有責任
-    Mikihar kako toya dmak. 
+    Mikihar kako toya demak. 
     I related to (became involved) in that affair.
     我牽涉到此事物
 
@@ -2225,7 +2225,7 @@ to ask oneself * a question
 kinih 
 to lay aside from the rest
 偏見
-    misakakinih to dmak 
+    misakakinih to demak 
     to be unfair * show partiality
     做事不公正，對事有偏袒，偏頗
     makakinih ko pitli 
@@ -2682,7 +2682,7 @@ small through the stomach from front to back * slender
 kofaw 
 kitchen
 廚房
-=> dmi'
+=> demi'
 
 kofel 
 wrinkled skin of an older person
@@ -3270,7 +3270,7 @@ that which is ruled
 kowat 
 to measure by long strides
 以大步測量，測量長距離
-    ccay a kowat 
+    cecay a kowat 
     a length of four strides
     四大步的長度
     tosa a kasakowat 
@@ -3489,13 +3489,13 @@ to be stubborn or angry or in a hurry as expressed in the set of the teeth and m
 to bite an object with teeth
 咬，啃
 
-kter
+keter
 anger
 生氣，憤怒
-    Kakteren nira kako. 
+    Kaketeren nira kako. 
     He rebuked me.
     他譴責非難我，他責備我
-    Makter cigra. 
+    Maketer cigra. 
     He is angry.
     他在生氣
 => firag, po'i, iget

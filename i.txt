@@ -91,9 +91,9 @@ an exclamation marker expressing a reaction to something either good or bad
 ikor 
 after * behind 
 之後，以後
-=> naikoran, naniaykor, talarikor, iikor
+=> naikoran, naniaikor, talarikor, iikor
 
-naniaykor 
+naniaikor 
 from the back (moving towards)
 從後面，從背後
 => ikor

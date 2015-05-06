@@ -138,7 +138,7 @@ to not tell the truth
     Aka pacfa to sowal.
     Don't talk off the top of your head / make up a story.
     不要隨便說話
-    Pacfa ko dmak nira.
+    Pacfa ko demak nira.
     He did the thing altogether incorrectly leaving trouble behind him.
     胡作非為
 => patras
@@ -176,26 +176,26 @@ pacilit
 a species of birds including the Pied Wagtail and Gray Wagtail
 白[春鳥]鴿，灰[春鳥]鴿
 
-packil
+pacekil
 to come upon in visitation
 來訪
-    Mapackil no 'afag nira koya cikawasay.
+    Mapacekil no 'afag nira koya cikawasay.
     The medium was visited upon by his spiritual power (spirit).
     魔靈附在某人身上
 to move upon * inspire
 鼓舞，激勵，感動
-    Mapackil no Fagcalay ' Adigo ko mitiliday to Fagcalay a Codad.
+    Mapacekil no Fagcalay ' Adigo ko mitiliday to Fagcalay a Codad.
     The writers of the Bible were inspired by the Holy Spirit.
     聖經的著者被聖靈所默示
 
-packis
+pacekis
 tusks of an animal
 動物的尖牙，獠牙
 the claw above the foot on a chicken
 公雞的腳爪
 eye teeth
 犬齒
-    packis no wadis
+    pacekis no wadis
     eye teeth
     門牙，犬齒，獠牙
 => ra'it
@@ -245,7 +245,7 @@ to help * assist
     Mamaan mapapadag kita to tayal.
     How about us helping each other with the work?
     我們可否相互幫忙？
-    Mapapadapadag kita a mickroh.
+    Mapapadapadag kita a micokeroh.
     Let's all help push.
     讓我們用心協力來推
 
@@ -356,34 +356,34 @@ paen
 an edible wild vegetation * bitter
 可看之野生植物有苦味
 
-pafli
+pafeli
 to give
 給予，贈給
     Paflien kami to riko'.
     Give me some clothes.
     請分衣服給我們
-    o pafliay
+    o pafeliay
     the ones who give
     施捨者，贈予者，給予的人
-    O sapafli nira konini.
+    O sapafeli nira konini.
     This is his gift.
     這是他的贈品
-    Papipaflien nira kako to riko'.
+    Papipafelien nira kako to riko'.
     Make him give me some clothes.
     託他人把衣服拿給我
-    O halipafliay cigra.
+    O halipafeliay cigra.
     He is a generous giver.
     他是很慷慨的人
 
-pafsoc
+pafesoc
 straight ahead * directly ahead * without distraction
 直接，直達，直直走
-    Pafsoc ko rakat nira.
+    Pafesoc ko rakat nira.
     He went straight ahead / did not stop along the way.
     他直接去了，不作任何停留
 to go straight ahead without making turns
 直直走
-=> fsoc
+=> fesoc
 
 paga
 penis * male sexual organ
@@ -456,7 +456,7 @@ to do something for the last time
     paikor to sowal
     give a farewell message
     臨終前說遺言
-    paikor to dmak
+    paikor to demak
     to do something for the last time
     做最後的事情，臨行前或臨終前做最後交代
     paikor a pakaen
@@ -507,7 +507,7 @@ through * by way of
     透過那個人，來說這件事
 concerning * with reference to
 關於，參照如下
-    Awaay ko sowal nira to pakayniay tonini a dmak.
+    Awaay ko sowal nira to pakayniay tonini a demak.
     He didn't say anything about this matter.
     他沒有交待有關這件事情
 
@@ -517,7 +517,7 @@ concerning * with reference to
 pakayra
 by that means
 通過那個手段
-    O fa'lohay a pakayraan konini.
+    O fa^lohay a pakayraan konini.
     1. This is a new method.  2. This is a new religion.
     1. 這是新辦法  2. 這是新的宗教
 through that way
@@ -525,7 +525,7 @@ through that way
     Pakayra kita a romakat.
     Let's walk that way.
     我們從那一條路走
-    Pakayra tora dmak a masalof cigra.
+    Pakayra tora demak a masalof cigra.
     Through that event he was corrected.
     通過那件事，使他回心轉意 (改正)
     Awaay ko pakayraan ita.
@@ -586,10 +586,10 @@ to change someone's message with intent to mislead the hearer
 pakokot
 to accuse * to make a charge against * with reference to actions
 控訴，控告，打小報告，誹謗，說壞話
-    O papakokoten ko dmak noya tamdaw.
+    O papakokoten ko demak noya tamdaw.
     An accusation must be made against the acts of that person.
     那個人的行為勢必應該被控告
-    Aka pacfa a pakokot to dmak no sigsi.
+    Aka pacfa a pakokot to demak no sigsi.
     Don't accuse without clear evidence the acts of a teacher.
     沒有證據不要隨便告發老師的行為
 
@@ -602,7 +602,7 @@ to leave on ones own * to let go * assuming no responsibility for but giving fre
     Pakonira aka haenen ko wawa a papisalama.
     Don't let children / a child go play without supervision.
     不要放任小孩子玩耍
-    Tada mapakoniraay ko dmak nira.
+    Tada mapakoniraay ko demak nira.
     He is too much on his own / without accountability.
     他的行為太任性了
 let do by oneself * not interfere with * not be involved in
@@ -971,7 +971,7 @@ to do for the last time
     parikor to sowal
     to make a farewell speech
     告別辭
-    parikor to dmak
+    parikor to demak
     to help with some activity for the last time (before leaving)
     臨行前對一些活動，做最後的交代與協助
     parikor a pakaen
@@ -1056,7 +1056,7 @@ to improvise * do something temporarily
     pasamo to sowal
     give the gist of the matter in words
     說要點，即興略說事情的要旨
-    Pasamoen ita ko dmak anini.
+    Pasamoen ita ko demak anini.
     For now let's improvise.
     今天讓我們即興而作以表敬意
 
@@ -1162,7 +1162,7 @@ to reveal
 公開，顯示
 confess * reveal
 承認，認罪，自認，啓示，告別
-    Mapatalahkalto koya dmak
+    Mapatalahkalto koya demak
     The thing is revealed.
     事情已經被公開了
     Patalahkalto ko raraw iso.
@@ -1225,7 +1225,7 @@ to go to extreme limits to do something
 patdo
 to do something in a way that is contrary to rules or guidelines
 做違犯規則與指導原則的事情
-    Aka patdo to dmak.
+    Aka patdo to demak.
     Don't do things without regard for principle.
     不要任意做違犯原則的事情
     Patdo sa ko sowal nira.
@@ -1347,7 +1347,7 @@ to hand over responsibility for
     O pipatorodan a romi'ad anini.
     This is the day that the responsibility changes hands.
     今天是交負重任的日期
-    O papatoroden ako i tisowanan konini a dmak.
+    O papatoroden ako i tisowanan konini a demak.
     I must turn over this matter to you.
     這件事情我要交託給你去做
 
@@ -1533,7 +1533,7 @@ to break with only one piece missing (Hualien)
 破缺一塊 (花蓮語)
 to divide and share * as for example food or land
 擘開食 物分享給別人，分一塊給人
-    Mapapci' to flyaw namo to ccay a siri.
+    Mapapci' to flyaw namo to cecay a siri.
     Divide with your neighbors one sheep.
     與你鄰居平分一隻羊
 => pcih
@@ -1963,7 +1963,7 @@ domestic animals
 pinag
 sign * evidence * clue
 符號, 證據, 線索
-    Awaay ko pinag to dmak nira.
+    Awaay ko pinag to demak nira.
     It is impossible to figure out what he is doing.
     無法了解他到底在做什麼
     Cipinagto kako anini a miharateg.
@@ -2199,7 +2199,7 @@ to be angry
     O maan ko kapo'ian iso takowanan?
     What are you angry with me about?
     你對我生什麼氣?
-=> kter, firag
+=> keter, firag
 
 po'lac
 to get to the bottom of something * to expose * deal with
@@ -2207,7 +2207,7 @@ to get to the bottom of something * to expose * deal with
     Po'lacen ko sowal.
     Speak to issue.
     請詳細說明，請說清楚
-    Mapo'lacto anini koya dmak.
+    Mapo'lacto anini koya demak.
     The matter has been exposed now.
     那件事情已經查出來了，已水落石出了
 

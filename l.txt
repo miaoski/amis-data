@@ -83,7 +83,7 @@ to cross over a body of water or a stream
 to moon lite * have a side job
 兼職，兼差
 
-laccay 
+lacecay 
 united * of one accord
 一致，合作，統一
 
@@ -575,10 +575,10 @@ to measure with a measuring tape or with outstretched arms
 lalen 
 the same, as in quality or ability or size 
 一樣，如質或能力或形狀一樣
-    Palalenen ko dmak. 
+    Palalenen ko demak. 
     Treat everyone or everything the same (impartial treatment).
     平等相得，一視同仁
-    Malalen ko dmak nira. 
+    Malalen ko demak nira. 
     There is no discrepancy in his actions.
     他的做法有矛盾
 
@@ -1013,7 +1013,7 @@ face * a part of the body
 臉部，容貌
 => pisig
 
-lawdgan 
+lawdegan 
 the dark side of the moon
 月亮沒有出現使大地籠罩黑暗
 deep darkness as the inside of a cave
@@ -1076,10 +1076,10 @@ the same * alike
     Malcad ko riko' ita. 
     We have the same kind of clothes.
     我們衣服裝扮相似
-    Milcad cigra to dmak ako. 
+    Milcad cigra to demak ako. 
     He imitated what I did.
     他模仿我的做法
-    Palcaden ita ko dmak. 
+    Palcaden ita ko demak. 
     Let's do the activity the same way.
     讓我們做的事情相同
     Malcalcad ko tayal ita. 
@@ -1495,7 +1495,7 @@ troublesome * to be bothered * referring to an activity
     Malifot kako. 
     It is too much bother for me.
     我深覺麻煩
-    O kalifotan ko matiraay a dmak. 
+    O kalifotan ko matiraay a demak. 
     That kind of activity is too much bother.
     那種事是最麻煩的
 
@@ -1578,7 +1578,7 @@ gossip * news * rumor
     O ga'ayay ko lihaf a tamdaw 
     A person of good reputation 
     有好名聲之人
-    Aka palihafen konini a dmak. 
+    Aka palihafen konini a demak. 
     Don't tell anyone this matter.
     不要把事情傳出去或告訴別人
 
@@ -1659,7 +1659,7 @@ one's share out of many
     Malalikelikel kita. 
     All of us have our share.
     我們全部平均分配
-    Palikelen cigra to ccay. 
+    Palikelen cigra to cecay. 
     Give him one (the giver has more than one).
     分給他一份
 
@@ -1910,7 +1910,7 @@ to plan and wait hoping to deceive with intent to destroy
 lipay
 worship
 禮拜，敬拜
-    saka ccay no lipay 
+    saka cecay no lipay 
     the first day after worship - Monday
     拜後之第一天，星期一
 => lihay, pilipayan
@@ -2005,7 +2005,7 @@ for a crowd to gather around a single individual or thing
 liteg
 old * referring to man only
 長者，老人，長輩
-    no litegho a dmak 
+    no litegho a demak 
     affairs related to ancestors * former life style
     古代的事，古代的生活方式
 => to'as, malitegay, mato'asay
@@ -2133,7 +2133,7 @@ again
 重覆
 do again
 重做，再做
-    Saliyaliyawen ko dmak. 
+    Saliyaliyawen ko demak. 
     Do the activity over and over.
     做事情要重覆審慎地做
     Liyawen 
@@ -2832,7 +2832,7 @@ to find someone committing an act in the act
 恰遇
 to catch up with
 趕上
-    Maltep ako ko dmak nira. 
+    Maltep ako ko demak nira. 
     I overtook him in what he was doing (redoing the wrong direction of his acts).
     我追上他所作的工作，我趕上他所做的
 => takop
