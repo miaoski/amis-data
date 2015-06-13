@@ -9,50 +9,50 @@ ka'ka'
 to roar with laughter
 呵呵大笑
 
-ka'mag 
+kaemag 
 young * childhood 
 年輕，小孩
-    i ka'maganho 
+    i kaemagan ho 
     during one's youth
     小時候，孩提時，年輕時
-=> ka'magay
+=> kaemagay
 
-ka'magay 
+kaemagay 
 children * youngster
 孩童，年輕人
-=> ka'mag
+=> kaemag
 
-ka'mahay 
+kaemahay 
 oxen of Taiwan
 台灣黃牛
 milk cows
 乳牛
 
-ka'med 
+kaemed 
 soft * light
 輕軟
-    ka'med ko faloco' 
+    kaemed ko faloco' 
     responsive heart
     心軟，易感動
-=> ka'ped
+=> kaeped
 easy to manage
 容易管理，操縱，掌握，控制
-    misaka'med to demak 
+    misakaemed to demak 
     do something the easy way
     以簡單的方法做事情
-    ka'med ko 'aca 
+    kaemed ko 'aca 
     cheap price
     價格便宜，廉價的
 
-ka'mi'
+kaemi'
 flexible * moveable 
 很軟，具伸縮性，可移動的
-    ka'mi ko faloco' 
+    kaemi ko faloco' 
     responsive * agreeable * tender
     心軟，易感動，親切宜人的，和藹可親的
 => ko'mi'
 
-ka'nih 
+kaenih  
 the urge to have a bowel movement
 內急(想排便)
 
@@ -61,41 +61,41 @@ a bird called Common Kingfisher
 翠鳥 (俗名魚狗)
 => kado'egay
 
-ka'ped 
+kaeped 
 soft * light * with literal and abstract meanings 
 柔軟，包含柔軟此字的寬大和抽象意義
-    ka'ped ko sowal 
+    kaeped ko sowal 
     to be soft-spoken
     說話很溫柔
-    ka'ped ko kamaro'an 
+    kaeped ko kamaro'an 
     soft place to sit
     椅墊柔軟，座椅柔軟
-    ka'ped ko sra 
+    kaeped ko sra 
     ground is easy to work
     泥土鬆軟易於翻鋤
 
-ka'red 
+kaered 
 hand-rolled string made from a plant
 打繩子, 拈線, 捻繩，結繩
-=> mika'red
+=> mikaered
 
-mika'red 
+mikaered 
 to make string
 做繩子
 
-ka'so' 
+ka^so’ 
 delicious * good tasting
 好吃，美味可口，味道佳美
-    sapaka'so'an
+    sapaka^so’an
     looks good tasting 
     看起來好像很可口的樣子
 
 
 # p.125
 
-ka'tohay 
-a wine bottle
-酒瓶
+ka^tohay 
+a large wine bottle
+大酒瓶(四升裝一瓶者)
 
 kacaw 
 to watch the village from the village tower
@@ -332,7 +332,7 @@ related to
 kafelaw
 to be without taste
 沒味道，淡淡的
-=> afsa', kafsa'
+=> afsa', kafesa'
 
 kafog 
 hat * anything worn on the head
@@ -358,10 +358,10 @@ kafos
 a species of fish
 特別的一種魚
 
-kafsa'
+kafesa'
 tasteless * as something without salt 
 無味，淡淡無味(未加鹽)，鹹味不足
-    kafsa' ko sowal 
+    kafesa' ko sowal 
     speech is not interesting
     說話無趣，索然無味
 => afsa'
@@ -369,7 +369,7 @@ tasteless * as something without salt
 kafeso 
 to be hollow * as the inside of a balloon
 中空的，空的
-    kafosay a knaw 
+    kafesoay a kenaw
     the green tops of round onions * with hollowed out stalks
     洋蔥
 
@@ -408,7 +408,7 @@ field to be plowed
 要耕之田
 => kagkag
 
-kagkofo 
+kagkofu 
 nurse (from Japanese)
 護士(引自日語)
 
@@ -493,7 +493,7 @@ instrument for threshing
 kahot 
 to take in one's hands * a handful
 用手抓取，拿東西
-    mikahot to hmay 
+    mikahot to hemay 
     to eat rice with one's hands (the former life style of Amis)
     用手抓飯 (古時阿美族吃飯的習慣)
 
@@ -522,7 +522,7 @@ brothers and sisters belonging to eachother
 
 # p.129
 
-ikakaay 
+i kakaay 
 superior to
 超越勝過
 older than
@@ -2518,7 +2518,7 @@ thread, the plant from which string or thread is made * China Grass
 線 (亞麻) 
 Ramie (Boehmeria frutescens)
 青苧麻
-=> hanakliw
+=> hanakeliw
 
 klog
 a resounding noise as to hear a door being closed
