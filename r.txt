@@ -321,7 +321,7 @@ mate * spouse for humans
     今天是孩子結婚日子
 to select pairs * as of animals
 配對，如動物
-    Pito a kasaramoramod no kahirahira no ma'feray a 'ayam ko maalaay ni Nowa.
+    Pito a kasaramoramod no kahirahira no maeferay a 'ayam ko maalaay ni Nowa.
     Nowa took seven pairs of all kinds of birds.
     挪亞帶七對各種鳥類進來
 to put side by side with another
@@ -941,7 +941,7 @@ a shield for use in battle
 safa
 younger
 年青人
-    O safa iso ko mihcaan ako.
+    O safa iso ko mihecaan ako.
     I am younger than you.
     我年齡比你小
 younger brother or sister
@@ -1389,7 +1389,7 @@ how? * how to do?
     我們如何做這份工作呢？
 method to do
 怎麼做
-    Ma'deg samaanen. Awaay ko lalan ita.
+    Maedeg samaanen. Awaay ko lalan ita.
     There is nothing that can be done about it. We have no way.
     無可奈何！我們沒有辦法可行
 => maanen, maan
@@ -2116,7 +2116,7 @@ si'ed
 to choke * to have food get caught in windpipe * to aspirate
 咳(以將食物吐出)，卡在喉中，吐氣
 
-si'ked
+sieked
 for each to have its own place or order or arrangement
 各得其所，分門別類，妥善安排
     Masasi'ike'iked ko aro' no finawlan.
@@ -2904,15 +2904,15 @@ so'aw
 to be thirsty
 口渴
 
-so'da
+so^da
 ice * snow
 冰雪
-=> solda, malaso'da
+=> solda, malaso^da
 
-malaso'da
+malaso^da
 to freeze * become ice
 變成冰
-=> so'da
+=> so^da
 
 so'elin
 genuine * real
@@ -2925,12 +2925,12 @@ true
     O so'elinay a sowal konini.
     These are true words.
     這些話的確是真的
-    So'linay mafana' cigra haw?
+    So'elinay mafana' cigra haw?
     Does he really know?
     他真的知道嗎？
 sincere
 忠誠
-    So'linay ko faloco' noya tamdaw.
+    So'elinay ko faloco' noya tamdaw.
     That person is sincere / faithful.
     那個人很忠厚
 norm * standard
@@ -2970,7 +2970,7 @@ to dissolve
 so'or
 to melt
 溶化，溶解
-    Malaso'orto koya so'da.
+    Malaso'orto koya so^da.
     The ice has melted.
     冰雪溶化了
 to dissolve
@@ -3698,15 +3698,15 @@ to swell and become infected
 使腫脹和感染
 => lades
 
-rdih
+redih
 [No English description]
 [無中文解釋]
-=> mardih
+=> maredih
 
-mardih
+maredih
 to be split open, as the skin on a cooked sweet potato or a wound from a snake bite 
 皮膚潰爛而裂開，像煮熟的蕃薯皮或蛇咬傷口裂開之狀
-=> rdih
+=> redih
 
 
 # p.248
@@ -4202,7 +4202,7 @@ to finish * to do as told
     Let's follow Jesus' directions.
     我們要順從耶穌的訓示
 
-rkoh
+rekoh
 to sit (at home) and do nothing
 蟄居家中，無所事事 
 
@@ -4594,6 +4594,6 @@ to catch * overtake
     他做的壞事正好被我看到 (屢次再犯的前罪)
 => takop
 
-rtes
+retes
 to ooze body fluids from peeled skin
 從身上脫皮的地方徐徐流出液體

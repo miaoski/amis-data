@@ -443,16 +443,16 @@ intelligence
     O citagalay a wawa cigra.
     He is a brilliant child.
     他是聰明的小孩，他是一個有才華的小孩
-=> fogoh, mihtagal, patagal, mikalolol
+=> fogoh, mihitagal, patagal, mikalolol
 
-mihtagal 
+mihitagal 
 to wash hair
 洗頭，燙頭髮
 => patagal, mikalolol
 
-patagal = mihtagal
+patagal = mihitagal
 
-mikalolol = mihtagal
+mikalolol = mihitagal
 
 tagasa
 to arrive at
@@ -3449,9 +3449,9 @@ to fall on top of
 teli
 to place * put
 放置
-=> mitli, matli, patli, patlian
+=> miteli, mateli, pateli, patelian
 
-mitli
+miteli
 to put or place
 放置
 => teli
@@ -3461,15 +3461,15 @@ to be put or placed
 放置
 => teli
 
-patli
+pateli
 to put or place
 放置
-=> tli
+=> teli
 
-patlian
+patelian
 a place to put something
 放置處
-=> tli
+=> teli
 
 telii
 to be outraged * angered * furious * provoked
@@ -3484,15 +3484,15 @@ to be outraged * angered * furious * provoked
 teloc
 the end point of something * as the end of a branch　
 東西的末端，如枝葉末梢
-    Icowa ko tloc noya keliw?
+    Icowa ko teloc noya keliw?
     Where is the end of the thread?
     繩子的尾端在那裡
 a descendant 
 後代
-    Awaay ko tloc noya loma'.
+    Awaay ko teloc noya loma'.
     That family has no descendants.
     那個家沒有後代
-    Masamaan ko tloc noya demak?
+    Masamaan ko teloc noya demak?
     How did that matter come to an end?
     那件事的結果如何？
 
@@ -3513,15 +3513,15 @@ deep * with literal and figurative meanings
     He is very intelligent.
     他是聰明的人
 
-tloh
+teloh
 [No English description]
 [無中文解釋]
-=> matloh
+=> mateloh
 
-matloh
+mateloh
 to have a lot disappear with only a small part remaining
 大部份均消失，只剩下一小部份
-=> tloh
+=> teloh
 
 tloho'
 phlegm
@@ -4348,7 +4348,7 @@ the name of an Amis village
 台東縣成功鎮博愛部落名
 
 
-tomli'
+tomeli'
 to glisten * be very white 
 閃光，閃爍，潔白
 => tmli', tmili'
@@ -4802,7 +4802,7 @@ to line something up * as whenpreparing for building
 
 # p.351
 
-trek
+terek
 to eat before the rest arrive
 留存，留下
 to save over for further consideration
@@ -4810,17 +4810,17 @@ to save over for further consideration
     Treken konini a demak.
     Save this for further consideration.
     保留這個問題事情到下次再做
-=> matrek, satrek
+=> materek, saterek
 
-matrek
+materek
 to save * keep left over food for late comer
 留起來，留存食物給後來的人
-=> trek
+=> terek
 
-satrek
+saterek
 food saved
 儲存之食物
-=> trek
+=> terek
 
 trep
 to be silent * to stop activity

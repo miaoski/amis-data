@@ -261,17 +261,17 @@ to bluff * to act like one has or is something he is not
 
 # p.123
 
-iray
+'iray
 ornamental
 裝飾
 to boast, show off
 誇示，炫耀
-=> 'res, mairay
+=> 'res, ma'iray
 
-mairay
+ma'iray
 to feel good towards someone
 對某人或東西有好感，以…東西或人為榮(傲)
-=> iray
+=> 'iray
 
 iro 
 a connective with some of the force of "why"

@@ -228,14 +228,14 @@ to swing back and forth
 使搖擺
 to cradle
 擺動，搖籃，催眠
-=> canoy, nananoyan, cacanoyan, mihnanoy
+=> canoy, nananoyan, cacanoyan, mihinanoy
 
 nananoyan
 a cradle * a swing
 搖籃
 => cacanoyan, nanoy
 
-mihnanoy
+mihinanoy
 to swing * the act of doing for oneself
 盪鞦韆，這是自己做的活動
 => nanoy

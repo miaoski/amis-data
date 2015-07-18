@@ -1562,22 +1562,22 @@ pco'
 to pick fruit from a tree or a bush
 從樹或灌木上摘取果實
 
-pcod
+pecod
 to leave * cause to leave place to which thing is attached
 相接的部位鬆掉
-=> mapcod, pcoden
+=> mapecod, pecoden
 
-mapcod
+mapecod
 slippery, as when trying to grasp a fish
 滑掉，如捉魚時被溜掉
 to squirt out fast as pus under pressure.
 如膿液被擠壓後噴出來
-=>pcod, pcoden
+=> pecod, pecoden
 
-pcoden
+pecoden
 grab hold of (a command)
 (命令)鬆開
-=>mapcod, pcod
+=> mapecod, pecod
 
 pcoh
 snails found on rocks on the beach with edible flesh
@@ -1630,20 +1630,20 @@ to suddenly turn around and leave
 溜走，閃躲 (突然開溜)
 => piyoc
 
-pdoh
+pedoh
 the white pulp inside of a tree such as is used in making paper
 樹幹中間有白軟塊可作為紙張的原料
 to be empty * disappear, as the contents of a container 
 中空，如容器內面
-    Mapdohto / mahoracto ko lofoc ako.
+    Mapedohto / mahoracto ko lofoc ako.
     My sack is empty (contents have disappeared / fallen out).
     我的袋子已空了(內裝的物品不見了或完全倒出來)
-=> mipdoh, miletek
+=> mipedoh, miletek
 
-mipdoh
+mipedoh
 to cut out the pulp
 弄成一個洞
-=> miletek, pdoh
+=> miletek, pedoh
 
 pedped
 to crowd * pack solid
@@ -2113,21 +2113,21 @@ to suddenly run away quickly
     They all fled.
     他們各自飛奔逃走
 
-pla'
+pela'
 to split into two
 劈開
-    O pla' konini.
+    O pela' konini.
     This is half of something split.
     這是另一半
     Pla' en ko kasoy.
     Chop / split wood
     把柴火劈開
-=> mipla'
+=> mipela'
 
-mipla'
+mipela'
 to split into two
 分割為二
-=> pla'
+=> pela'
 
 pleg
 to destroy * collapse * fall apart * break up

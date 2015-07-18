@@ -34,6 +34,7 @@ sell
 mi'aca
 buy
 買、購
+=> micakay
 
 'acam
 dry stalks useable for firewood
@@ -1100,19 +1101,19 @@ to advance taking for oneself with the advance
     The bamboo crowds out fruit trees that were planted.
     果樹被竹林擠掉
 
-'daw
+'edaw
 to fortune tell
 卜卦，算命，祭祀用之木具
-=> pa'daw, mi'daw
+=> pa'edaw, mi'edaw
 
-pa'daw
+pa'edaw
 to call a fortune teller
 請人問卜，請人算命
 
 
 # p.33
 
-mi'daw
+mi'edaw
 to tell a fortune
 問卜，卜卦，占卜
 to give the reason for a problem
@@ -1137,23 +1138,23 @@ sa'def
 a door
 扇門
 
-'deg
+edeg
 only
 唯，只有，僅僅，獨一
-=> ma'deg, 'degan, degan, pa'deg
+=> maedeg, edegan, degan, paedeg
 
-ma'deg
+maedeg
 can be done
 足夠，能力足夠完成
 
-'degan
+edegan
 only
 僅僅，唯一
 => degan
 
-degan = 'degan
+degan = edegan
 
-pa'deg
+paedeg
 to do only so much * not overdo * including the idea of being content with what you have
 僅做範圍內或限制內的工作或責任
 
@@ -1231,15 +1232,15 @@ to forbid * not allow (light glottal sound)
 to throw away
 拋棄，丟棄
 
-'fer
+efer
 to jump from one place to land at another * to leap
 從此地飛到彼岸，飛躍，跳躍
-=> mi'fer, ma'fer
+=> miefer, maefer
 
-ma'fer
+maefer
 to fly
 飛
-=> 'fer
+=> efer
 
 'fo
 overwhelmed by work * unable to handle something
@@ -1371,7 +1372,7 @@ to spin a top * a top
 'ikay
 lump shaped object
 成塊狀
-    masa'ika'ikayay a so'da
+    masa'ika'ikayay a so^da
     hail
     成塊的雪花，雹，霰
 
@@ -1584,26 +1585,26 @@ sa'iyot
 a knife for cutting
 鑽子
 
-'kak
+'ekak
 to curse
 咒詛 ，休克
-=> ma'kak
+=> ma'ekak
 
-ma'kak
+ma'ekak
 to be dried
 即將枯乾
 about to die
 休克，臨終，即將斷氣
 
-'ked
+eked
 separate * form clique
 分離，組成派系，私黨
-=> misa'ked
+=> misaeked
 
-misa'ked
+misaeked
 to form cliques
 另起爐灶，另組黨派或派系
-=> 'ked
+=> eked
 
 'kim
 silver
@@ -1645,7 +1646,7 @@ to wear * to be worn away
 moo * the sound of a cow
 黃牛的叫聲
 
-'mamosa
+'emamosa
 the pupil of the eye
 瞳孔
 
@@ -2175,13 +2176,13 @@ a flute
 笛子，橫笛
 => tipolo
 
-'poc
+epoc
 use * value
 用處，價值
-    ci'pocay
+    ciepocay
     has value
     有用，有價值
-    awaay ko 'poc
+    awaay ko epoc
     no use
     沒有用，沒有價值
 => kapo
@@ -2253,15 +2254,15 @@ chaff
 粗糠
 => afih
 
-'tan
+etan
 profit * earnings from work
 利益，利潤
-=> mili'tan
+=> milietan
 
-mili'tan
+milietan
 to make profit (from Amoy dialect)
 賺錢 (引自閩南語)
-=> 'tan
+=> etan
 
 'teg
 dam used to stop water so it goes in another direction

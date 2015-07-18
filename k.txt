@@ -932,7 +932,7 @@ a soft rock
 kalolo
 to wash one's hair
 洗髮
-=> mihtagal
+=> mihitagal
 
 kalona 
 to make love in preparation for the sex act
@@ -2035,8 +2035,8 @@ the mechanics of something * literally or figuratively (from Japanese)
 機械 (引自日語)
 
 mikikay 
-to work with a machine
-操縱機器
+to work with a machine (from Japanese)
+操縱機器 (引自日語)
 => kikay
 
 kilac 
@@ -2490,7 +2490,7 @@ a man-hole
 
 misakeleg 
 to make a man-hole to cause someone to fall in
-做一 出入孔, 使人能陷進
+做一出入孔, 使人能陷進
 => keleg
 
 tahakeleg 

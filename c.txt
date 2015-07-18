@@ -945,7 +945,7 @@ a group * chapter * division of people or things
     他把士兵分成三隊
 => masacfacefag
 
-masacfacefag 
+masacefacefag 
 in the state of being grouped into groups
 一團一團，構成一團一團(一羣一羣)的狀態
 => cefag
@@ -1752,27 +1752,27 @@ something to give back after receiving
 
 # p.68
 
-co'co 
+co^co 
 to be closed in
 緊靠, 排擠
 to insist on approaching * be forward
 保持前進
-=> mico'co, macaco'co, talico'co
+=> mico^co, macaco^co, talico^co
 
-mico'co 
+mico^co 
 to press through a crowd or narrow place
 在狹小或人羣擁擠的地方強擠通過
-=> co'co
+=> co^co
 
-macaco'co 
+macaco^co 
 packed together in a small place
 在小地方互相排擠，擠來擠去
-=> co'co
+=> co^co
 
-talico'co 
+talico^co 
 to be closed in * cornered
 被排擠到角落
-=> co'co
+=> co^co
 
 co'ed 
 an inconspicuous place * a back corner or room * the inner recesses of
