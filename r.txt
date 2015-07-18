@@ -602,7 +602,7 @@ early * early morning
     Maratar ko 'Amis a lomowad.
     Amis get up early in the morning.
     阿美族人早晨起得很早
-=> pacrem
+=> pacerem
 
 ratoh
 news
@@ -707,17 +707,17 @@ rcep
 to soak into * with reference to liquid
 滲透，浸濕
 
-rcik
+recik
 a piece of broken pottery
 碎片
 to blow out grain
 穀粒飛躍出去，噴出穀粒
-=> ricig, lecik, licik, pinarcik
+=> ricig, lecik, licik, pinarecik
 
-pinarcik
+pinarecik
 small pottery pieces
 小碎片 (飛躍出去)
-=> rcik
+=> recik
 
 rda'
 to sleep soundly without awaking 
@@ -921,7 +921,7 @@ mud used to plaster the walls of a house or the mouth of an earthen vessel
 用水泥砌牆或堵塞或封住陶器的口
 cement is now used for this purpose
 水泥現在已被用於這個目的
-    Masadit to amoto ko pa'nan ato cafeg no loma' niyam.
+    Masadit to amoto ko paenan ato cafeg no loma' niyam.
     The floor and walls of our house have been plastered with cement.
     我們家的圍牆和地板已經用水泥舖成了
 
@@ -986,7 +986,7 @@ suddenly * unexpectedly without notice
     他瞞著，其實他昨天就來了，他昨天意外的來了
 to tempt to do something not intended
 不情願的去嘗試某事
-    Safana'en ni satan ci Yis a papisaga' to 'pag.
+    Safana'en ni satan ci Yis a papisaga' to epag.
     Satan tried to tempt Jesus to make bread.
     撒但試探耶穌把石頭變成麵包
     Masafana' nira kako.
@@ -1560,7 +1560,7 @@ to be physically able but lazy
 sapad
 a board made of wood
 板子，木板
-    o sapasapad to pa'nan
+    o sapasapad to paenan
     for making a board floor
     是要做地板用的木板
 the floor madefrom wood
@@ -1609,14 +1609,14 @@ a sled
 農耕用的截物橇
 => slic, sowapay
 
-sapayo
+sapaiyo
 medicine
 藥
 poison
 肥料，農藥
 insecticide
 殺蟲劑
-=> payo
+=> paiyo
 
 sapi'
 to be heavy and fall over
@@ -2012,21 +2012,21 @@ to be crooked
     His clothing is on crooked / or buttoned incorrectly.
     他的衣服穿得歪七扭八的 (扣子扣錯了)
 
-sfeg
+sefeg
 to watch and herd animals
 看護一羣動物
 to guard from enemy
 看守壞人(FIXME)
 to case out a person
 看顧某人
-=> pisfegan
+=> pisefegan
 
-pisfegan
+pisefegan
 a hut in a field where a person stays who is watching the crops so they are not stolen
 田中小屋，供看守者休憩用，以免穀物被盜
 a pillbox where a soldier stands guard
 士兵守衛之崗哨 (瞭望台)
-=> sfeg
+=> sefeg
 
 sfek
 to have a lof of
@@ -2812,15 +2812,15 @@ to take off * as to remove clothing or shoes
 脫，如換衣服或鞋子, 整裝
 => helog
 
-sma
+sema
 tongue
 舌頭
-=> pasma
+=> pasema
 
-pasma
+pasema
 to stick out one's tongue
 伸舌頭
-=> sma
+=> sema
 
 semer
 to sting * hurt literally
@@ -3233,7 +3233,7 @@ to slide down
     把圓木順著斜坡滾滑到下面
 to forgive
 赦免，寬恕
-    Sololen ko patlac ako.
+    Sololen ko patelac ako.
     Forgive me for my mistake.
     原諒我的過錯
 => hepol
@@ -3564,13 +3564,13 @@ the hump on the neck of a male water buffalo
 To walk with a limp from having one short leg
 因另一支有缺陷的腳較短故走路不平均
 
-sta'
+seta'
 to fall and faint
 昏倒
-    Fahal sa cigra a masta'.
+    Fahal sa cigra a maseta'.
     He suddenly fell fainting.
     他突然的昏倒
-    Mapasta' kako to nika kameleg no lalan.
+    Mapaseta' kako to nika kameleg no lalan.
     I fell down heavily from the slickness on the path.
     因路滑使我摔倒
 
@@ -3585,30 +3585,30 @@ stay
 to be exhausted
 很疲倦
 
-stek
+setek
 to literally cut * sever
 字面上指切斷
-    Ini ko cecay a nistekan a titi. 
+    Ini ko cecay a nisetekan a titi. 
     Here is a piece of cut meat. 
     這裡有一塊切好的肉
-=> pastek
+=> pasetek
 
-pastek
+pasetek
 to figuaratively cut something * i.e. to make a decision
 比喻上指對某些事物的決斷, 就是做某種決定
-    Mapastek to ko sowal.
+    Mapasetek to ko sowal.
     The matter is settled / decided.
     話已決定，事情已決定
-    O nipastekan to a romi'ad anini.
+    O nipasetekan to a romi'ad anini.
     This is the day that was set.
     今天是決定的日子
-    Mapasteko i patay koya ciraraway a tamdaw.
+    Mapaseteko i patay koya ciraraway a tamdaw.
     That sinner is condemned to death.
     那個罪人被宣判死刑
-    Mapastek to i raraw kika o tamdaw.
+    Mapasetek to i raraw kika o tamdaw.
     We people have been condemned in sin.
     我們人類被定在罪中
-=> stek
+=> setek
 
 
 # p.294
@@ -3975,7 +3975,7 @@ referring to water or a table or a floor
     Palimo'ot sa ci Yis 'i, sarimadac sa ko nanom.
     Jesus commanded and the water became smooth.
     耶穌叱責後, 水就平靜了
-    Sarimadac sa ko pa'nan no loma' iso.
+    Sarimadac sa ko paenan no loma' iso.
     The floor of your house is smooth and level
     你家的地板非常光亮
 

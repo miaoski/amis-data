@@ -1378,7 +1378,7 @@ milled rice grain
 米
 => pifelacan
 
-pifelacan 
+pafelacan 
 a basket for rice that has been milled
 貯放米的籃筐
 => felac

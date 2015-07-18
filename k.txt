@@ -757,7 +757,7 @@ to be burned as by the sun
 陽光強烈
 to have an allergic reaction
 過敏反應
-    Makalat no sapayo ko fages. 
+    Makalat no sapaiyo ko fages. 
     Skin reacts to medication.
     吃藥引起皮膚過敏
 to hurt
@@ -1698,7 +1698,7 @@ to climb up (as a tree)
 爬 (如爬樹)
 => kalic
 
-pakaykay 
+pakayakay 
 to make a bridge (literally)
 建橋
 => kayakay
@@ -3554,6 +3554,4 @@ church (from Japanese)
 ka
 prefix
 前綴，行為本身
-
-kahiceraan = kaheceraan
 

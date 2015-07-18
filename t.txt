@@ -1191,10 +1191,10 @@ a skirt (both Amis men and women wore skirts)
 
 # p.309
 
-talipa'elal
+talipaelal
 to awaken out of sleep with literal and figurative meanings
 從睡夢中甦醒，含有字面上和比喻上的意義
-    Talipa'elal to kako anini to demak nira.
+    Talipaelal to kako anini to demak nira.
     I finally realize what he is doing.
     我終於了解他的所做所為
 
@@ -2016,7 +2016,7 @@ not good
 tatipelok
 paper * writing paper
 紙張
-=> tiplok, padakopak
+=> tipelok, padakopak
 
 tatiniir
 a species of fish
@@ -2337,7 +2337,7 @@ to do without reason * without forethought.
     Alapatedotedo cagra a pasowal to ifaloco'ay nagra.
     They all said what came into their heads.
     他們毫無顧忌的把內心的話盤托出來
-=> patdo
+=> patedo
 
 
 # p.323
@@ -3020,7 +3020,7 @@ to split open * as bark or the skin of a baked potato
 tipelok
 paper
 紙張
-=> tatiplok, padakopak
+=> tatipelok, padakopak
 
 tipod
 the name of an Amis village
@@ -3269,12 +3269,12 @@ to snap * bite at * of snakes or birds
 tekel
 to be inhibited in speaking and to stammer * because of people present
 抑制說話，口吃，結結巴巴※因許多人的出現
-=> patkel
+=> patekel
 
-patkel
+patekel
 to make go without eating
 不給予吃東西
-=> tkel
+=> tekel
 
 tekep
 the name of a trap
@@ -3615,7 +3615,7 @@ to spread
     Patnak cigra to sowal no Kawas.
     He spread the Word of God.
     他傳播上帝的福音
-    O patnakay cigra.
+    O patenakay cigra.
     He is an evangelist.
     他是傳道人
     Matnak ko sowal to pakayniay to demak nira.
@@ -3653,14 +3653,14 @@ a long time * for a long time
 tnod
 to anchor 
 錨
-=> 'nor, sapatnod, sapa'nor
+=> 'enor, sapatnod, sapa'enor
 
 sapatnod 
 an anchor for a shop
 船錨
-=> sapa'nor
+=> sapa'enor
 
-sapa'nor = sapatnod
+sapa'enor = sapatnod
 
 tnok
 to kick with one's heel
@@ -3862,7 +3862,7 @@ responsibility
 todoh
 to burn * generic form
 燃燒的總稱
-    Matodoh to ko tatiplok.
+    Matodoh to ko tatipelok.
     The paper is burned.
     紙已被燒毀了
     Todohen koya lakaw.
@@ -4177,7 +4177,7 @@ a hammer
 tolac
 a scar of long standing * from a wound
 傷疤，痕跡，傷痕
-=> pi'dac
+=> pi'edac
 
 tolag
 to increase * add to
@@ -4595,7 +4595,7 @@ two
     Tosa ko cokap.
     There are two shoes.
     兩隻鞋子
-    Kalitosaen koya 'pag.
+    Kalitosaen koya epag.
     Divide the bread in two.
     把麵包切成兩塊
     O sakinatosa anini.
@@ -4838,7 +4838,7 @@ to throw off and away from
     Mitrikay koya kikay to lakaw.
     That machine is throwing off debris.
     那機械會彈出碎物 (垃) 出來
-    Matrik a matfad nai otofay cigra.
+    Matrik a matefad nai otofay cigra.
     He was thrown off and clear of the motor bike.
     他從機車上彈出落下
 

@@ -1745,15 +1745,15 @@ to swallow
     can be swallowed
     可以吞下去
 
-'nor
+'enor
 anchor of a ship or boat
 錨
-=> 'enor, tnol, pa'nor
+=> 'enor, tnol, pa'enor
 
-pa'nor
+pa'enor
 to cast anchor
 拋錨
-=> 'nor
+=> 'enor
 
 'o'ol
 fog
@@ -2138,7 +2138,7 @@ the activity of making reeds out of the plant
 把藤切片狀
 => 'oway
 
-'pag
+epag
 bread (from Japanese)
 麵包 (引自日語)
 
@@ -2264,19 +2264,19 @@ to make profit (from Amoy dialect)
 賺錢 (引自閩南語)
 => etan
 
-'teg
+'eteg
 dam used to stop water so it goes in another direction
 築堤使水改道
-=> pi'tegan
+=> pi'etegan
 road block marking a detour
 柵路改道
 floats on a net
 漁網之浮標
 
-pi'tegan
+pi'etegan
 place where dam is placed for fishing
 涸魚之堤堰
-=> 'teg
+=> 'eteg
 
 'tip
 west

@@ -5,22 +5,22 @@ name of an Amis village
 台東興昌，阿美族部落
 => Pa'anifog
 
-pa'cas
+paecas
 with negative * meaning to seek a temporary solution
 用以否定語句意指尋找暫時的決定
-    Awaay ko pa'casan no faloco' ako. 
+    Awaay ko paecasan no faloco' ako. 
     I feel there is no way to resolve (this situation). / i.e. no open door.
     我的心實在無法下定決心
 
-pa'el
+pael
 to influence the feelings of
 影響對某事的感覺
-    Mapa'el no folad cigra.
+    Mapael no folad cigra.
     He was moonstruck
     他被月亮著迷
 to make feel sleepy
 令人感覺昏昏欲睡
-    Mapa'el no sapayo cigra saka mafoti'to cigra.
+    Mapael no sapaiyo cigra saka mafoti'to cigra.
     He was anesthetized so he went to sleep.
     他被藥麻醉，所以他一直在睡著
 
@@ -38,14 +38,13 @@ figuratively to control and restrain freedom
     I am controlled by that person.
     我被那個人控制得毫無自由
 
-pa'nan
+paenan
 the floor of a room
 地板
 the entrance way into a building (North Amis)
 建築物的大門 (北方阿美語)
-=> paenan
 
-pa'no
+pa'eno
 the seed inside of a fruit
 核子，種子
 the egg from an ovary
@@ -57,12 +56,12 @@ clitoris
 Adam's apple
 喉結
 
-pa'pa
+pa^pa
 to clap hands
 鼓掌，拍手
 to hit onthe shoulder as a friendly gesture
 拍別人的肩膀表示友愛的態度
-=> pi'pi, pakpak
+=> pi^pi, pakpak
 
 
 # p.208 
@@ -75,13 +74,13 @@ a dipper for measuring rice
 a gourd used as a water container
 用來當作裝水的葫蘆
 
-pa'tag
+paetag
 a bucket
 水桶 
 made from wood and of various types 
 各式各樣木製的水桶
 
-pacahfak
+pacahefak
 to spread out something to lay on as a cloth or coat
 攤開衣物披掛在某物上擊打
 to spread out for a cover
@@ -128,14 +127,14 @@ place where nail is placed
 被鐵釘刺的地方
 => pacek, mipacek
 
-pacfa
+pacefa
 to make up a story
 隨便亂講
 to do something incorrectly getting another into trouble
 說假話
 to not tell the truth 
 做不正當的事情，使別人遇到困難
-    Aka pacfa to sowal.
+    Aka pacefa to sowal.
     Don't talk off the top of your head / make up a story.
     不要隨便說話
     Pacfa ko demak nira.
@@ -143,13 +142,13 @@ to not tell the truth
     胡作非為
 => patras
 
-paci'ci
+paci^ci
 to force * insist on doing though not suitable or reasonable
 勉強堅持去做不適當或沒理性的事
-    Aka paci'cien ko faloco' ako.
+    Aka paci^cien ko faloco' ako.
     Don't force me (my heart).
     不要勉強我的心意
-    Paci'ci sa cigra a tayra.
+    Paci^ci sa cigra a tayra.
     He went against reason.
     他硬著要去
 
@@ -184,7 +183,7 @@ to come upon in visitation
     魔靈附在某人身上
 to move upon * inspire
 鼓舞，激勵，感動
-    Mapacekil no Fagcalay ' Adigo ko mitiliday to Fagcalay a Codad.
+    Mapacekil no Fagcalay 'Adigo ko mitiliday to Fagcalay a Codad.
     The writers of the Bible were inspired by the Holy Spirit.
     聖經的著者被聖靈所默示
 
@@ -219,7 +218,7 @@ pipacpacan
 threshing frame on which harvested produce is lain and beaten out
 收割時用來打穀的框子
 
-pacrem
+pacerem
 early * referring to morning only
 很早，起得早
 => maratar
@@ -252,14 +251,14 @@ to help * assist
 
 # p.210
 
-padagan
+paedagan
 a reed back pack
 藤製的背籃
 => kakonoyan
 
 padahaw
 upper part of the leg
-陰部雙邊的大腹部分
+陰部雙邊的大腿部分
 
 padahof
 to give or send a present without expecting return
@@ -268,7 +267,7 @@ to give or send a present without expecting return
 padaka
 a white foreigner * a foreign country
 外國人，外國
-    Tayni ko Padaka i Taiwag a mipatnak.
+    Tayni ko padaka i Taywan a patenak.
     Foreigners came to Taiwan to spread the gospel.
     外國人到台灣傳道
 an American * America
@@ -315,7 +314,7 @@ trials * a wide generic word covering trouble * suffering * difficulties in the 
     kapadesan a romi'ad
     time of trouble
     受難期間或日子
-    O mipadesay kiso takowanan.
+    O mipadesay kiso i takowanan.
     You are causing me to go through trial.
     你帶給我麻煩
 
@@ -342,13 +341,13 @@ padopil
 to make stick to * as to cause to cling to skin or paper etc.
 黏貼，如黏貼東西在皮膚上或紙張上
 
-padteg
+padeteg
 to deliberately do something when it may seem unreason-able * with positive or negative connotations
 專程，故意，有意的舉動看起來似乎毫無理由，蘊含肯定或否定的涵意
-    Padteg sa cigra a mitakaw.
+    Padeteg sa cigra a mitakaw.
     He deliberately stole.
     他專程有意地偷取東西
-    Padteg sa ko Kawas a miocor ci Yis Kristoan.
+    Padeteg sa ko Kawas a miocor ci Yis Kristoan.
     God deliberately sent Jesus Christ.
     上帝專蓄意差遣耶穌基督
 
@@ -359,7 +358,7 @@ an edible wild vegetation * bitter
 pafeli
 to give
 給予，贈給
-    Paflien kami to riko'.
+    Pafelien kami to riko'.
     Give me some clothes.
     請分衣服給我們
     o pafeliay
@@ -368,7 +367,7 @@ to give
     O sapafeli nira konini.
     This is his gift.
     這是他的贈品
-    Papipafelien nira kako to riko'.
+    Papafelien nira kako to riko'.
     Make him give me some clothes.
     託他人把衣服拿給我
     O halipafeliay cigra.
@@ -473,7 +472,7 @@ pakah
 hip bone
 臀部
 
-pakapsi'
+pakapesi'
 to abort * naturally
 早產，流產，難產，小產，含自然流產
 => pakatiihay, pakatiih
@@ -491,7 +490,7 @@ to abort spontaneously * to lose a child by aborting.
     她自然流產
 to dream you aborted
 夢見你小產
-=> pakapsi'
+=> pakapesi'
 
 pakayni
 through * by way of
@@ -550,7 +549,7 @@ to do something in a way that is contrary to rules or guidelines
     pakido a somowal
     to speak discourteously * without thought of courtesy
     說不禮貌的話
-=> patdo
+=> patedo
 to exaggerate * misrepresent
 誇張，詐稱
 => kido
@@ -571,9 +570,9 @@ pakiyaw
 to gamble * using cards or other means (from Amoy dialect)
 賭博，用撲克牌或其他 (引自閩南語)
 
-pakociko
-firecrackers
-爆竹，鞭砲
+pakuciku
+firecrackers (from Japanese)
+爆竹，鞭砲 (引自日語)
 => tatla'an, linpac
 
 pakogaw
@@ -589,7 +588,7 @@ to accuse * to make a charge against * with reference to actions
     O papakokoten ko demak noya tamdaw.
     An accusation must be made against the acts of that person.
     那個人的行為勢必應該被控告
-    Aka pacfa a pakokot to demak no sigsi.
+    Aka pacefa a pakokot to demak no sigsi.
     Don't accuse without clear evidence the acts of a teacher.
     沒有證據不要隨便告發老師的行為
 
@@ -624,7 +623,7 @@ the poorest person
 pakpak
 to clap hands
 拍手
-=> pa'pa
+=> pa^pa
 to hit with the hand
 用手拍人
 to blow smoke from a cigarette or pipe
@@ -635,7 +634,7 @@ to habitually do something
 paketig
 to stake out an animal tying it up
 栓住，把動物繫住
-=> pasteg
+=> paseteg
 
 pala
 territory * district
@@ -664,7 +663,7 @@ to become aware * alert concerning
     Palalen cigra.
     Awaken him.
     叫醒他
-    Matalipa'lal to kako.
+    Matalipa'elal to kako.
     1. I was awakened suddenly.  2. I suddenly realized.
     1. 我忽然驚醒了  2. 我突然覺悟了
 
@@ -684,7 +683,7 @@ an Amis village
 台東縣鹿野村
 => Palayapay
 
-palfod
+palefod
 to rush to finish a task
 趕工
 
@@ -701,7 +700,7 @@ a vehicle * such as a wagon or cart * generic term
     Pakapalidig cigra a tayra.
     He went by vehicle / cart.
     他坐車前往
-    Pakapalidigen konini a si'lac. 
+    Pakapalidigen konini a si'elac. 
     Take this gravel away in a vehicle / cart. 
     把這些砂礫用車子載運
 
@@ -741,7 +740,7 @@ to discern * to look and see the true situation
     Misapalitalita kako anini.
     I am searching out the matter / investigating now.
     我正在探查事情的情況
-    Palitaenho.
+    Palitaen ho.
     Keep taking a look into the situation.
     先看清楚，先弄清楚
 => polita
@@ -802,7 +801,7 @@ to be planted
 栽種
 => paloma, pipalomaan, sapaloma
 
-pamceg
+pameceg
 to stare
 凝視，瞪視，目不轉睛
 
@@ -880,10 +879,10 @@ paniis
 hair that grows above and beside the ears
 雙鬢的部分，臉旁靠耳際的部位
 
-paogogan
+paog^ogan
 name of an Amis village
 台東成功鎮八翁翁部落名
-=> Paogogan
+=> Paog^ogan
 
 paoror
 to stir up * arouse people to do something evil
@@ -914,7 +913,7 @@ to beat out * thresh out
 打稻具
 => pacpac
 
-papikdan
+papikedan
 a term describing men in the 35-40 year age group * men in full strength of maturity with experience
 描寫人到35 歲至40歲之間，壯年期的術語，男人正值精力充沛經驗豐富時期
 
@@ -949,10 +948,10 @@ to interrupt sleep
     不要妨礙我的睡眠
 => cokat
 
-paranaan
+parana'an
 the base * foundation
 地基，基部
-    paranaan no loma'
+    parana'an no loma'
     the building's foundation
     建築物的根基
 
@@ -1083,15 +1082,15 @@ to be directed the other direction as the bird flies
     He is headed in that direction
     他往向那邊走
 
-paska
+paseka
 to hesitate
 遲疑，躊躇
-    O maan ko kapaskaan iso?
+    O maan ko kapasekaan iso?
     What is causing you to be inhibited / double-minded?
     你擔心什麼/你遲疑什麼？
 to be afraid * to have inhibitions 
 害怕，抑制
-    Paskaska ko faloco' nira anini.
+    Pasekaseka ko faloco' nira anini.
     He seems so inhibited * unnatural in responding at present.
     他現在心情似乎有些很驚慌，他現在反應不自然
 to be double minded * to have reservations
@@ -1126,14 +1125,14 @@ an Amis village
 台東縣長濱鄉白桑安阿美族部落
 => Pasogan
 
-pasta'
+paseta'
 to suddenly fall down flat
 突然摔倒
-    Mapasta' kako nai palidig.
+    Mapaseta' kako nai palidig.
     I fell out of the cart flat on the ground.
     我從車子摔出而跌在地上
 
-pasteg
+paseteg
 to stake out * tie up to * referring to animals
 拴住，綁，捆，用繩子繫住 (家禽)
 => paketig
@@ -1218,17 +1217,17 @@ figurtatively to be crushed and despair
     我的心已死了
 to go to extreme limits to do something
 極盡限制去做某些事情
-    patay sa a misimed to patlac
+    patay sa a misimed to patelac
     search to protect ones reputation from scrutiny
     他極盡掩飾他的錯誤
 
-patdo
+patedo
 to do something in a way that is contrary to rules or guidelines
 做違犯規則與指導原則的事情
-    Aka patdo to demak.
+    Aka patedo to demak.
     Don't do things without regard for principle.
     不要任意做違犯原則的事情
-    Patdo sa ko sowal nira.
+    Patedo sa ko sowal nira.
     He talked without thought for feelings or propriety.
     他隨便亂說
 => pakido
@@ -1250,18 +1249,18 @@ to make run fast with reference to pedaling a bicycle
 
 # p.222
 
-patfo
+patefo
 to light upon * to descend and perch or settle upon
 着落，降落，飛棲安居
-    patfo to sowal
+    patefo to sowal
     to decide to do something
     答覆
-=> pipatfoan
+=> pipatefoan
 
-pipatfoan
+pipatefoan
 a place to settle down upon * a perch
 降落點，「烏」棲木，安居之地，飛機場
-=> patfo
+=> patefo
 
 patih
 a fence or wall made of grass or bamboo
@@ -1270,7 +1269,7 @@ a fence or wall made of grass or bamboo
 patireg
 to cause to stand * make stand
 使之站立
-    Patiregen koya matfaday a hcek.
+    Patiregen koya matefaday a hecek.
     Stand up the pole that has fallen.
     把倒下來的柱子豎立起來
 to establish
@@ -1284,13 +1283,13 @@ to build
     He was elected president / king.
     他已被封為王子，他已被選為總統了
 
-patlac
+patelac
 to miss the mark
 錯劃記號，錯過記號
 to make a mistake * do the wrong thing
 犯錯，做錯事
 
-patlaw
+patelaw
 the upper arm * from the elbow to the shoulder
 手臂肌肉，從肘部至肩膀的肌肉
 
@@ -1356,7 +1355,7 @@ goal * objective * purpose
 目的地，目標，箭靶
 => patosekan
 
-patrogan
+paterogan
 name of an Amis village
 花蓮縣豐濱鄉新社部落名
 => Patrogan
@@ -1446,16 +1445,16 @@ paydas
 a species of tree * Philippine Hackberry cinnamon
 肉桂
 
-payo
+paiyo
 to apply medicine or insecticide
 治療
-    mipayo to panay
+    mipaiyo to panay
     to spray the rice fields with insecticide
     水稻噴灑農藥
-    mipayo to adadaay
+    mipaiyo to adadaay
     1. take sick person to the doctor  2. give medicine to / treat the sick person
     1. 帶病人給醫生看  2. 給病人吃藥/或治療病人
-=> sapayo
+=> sapaiyo
 
 payrag
 Taiwanese people
@@ -1493,70 +1492,70 @@ to each do his own way * do his own thing * individually
 各做各的，自掃門前雪
 => payniyah
 
-pca'
+peca'
 out of joint * dislocated from the joint so that the end hangs loose
 折斷，踹斷，脫臼，斷層
 referring to people or things 
 指人或事物
-    Mapca' ko kamay.
+    Mapeca' ko kamay.
     The lower arm hangs loose at the elbow.
     手折斷，手脫臼
-    Aka pipca' to ca'ag no kilag.
+    Aka pipeca' to ca'ag no kilag.
     Don't break loose the tree branch (at the joint).
     不要折樹枝
 
 
 # p.225
 
-pcas
+pecas
 dislocated or broken at the joint so that the end hangs loose as of branches of a tree or a broken limb
 在結枝部位斷裂使尾部倒懸在那兒如同斷裂的樹枝或手臂
     Pcasen ko ca'ag ta ma'araw.
     Break the branch so that it dangles then we can see.
     要折斷樹枝才可以看見
-=> pca', pincas
+=> peca', pincas
 
-pcec
+pecec
 flattened out and crushed by being stamped on or being hit with heavy weight (of living things)
 擠壓，壓扁，把有生命的東西用很大的重量壓扁或擊碎
-    Aka pipcec to fao.
+    Aka pipecec to fao.
     Don't smash living creatures.
     不要壓死昆蟲
-    Mapcec no palidig ko posi.
+    Mapecec no palidig ko posi.
     The vehicle smashed the cat.
     貓被車子壓死
 
-pci'
+peci'
 to break in pieces (South)
 破碎 (南部阿美語)
 to break with only one piece missing (Hualien) 
 破缺一塊 (花蓮語)
 to divide and share * as for example food or land
 擘開食 物分享給別人，分一塊給人
-    Mapapci' to flyaw namo to cecay a siri.
+    Mapapeci' to fiyaw namo to cecay a siri.
     Divide with your neighbors one sheep.
     與你鄰居平分一隻羊
-=> pcih
+=> pecih
 
-pcici
+pecici
 to press on from two directions as when squeezing out pus from an infected pimple
 從兩個不同的方向同時擠壓，如擠出疔瘡或面疱的膿液
 
-pcih
+pecih
 to break in half or take a piece off of as a loaf of bread as a lump of rice or lump of earth 
 擘成一半或取走一半，如擘一塊麵包，如擘飯糰或成塊泥團
-    Mapcihay koya 'pag.
+    Mapecihay koya epag.
     Part of the loaf has been broken off.
     麵包被擘開一塊
-    Mapcih nira ko 'pag.
+    Mapecih nira ko epag.
     He broke off a piece of bread.
     他擘了一塊麵包
-=> pnapcih, kinapcih, pinapcih
+=> pinapecih, kinapecih, pinapecih
 
-pinapcih
+pinapecih
 all the pieces, as left over pieces of loaves of bread 
 麵包切片，如被遺下的許多塊狀麵包
-=> pnapcih, kinapcih, pcih
+=> pinapecih, kinapecih, pecih
 
 pco'
 to pick fruit from a tree or a bush
@@ -1579,14 +1578,14 @@ grab hold of (a command)
 (命令)鬆開
 => mapecod, pecod
 
-pcoh
+pecoh
 snails found on rocks on the beach with edible flesh
 黏附在海岸岩石上可食的海螺 
 to take someone's place away from him
 趕他走而後把他的住處佔為己有
 => 'afas
 
-pdadac
+pedadac
 ripped clothing * badly torn
 衣服被撕裂一塊(穿在身上的)
 
@@ -1595,37 +1594,37 @@ a bat * mammal
 蝙蝠
 => padadoki
 
-pdeg
+pedeg
 state of having ears hurt from too much noise and confusion
 聲音響的過大和嘈雜聲所引起的聽覺傷害
 
-pdek
+pedek
 to put out * as when lights are turned off
 熄滅，關燈
-    Mapdek ko tigki.
+    Mapedek ko tigki.
     The electricity was switched off.
     熄滅
-    Mapapdek ko mata.
+    Mapapedek ko mata.
     Eyes are blinking.
     眼睛會眨，眼睛開閉
-=> sapdek, plek
+=> sapedek, pelek
 
-sapdek
+sapedek
 eyelashes * something for blinking
 眼皮
-=> pdek
+=> pedek
 
-pdik
+pedik
 drooping * folded over * as the ears of a dog
 摺疊，垂耳 (如狗)
-    Pdiken ko tatiplok.
+    Pediken ko tatipelok.
     Fold the paper over.
     把紙摺疊起來
-    Mapdik ko tagila noya waco.
+    Mapedik ko tagila noya waco.
     That dog's ears droop.
     那隻狗的耳朵垂下來
 
-pdoc
+pedoc
 to suddenly turn around and leave
 溜走，閃躲 (突然開溜)
 => piyoc
@@ -1686,7 +1685,7 @@ an apron * From 'ayaw
 圍裙，從字根'ayaw 衍生而來
 => pa'ayaw, ta'ayawan
 
-pi'dac
+pi'edac
 a scar from a wound
 傷疤，疤痕
 a barren slope from a landslide or erosion
@@ -1711,19 +1710,19 @@ to be lame * crippled in one's legs or referring to the way one walks
     a nickname given to a lame person
     指跛腳的人，對跛腳者的暱稱
 
-pi'kolan
+piekolan
 hip bone
-臀骨，耻骨
+臀骨，恥骨
 => kenawikos
 
-pi'pi
+pi^pi
 to press and pack * as to pack a bowl with rice
 緊壓，如緊壓碗裡的飯
 
 pi'pi'
 to clap hands 
 拍手，鼓掌
-=> pa'pa
+=> pa^pa
 
 picid
 to be torn on the edge
@@ -1789,7 +1788,7 @@ to become dead ended as a land structure
     The trail has become very narrow.
     路愈來愈狹窄，路逐漸變小
 
-pigan
+pig^an
 peace (from Chinese) a Christian greeting used when passing or meeting a person of the same faith 
 平安 (引自國語) 基督徒相遇或交錯時互相問候與祝福的話
 
@@ -1958,7 +1957,7 @@ a species of tree * Camptotheca acuminata Decne
 pina'orip
 domestic animals
 家禽家畜
-=> pna'orip
+=> pina'orip
 
 pinag
 sign * evidence * clue
@@ -1983,7 +1982,6 @@ sign * evidence * clue
 pinaloma
 anything planted to be used as food
 任何種植的可食植物
-=> pnaloma
 
 pinani'ol
 tadpoles * offspring of frogs
@@ -1996,7 +1994,7 @@ the contents of a container
 pincas
 to be borken at the joint and hang loose as a branch of a tree 
 在分叉處斷裂，如樹枝
-=> pcas
+=> pecas
 
 pinoer
 to use one's elbow to lean on something
@@ -2009,7 +2007,7 @@ pintoh
 to break * pull out of the joint where it grows * as tuberous kinds of plants
 把野薑花的莖扯斷
 
-pip
+epip
 a flute
 笛子，哨子
 => tipolo
@@ -2075,7 +2073,7 @@ to snag a thread
 pito
 seven
 七
-    Saka pito a romi'ad 'i pahanhan to ko Kawas.
+    Saka pito a romi'ad i pahanhan to ko Kawas.
     God rested the seventh day.
     第七天，上帝就休息
     Papito kita a tayra.
@@ -2104,12 +2102,12 @@ diarrhea * loose bowels
 piyoc
 to suddenly turn around and leave
 突然掉頭就走
-=> pdoc
+=> pedoc
 
-pkaw
+pekaw
 to suddenly run away quickly
 突然奔馳跑掉
-    Alapkapkaw sa cagra a milaliw.
+    Alapekapekaw sa cagra a milaliw.
     They all fled.
     他們各自飛奔逃走
 
@@ -2129,53 +2127,53 @@ to split into two
 分割為二
 => pela'
 
-pleg
+peleg
 to destroy * collapse * fall apart * break up
 打碎，毀壞，倒閉，崩潰，瓦解
-    Aka pipleg to loma' ita.
+    Aka pipeleg to loma' ita.
     Don't destroy our home.
     不要破壞我們的家
-    Mapleg to ko niyaro' nagra.
+    Mapeleg to ko niyaro' nagra.
     Their village is destroyed.
     他們的部落被摧毀了
 
-plek
+pelek
 to go off and on * to blink
 眨眼，閉眼死了，霎眼
-    Paplek ko mata.
+    Papelek ko mata.
     The eyes blinked.
     眼睛在霎著
-=> pdek, saplek , sapdek
+=> pedek, sapelek , sapedek
 
-saplek
+sapelek
 eyelashes
 眼皮
-=> sapdek, plek
+=> sapedek, pelek
 
-ples
+peles
 to knock people down with words * to criticize
 用話壓制別人
 to smash something large so that the insides come out or are detached as a chicken run over by a vehicle or hand smashed in machinery.
 打碎東西使裡面東西出來，或支離破碎如雞被輾死狀或手被機器壓碎
 
-ploc
+peloc
 to pull off * disengage as to take off a ring * as to let down a baby that has been tied on its mother's back 
 鬆脫，如戒指、手燭等脫落，如揹在背上的孩子帶子鬆掉而墬落
-    saploc a wawa
+    sapeloc a wawa
     the last child * the youngest
     最小的孩子
 
-pna'orip
+pina'orip
 domestic animals
 飼養的家畜
 => pina'orip
 
-pnaloma
+pinaloma
 anything planted to be used as food
 任何種植的可食植物
 => pinaloma
 
-pnec
+penec
 to press down so that the thing is under one's hand or tool
 用手或東西壓制東西
 to roll over on top of
@@ -2186,9 +2184,9 @@ to press down so that liquid comes out as whenmaking soy milk
 
 # p.233
 
-pnen
+penen
 a plant with a stalk used in making walls in huts or shelters
-關草桿用來製作茅屋或工寮的牆壁
+管蓁，其桿可用來製作茅屋或工寮的牆壁
 
 po'i
 to be angry
@@ -2201,20 +2199,20 @@ to be angry
     你對我生什麼氣?
 => keter, firag
 
-po'lac
+po'elac
 to get to the bottom of something * to expose * deal with
 深入事情的底部，揭露，處置
-    Po'lacen ko sowal.
+    Po'elacen ko sowal.
     Speak to issue.
     請詳細說明，請說清楚
-    Mapo'lac to anini koya demak.
+    Mapo'elac to anini koya demak.
     The matter has been exposed now.
     那件事情已經查出來了，已水落石出了
 
-po'ner
+poener
 short * low in height
 矮，短小
-    misapo'ner to faloco'
+    misapoener to faloco'
     to take a low place * humble one's heart
     低姿勢，謙卑
 => pa'ner, 'amrek
@@ -2369,7 +2367,7 @@ chicken dung * manure
 polin
 to fall * with literal and figurative meanings
 跌倒，摔倒，陷落，含字面比喻的意思
-    Ano romakat kiso 'i, aka ka po'lin.
+    Ano romakat kiso i, aka kapo'lin.
     Don't fall when you walk.
     你走路時可不要跌倒
     Mapolin to ko kitakit ita.
@@ -2422,7 +2420,7 @@ prison
 pololoc
 to slide down out of position * as for a baby to slide down too low in its mother's back
 沿背滑落下來，如母親揹在背上的小孩帶鬆了而墜落
-=> ploc, rpoc
+=> peloc, rpoc
 
 pona
 navel
@@ -2617,47 +2615,47 @@ ruins of something
 倒塌的土方
 => perar
 
-praw
+peraw
 a skin rash
 痲疹
 => kefig
 
-prec
+perec
 to squeese out * as to extract juice
 擠壓出來
 to show disrespect for so that the person has no way to express himself
 表示不尊重，所以那人不知道如何表現自己
 
-proc
+peroc
 to slide dowm
 脫落，滑落
-    Mataproc ko kafer nira.
+    Mataperoc ko kafer nira.
     His trousers don't stay up.
     他的褲子脫落
-=> tahproc
+=> tahperoc
 
 
 # p.238
 
-tahproc
+tahperoc
 (for a garment) to slide down * come off the waist
 滑落，從腰部脫落
-=> proc
+=> peroc
 
-psi'
+pesi'
 to smash dead * as an insect
 壓死，如昆蟲
 to squeeze juice
 壓榨擠汁出來
-    Mapsi' nira ko damdam i kohaw.
+    Mapesi' nira ko damdam i kohaw.
     He squeezed pepper juice into the soup.
     他把辣椒擠碎混在湯裡
 
-pyayoka
+peyayoka
 a plant called Thladiantha nudiflora Hemsl.
 青牛膽
 
-pyoma
+piyoma
 the Pyuma tribe neighboring the Amis
 卑南族
-=> Pyoma
+=> Piyoma
