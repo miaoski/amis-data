@@ -164,7 +164,7 @@ east
 walin
 to roll over
 滾翻
-    Mawalinto koya kolog.
+    Mawalin to koya kolog.
     The water buffalo rolled over (and died).
     那隻牛滾下來 (死了)
     Walinen konini a fokeloh.
@@ -214,7 +214,7 @@ to weave along as one walks
 warak
 to poison
 中毒
-    Mawarakto kako.
+    Mawarak to kako.
     I've been poisoned / I'm nauseated / suffering food poisoning.
     我中毒了
     Aka piwarak to fotig.

@@ -3524,7 +3524,7 @@ to cut something long with literal and figurative meanings
     miketon to sowal 
     to make a promise
     發誓，立下誓言，下斷語結論
-    maketonto ko sowal 
+    maketon to ko sowal 
     the promise * decision is made
     立好承諾，約定約定
     makaketon to sowal 

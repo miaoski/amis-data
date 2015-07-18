@@ -17,7 +17,7 @@ cornerstone * the main foundation stone
 taegad
 light * diffused without reference to the source
 亮光，光明普照來並未指明其來源
-    Awaayto ko to'eman. Sata'egad sato imatini.
+    Awaay to ko to'eman. Sata'egad sato imatini.
     It isn't dark anymore. It has turned light.
     黑暗去了，黎明隨即而來
     O pata'egaday to faloco' ita ko sowal no Kawas.
@@ -56,7 +56,7 @@ to pass by * to go on beyond
     Ira ko Pita'elifan a Lisin no Yotaya a tamdaw.
     The Jews have a Passover feast.
     猶太人有逾越節
-    Mata'elifto kita i lalan.
+    Mata'elif to kita i lalan.
     We passed each other on the road.
     我們在路上互相交錯
 
@@ -241,7 +241,7 @@ to do something directly
 tadem
 grave * tomb
 墳墓，埋葬
-    matademto ko tireg nira.
+    matadem to ko tireg nira.
     He has been buried.
     他的屍體已埋葬了
     Tademen koya mapatayay.
@@ -325,7 +325,7 @@ to do for someone else so they don't have to do it themselves
 tadtad
 to rip out * as the stitching in a seam * with literal and figurative meaning 
 縫合線扯裂，含字義與喻意的意思
-    Matadtadto ko keliw no riko' ako.
+    Matadtad to ko keliw no riko' ako.
     The stitching has come out of my clothes.
     我衣服的縫線裂開
     Tadtaden ko sowal no Kawas a mipatala to sapakimad.
@@ -572,7 +572,7 @@ to cook * generic term
     O mitagtagay cigra to hemay.
     He is cooking rice.
     他是煮飯的，他是廚師，他在煮飯
-    Matagtagto ko kakaenen ita.
+    Matagtag to ko kakaenen ita.
     Our food is cooked.
     我們的食物已經煮好了
 
@@ -960,7 +960,7 @@ to overtake before the person or activity has left
     Takopen cigra i'ayaw no pilaliw nira to niyaro'. 
     Get hold of him before he leaves town. 
     趁他還沒有離開村莊前趕上
-    I'ayawto cigra a lomowad. Takopen cigra.
+    I'ayaw to cigra a lomowad. Takopen cigra.
     He left ahead of us. Catch up with him.
     他已經先走了，去追趕他吧!
 
@@ -1047,12 +1047,12 @@ come to light * be revealed
 到世上，到外面，顯露出來，啟示出來
 to come to shore * to come to the surface
 上岸，浮上水面
-    Talahekalto ko fotig.
+    Talahekal to ko fotig.
     The fish came to shore.
     魚衝上沙灘
 to be revealed
 揭露
-    Talahekalto anini ko tatiihay a demak nira.
+    Talahekal to anini ko tatiihay a demak nira.
     The wrong he did has come to light.
     他的壞事以暴露出來了，他的劣跡已東窗事發了
     O pipatalahekal to demak iso ko nga'ay.
@@ -1133,7 +1133,7 @@ to throb with pain
 talem
 the sharp edge of a knife
 刀口銳利，刀刃銳利
-    Citalemto ko fonos ako.
+    Citalem to ko fonos ako.
     My machete is sharp.
     我的刀很銳利
     Matalem ko sowal nira.
@@ -1174,7 +1174,7 @@ to beat out glutinous rice to make bread.
 talimola'
 to act childish toward a parent or any older person when desiring attention
 在父母或大人面前撒嬌引他們注意
-    Caayto ka ga'ay kiso a mitalimola' to mama iso.
+    Caay to ka ga'ay kiso a mitalimola' to mama iso.
     You shouldn't (any longer) act childish in front of your father.
     你不應該再向你父親撒嬌了
     Talimola'en ita ko Wama i kakarayan.
@@ -1194,7 +1194,7 @@ a skirt (both Amis men and women wore skirts)
 talipa'elal
 to awaken out of sleep with literal and figurative meanings
 從睡夢中甦醒，含有字面上和比喻上的意義
-    Talipa'elalto kako anini to demak nira.
+    Talipa'elal to kako anini to demak nira.
     I finally realize what he is doing.
     我終於了解他的所做所為
 
@@ -1316,7 +1316,7 @@ man * generic for
     'Aloman ko tamdaw no Taywag.
     There are many people in Taiwan.
     台灣的人口很多
-    Malatamdawto ci Yis.
+    Malatamdaw to ci Yis.
     Jesus became man.
     耶穌成為人 (道成肉身)
 human 
@@ -1458,7 +1458,7 @@ to be strong * stable * established * not easily moved * with extended meanings 
     Tanektek ko katomiregan no loma' niyam.
     Our home's foundation is stable / strong.
     我們家建的非常堅固
-    Tanektekto ko faloco' ako.
+    Tanektek to ko faloco' ako.
     I feel secure.
     我的信心堅定
     O tanektekay a kilag konini.
@@ -1467,7 +1467,7 @@ to be strong * stable * established * not easily moved * with extended meanings 
     Tanektek ko tireg nira.
     His health is good.
     他的身體很強壯
-    Tanektekto ko katayalan niyam.
+    Tanektek to ko katayalan niyam.
     Our business is secure.
     我上班的公司很穩固
     Patanekteken ko loma' namo.
@@ -1501,7 +1501,7 @@ the good shape of one's legs * right proportioned legs * with reference to women
 tanoktok
 healthy * well
 結實，標緻，健康
-    Tanoktokto ko tireg ako.
+    Tanoktok to ko tireg ako.
     I am healthy and strong.
     我的身體很結實
 => tanektek
@@ -1542,7 +1542,7 @@ to meet
     Taosen cigra.
     Approach him.
     接近他
-    Matataosto kita.
+    Matataos to kita.
     We've met each other / come together.
     我們會合了，我們終於會面了
 => raod
@@ -1579,7 +1579,7 @@ lord * master
     讓我們的孩子訂婚吧！
 offical * rulers 
 官吏，統治者
-    Taynito ko tapatapag a tamdaw.
+    Tayni to ko tapatapag a tamdaw.
     Officials have come.
     官方要員已經來了，有頭有臉的人都到齊了
 source
@@ -1707,7 +1707,7 @@ waves of water
 tapenih
 to be tipped over losing the contents
 傾倒，翻倒，倒出
-    Matapnihto ko dagah ako.
+    Matapnih to ko dagah ako.
     My frying pan has tipped over.
     我的鍋子翻倒了
 => toknih
@@ -1723,7 +1723,7 @@ for face to be stained looking * as that of an old person whose skin has lost it
 tapodo
 to veil * a veil
 面紗，包頭巾
-    Citapodoto ko pisig ni Mosi.
+    Citapodo to ko pisig ni Mosi.
     Moses' face was veiled.
     摩西的臉用布遮掩 
     O tapodo no fa^lohay a malo fafahi konini.
@@ -1783,7 +1783,7 @@ to clean up by sweeping
 tarag
 to be hot from being near heat
 烘火，烘烤，烤火
-    Matarag no cidal kako saka matokatokto kako.
+    Matarag no cidal kako saka matokatok to kako.
     The sun has warmed me up so I am sleepy.
     我被太陽烘熱而慾睡
     O pitarag to masegeray a riko' iso ko ga'ay.
@@ -1897,7 +1897,7 @@ a harlots * prostitute
 tastas
 to be tron apart * parts disengaged from each other
 分解，破壞，拆開
-    Matastasto ko kikay no citosiya ako.
+    Matastas to ko kikay no citosiya ako.
     My auto engine is broken down.
     我車子的引擎損壞了
     Tastasen nira ko kikay a mikilim to samo'.
@@ -2303,7 +2303,7 @@ to untie
 解開
 to set free * release
 解除，開釋
-    Matedalayto ko roray no faloco' ako.
+    Matedalay to ko roray no faloco' ako.
     I am released from my burdens.
     我心中的苦痛已解除了，我心中千斤重壓解除了 
     Cima ko pakatedalay to rawraw niyam? 
@@ -2389,10 +2389,10 @@ to be shaken or jolted
 tefad
 to fall with literal and figurative meanings
 掉落，墮落，含字面上和比喻上的意義
-    Matefadto koya wawa nai kilag.
+    Matefad to koya wawa nai kilag.
     The child fell from a tree.
     那孩子從樹上跌落下來
-    Matefadto ko faloco' ako
+    Matefad to ko faloco' ako
     My heart fell / i.e. I lost hope / became disillusioned
     我已絕望了
     Yo lifeten no tawki cingra i, matefad to cigra.
@@ -2401,7 +2401,7 @@ to fall with literal and figurative meanings
     O maan ko matefaday?
     What fell?
     什麼東西掉下來
-    Matefadto ko gagan noya tadamaanay a tamdaw.
+    Matefad to ko gagan noya tadamaanay a tamdaw.
     That man of honor lost his reputatioin.
     那位有名望的人名譽掃地 (一落千丈)
 
@@ -2435,7 +2435,7 @@ to move upon * to empower
     Nanay tefigen no Kawas ko faloco' nira ta masalof cigra.
     May God move upon his heart and he changes.
     願上帝感動他的心，使他悔改
-    Matefigto no Kawas kako.
+    Matefig to no Kawas kako.
     I've experienced special power from God.
     我被上帝感動，我已經驗到了從上帝來的特殊力量
 
@@ -2622,7 +2622,7 @@ to cross one's legs
 tifek
 to mill grain
 碾米
-    Matifekto ko panay niyam.
+    Matifek to ko panay niyam.
     Our rice hase been milled.
     我們的殼子碾好了
 => pitifekan, tifekan
@@ -2723,7 +2723,7 @@ to weigh
     Tigtigen ta cipinag kita.
     Weigh it and then we'll know.
     稱起來我們才知道
-    Matigtigto konini a fotig.
+    Matigtig to konini a fotig.
     This fish is weighed.
     這條魚已經稱好了
 => dadoy, tatigtigan
@@ -2820,7 +2820,7 @@ to return * to come back to the starting point
     Patikoen ko nicaliwan iso a codad.
     Return the book you borrowed.
     把你借走的書歸還
-    Matatikoto ko faloco' niyam a malacecay.
+    Matatiko to ko faloco' niyam a malacecay.
     Our unity has been restored.
     我們倆已回心轉意，和好如初
     Mitiko cigra ihoni.
@@ -2889,7 +2889,7 @@ a trap made of string or twine
     他在佈設陷阱捕捉山豬
 tilo ni Idek - a rainbow
 彩虹
-    Masadakto ko tilo ni Idek.
+    Masadak to ko tilo ni Idek.
     A rainbow appeared.
     彩虹出現了
 => talakal
@@ -2912,7 +2912,7 @@ to be in pain of stiff from not changing position
 timol
 south
 南方
-    Talatimolto kami.
+    Talatimol to kami.
     We went south.
     我們要去南方
     Pakatimol ko rakat niyam.
@@ -2967,7 +2967,7 @@ biblical term for parable
     耶穌用很多比喻
 to experience
 生經驗，體會
-    Matinakoto ako ko matiraay a pades.
+    Matinako to ako ko matiraay a pades.
     I've experienced that kind of trouble.
     我已經體會過那種挫折了
 
@@ -3182,7 +3182,7 @@ belly * stomach
     Adada ko tiyad ako.
     My belly / stomach hurts.
     我肚子痛
-    Citiyadto cigra.
+    Citiyad to cigra.
     She has a belly / i.e. she is pregnant.
     她已有腹部了，她懷孕了
 
@@ -3259,7 +3259,7 @@ to sink
 tekek
 to snap * bite at * of snakes or birds
 咬，啄
-    Mitekekto ko 'oner.
+    Mitekek to ko 'oner.
     The snake bites.
     蛇在咬
 
@@ -3376,7 +3376,7 @@ to burn with large flames
 telag
 old * worn out
 老舊的
-    Matelagto ko riko' ako.
+    Matelag to ko riko' ako.
     My clothes are old.
     我的衣服已經老舊了
     O matelagay a codad konini.
@@ -3716,7 +3716,7 @@ to grow up * to mature
     O mato'asay cigra.
     He is an old man / a man to be respected.
     他是老人家/是可敬的人 
-    Mato'asto ko wawa iso anini.
+    Mato'as to ko wawa iso anini.
     Your child has grown up. 
     你的孩子已經長大了
     O samato'asay niyam cigra.
@@ -3761,12 +3761,12 @@ to be dark
     To'man ko kakarayan.
     The sky is dark.
     天黑
-    To'manto ko romi'ad. O dadayato.
+    To'man to ko romi'ad. O dadayato.
     The day is dark. It is evening.
     天黑了，已經是晚上了
 glowering
 形示不悅，怒目
-    To'manto ko pisig nira.
+    To'man to ko pisig nira.
     His face is glowering.
     他愁眉苦臉，他的臉上顯示不悅的樣子
     Sato'manen ita ko laloma'.
@@ -3862,7 +3862,7 @@ responsibility
 todoh
 to burn * generic form
 燃燒的總稱
-    Matodohto ko tatiplok.
+    Matodoh to ko tatiplok.
     The paper is burned.
     紙已被燒毀了
     Todohen koya lakaw.
@@ -3933,7 +3933,7 @@ to slander
 togal
 to increase * add more
 加，增加，添加
-    Matogalto ko roray no faloco' ako anini.
+    Matogal to ko roray no faloco' ako anini.
     I have even more burdens of concern now.
     現在我心中的煩惱有增無減
 => tolag
@@ -4007,7 +4007,7 @@ to be stuffy * have no fresh air * as a closed up house
 toka
 to be lazy
 懶惰
-    Matokato cigra.
+    Matoka to cigra.
     He is lazy.
     他是懶惰的人 
     
@@ -4206,7 +4206,7 @@ the end * final * the limits of
     Awaay ko tolas no taneg no Kawas.
     God's wisdom is unlimited.
     上帝的智慧是無限的
-    O tolasto no rakat ita.
+    O tolas to no rakat ita.
     We come this far and no farther.
     我們的行程到此為止
 
@@ -4825,7 +4825,7 @@ food saved
 trep
 to be silent * to stop activity
 安靜，沈默
-    Tomrepto ko wawa imatini.
+    Tomrep to ko wawa imatini.
     The children have stopped talking.
     現在小孩子已肅靜了
     Pasowal saho ci Yis 'i trep sato ko fali.

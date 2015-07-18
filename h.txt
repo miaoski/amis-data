@@ -1171,7 +1171,7 @@ to drop off
 落下，掉下
 to forgive
 赦免
-    Mahepolto ko raraw nira. 
+    Mahepol to ko raraw nira. 
     His sins are forgiven.
     他的罪已被赦免
 => spol
@@ -1184,7 +1184,7 @@ after something is done
     herek no lahok 
     after the noon meal
     午飯後…，午後，下午
-    Mapaherekto ko tayal nira. 
+    Mapaherek to ko tayal nira. 
     His work is finished.
     他的工作已經做完了
     I paherekan no tayal nira 

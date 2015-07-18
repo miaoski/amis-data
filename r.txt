@@ -206,7 +206,7 @@ easy * simple to do or handle
 rahrah
 to be ripe in color
 顏色已成熟
-    Marahrahto ko panay
+    Marahrah to ko panay
     The grain is ripe (in color).
     稻子已成熟了 (從顏色看起來)
     Caayho ka rahrah ko mami'.
@@ -374,7 +374,7 @@ to approach * come near * referring to time and people
     Raoden cigra.
     Go up to approach him.
     接近他
-    Maraodto ko romi'ad a minokay.
+    Maraod to ko romi'ad a minokay.
     The time has come to go home.
     回家的日子到了
 
@@ -878,7 +878,7 @@ hoof * as of pig or cow
 sadak
 to come out (from inside)
 出現，出走，流出，冒出，出來
-    Masadakto cigra nai pirofoan.
+    Masadak to cigra nai pirofoan.
     He has come out of prison.
     他已從監獄裡面出來了
     Pasadaken ko 'ayam.
@@ -910,7 +910,7 @@ the name of a species of grass that grows along side streams of water * it looks
 sadim
 a poison extracted from a plant * sprinkled on the surface of water to temporarily paralyze fish so they come to the surface and can be caught for eating 
 一種毒樹汁；毒藤，打碎後取其汁撒在水面上魚羣食後會死亡 (阿美族原始捉魚之方法之一)
-    Masadimto ko fotig.
+    Masadim to ko fotig.
     The fish are poisoned / stunned.
     魚被毒死了
 Wild Walnut
@@ -1459,10 +1459,10 @@ to turn up * to become evident
     Masamolal ko 'ogcoy no riyar.
     The rocks in the ocean can be seen (because the tide is out).
     海裡的岩石因退潮而顯露出來了
-    Masamolalto ko folad anini.
+    Masamolal to ko folad anini.
     The moon is starting to show a little sliver.
     月亮今天漸漸開始顯出細長條狀的形狀
-    Masamolalto ko nipalomaan ako a dateg.
+    Masamolal to ko nipalomaan ako a dateg.
     The vegetables I planted are starting to show.
     我播種的蔬菜已發芽了
 
@@ -1822,7 +1822,7 @@ to give up * quit
     O pisawad iso a mitamako ko ga'ay.
     You should quit smoking.
     你最好把香烟戒掉
-    Malasawadto ko niharategan ako.
+    Malasawad to ko niharategan ako.
     I have given up that thinking.
     我已經放棄那種思想
     masasawad ko kararamod
@@ -1830,7 +1830,7 @@ to give up * quit
     夫妻離婚
 to disappear * no longer exist
 失蹤，消失
-    Mapalasawadto koya niyaro'.
+    Mapalasawad to koya niyaro'.
     That village has ceased to exist.
     那個村落已成廢墟了
 to graduate
@@ -1906,7 +1906,7 @@ to fix something up so that it is neat and orderly
     Saysayen ko fokes iso.
     Fix up your hair.
     你的頭髮梳一梳
-    Masaysayto ko fali.
+    Masaysay to ko fali.
     The wind stopped blowing.
     風已平靜了
     Saysayen nira ko sowal niyam.
@@ -2970,12 +2970,12 @@ to dissolve
 so'or
 to melt
 溶化，溶解
-    Malaso'orto koya so^da.
+    Malaso'or to koya so^da.
     The ice has melted.
     冰雪溶化了
 to dissolve
 溶解，分解，氧化
-    Malaso'orto ko waneg i goyos nira.
+    Malaso'or to ko waneg i goyos nira.
     The sugar dissolved in his mouth.
     他嘴裡的糖溶化了
 => so'er, lasinol
@@ -3545,10 +3545,10 @@ to slide down * landslide
 滑落，滑動下來，崩坍
 to come down figuratively
 退化，降落，低落(比喻上)
-    Masrerto ko 'orip ita anini.
+    Masrer to ko 'orip ita anini.
     We have a less affluent life style now than before.
     現在我們的生活沒有以前富裕
-    Masrerto ko 'icel nira.
+    Masrer to ko 'icel nira.
     He has lost strength.
     他體力減退很多
     Masrer ko 'aca no dateg.
@@ -3596,16 +3596,16 @@ to literally cut * sever
 pastek
 to figuaratively cut something * i.e. to make a decision
 比喻上指對某些事物的決斷, 就是做某種決定
-    Mapastekto ko sowal.
+    Mapastek to ko sowal.
     The matter is settled / decided.
     話已決定，事情已決定
-    O nipastekanto a romi'ad anini.
+    O nipastekan to a romi'ad anini.
     This is the day that was set.
     今天是決定的日子
     Mapasteko i patay koya ciraraway a tamdaw.
     That sinner is condemned to death.
     那個罪人被宣判死刑
-    Mapastekto i raraw kika o tamdaw.
+    Mapastek to i raraw kika o tamdaw.
     We people have been condemned in sin.
     我們人類被定在罪中
 => stek
@@ -4116,7 +4116,7 @@ to vote for
 ritrit
 to cut (grain) with a sickle
 用鐮刀割 (稻子)
-    Maritritto ko panay.
+    Maritrit to ko panay.
     The grain has been cut.
     稻子已割完了
 => saritrit 
@@ -4230,7 +4230,7 @@ to paint * white-wash
 rnec
 to have everything one wants * no lack
 很滿足,沒有缺乏，很過癮
-    Marnecto kita a maro' i loma' iso.
+    Marnec to kita a maro' i loma' iso.
     We are abundantly provided for staying in your home.
     我們在你家做客很滿足
 
@@ -4273,7 +4273,7 @@ to concentrate on * give oneself to * be devoted to
 rocok
 to inherit * inheritance
 繼承，遺傳，承受
-    Marocokto ako ko omah no mama ako.
+    Marocok to ako ko omah no mama ako.
     I inherited my father's fields.
     我繼承我父親的田地
     Parocoken kako to dafog no ina ako.
@@ -4292,7 +4292,7 @@ choppy * rough sea
 rofo
 to imprison * put in prison with literal and figurative meanings
 下獄，禁閉，拘留，坐牢，含字面和比喻上的意義
-    Marofoto ko safa ako.
+    Marofo to ko safa ako.
     My brother is in prison.
     我弟弟已被關進牢裡
     Cima ko mirofoay cigraan?
@@ -4346,7 +4346,7 @@ to boil from heating
     Marokrok ko nanom.
     The water is boiling.
     水已滾開了
-    Marokrokto ko faloco' ako.
+    Marokrok to ko faloco' ako.
     My heart is boiling with anger.
     我已大發雷霆
 
@@ -4573,7 +4573,7 @@ neighbor
 repon
 to be finished * time is completed for an activity
 使完成，結束，債付清，補足
-    Mareponto ko pipatiko ita to tadah.
+    Marepon to ko pipatiko ita to tadah.
     We have paid off the debt.
     我們的債已付清了
 

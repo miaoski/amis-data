@@ -859,7 +859,7 @@ a basket to carry on shoulder for vegetables (from Amoy dialect)
 cecay 
 one * the first of in counting
 一，數算的第一，首位
-    Mapakacecayto kako.
+    Mapakacecay to kako.
     I am isolated from the rest / left alone.
     我被孤立, 身影孤單
 => hacecayen, kinacecay, sakacecay, alacecay
@@ -1671,7 +1671,7 @@ to sink into
     micelem i nanom 
     to dive into the water
     潛水
-    picelemanto no cidal 
+    piceleman to no cidal 
     at sunset
     日落時分，黃昏
     Tahacelem ko tayal ako. 

@@ -552,7 +552,7 @@ Japan * Japanese
 dipot 
 to take care of * including the rule or management of * to protect * hover over
 照顧，養育，扶養，包括治理或掌管，保護，徬徨，翱翔
-    Nanay kitato ko madadipotay. 
+    Nanay kita to ko madadipotay. 
     Let's get married.
     願我們互相照顧(讓我們結婚吧！)
 
@@ -676,7 +676,7 @@ screened so that something is not seen clearly
     Madodem no to'em ko cidal. 
     The sun is hidden by clouds.
     太陽被彩雲遮掩(所以天氣顯得陰暗)
-    Madodemto ko cidal. 
+    Madodem to ko cidal. 
     It is almost sunset.
     已經是黃昏時分了
     Madodem ko dadigoan ako. 

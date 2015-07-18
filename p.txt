@@ -658,13 +658,13 @@ to awaken * literally from sleep
 指從睡夢中驚醒過來
 to become aware * alert concerning
 醒悟
-    Aninito a mapalal ko faloco' iso. 
+    Anini to a mapalal ko faloco' iso. 
     At last you have come aware concerning ... 
     你今天終於醒悟過來
     Palalen cigra.
     Awaken him.
     叫醒他
-    Matalipa'lalto kako.
+    Matalipa'lal to kako.
     1. I was awakened suddenly.  2. I suddenly realized.
     1. 我忽然驚醒了  2. 我突然覺悟了
 
@@ -778,7 +778,7 @@ to restore something to its original condition
     Mapalolol ko nika ga'ay ita.
     Our relationship has been restored.
     我們和好如初
-    Mapalololto ko matastasay a palidig.
+    Mapalolol to ko matastasay a palidig.
     The vehicle has been restored * remade.
     車子已修復
 
@@ -1162,10 +1162,10 @@ to reveal
 公開，顯示
 confess * reveal
 承認，認罪，自認，啓示，告別
-    Mapatalahekalto koya demak
+    Mapatalahekal to koya demak
     The thing is revealed.
     事情已經被公開了
-    Patalahekalto ko raraw iso.
+    Patalahekal to ko raraw iso.
     Confess your sin.
     你要告白你的罪
 => hekal, talahekal
@@ -1193,10 +1193,10 @@ to substitute an item or person for the original
 patay
 death * to die
 死
-    Mapatayto cigra.
+    Mapatay to cigra.
     He died.
     他死了
-    Kinapatayto cigra.
+    Kinapatay to cigra.
     He killed himself.
     他自殺了
     O kapatayan nira a romi'ad
@@ -1213,7 +1213,7 @@ death * to die
     他是要被槍斃的人
 figurtatively to be crushed and despair
 比喻希望被粉碎和絕望
-    Mapatayto ko faloco' ako.
+    Mapatay to ko faloco' ako.
     I have lost my spirit.
     我的心已死了
 to go to extreme limits to do something
@@ -1280,7 +1280,7 @@ to build
     Mipatiregay cagra to loma' anini.
     They are building a house right now.
     他們現在正在建房子
-    Mapatiregto cigra a mala hogti.
+    Mapatireg to cigra a mala hogti.
     He was elected president / king.
     他已被封為王子，他已被選為總統了
 
@@ -1635,7 +1635,7 @@ the white pulp inside of a tree such as is used in making paper
 樹幹中間有白軟塊可作為紙張的原料
 to be empty * disappear, as the contents of a container 
 中空，如容器內面
-    Mapedohto / mahoracto ko lofoc ako.
+    Mapedoh to / mahorac to ko lofoc ako.
     My sack is empty (contents have disappeared / fallen out).
     我的袋子已空了(內裝的物品不見了或完全倒出來)
 => mipedoh, miletek
@@ -1966,7 +1966,7 @@ sign * evidence * clue
     Awaay ko pinag to demak nira.
     It is impossible to figure out what he is doing.
     無法了解他到底在做什麼
-    Cipinagto kako anini a miharateg.
+    Cipinag to kako anini a miharateg.
     I have some evidence now to go on in thinking.
     我現在已經有頭緒了
     Caay ka cipinag ko faloco' noya tamdaw.
@@ -2075,7 +2075,7 @@ to snag a thread
 pito
 seven
 七
-    Saka pito a romi'ad 'i pahanhanto ko Kawas.
+    Saka pito a romi'ad 'i pahanhan to ko Kawas.
     God rested the seventh day.
     第七天，上帝就休息
     Papito kita a tayra.
@@ -2135,7 +2135,7 @@ to destroy * collapse * fall apart * break up
     Aka pipleg to loma' ita.
     Don't destroy our home.
     不要破壞我們的家
-    Maplegto ko niyaro' nagra.
+    Mapleg to ko niyaro' nagra.
     Their village is destroyed.
     他們的部落被摧毀了
 
@@ -2207,7 +2207,7 @@ to get to the bottom of something * to expose * deal with
     Po'lacen ko sowal.
     Speak to issue.
     請詳細說明，請說清楚
-    Mapo'lacto anini koya demak.
+    Mapo'lac to anini koya demak.
     The matter has been exposed now.
     那件事情已經查出來了，已水落石出了
 
@@ -2372,7 +2372,7 @@ to fall * with literal and figurative meanings
     Ano romakat kiso 'i, aka ka po'lin.
     Don't fall when you walk.
     你走路時可不要跌倒
-    Mapolinto ko kitakit ita.
+    Mapolin to ko kitakit ita.
     Our country has fallen.
     我們的國家被打倒了，我們的國家亡了
     'Odoten nira koya tamdaw a mipolin.
@@ -2607,7 +2607,7 @@ to collapse into ruins
 倒塌，崩塌
 to landslide
 山崩
-    Maperarto koya lotok.
+    Maperar to koya lotok.
     The mountain came sliding down.
     那座山倒塌，山崩
 => kinaperar 
