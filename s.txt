@@ -270,7 +270,7 @@ more than ten
     Cisafaw ko fafoy niyam.
     We have more than ten pigs.
     我們有十幾頭豬
-    Ccay ko safaw ko fafoy niyam.
+    Cecay ko safaw ko fafoy niyam.
     We have eleven pigs
     我們有十一頭豬
     Safaw cecay ko fafoy niyam.
@@ -1801,7 +1801,7 @@ kettle * pan for cooking
 sipasip
 to apply to * rub on the surface of something
 撫，貼，塗，熬
-    Sipasipen no Israil ko rmes no siri i fawahan no loma'.
+    Sipasipen no Israil ko remes no siri i fawahan no loma'.
     The Israelites applied the blood of sheep to the doorways of their homes.
     以色列人把羊的血塗在門檻上
 to erase
@@ -2359,7 +2359,7 @@ to slacken * to release the tension
     Masofoy koya towaso.
     That rope is slack.
     繩子鬆了
-=> sfay, rfay
+=> sfay, refay
 
 sogidet
 to throw away mucus from the nose

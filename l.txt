@@ -151,14 +151,6 @@ to carry water from a well or other water supply to the home
 提水，挑水，汲水
 => radom
 
-lafac 
-(an animal) being loose and free to roam
-(動物) 飛掉或溜掉
-    Palafacen. 
-    Let the animal go free.
-    放走，釋放，把動物放生
-=> rafac
-
 lafades 
 trouble * to be tested * to have trials lasting for a long time
 困難，苦難，痛苦，試煉，受折磨
@@ -2722,17 +2714,17 @@ tusk of an animal
 動物長牙
 => packis
 
-ra'med
+raemed
 soft cushion-like * referring to flesh * food * kind of cloth or pillow 
 柔軟的，柔滑的；指肉體，食物，布料或枕頭的柔軟
-=> ra'mih
+=> raemih
 
-ra'mih
+raemih
 soft cushion-like * referring to flesh * food * a kind of cloth or pillow 
 柔軟的；指肉體，食物，布料或枕頭的柔軟
-=> ra'med
+=> raemed
 
-ra'sodan
+ra'esodan
 to cry in broken sobs
 啜泣，嗚咽
 
@@ -2790,13 +2782,17 @@ to carry water from water source
     All Amis used to carry water (from a well or spring).
     阿美族過去都是挑水飲用
 
-rafac
+lafac
 free to roam * referring to an animal loose
 自由自在，自由徜徉，指放走回歸於自然
-    Parafacen koya kolog ta ira a makilim nira ko kakaenen.
+    Palafacen koya kolog ta ira a makilim nira ko kakaenen.
     Let the water buffalo roam so he can find food.
     把牛放掉好讓牛能找到草吃
-=> lafac
+(an animal) being loose and free to roam
+(動物) 飛掉或溜掉
+    Palafacen. 
+    Let the animal go free.
+    放走，釋放，把動物放生
 
 rafar
 to slash-burn fields as they were burned in old days when people moved from place to place to farm the land
@@ -2848,13 +2844,13 @@ overflowing * of water
     我們臉盆的水溢出來了
 => rafi'
 
-rafraf
+laflaf
 to be inflamed with
 火燄熊熊狀
-    Sarafraf sa ko faloco' ako a maketer.
+    Salaflaf sa ko faloco' ako a maketer.
     I become inflamed with anger. 
     我氣的怒火上昇
-    Marafraf ko faloco' nagra a pasayra i ma'otitay a demak.
+    Malaflaf ko faloco' nagra a pasayra i ma'otitay a demak.
     Their hearts were inflamed toward perversion.
     他們沈迷在放縱情感和慾望上
 
@@ -2903,14 +2899,14 @@ to be pleased with * satisfied
     When I knew I was satisfied.
     當我知道後我非常高興
 
-rahmed
+rahemed
 soft * pliable in consistency, i. e. flour, quilt stuffing
 黏度柔軟，柔軟；粉末；棉被 (填塞物) 柔軟
 
-rahod
+lahod
 steam * vapor
 蒸汽
-    Cirahoday ko fali.
+    Cilahoday ko fali.
     The wind is vaporous / humid.
     風有熱氣
 
@@ -3132,7 +3128,7 @@ to sit and talk on and on ignoring work to be done
     Pararaen cigra.
     Because he is slow let him go first. (either to walk ahead or eat before the rest)
     讓他先走 (因走路慢) (讓他人先走或讓人比別人先吃)
-    Harara sa cigra takowanan.
+    Harara sa cigra i takowanan.
     He was continually begging from me (keeping me from getting my work done).
     他一直向我乞求，他一直纏著我不放
     Sarara sa cigra.
@@ -3182,7 +3178,7 @@ as used in the biblical context it has become the word sin
     Moraraw / mararaw ko caciyaw ako
     I said the wrong thing.
     我說錯了話
-    Pararaw koya tamdaw takowanan.
+    Pararaw koya tamdaw i takowanan.
     He made me out to be a sinner (when I was innocent).
     他把罪加諸於我(他誣賴我)
     Mapararaw nira kako.
@@ -3221,7 +3217,7 @@ Steere's Babbler
 rarid
 continually * always
 經常的，連續的，
-    Mararid ko olah nira takowanan.
+    Mararid ko olah nira i takowanan.
     His love towards me is continual * constant.
     他對我的愛永遠不變
     Rariden ko tayal iso.
@@ -3367,7 +3363,7 @@ to be worried * upset
     Sarawraw saan ko faloco' ako.
     I am in a state of upset.
     我心情很煩亂
-    Ira ko parawraway takowanan.
+    Ira ko parawraway i takowanan.
     Someone is causing me to be upset.
     有人擾亂我，有人為難我
     Rarawraw ko salikaka to pakayniay i nika patay no tomok.
@@ -3418,7 +3414,7 @@ the connection between each sequence
 順序的承續轉接
 => rayray
 
-rcep
+recep
 to soak into * with reference to liquid
 滲透，浸濕
 
@@ -3434,13 +3430,13 @@ small pottery pieces
 小碎片 (飛躍出去)
 => recik
 
-rda'
+reda'
 to sleep soundly without awaking 
 熟睡，喚不醒
-    Parda'en no Kawas cigra a pakafoti'.
+    Pareda'en no Kawas cigra a pakafoti'.
     God caused him to sleep a deep sleep.
     上帝使他沉睡
-    Pasarda'sa cigra a mafoti'.
+    Pasareda'sa cigra a mafoti'.
     He was fast asleep
     他立刻熟睡
 => sela'
@@ -3716,7 +3712,7 @@ more than ten
     Cisafaw ko fafoy niyam.
     We have more than ten pigs.
     我們有十幾頭豬
-    Ccay ko safaw ko fafoy niyam.
+    Cecay ko safaw ko fafoy niyam.
     We have eleven pigs
     我們有十一頭豬
     Safaw cecay ko fafoy niyam.
@@ -5247,7 +5243,7 @@ kettle * pan for cooking
 sipasip
 to apply to * rub on the surface of something
 撫，貼，塗，熬
-    Sipasipen no Israil ko rmes no siri i fawahan no loma'.
+    Sipasipen no Israil ko remes no siri i fawahan no loma'.
     The Israelites applied the blood of sheep to the doorways of their homes.
     以色列人把羊的血塗在門檻上
 to erase
@@ -5805,7 +5801,7 @@ to slacken * to release the tension
     Masofoy koya towaso.
     That rope is slack.
     繩子鬆了
-=> sfay, rfay
+=> sfay, refay
 
 sogidet
 to throw away mucus from the nose
@@ -6397,18 +6393,18 @@ soka' = hoka'
 sokap = hokap
 
 
-rdat
+redat
 to split apart at the seam, place where stitching has come apart 
 縫合線上(所裂開之處)；縫合傷口處 (扯裂處)
-    Mardat koya ina a mahofoc.
+    Maredat koya ina a mahofoc.
     The mother was torn in childbirth.
     母親生產時有撕裂之痛
 
-rdek
+redek
 mana * the special spiritual power an animist has found in his clothing or possessions, giving him power to cause sickness or swellings.  Such effects of his power must be divined by mediums. 
 魔力精靈信仰中之超然力量，在他的衣服或所有物中發現給致人於病或腫脹的力量，他的這些力量必須經由巫師來
 
-rdes
+redes
 to swell and become infected
 使腫脹和感染
 => lades
@@ -6469,29 +6465,29 @@ retret
 to cut around and through something round with a knife i.e. bamboo or wood
 沿著竹子或木頭的周圍用小刀慢慢割斷的動作
 
-rfay
+refay
 to be slack * not pulled in tension
 鬆弛，鬆脫，沒有 緊
-    Marfay ko towaso.
+    Marefay ko towaso.
     The rope is slack.
     粗繩已鬆弛了
 => sfay
 
-rfog
+refog
 a hollowed out piece of ground * a hole
 在地上挖洞或井，洞穴
-=> talarfog 
+=> talarefog 
 
-talarfog
+talarefog
 to fall in a gully
 掉進洞裡
-=> rfog
+=> refog
 
-rget
+reget
 a red head-band which is part of the Amis festive costume
 紅帶子，阿美族節日的服飾(綁在頭上)的一部份
 
-rgos
+regos
 grass * the generic for small grass that grows near the ground
 草的總稱
 
@@ -6515,21 +6511,21 @@ to whiten teeth
 牙齒刷白
 => cdes
 
-ri'rid
+ri^rid
 the act of a leader to guide * lead on a trail * keep company with in crossing a street 1. in caring for students 2. leading cattle or sheep
 領袖引導的行動，拖著走，牽著同體過街 1. 照料學生 2. 牽牛或羊
 => ridrid, kerid
 
-ri'rir
+ri^rir
 to lead around and show the way
 引導，嚮導，帶路
-=> ri'rid
+=> ri^rid
 
 ricaric
 to rub in ones hands * as to shell out vegetable seeds 
 搓，揉，如搓揉蔬菜的種子
 
-ridrid = ri'rid
+ridrid = ri^rid
 
 rifowas
 to overflow * of water
@@ -6604,23 +6600,23 @@ the ridge on the edge of a rice paddy * the dikes between flooded fields
 田埂界路
 => rixi', rako, 'araneg, caghwa
 
-rihnac
+rihenac
 to use tongue to lick
 用舌頭舔東西
 
-rihnaw
+rihenaw
 to have fear *as the fear of an enemy
 恐懼，畏懼，担心，提心吊膽
 
-rikaot
+likaot
 to bend metal
 使鐵彎曲
-    Marikaot koyw marad.
+    Malikaot koya marad.
     That metal is bent
     那根鐵是彎的
 to bend figuratively
 比喻上弄彎
-    Aka rikaoten ko sowal.
+    Aka likaoten ko sowal.
     Don't talk around the subject. / i.e. Speak directly to the point.
     說話不要拐彎抹角
 
@@ -6646,7 +6642,7 @@ clothing
     Pariko'en ko wawa.
     Clothe the child.
     給小孩穿衣服
-    Misariko' kako imatini.
+    Misariko' kako i matini.
     I am dressing right now.
     我現正在穿衣服
     O maan ko nisariko'an iso itiya?
@@ -6660,7 +6656,7 @@ behind * in the back of * after
     parikor to sowal
     to give a farewell message
     臨走前的囑咐或叮嚀
-    Narikoran iso 'i, adada cigra.
+    Narikoran iso i, adada cigra.
     After you left he got sick.
     你走後不久，他就生病
     I rarikor cigra a maro'.
@@ -6687,7 +6683,7 @@ smooth
 平滑的
 referring to water or a table or a floor 
 意指水或桌子或地板的平滑
-    Palimo'ot sa ci Yis 'i, sarimadac sa ko nanom.
+    Palimo'ot sa ci Yis i, sarimadac sa ko nanom.
     Jesus commanded and the water became smooth.
     耶穌叱責後, 水就平靜了
     Sarimadac sa ko paenan no loma' iso.
@@ -6853,22 +6849,22 @@ the ridge on the edge of a rice paddy * dividing dike between fields
 田埂，稻田的界路
 => rihi, rako, 'araneg, caghwa
 
-riyad
+liyad
 groups following each other in succession
 人羣一團跟著一團
-    Ihakowa a riyad kiso a misawad a mitilid?
+    Ihakowa a liyad kiso a misawad a mitilid?
     What class did you graduate with? 
     你是那一屆的畢業生
 vehicles follow each other in succession
 車子一部接著一部
 sections of writings following one another * lessons * chapters
 文章一篇接一篇，著述第幾章第幾節
-=> liyad, masariyariyad
+=> liyad, masaliyaliyad
 
-masariyariyad
+masariyaliyad
 groups coming in succession
 團體接連着
-=> riyad
+=> liyad
 
 
 # p.253
@@ -6884,33 +6880,33 @@ riyo
 arm bands worn by women
 手臂環
 
-rkad
+rekad
 a small group * includes people and living things as well as inanimate things
 一個小群體，意旨包括人及有生命的和無生命的東西
-    Ccay a rkad ko papalidigen.
+    Cecay a rekad ko papalidigen.
     One wagon load must be taken.
     必須搬運一台車
-    Pina a rkad ko aalaen ita?
+    Pina a rekad ko aalaen ita?
     How many loads of packaged things do we have to take?
     我們要拿幾種東西?
-    Pina a rkad ko aasipen ita?
+    Pina a rekad ko aasipen ita?
     How many paragraphs do we need to read?
     我們要讀幾段?
-    Tosa a rkad ko nipasadakan ako a tikami.
+    Tosa a rekad ko nipasadakan ako a tikami.
     I put out two mailings of letters.
     我寄兩次信出去了
-    o kasarkad
+    o kasarekad
     each and all of the groups
     每一團，每一群和全體
 
-rken
+reken
 to press down upon and hold
 壓抑用手(向下壓)，從上面向下按 (壓) 住
 
-rko
+reko
 to finish * to do as told
 完成，完畢，做完，做好
-    O mirkoay to tayal konini a wawa.
+    O mirekoay to tayal konini a wawa.
     This child did his work according to directions.
     這小孩照著只是完成他的工作
     Rkoen ita ko limo'ot ni Yis.
@@ -6921,44 +6917,44 @@ rekoh
 to sit (at home) and do nothing
 蟄居家中，無所事事 
 
-rmes
+remes
 blood 
 血
-    Parmesen ko cacafian.
+    Paremesen ko cacafi'an.
     Put blook on the doorposts.
     把血塗在門檻上
-    Tano rmes sato ko tireg nagra.
+    Tano remes sato ko tireg nagra.
     Blood flowed from their bodies.
     他們滿身都是血
-=> 'ilag, cirmesay, marmesay
+=> 'ilag, ciremesay, maremesay
 
-cirmesay
+ciremesay
 bloody
 有血的，流血的
-=> marmesay, rmes
+=> maremesay, remes
 
 renaf
 to paint * white-wash
 繪，塗，刷白
 => lenaf, tenal
 
-rnec
+renec
 to have everything one wants * no lack
 很滿足,沒有缺乏，很過癮
-    Marnec to kita a maro' i loma' iso.
+    Marenec to kita a maro' i loma' iso.
     We are abundantly provided for staying in your home.
     我們在你家做客很滿足
 
 
 # p.254
 
-rnok
+renok
 to approach
 接近，侵犯，襲擊，歸屬
-    O pirnokan ita ko Wama a Kawas.
+    O pirenokan ita ko Wama a Kawas.
     God the Father is the place we can go to / approach.
     天父上帝是我們的歸屬
-    Pirnok kiso i cigraan.
+    Pirenok kiso i cigraan.
     Go to him.
     去接近他
 => raod
@@ -6978,7 +6974,7 @@ with each having his own
 rocod
 to concentrate on * give oneself to * be devoted to
 專心，全神貫注，專注
-    Masarocod ko faloco niyam a matayal tonini.
+    Masarocod ko faloco' niyam a matayal tonini.
     Our hearts are united / set to do this task.
     我們很專心做這份工作
     Sarocoden ko harateg iso.
@@ -6995,7 +6991,7 @@ to inherit * inheritance
     Give me an inheritance of part of my mother's things.
     請分配我母親一部分遺產給我
 
-rodiheg
+rodihag
 an echo * to echo
 回聲，反響
 => lodihag
@@ -7068,12 +7064,12 @@ to boil from heating
 roma
 other * another
 別的，其他，另外
-    O roma a tamdaw 'i maolah cigraan. O roma 'i caay ka olah.
+    O roma a tamdaw i maolah cigraan. O roma i caay ka olah.
     Some people like him; some don't
     有人喜歡他也有人不喜歡他
 different
 不同的
-    O romao roma ko niyaro' ita.
+    O roma, o roma ko niyaro' ita.
     Our village is continually changing.
     我們的村落不斷地在改變
     Misaromaroma cigra to demak.
@@ -7141,7 +7137,7 @@ to narrow * to become narrow
 ronag
 to roll in mud or dirt and filth
 在泥濘中打滾或塵埃及污穢中 (如水牛，豬或其他動物)
-    Maronag ko kolog i magota'ay a nanom.
+    Mironag ko kolog i magota'ay a nanom.
     The water buffalo rolled in dirty water.
     水牛在泥水中打滾
 
@@ -7194,7 +7190,7 @@ weary * harrassed in mind
     我的身體很疲倦
 to be tired in body
 身體疲倦
-    Aka pipakaroray takowanan.
+    Aka pipakaroray i takowanan.
     Don't bother me.
     請不要煩我
 
@@ -7257,31 +7253,31 @@ to shed fluid from inside the body, such as tears * perspiration * blood
     His tears ran down.
     他流出眼淚來
 
-rpat
+repat
 to be torn * broken * to need repair
 扯裂，破損，需要修理
-    Marpat ko koliciw.
+    Marepat ko koliciw.
     The bicycle is broken.
     腳踏車壞了
 
-rpet
+repet
 to grab * hold on to * grasp
 抓住 , 抓
 to catch * arrest
 抓住，留住，逮捕，捕捉
-    Marpet no sofitay ci Yis a mapalit.
+    Marepet no sofitay ci Yis a mapalit.
     Jesus was arrested by soldiers and tied up.
     耶穌被士兵逮捕而被捆綁
 
-rpig
+repig
 next to
 隔壁
-    Mirpig cigra takowanan a maro'
+    Mirepig cigra i takowanan a maro'
     She was sitting next to me.
     他坐在我旁邊
 neighbor
 鄰居
-    Mararpigay ko loma' niyam.
+    Marepigay ko loma' niyam.
     Our two houses are next to each other/ i.e. we are neighbors.
     我們的家櫛比而居,我們是鄰居
 
@@ -7292,19 +7288,19 @@ to be finished * time is completed for an activity
     We have paid off the debt.
     我們的債已付清了
 
-rsap
+resap
 to roam and graze
 播撒，漫地走動，瀰漫
 to crawl around on
 成羣蠕動
 
-rtep
+letep
 to catch * overtake
 趕上，撞見，撞聞
-    Martep ako ko tatiihay a sowal nira.
+    Maletep ako ko tatiihay a sowal nira.
     I caught the bad things he was saying in time (stopped the talk).
     他說的壞話，正好被我竊聽到他正在說壞話
-    Martep ako ko demak nira.
+    Maletep ako ko demak nira.
     I overtook him in what he was doing (redoing the wrong direction of his acts).
     他做的壞事正好被我看到 (屢次再犯的前罪)
 => takop
