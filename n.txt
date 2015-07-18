@@ -283,16 +283,16 @@ a grammatical marker indicating a way of thinking that has ceased to exist
 
 # p.200
 
-natawran
+nataoran
 name of an Amis village and clan
 花蓮縣吉安鄉田埔部落名
 
 naw
 why?
 為什麼？
-=> nawiro, mana, nawhani
+=> naw^iro, mana, nawhani
 
-nawiro
+naw^iro
 why?
 為何？
 for what purpose?
@@ -301,7 +301,7 @@ what was the cause?
 甚麼原因
 => mana
 
-mana = nawiro
+mana = naw^iro
 
 nawhani
 because * for
@@ -384,7 +384,7 @@ nemnem
 a spring of water 
 泉水，水源
 
-nfak
+nefak
 to be furrowed
 田地犁過後使成眭，中間有犁溝
 => defak, rinafo
@@ -517,7 +517,7 @@ the ego * self
     Ono niyah a harateg ko dado^doen. 
     One should follow his personal opinions / ideas.
     要按照自己的想法去遵行
-    Payniyaniyah / Paytmek kita a mitolon
+    Payniyaniyah / Paitemek kita a mitolon
     Let us each pray his own prayer.
     我們各自禱告
 => no tireg
@@ -555,7 +555,7 @@ a place to establish a village when the group moves
 部落的所在地，部落的位置
 => niyaro'
 
-nker
+neker
 to press down firmly and hold * to pin down
 被壓倒，壓制，被按住使不能動彈
 

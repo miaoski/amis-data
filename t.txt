@@ -3537,7 +3537,7 @@ to burp up food
 to hiccup
 打嗝
 
-tmek
+temek
 secretly
 秘密地，悄悄地，暗暗地
     Tmeken nira ko demak.
@@ -3545,7 +3545,7 @@ secretly
     他暗地殺動物做菜餚
 to do as self desires
 私自做自己所期望的
-    Paytmek / pitmek kita a minokay
+    Paitemek / pitemek kita a minokay
     Each of us will go home on his own.
     他們各自回家
 

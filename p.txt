@@ -1488,7 +1488,7 @@ money bag * purse
 錢袋，錢包
 => payso
 
-paytmek
+paitemek
 to each do his own way * do his own thing * individually
 各做各的，自掃門前雪
 => payniyah
