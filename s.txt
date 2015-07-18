@@ -124,12 +124,12 @@ to drain through a sieve or reed basket drainer
 saan
 a grammatical particle indicating a quotation mark marking the end of someone's words or thoughts
 文法上含概著許多自己意念的表達：一個句子的最後一個語氣的懇定
-    O sowal nira 'i, o tatayni kako saan.
+    O sowal nira i, o tatayni kako saan.
     He said he would come.
     他說：「我本來要來的」。
 a grammatical particle indicating a sequence marker
 文法上含概著許多自己意念的表達：連接詞
-    Maherek kako a milicay 'i, sowal saan cigra
+    Maherek kako a milicay i, sowal saan cigra
     When I finished asking, he responded by saying ...
     我問完他以後，他就說：「……」
 => sa
@@ -1035,7 +1035,7 @@ shampoo made from the ashes of straw
 satadamata
 to look very closely at something
 密切注意，專注，看清楚 
-    Satadamatamata han ako a minegneg 'i, caay ka hapinag ako.  
+    Satadamatamata han ako a minegneg i, caay ka hapinag ako.  
     I looked very closely at it but couldn't make out what it was.
     我靠近地看它但還是不能看出那是什麼東西
 
@@ -1068,7 +1068,7 @@ a dry measure for measuring grain
 稱量器，量杯，斗量
 a grammatical particle indicating a response at a point of time in the sequence of action
 在文法是指時態的關聯
-    Yo mategil ako ko sowal nira 'i, keter sato kako.
+    Yo mategil ako ko sowal nira i, keter sato kako.
     When I heard what he said I became angry.
     當我聽到他說的話後，我很生氣
 
@@ -1310,7 +1310,7 @@ fear * the kind of fear makes a person avoid a situation out of experience of ge
     Caay ka sfel koya fafahi.
     That wife is enduring i.e. she does not leave the situation.
     那位太太很堅忍, 他沒有逃避現實
-    Minegneg koya wawa to kiyafes 'i, masfelto.
+    Minegneg koya wawa to kiyafes i, masfelto.
     When the child sees the guavas he is afraid (to pick them because of former punishment).
     當那小孩子看見番石榴時，他不敢摘下他們，由於前次的教訓
 => cenon
@@ -2541,7 +2541,7 @@ to string together
 somad
 feelings of sadness * mixed feelings 
 傷心，悲傷；混亂
-    Yo paka'araw kako to ina nira 'i, masomad ko faloco' ako.
+    Yo paka'araw kako to ina nira i, masomad ko faloco' ako.
     When I saw his mother I had sad mixed up feelings.
     當我看到他母親的時候，我心裡很難過
 => 'iwil
@@ -2922,7 +2922,7 @@ to come loose from
 (鋤頭)脫落，解脫
 to collapse from hunger literally or figuratively
 指字面上或比喻上的，因飢餓而崩潰
-    Ano misaliway to tolo a romi'ad 'i, masto' kita.
+    Ano misaliway to tolo a romi'ad i, masto' kita.
     If we fast three days we will be faint with hunger.
     如果我們禁食三天，全身就軟弱無力
     Masto'to cigra to nika adihay no ni'orogan nira.
