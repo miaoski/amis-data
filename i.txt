@@ -4,7 +4,7 @@ i
 a grammatical particle indicating place or time past
 地點，過去的時間
 
-i'ic 
+'i'ic 
 a white vegetation growing on trees * a kind of mushroom
 寄生於木頭上的香菇、蕈類
 
@@ -14,23 +14,23 @@ recent past time * the intervening time being marked by lengthened vowel
 => icilaayho, cila
 
 icilaayho 
-recently * not long ago
-不久前，最近地
+recently * not long ago (also i cilaay ho)
+不久前，最近地 (或寫作 i cilaay ho)
 => icila
 
 icowa 
-where?
-在哪裏？在哪兒？在何處？
+where? (also i cowa)
+在哪裏？在哪兒？在何處？ (或寫作 i cowa)
 => icowaay, icowacowa, cowa
 
 icowaay 
-which one?
-那一個？那一件？那一樁(事)？
+which one? (also i cowaay)
+那一個？那一件？那一樁(事)？ (或寫作 i cowaay)
 => icowa, cowa
 
 icowacowa 
-everywhere
-到處
+everywhere (also icowacowa)
+到處 (或寫作 i cowacowa)
 wherever
 任何地方
 => icowa
@@ -55,7 +55,7 @@ idek
     rainbow
     彩虹
 
-ifnek 
+ifenek 
 one who works hard by nature without being told what to do
 努力工作從不間斷，勤勉，勤奮
 
@@ -67,22 +67,22 @@ next to * along side of * near
     他旁邊的，他的鄰居，他的鄰座
 
 igki 
-ink (from Japanese and English)
-墨汁 (引自日文及英文)
+ink (from Japanized English)
+墨汁 (引自日文化的英文)
 
 igpic 
 pencil (from Japanese)
 鉛筆 (引自日語)
 
 ihakowa
-when? (past time)
-何時，甚麼時候 (過去式)
-=> ihacowa
+when? (past time) (also i hakowa)
+何時，甚麼時候 (過去式) (或寫作 i hakowa)
+=> ihacowa, hakowa
 
 ihoni
 a little bit ago * just a moment ago
 剛才，方才
-=> isoni
+=> isoni, honi
 
 iki 
 an exclamation marker expressing a reaction to something either good or bad
@@ -110,7 +110,7 @@ in position of being behind
 在後面，以後，將來
 afterwards
 後來，以後
-    o iikoray 
+    o i ikoray 
     those who come afterwards
     後面的，後到的，遲到的
 => ikor
@@ -140,9 +140,9 @@ object of physical desire * especially the focus of sexual desire
 => imah
 
 imatini
-right now
-現在，此刻
-=> hatini, iromatini
+right now (also i matini)
+現在，此刻 (或寫作 i matini)
+=> hatini, iromatini, matini
 
 imeg
 policeman (from Amoy dialect)
@@ -184,7 +184,10 @@ to play adult activities * imitative play of children
 
 inacila 
 recent past time * yesterday * with lengthened vowel (inaci:la) may point back several days
-不久前，昨天，前些日子
+不久前，昨天，前些日子 (或寫作 i nacila)
+=> nacila
+
+nacila = inacila
 
 inafaran
 the name of an Amis village
@@ -313,13 +316,13 @@ us * we * including both the speaker and hearer * a pronoun
 我們(包括說者與聽者)；代名詞
 
 itini 
-here * place pronoun 
-這裡，這兒；地方代名詞
+here * place pronoun (also i tini)
+這裡，這兒；地方代名詞 (或寫作 i tini)
 => itinien, hakitinien
 
 itinien 
-put (it) here.
-放在這裡，置於此地
+put (it) here. (also i tinien)
+放在這裡，置於此地 (或寫作 i tinien)
     Itinienho. 
     Put it here for awhile.
     暫時擱在這兒
@@ -331,9 +334,9 @@ start here
 => itini
 
 itira 
-there * place pronoun 
-在那兒；地方代名詞
-    Itiraen.
+there * place pronoun (also i tira)
+在那兒；地方代名詞 (或寫作 i tira)
+    I tiraen.
     Put (it) there.
     置於那裏
 => mikitira, pakitiraen, itiraaw, hakitira
@@ -349,14 +352,14 @@ place there temporarily
 => itira
 
 itiraaw 
-refers to a position away from the speaker * the distance being indicated by the length of the vowel.
-指示這與說話者離一段距離，其確實距離是依據母音的長度而定。
+refers to a position away from the speaker * the distance being indicated by the length of the vowel. (also i tiraaw)
+指示這與說話者離一段距離，其確實距離是依據母音的長度而定。(或寫作 i tiraaw)
 => itira
 
 itiya 
-then * at that point in time
-當時，那時，彼時
-    o itiyaayho a tamdaw 
+then * at that point in time (also i tiya)
+當時，那時，彼時 (或寫作 i tiya)
+    o i tiyaay ho a tamdaw 
     the people of a former time
     早期的人，古代的人, 以前的人
     nanitiya aca 
@@ -365,13 +368,13 @@ then * at that point in time
 => itiyaho, itiyato
 
 itiyaho 
-a long time ago
-從前
+a long time ago (also i tiya ho)
+從前 (或寫作 i tiya ho)
 => itiya
 
 itiyato 
-at that point (a change comes)
-就在那時(變化，改變，變遷，臨到)
+at that point (a change comes) (also i tiya to)
+就在那時(變化，改變，變遷，臨到) (或寫作 i tiya to)
 => itiya
 
 iwatan
@@ -386,3 +389,8 @@ Manowan = iwatan
 iyo 
 an exclamation meaning disgust to draw attention to the hearer
 驚嘆的意義
+medicine
+藥
+    iyo no fitoka
+    medicine for stomach
+    胃藥(引自閩南語)
