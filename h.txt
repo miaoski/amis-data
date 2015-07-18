@@ -13,7 +13,7 @@ a prefix used in the south on many words
 haca
 again * repeated activity
 再一次，重覆的行動
-=> hca
+=> heca
 
 haciriwan
 eight crossings
@@ -68,7 +68,7 @@ to be disturbed by noise
 被吵雜的聲音打擾(煩惱，厭煩)
 => sagil
 
-hadfek
+hadefek
 to be wiped out * die * as from war or plague * with literal and figurative meaning
 消滅，由於戰爭或天災導致多數人死亡，一家人，一隊軍人一船人等凡各種單位的人羣全部死亡無生還者均可以用此字表示；字面及隱喻之意義均有
 => tkop
@@ -77,10 +77,9 @@ hadhad
 dry farm land * land not flooded with water
 旱地，旱田，陸地
 
-hadidi
+hadi^di
 patient * forbearing in the face of trouble * able to go through hardship * to continue without giving up 
 忍耐，耐心，耐力；忍耐到底，不輕易放棄
-=> hadi'di
 
 hadimel 
 to fix up nice * as to work up the ground * as to arrange furnishings in the home * to take care of personal appearance
@@ -89,6 +88,9 @@ to fix up nice * as to work up the ground * as to arrange furnishings in the hom
 hadokhok 
 to cry from mixed emotions of memories * as when seeing someone you have not seen for a long time
 從記憶的複雜情緒所引起的飲泣，如見到久未謀面的親友而喜極而泣
+=> hadokihok
+
+hadokihok = hadokhok
 
 
 # p.109
@@ -102,7 +104,7 @@ such as this * like this
     Mahaen ko sowal. nira. 
     That is what he said.
     他是這樣說的
-    O tatiihay a tamdaw 'i kinahated hanto ao tatiihay ko demak. 
+    O tatiihay a tamdaw i kinahated hanto ao tatiihay ko demak. 
     An evil person persists in not changing his ways (literally: always the same) .
     任由惡人做壞事
 
@@ -131,10 +133,10 @@ hafotigay
 a tree
 燈稱花(樹名) 
 
-haftoy
+hafetoy
 calf of the leg
 小腿
-=> 'aftoy
+=> 'afetoy
 
 haherher
 Milk Three * Common Yellow Stem-fig
@@ -145,18 +147,24 @@ hahidaw
 a cape wrap around
 胸披
 
-hai 
+hai
 yes * that is right
 是，對
 to agree
 贊成
-    Mihai cigra to sowal ita. 
+    Mihay cigra to sowal ita. 
     He agreed to what we said.
     他贊成我們說的話
+=> hay
+
+hay = hai
 
 hakap 
 to touch lightly * intending to find out the identity of an object
 觸摸，輕撫(以確定物體)
+=> sakap
+
+sakap = hakap
 
 hakeno
 a statement that you do not know 
@@ -166,7 +174,9 @@ to ex press noncommitment * to be evasive
     Mihakeno ci Pitiro ci Yisan. 
     Peter denied Jesus / was evasive about his relationship.
     彼得否認耶穌
-=> hayken
+=> hayken, haiken
+
+haiken = hakeno
 
 hakhak 
 milled rice from falinono * a kind of rice used to make glutinous rice bread or feast rice
@@ -205,26 +215,26 @@ hakiya
 verbal question mark * meaning is less than obvious * provoking thought
 口頭上的疑問句，意義不明顯，引發思想
 
-haklog 
+hakelog 
 to go along with (literally)
 字面上是同行的意思
-    Malahaklog kami tatosa. 
+    Malahakelog kami tatosa. 
     The two of us went together.
     我們兩個同行，我們倆相伴而行
-    Cihaklog kako. 
+    Cihakelog kako. 
     I have someone to go with me.
     我有夥伴同行
-=> mapahaklog
+=> mapahakelog
 to comply with * obey
 順從，服從
     Haklogen ko sowal no mama ato ina. 
     Obey your parents.
     要順從父母親的話
 
-mapahaklog 
+mapahakelog 
 taken alog with * as a child by his mother
 使某人跟著某人同行如叫孩子與母親同行
-=> haklog
+=> hakelog
 
 
 hako 
@@ -345,7 +355,7 @@ See halo.  The difference between halo and haloya is that the second points to a
 
 # p.112
 
-hamdac 
+hamedac 
 to concentrate on only one food * not eating any other food like rice
 只吃菜不吃飯
 
@@ -387,12 +397,12 @@ hanaghag
 pain * a burning feeling
 疼痛，辛辣之痛
 
-hanakliw
+hanakeliw
 China Grass * Ramie from which cloth is made 
 青苧麻，能製作布料
-a wild plant similar to kliw but not used for making cloth
+a wild plant similar to keliw but not used for making cloth
 野生植物，類似青苧麻，但不用來做衣料
-=> kliw, higliw
+=> keliw, higliw
 
 hananay 
 so called * belonging to that class.  See Appendix 1.
@@ -460,7 +470,7 @@ to make clear * confirm
 to decide
 決定
 
-hapric
+haperic
 to strip off grain from the stalk
 從五穀的穗軸上下撥弄將榖料剝落下來
 => soprit
@@ -487,10 +497,10 @@ thoughts * thinking * point of view
     Harategen ko sowal nira. 
     Don't forget; remember what he said.
     他是要我考慮(思考)什麼，要記住他的話
-    O papiharateg nira takowanan to so'linay a demak konini.
+    O papiharateg nira i takowanan to so'elinay a demak konini.
     What he is doing is making me consider what I really ought to do.
     他是要我考慮(思想)什麼是我該做的
-    nao harateg ako 'i 
+    nao harateg ako i 
     what I had thought was...
     我原來的想法是…
     harateg sa kako 
@@ -513,10 +523,10 @@ Harawan = harawan
 
 # p.114
 
-hardo
+haredo
 swamp grass * reeds * has stalks used for poles
 生長在沼澤地方的植物，蓆草
-=> 'ardo
+=> 'aredo
 
 haregheg 
 the sound of waves or the sound of approaching vehicles or plane
@@ -527,7 +537,7 @@ to be finished * completed
 完了，完畢
 after something is done
 事完之後
-=> hrek
+=> herek
 
 hata
 flag (from Japanese)
@@ -553,10 +563,10 @@ haterter
 bumpy * as a washboard road
 跌倒，屁股著地的現象
 
-hatfo
+hatefo
 to leap * jump from above
 跳下去，跳進，衝進，衝擊
-=> hitfo
+=> hitefo
 
 hatini 
 like this * the norm * the way something is done
@@ -564,7 +574,7 @@ like this * the norm * the way something is done
     Hatinien ko demak. 
     Do it like this (standard) .
     要這樣做(標準)
-    To hatiniay 'i, awaay ko nanom niyam. 
+    To hatiniay i, awaay ko nanom niyam. 
     All this time we have had no water.
     長久以來(從不知的過去一直到現在) 我們都缺水
 time word with particles attached
@@ -572,7 +582,7 @@ time word with particles attached
     ano hatini / imatini.
     right now * present time
     現在，此刻，這時
-    To hatiniay a halafin 'i 
+    To hatiniay a halafin i 
     All this time...
     一直到現在
 => matini
@@ -588,7 +598,7 @@ like that * state
 => matira
 that standard
 那個標準
-    ano hatira 'i 
+    ano hatira i 
     in that case
     如果是那樣的話
     Hatiraen ko demak. 
@@ -661,73 +671,73 @@ consent * agree * allow * permit
     Don't stop yet.
     請持續不要停止
 
-hca
+heca
 again * repeated activity
 再來，重來，重覆的行動
 => haca
 
-hcek 
+hecek 
 a beam * large pieces of wood * post * wooden pillar 
 柱，樁；柱，木樁
-=> pahcek
+=> pahecek
 
-pahcek 
+pahecek 
 put stakes of wood in the ground as when staking claims
 立柱，立樁
-=> hcek
+=> hecek
 
-hcep 
+hecep 
 to soak up into itself liquid
 吸，吮
-=> pahcep
+=> pahecep, hicep
 
-pahcep 
+pahecep 
 to use something to soak up liquid
 用某東西吸飲液體
-=> hcep
+=> hecep, hicep
 
-hci 
+heci 
 fruit
 果實
 result
 結果
-    Malahciayto ko demak ako. 
+    Ciheciay to ko demak ako. 
     My work is accomplished.
     我的工作已經完成
-    Pahcien ko sowal. 
+    Pahecien ko sowal. 
     Clarify what (you) are saying.
     你說什麼要講清楚
-    Cihciay ko demak nira. 
+    Ciheciay ko demak nira. 
     What he did has fruit / is lasting.
     他的事業(事情、工作)已經有了成果
-    Adihay ko hci no panay. 
+    Adihay ko heci no panay. 
     The rice is heavy with grain.
     稻子結穗纍纍
-=> milahci
+=> milaheci
 
-milahci
+milaheci
 complete * finish
 成就，完成
 
-hcra
+hecera
 come down and touch the ground with bottom of feet
 腳著落處，由上落下著地之處
-=> hicra, pahcraan, kahcraan
+=> hicera, paheceraan, kaheceraan
 
-pahcraan 
+paheceraan 
 place one comes to settle down and stay * referring to a town or village
 落腳之地，定居之地，指城市或鄉村
-=> hcra
+=> hecera
 
-kahcraan 
+kaheceraan 
 the area in which one settles
 目的地，某人由某地到達而定居的地方
-=> hcra
+=> hecera
 
 
 # p.116
 
-hdot 
+hedot 
 to slurp or suck in (water or air)
 啜食，發出聲音之一飲一啜
 
@@ -741,19 +751,19 @@ to let cool off * as rice after it has cooked
 to wrap something around a baby to keep him warm
 用包布或其他東西包暖嬰孩
 
-hfog 
+hefog 
 hollowed out place
 凹陷之地，坊洞，地窪之地
-    Masahfohfog ko 'ogcoy. 
+    Masahefohefog ko 'ogcoy. 
     The rock is hollowed out.
     岩石凹陷
-    Mipanay cagra i hfogay a omah. 
+    Mipanay cagra i hefogay a omah. 
     They were harvesting in a valley.
     他們在低窪之田地收割
 ditch * trench
 壕溝，畦溝，戰壕
 
-hger 
+heger 
 tiresome with reference to activity
 穿孔，關於令人厭倦的活動
 
@@ -768,22 +778,23 @@ to take minnows of Herring from the ocean for cultivation in feeding ponds on la
 hicep 
 to slurp water
 吸水
+=> hecep
 
 hicoci 
 deacon, deaconess, church treasurer (from Japanese)
 男執事、女執事、教會會計 (引自日語)
 
-hicra
+hicera
 place to put your feet or vehicle
 目的地,到達之地
 to arrive at
 到達
-=> tfo, kahicraan
+=> tfo, kahiceraan
 
-kahicraan 
+kahiceraan 
 place of arrival
 目的地，到達之處，落腳之處，定居的地方
-=> hicra
+=> hicera
 
 hifag 
 to take a long rest * vacation
@@ -824,7 +835,7 @@ to hide things
 隱藏，藏東西
 => simed
 
-himrac 
+himerac 
 to thresh out completely
 意謂著再三探討後獲得結論之意
 
@@ -889,12 +900,12 @@ hiterter
 to land on one's buttocks
 由上而下掉下來屁股先著地
 
-hitfo
+hitefo
 to leap * jump from above
 由上跳下來
-=> hatfo
+=> hatefo
 
-hitroc 
+hiteroc 
 to jump across a gap
 跨越壕溝
 
@@ -913,71 +924,71 @@ hiya
 what-you-call-it * term given to something you can't think of the name for
 這個，那個，說話時忘了所要提的事物以 hiya 做代詞
 
-hkakan 
+hekakan 
 to stoop * squat
 蹲，彎腰
 
-hkal 
+hekal 
 earth
 外面，地球，世界
-    Ihkal ko sowal nira. 
+    I hekal ko sowal nira. 
     What he said was very clear.
     他的話言簡意賅。
-=> talahkal, patalahkal
+=> talahekal, patalahekal
 
 # p.118
 
-hlip 
+helip 
 to suck in as with a straw
 吸，用吸管吸取。
 
-hlog
+helog
 to take off * of clothing or adornments or harness
 脫，卸裝，卸掉甲胄。
-=> slog
+=> selog
 
-hmay 
+hemay 
 cooked rice
 飯
 
-hmek 
+hemek 
 to admire
 高興, 讚美
-=> pahmek, kahmekan
+=> pahemek, kahemekan
 be happy with
 快樂
 
-pahmek 
+pahemek 
 to praise * cause to be admired * to honor
 讚美，讚揚
-=> hmek
+=> hemek
 
-kahmekan 
+kahemekan 
 something that is admired
 值得讚賞
-=> hmek
+=> hemek
 
-hmot 
+hemot 
 rectum * bottom
 屁股，臀部
 
-hna 
+hena 
 an untranslatable particle serving to draw attention to the hearer
 不可轉譯的前置詞引聽者注意之詞
 
-hnek 
+henek 
 very good
 好，很好
 
-hnek a sra 
+henek a sra 
 fertile soil
 肥沃之土地，上選地
 
-hnot 
+henot 
 to be stuck * as in mud
 泥濘，泥沼
 
-talahnot 
+talahenot 
 to get stuck * not move ahead
 陷入泥濘，泥沼
 
@@ -1029,13 +1040,15 @@ to loosen something that was tight * as a belt
     mihoka' to faloco' 
     to open the heart * become more open-minded
     把心放鬆，心情放鬆
-    
+=> soka'
+
 
 # p.119
 
 hokap 
 to use hand as a dish for food
 用手抓魚
+=> sokap
 
 hokhok 
 to do something secretly * as to lie in wait or to secretly tell something
@@ -1068,7 +1081,7 @@ soft watery cooked rice
 => 'a'am
 ordinary cooked rice
 飯
-=> hmay
+=> hemay
 
 holol
 to go visiting * relaxing
@@ -1150,41 +1163,41 @@ ducks
     赤頸鳧，水鳧
 => maimai
 
-hpik 
+hepik 
 to fold wings * as a bird folds its wings
 翅膀，交翼，如鳥翅膀
 
-hpol 
+hepol 
 to drop off
 落下，掉下
 to forgive
 赦免
-    Mahpolto ko raraw nira. 
+    Mahepolto ko raraw nira. 
     His sins are forgiven.
     他的罪已被赦免
 => spol
 
-hrek 
+herek 
 to be finished * completed
 完畢，結束，完成
 after something is done
 某事完成之後
-    hrek no lahok 
+    herek no lahok 
     after the noon meal
     午飯後…，午後，下午
-    Mapahrekto ko tayal nira. 
+    Mapaherekto ko tayal nira. 
     His work is finished.
     他的工作已經做完了
-    I pahrekan no tayal nira 
+    I paherekan no tayal nira 
     after his work is finished (time when)
     當他的工作完成之後
-    Mapahrekto ko keter no Kawas to raraw. 
+    Mapaherek to ko keter no Kawas to raraw. 
     God has been satisfied concerning sin (implying adequacy of Jesus' work).
     上帝的憤怒已中止了 (意指耶穌的工作)
 
-htec 
+hetec 
 to squeese out * press out * as juice from fruit
 壓榨，擠壓，如壓榨果汁
-    mahtec ko tireg 
+    mahetec ko tireg 
     to become skinny after being fat
     身體變瘦

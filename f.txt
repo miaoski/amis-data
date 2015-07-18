@@ -872,7 +872,7 @@ intestinal worms
 fasaw 
 cooled off
 冷却
-    Mafasaw ko hmay. 
+    Mafasaw ko hemay. 
     The rice is cold.
     冷飯，飯是冷的，飯已冷卻
     Mafasawto ko keter ako. 
@@ -1604,7 +1604,7 @@ fohcalay
 a species of fish * minnow-sized
 一種特別的魚
 
-fohci 
+foheci 
 to shell out the insides of as a peanut
 剝皮, 去皮
 to explain

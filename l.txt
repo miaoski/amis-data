@@ -343,23 +343,23 @@ to have spaces between for things to slip through
 二者間之空隙
 => malahat
 
-lahci 
+laheci 
 to complete * finish
 完成，完全
 to come to pass
 成全應允
-    Malahcito ko sowal nira. 
+    Malahecito ko sowal nira. 
     His words are fulfilled / have come true.
     他說的話應驗了
     Lahceien ko tayal iso. 
     Finish your work.
     完成你的工作
-=> kalahcian
+=> kalahecian
 
-kalahcian 
+kalahecian 
 time when finished
 完成的時間
-=> lahci
+=> laheci
 
 lahdaw 
 to disappear * pass away * cease to exist
@@ -393,7 +393,7 @@ the noon meal * lunch
     Malahok cagra. 
     They are eating lunch.
     他們正在吃午餐
-    hrek no lahok 
+    herek no lahok 
     afternoon
     下午
     i'ayaw no lahok 
@@ -424,7 +424,7 @@ to disintegrate and become like powder
 lakad 
 the pulp left after extracting juice or oil * as sugar cane or peanuts 
 渣滓， 殘渣，殘留物；甘蔗渣
-=> pinahtec
+=> pinahetec
 
 lakaw 
 rubbish * trash * debris
@@ -563,7 +563,7 @@ means to do something
     Cilalan ko faloco' ako. 
     I know what direction to take. / how to do (it) .
     我自有辦法，我有脈絡可尋
-    O maan ko malo lalan ita a milahci tonini? 
+    O maan ko malo lalan ita a milaheci tonini? 
     How / what method do we use to accomplish this?
     我們用什麼方法完成此事
 
@@ -1136,7 +1136,7 @@ to cover * permeate * spread over an area
 ldo
 [stem of maldo]
 [maldo 的詞幹]
-=> rdo, maldo
+=> redo, maldo
 
 maldo
 straight up and down on both sides
@@ -2377,7 +2377,7 @@ a committee meeting
 lofic 
 to grow abundantly
 結實纍纍
-    Malofic ko hci no panay. 
+    Malofic ko heci no panay. 
     The rice is profuse in grain.
     稻穗結實纍纍
 (South) left over crops on the ground

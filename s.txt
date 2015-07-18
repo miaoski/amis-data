@@ -42,7 +42,7 @@ to tighten a knot so it won't come loose
     Sa'leten ko kaos no cokap iso.
     Tie into a knot your shoe laces.
     把你的鞋子打蝴蝶結
-    Masasa'let ko tatnooyen a kliw.
+    Masasa'let ko tatnooyen a keliw.
     The thread to be woven is all twisted and tied in knots.
     線編織成綢狀
 
@@ -91,7 +91,7 @@ biblical term for church
 sa'osi
 reckoned * included
 計算，包括
-    Caay ka sa'osi cigra a milhaklog titaanan.
+    Caay ka sa'osi cigra a milhakelog titaanan.
     He was not included in the count to go with us.
     沒有把他算在我們行列之中
 to count
@@ -129,7 +129,7 @@ a grammatical particle indicating a quotation mark marking the end of someone's 
     他說：「我本來要來的」。
 a grammatical particle indicating a sequence marker
 文法上含概著許多自己意念的表達：連接詞
-    Mahrek kako a milicay 'i, sowal saan cigra
+    Maherek kako a milicay 'i, sowal saan cigra
     When I finished asking, he responded by saying ...
     我問完他以後，他就說：「……」
 => sa
@@ -333,7 +333,7 @@ to make
     我們要製作什麼？
 to create
 創造
-    Saga'en no Kawas ko kakarayan ato hkal.
+    Saga'en no Kawas ko kakarayan ato hekal.
     God made the heavens and earth.
     上帝造天地萬物
 to fix * repair
@@ -370,7 +370,7 @@ sahalaka
 to make plans
 起頭，計劃，設計，策劃
 
-sahci
+saheci
 to explain (literally: to reveal the substance of)
 說明，解說，解釋，(字面上，透露…本質)
 
@@ -710,7 +710,7 @@ idols * images * objects of worship
 samiyot
 the end of rectum * anus
 肛門
-=> hmot
+=> hemot
 
 samo'
 a defect
@@ -975,7 +975,7 @@ to tangle * be tangled, with literal and figurative meanings
     Masasifod ko faloco' ako anini.
     My heart / emotions are all mixed up / tangled right now.
     今天我有千千結
-    Aka sasifoden ko kliw.
+    Aka sasifoden ko keliw.
     Don't tangle the string.
     不要把繩子纏結在一起
 
@@ -1502,7 +1502,7 @@ the middle * center
 sifod
 to be tangled up * mixed up
 纏結，混淆
-    Masasifod ko kliw.
+    Masasifod ko keliw.
     The thead is tangled.
     線纏結在一起
 
@@ -2076,10 +2076,10 @@ a place to slide * as the runners for a sliding door
 滑溜的地方(溜滑梯)，滑溜的通道(門的滑道)
 => slic
 
-slog
+selog
 to take off * as to remove clothing or shoes
 脫，如換衣服或鞋子, 整裝
-=> hlog
+=> helog
 
 sma
 tongue
@@ -2183,15 +2183,15 @@ to freeze * become ice
 變成冰
 => so'da
 
-so'lin
+so'elin
 genuine * real
 誠實，真的，實在的
-    O so'linay a demak konini.
+    O so'elinay a demak konini.
     1. This thing really happened.  2. This is the way that activity is / the nature of the activity. 
     1. 這是真實的事情  2. 這個活動是自然活躍的動作 (FIXME)
 true
 真實
-    O so'linay a sowal konini.
+    O so'elinay a sowal konini.
     These are true words.
     這些話的確是真的
     So'linay mafana' cigra haw?
@@ -2204,10 +2204,10 @@ sincere
     那個人很忠厚
 norm * standard
 切實的，標準的
-    Onini ko so'linay.
+    Onini ko so'elinay.
     This is the standard / norm.
     這是很標準的
-=> paso'lin
+=> paso'elin
 
 
 # p.286
@@ -2505,7 +2505,7 @@ to forgive
     Sololen ko patlac ako.
     Forgive me for my mistake.
     原諒我的過錯
-=> hpol
+=> hepol
 
 solot
 to pull * draw something literally
@@ -2656,7 +2656,7 @@ to collect * gather together and keep
 soprit
 to strip grain off from the stalk
 把餘留在稻草上的稻穗剝落乾淨
-=> hapric
+=> haperic
 
 sopsop
 to gather together so there is more space on the outer perimeters * referring to people or things
@@ -2945,3 +2945,8 @@ to hit * bump against as when in an accident
 syoni
 a nun * a sister * a Catholic woman committed to celibacy in serving God (from Chinese)
 尼姑，修女，天主教修女 (引自國語)
+
+soka' = hoka'
+
+sokap = hokap
+

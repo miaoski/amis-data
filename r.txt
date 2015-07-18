@@ -759,15 +759,15 @@ to be split open, as the skin on a cooked sweet potato or a wound from a snake b
 
 # p.248
 
-rdo
+redo
 'to be straight
 一直線，垂直，直線，至頭至尾整條大小一樣
 consistent
 調和，一致的，並立，首尾一貫的
-    Mardo ko tayal nira.
+    Maredo ko tayal nira.
     He worked consistently till the work was finished.
     他的工作一貫地直到完成，他的工作徹頭徹尾
-    Ano mardo iso ko niharategan iso...
+    Ano maredo iso ko niharategan iso...
     If you keep a steady course to your decision...
     假使你按你的決斷力去進行……
     Rdoen ko olah iso to Kawas.
@@ -1434,7 +1434,7 @@ day
     Saromi'ad sa kako a mafoti'.
     I slept all day.
     我整天睡覺，我成天睡覺
-    Ano hakowa a romi'ad 'i, o mamalahci konini a demak.
+    Ano hakowa a romi'ad 'i, o mamalaheci konini a demak.
     Sometime this thing will be finished.
     總有一天這件事一定會完成的
     Saka pina a romi'ad anini?

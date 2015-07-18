@@ -499,7 +499,7 @@ through * by way of
     Pakayni kita a romakat.
     We go this way.
     我們經由這條路走
-    Pakayni i patay nira a mahpol ko raraw.
+    Pakayni i patay nira a mahepol ko raraw.
     Through His deathsins are forgiven.
     藉著 (通過) 他的死，使我們的罪得赦免
     Pakaynien toya tamdaw ko pipasowal.
@@ -932,7 +932,7 @@ a swelling
 para'
 seat * part of your body with which you sit * bottom
 身體用以坐下的屁股部位
-=> hmot
+=> hemot
 the bottom of a container such as a bucket
 容器如水桶底部
 the stern of a ship * the back of a vehicle
@@ -1104,22 +1104,22 @@ paso
 bus (from Japanese and English)
 巴士 (引自日語和英語)
 
-paso'lin
+paso'elin
 to believe * literally to cause / make out to be true * to have confidence 
 相信，信任；字面上說那是真的理由；有確信 
-    Cima ko papaso'linen ita?
+    Cima ko papaso'elinen ita?
     Who can we believe?
     誰值得我們信任？
-    Pakapaso'lin kiso haw?
+    Pakapaso'elin kiso haw?
     Can you believe?
     你能相信嗎？
-    Paso'linen ko sowal ako.
+    Paso'elinen ko sowal ako.
     Believe what I say.
     請相信我所說的話
-    O maan ko nipaso'linan iso?
+    O maan ko nipaso'elinan iso?
     What doctrine do you believe?
     你相信什麼呢？
-=> so'lin, pakaso'lin
+=> so'elin, pakaso'elin
 
 pasogan
 an Amis village
@@ -1157,18 +1157,18 @@ to prepare * make preparations literally to make / cause to wait
     請你預備心
 => tala
 
-patalahkal
+patalahekal
 to reveal
 公開，顯示
 confess * reveal
 承認，認罪，自認，啓示，告別
-    Mapatalahkalto koya demak
+    Mapatalahekalto koya demak
     The thing is revealed.
     事情已經被公開了
-    Patalahkalto ko raraw iso.
+    Patalahekalto ko raraw iso.
     Confess your sin.
     你要告白你的罪
-=> hkal, talahkal
+=> hekal, talahekal
 
 pataloma'
 to have a wedding * to marry * give in marriage 

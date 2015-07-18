@@ -472,7 +472,7 @@ standard * norm
     matini ko sowal nira
     He said it like this (describe how he talked) .
     他是這樣說的
-    Masamatini ano roma a mihcaan 'i
+    Masamatini ano roma a mihecaan 'i
     At this time next year...
     明年這個時候
 => hatini
@@ -493,7 +493,7 @@ even as * compared with
     Samatiyaen o demak ako.
     Do it like I do.
     要作的像我一樣
-    Samatiyaen nira o so'linay.
+    Samatiyaen nira o so'elinay.
     He acted like he was doing some- thing right (but he wasn't really) .
     他做得像真的一樣(但他實際上不是)
     Aka pisamatiyatiya o mafana'ay.
@@ -515,7 +515,7 @@ a shortened form for matiya without pointing to a specific person or activity * 
     Mato mafana'ay cigra.
     He appeared to be knowledgeable.
     他好像很聰明的樣子，他好像知道
-    Mato so'linay kora demak.
+    Mato so'elinay kora demak.
     What is happening appears to be genuine * right.
     那件是被認為是真的
     Mato sowal nira ko demak.
@@ -569,18 +569,18 @@ to pay a medium
 給巫師代價酬勞
 => migmig
 
-mihca
+miheca
 year * years
 年，年歲
-    Pina ko mihcaan iso?
+    Pina ko mihecaan iso?
     How old are you?
     你幾歲了?
-    to mihcahcaan
+    to mihecahecaan
     each year
     每年
-=> kasamihcaan
+=> kasamihecaan
 
-kasamihcaan
+kasamihecaan
 a large period of time * an age
 年代
 each * all of the years

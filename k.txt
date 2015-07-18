@@ -412,13 +412,13 @@ kagkofu
 nurse (from Japanese)
 護士(引自日語)
 
-kahcid 
+kahecid 
 salty * as sea water
 鹹
 sweet (Hualien dialect)
 甜 (花蓮語)
 
-kahciday 
+kaheciday 
 something salty
 鹹的東西
 name of an Amisvillage
@@ -2513,7 +2513,7 @@ the sound of a bell or phone or clock
 to fry or roast in a pan
 煎，炸，烘焙
 
-kliw 
+keliw 
 thread, the plant from which string or thread is made * China Grass 
 線 (亞麻) 
 Ramie (Boehmeria frutescens)

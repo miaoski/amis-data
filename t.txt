@@ -317,7 +317,7 @@ to take what is available for oneself
 patado
 to do for someone else so they don't have to do it themselves
 代某人默默的去做，使他們不必為他們該做的事去做
-    Patado ci Yis titaanan a milahci to demak.
+    Patado ci Yis titaanan a milaheci to demak.
     Jesus did the work for us (we don't have to do it).
     耶穌為我們完成救贖的工作
 => tado
@@ -691,7 +691,7 @@ to sit on haunches or chairs
     我們在那裡進餐
 => tahka
 
-tahkal
+tahekal
 to come to light * to suddenly be seen.
 出現，突出，突然看到
 => sdak
@@ -1063,7 +1063,7 @@ to appear
     O tatalahekal ci Yis Kristo.
     Jesus Christ will appear.
     耶穌基督即將顯現
-=> hkal
+=> hekal
 
 talakal
 a metal trap for catching game
@@ -3484,7 +3484,7 @@ to be outraged * angered * furious * provoked
 teloc
 the end point of something * as the end of a branch　
 東西的末端，如枝葉末梢
-    Icowa ko tloc noya kliw?
+    Icowa ko tloc noya keliw?
     Where is the end of the thread?
     繩子的尾端在那裡
 a descendant 
