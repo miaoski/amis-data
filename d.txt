@@ -275,15 +275,15 @@ damsay
 gentle * meek * not easily ruffled
 溫和的，溫順的，柔和的，謙恭的，不容易發脾氣
 
-damso' 
+damso^
 satisfied * pleased with someone
 滿足，給某人高興
-=> sapadamso'
+=> sapadamso^
 
-sapadamso' 
+sapadamso^
 payment of taxes (Hualien dialect)
 稅金，稅款(花蓮南勢阿美語)
-=> damso'
+=> damso^
 
 danis
 a crawling vine that has a large bean

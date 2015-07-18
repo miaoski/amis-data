@@ -13,15 +13,15 @@ to stop * hinder
 阻止，遏止，妨礙，妨害，阻礙
 => 'alet
 
-sa'fit
+sa'efit
 to deceive
 欺騙，詐欺
-    Masa'fit no koesanay a sowal nira kako.
+    Masa'efit no koesanay a sowal nira kako.
     I was deceived by his good sounding words.
     我被他的甜言蜜語所騙
 => safana'
 
-sa'ged
+saeged
 a stand
 站立
 a band worn around the head as a base for carrying a jar on one's head
@@ -32,32 +32,32 @@ to stay put for a while * to not move
 怔住，暫時不動
 => so'so'
 
-sa'lec
+sa'elec
 a trap made of twine to ensnare an animal
 網羅，誘入陷阱，設陷阱
 
-sa'let
+sa'elet
 to tighten a knot so it won't come loose
 打結使它不鬆弛掉
-    Sa'leten ko kaos no cokap iso.
+    Sa'eleten ko kaos no cokap iso.
     Tie into a knot your shoe laces.
     把你的鞋子打蝴蝶結
-    Masasa'let ko tatnooyen a keliw.
+    Masasa'elet ko tatenooyen a keliw.
     The thread to be woven is all twisted and tied in knots.
     線編織成綢狀
 
-sa'mamokot
+sa'emamokot
 to curl up to sleep * to lie in a fetal position
 全身蜷縮而睡，捲曲著身子睡覺
 => sa'amamokot
 
-sa'mel
+saemel
 to feel cool
 涼爽，清涼
     Sa'mel ko fali anini.
     The wind is cool (comfortable) today.
     今天的風很涼快，今天的風吹得涼爽舒適
-    Mikisa'mel koya mato'asay.
+    Mikisaemel koya mato'asay.
     That old person is sitting in the shade to cool off.
     那些老人坐在樹蔭下納涼
 => si'mel
@@ -91,7 +91,7 @@ biblical term for church
 sa'osi
 reckoned * included
 計算，包括
-    Caay ka sa'osi cigra a milhakelog titaanan.
+    Caay ka sa'osi cigra a milhakelog i titaanan.
     He was not included in the count to go with us.
     沒有把他算在我們行列之中
 to count
@@ -116,7 +116,7 @@ mountain stream
 溪澗
 => 'alo
 
-sa'sa
+sa'sa'
 to drain through a sieve or reed basket drainer
 篩子將東西撈起來而將水通過其中滴落 (飄形漏水) 或蘆葦草製成的籃簍漏斗
 => so'so'
@@ -124,7 +124,7 @@ to drain through a sieve or reed basket drainer
 saan
 a grammatical particle indicating a quotation mark marking the end of someone's words or thoughts
 文法上含概著許多自己意念的表達：一個句子的最後一個語氣的懇定
-    O sowal nira i, o tatayni kako saan.
+    O sowal nira i, "o tatayni kako" saan.
     He said he would come.
     他說：「我本來要來的」。
 a grammatical particle indicating a sequence marker
@@ -138,7 +138,7 @@ saca
 special * distinct from the rest
 特別的，特殊的，※從…給予區分
 
-sackih
+sacekih
 claws of a chicken or bird or dog or cat
 雞或鳥或狗或貓的腳
 hoof * as of pig or cow
@@ -198,7 +198,7 @@ sadoasi'
 the name of edible seaweed
 海上可食用的海草
 
-sadosdos
+sadosidos
 the person who goes ahead of the rest leading the way
 陣線前鋒
 => ta'lidan, tarokos
@@ -311,17 +311,17 @@ safool
 the urge to urinate
 尿急
 
-safraag
+saferaag
 to wait too long to do something * to procrastinate
 等得不耐煩，遷延
 
-safreg
+safeleg
 to swarm * to move together in great numbers
 羣集而行，人們群體移動
-    Masafreg ko takola' i Nayil a 'alo.
+    Masafeleg ko takora' i Nayil a 'alo.
     Frogs swarmed in the Nile river.
     一羣羣的青蛙在泥羅河的河川上
-    Masafreg ko sofitay a romakat.
+    Masafeleg ko sofitay a romakat.
     The soldiers swarmed / were together in great numbers as they moved.
     一羣羣的士兵在路上行軍，士兵羣集而行
 
@@ -361,7 +361,7 @@ saglay
 to feel nauseated * to feel like vomiting
 想嘔，嘔心，產生噁心感，作嘔
 
-sagotfol
+sagotefol
 expression of anger on the face
 臉上表忿怒或生氣的樣子
 => sagotfoh
@@ -389,10 +389,10 @@ to think of something and immediately it happens
 
 # p.264
 
-sahto
+saheto
 for the greatest part * the large majority of
 絕大多數
-    Sahto o Pagcah ko maro'ay itira.
+    Saheto o Pagcah ko maro'ay itira.
     The great majority of people living there are Amis.
     那兒絕大多數的居民是阿美族
 
@@ -423,7 +423,7 @@ therefore * so
 the (first)
 這 (首)
 
-saka'ca
+sakaeca
 so that (something) not (happen) * negative purpose
 所以(事情)不會(發生)※否定的目的
 => sakacaaw
@@ -434,7 +434,7 @@ negative purpose * so that (something) not (happen)
     Mitolon kako to sakacaaw ka patay nira.
     I prayed that he might not die.
     我為他免於死亡而祈禱
-=> saka'ca
+=> sakaeca
 
 sakamatini
 the reason for (it) being like it is 
@@ -465,7 +465,7 @@ for the sake of
     I am praying for Kacaw.
     我為卡照祈禱，我因kacawan的緣故祈禱
 
-sakmot
+sakemot
 to temporarily tie together
 暫時
 to jest * joke with good or bad meaning
@@ -568,7 +568,7 @@ to go without eating because food is not available
 節食，因糧食不足
 => liway
 
-salkolko
+salekoleko
 to act like one knows when they really do not
 自以為是，儼然……的樣子，裝的很行的樣子其實不然 
 
@@ -611,7 +611,7 @@ a token amount * a gift that is not calculated to pay for service
     O sapasalog konini.
     This is a token gift.
     這是一點意思以表心意
-    Pasalog cigra a komaen to 'pah.
+    Pasalog cigra a komaen to epah.
     He drank just a little bit of wine.
     他象徵性的喝一點酒
 
@@ -638,7 +638,7 @@ a plant * Raisha Calanthe * an orchid
 Common Camellia 
 颱風草
 
-salowasi
+salowasi'
 seaweed
 馬尾藻
 
@@ -666,13 +666,13 @@ method to do
 samadah
 to do something gently
 輕輕的，柔和地
-    Samadahen ko pisti' toya wawa
+    Samadahen ko piseti' toya wawa
     Don't beat that child hard.
     輕輕地打那個小孩，打小孩不要出手太重
     Samadahen ko pipasowal toya wawa.
     Be gentle the way you address / rebuke that child.
     溫柔的告訴那小孩，責備的意思不要很重
-    Caay ka samadah ko pisti' ako.
+    Caay ka samadah ko piseti' ako.
     I beat without mercy.
     我重重的打毫不施予仁慈
     
@@ -684,7 +684,7 @@ tares
 生長在水稻中的壞植物，長相酷似水稻的草
 => salipanay
 
-samao
+samao'
 a wild edible leafy vegetation
 可食用的蔬菜葉
 
@@ -876,7 +876,7 @@ to level and clear land
 => ropay
 a sled
 農耕用的截物橇
-=> slic, sowapay
+=> selic, sowapay
 
 sapaiyo
 medicine
@@ -933,7 +933,7 @@ a demon who deceives small children and leads them astray * appearing as the mot
 
 # p.271
 
-sargad
+saregad
 a plant.  Caryot Palm (caryota mitis)
 孔雀椰子
 Golden Shower (Cassia fistula) used to make brooms
@@ -1023,7 +1023,7 @@ a charge * fee
 sata'os
 perfume * fragrant oil
 香水，香油
-    O matkesay a sata'os ko sapisipasip ni Mariya to tireg ni Yis.
+    O matekesay a sata'os ko sapisipasip ni Mariya to tireg ni Yis.
     Mary anointed Jesus with expensive perfume.
     馬利亞用高貴的油膏抹在耶穌的身上
     Mata'osay ko fokes nira.
@@ -1053,15 +1053,15 @@ satapagan
 the beginning * starting point * Genesis * a book of the Bible
 源頭，起因；創世紀，聖經第一卷
 
-satfo
+satefo
 the name of an Amis village
 瑞穗鄉下德武部落
 => Satfo
 
-satnok
+satenok
 heel * part of the foot
 後腳跟，踵
-=> tnok
+=> tenok
 
 sato
 a dry measure for measuring grain
@@ -1158,8 +1158,8 @@ to plane off wood so that it is smooth
 將木刨平使之平滑
 
 saynay
-to act childish in front of adults
-撒嬌
+to act childish in front of adults (from Amoy dialect)
+撒嬌 (引自閩南語)
 to woo * win with love
 懇求愛，博得愛
 foreplay in making love 
@@ -1183,55 +1183,55 @@ to fix something up so that it is neat and orderly
     他平息了我們的爭吵
 
 saytaw
-large white radish
-白蘿蔔
-    kahgagay a saytaw
+large white radish (from Amoy dialect)
+白蘿蔔 (引自閩南語)
+    kahegagay a saytaw
     carrots
     紅蘿蔔
 
-sdak
+sedak
 to suddenly appear
 突然出現
-    Namimaan kiso iro sdak sa ira kiso anini?
+    Namimaan kiso iro sedak sa ira kiso anini?
     What have you been doing that you should suddenly turn up?
     你在搞什麼，為何突然出現？(什麼風把你給吹來了?)
 
-sdal
+sedal
 to loosen a knot
 真正的解放
 to set free literally
 真正解放
 to figuratively set free the heart
 象徵性的解脫心靈，比喻上指心靈解脫釋懷
-    Mafana' ci Yis a misdal to faloco' ita
+    Mafana' ci Yis a misedal to faloco' ita
     Jesus knows how to set our hearts free.
     耶穌會解開我們的心結
 => tedal
 
-sday
+seday
 to drop of its own accord from hanging
 從懸掛的高處掉下來
-    Masday koya sasig.
+    Maseday koya sasig.
     That picture dropped of its own accord (from hanging.)
     他的像框掉下來了 (從懸掛處)
 to be unconscious
 不省人事，失去意識
 
-sdef
+sedef
 to dam * a dam
 堵住水壩
 => tafa'
 
-sdeg
+sedeg
 nettles * Urtica tumbergiana
 咬人貓
 the name of a village
 花蓮縣玉里鎮大禹部落名
 
-sdi
+sedi
 a smile
 微笑
-    Masdi ko pisig nira.
+    Masedi ko pisig nira.
     His face is smiling.
     他的臉露出微笑
 
@@ -1267,17 +1267,17 @@ to settle down
     Let the land settle for awhile where (you) are going to build a house.
     讓你將建築房的這塊地稍微穩固一下，建築房子前將建地暫且放著使泥土堅實穩固
 
-sfay
+sefay
 to hang on after being broken
 垂吊※因斷裂而懸吊
 to be hanging from one end
 一端懸吊著
-    Masfay ko ca'ag no kilag.
+    Masefay ko ca'ag no kilag.
     The branch is dangling but attached.
     那樹枝搖晃著，但還沒有斷 (斷枝倒懸在樹上)
 to be crooked
 被彎曲，弄彎
-    Masfay ko riko' nira.
+    Masefay ko riko' nira.
     His clothing is on crooked / or buttoned incorrectly.
     他的衣服穿得歪七扭八的 (扣子扣錯了)
 
@@ -1297,72 +1297,72 @@ a pillbox where a soldier stands guard
 士兵守衛之崗哨 (瞭望台)
 => sefeg
 
-sfek
+sefek
 to have a lof of
 很多，豐富，大量
-    Masfek ko pifotig nira.
+    Masefek ko pifotig nira.
     He caught a lot of fish
     他捕到很多魚
 
-sfel
+sefel
 fear * the kind of fear makes a person avoid a situation out of experience of getting mistreated
 恐懼，因遭人虐待的經歷而產生的一種恐懼逃避某種狀況
-    Caay ka sfel koya fafahi.
+    Caay ka sefel koya fafahi.
     That wife is enduring i.e. she does not leave the situation.
     那位太太很堅忍, 他沒有逃避現實
-    Minegneg koya wawa to kiyafes i, masfelto.
+    Minegneg koya wawa to kiyafes i, masefel to.
     When the child sees the guavas he is afraid (to pick them because of former punishment).
     當那小孩子看見番石榴時，他不敢摘下他們，由於前次的教訓
 => cenon
 
-sfet
+sefet
 to tie into a knot
 打結
-    Misfet cigra to li'el.
+    Misefet cigra to li'el.
     He put on a necktie.
     他打領帶
-    Misfet cigra to fokes.
+    Misefet cigra to fokes.
     He put his hair into a ponytail.
     他紮一個馬尾
-=> sasfet
+=> sasefet
 
-sasfet
+sasefet
 a rubber band or string or tie
 要綁的繩子，或橡皮筋或細帶或飾帶
-=> sfet
+=> sefet
 
 
 # p.276
 
-sfi
+sefi
 the community gathering house of the Amis village
 阿美村集會所
 kitchen
 廚房
 => demi'
 
-sga
+sega
 to be bored * tired of something
 膩，厭煩，對某事物厭煩
 
-sged
+seged
 to mess up * to make disorderly
 使雜亂弄糟
-    Masged no wawa ko kafoti'an niyam.
+    Maseged no wawa ko kafoti'an niyam.
     The children messed up our bedroom.
     我們臥房被孩子弄得一團糟
 for debris to collect and stop the flow of water
 水溝堆滿了垃圾使水不能流通
 
-sger
+seger
 damp
 浸濕
-    Masger ko riko' ako.
+    Maseger ko riko' ako.
     My clothes are damp / wet.
     我的衣服被淋濕
 wet
 濕的
-    Masger no 'orad ko sera.
+    Maseger no 'orad ko sera.
     The rain wet the ground.
     雨水滋潤大地
     Sgeren ko felac.
@@ -1375,7 +1375,7 @@ a species of tree * Formosan Sweet Gum * Fragrant Maple (Liquidambar formosana H
     
 si'ac
 to be gone * referring to water having left an area 
-離去 (指水離開某地)
+離去 (指水離開某地)，退潮
     Masi'ac ko nanom no 'alo.
     The river is dried up.
     河川的水乾涸了
@@ -1388,26 +1388,26 @@ to choke * to have food get caught in windpipe * to aspirate
 sieked
 for each to have its own place or order or arrangement
 各得其所，分門別類，妥善安排
-    Masasi'ike'iked ko aro' no finawlan.
+    Masasiekeeked ko aro' no finawlan.
     The crowd all had places arranged for sitting.
     群眾都有座位，村民各就其位而坐
 
-si'lac
+si'elac
 gravel * pebbles * small rock
 小石子，碎石，砂礫
 
-si'naw
+sienaw
 cold * referring to weather
 冷 (指天氣)
-    Si'naw ko romi'ad. Kietec ko kamay ita.
+    Sienaw ko romi'ad. Ki^tec ko kamay ita.
     The day is cold. Our hands are cold.
     天氣寒冷，我們的手很冷
-=> kasi'nawan
+=> kasienawan
 
-kasi'nawan
+kasienawan
 winter time
 冬天
-=> si'naw
+=> sienaw
 
 siciminciw
 turkey * turkeys (from Japanese)
@@ -1473,8 +1473,8 @@ to catch * get caught in grass or brush
     羊角被草叢絆住了，羊的角被陷在坑裡
 
 sifin
-to wipe or rub the surface of something with a towel
-擦拭⋯⋯的表面或用毛巾擦拭
+to wipe or rub the surface of something with a towel (from Amoy dialect)
+擦拭⋯⋯的表面或用毛巾擦拭 (引自閩南語)
     Sifinen ko cokoi.
     Wipe off the table.
     把桌子擦乾淨 
@@ -1494,7 +1494,7 @@ the middle * center
     Tahsifo' no nanom koya wawa.
     The child was was carried into the middle of the water.
     那孩子流失到水中間
-=> trog, tnok
+=> trog, tenok
 
 
 # p.278
@@ -1568,16 +1568,16 @@ sikatay
 choir (from Japanese)
 聖歌隊 (引自日語)
 
-sikda
+sikeda
 to hit a target * to lodge upon
 擊中，投中，投宿於
-    Masikda no fokeloh kako.
+    Masikeda no fokeloh kako.
     I was hit by a rock.
     我被石頭擊中
-    Masikda no adada kako anini.
+    Masikeda no adada kako anini.
     Sickness has found me. 
     我生病了
-    Masikda ko pikowag nira.
+    Masikeda ko pikowag nira.
     He shot his gun and hit the target.
     他射擊，擊目中標
 
@@ -1693,7 +1693,6 @@ to eat raw food
 simaw
 to guard * watch
 看顧，照顧，看守，守護，守衛
-
     Masimaw no mato'asay ko pipawalian to panay.
     The drying grain is being watched by the elders.
     外面曬的稻穀老人家在看守著 
@@ -1785,7 +1784,7 @@ grace * gracious
     我們的上帝是滿有慈愛的神
 kindness * kind
 仁慈，親切，和藹的
-    O nano sini'ada no Kawas ko sakapipa'orip nira titaanan.
+    O nano sini'ada no Kawas ko sakapipa'orip nira i titaanan.
     God saves us on the basis of His grace.
     由於上帝的慈愛自罪惡中拯救我們，才使我們得著生命
 
@@ -1867,7 +1866,7 @@ a scraping sound
 擦去，抹去，削去，擦 (削) 的聲音
 to slide
 滑，溜
-=> slic
+=> selic
 to slide on one's bottom (seat)
 用屁股 (坐) 溜滑
 => posisir
@@ -1961,38 +1960,38 @@ to turn around * change direction
     Repent.
     後悔，懊悔
 
-ska'
+seka'
 to stop breathing temporarily
 休克
-    Maska' cigra.
+    Maseka' cigra.
     He fainted and stopped breathing.
     他休克了 (停止呼吸)
 
-skak
+sekak
 the crow of a rooster * to crow
 雞鳴
-    Maskak ko 'ayam.
+    Masekak ko 'ayam.
     The rooster crowed.
     雞叫
 
-skay
+sekay
 to confide in
 寄託
-    O piskayan no faloco' ako ko Wama a Kawas.
+    O pisekayan no faloco' ako ko Wama a Kawas.
     My heavenly Father is the one in whom I confide.
     天父上帝是我寄託心聲的對象
 
-skig
+sekig
 test * to take a test (from Japanese)
 考試，測試 (引自日語)
 
-skog
+sekog
 to strike with the fist
 打擊，用拳頭擊打
-    Masaskog cagra tatosa
+    Masasekog cagra tatosa
     The two of them had a fist fight.
     他們兩相互徒手毆打 (打架)
-    Aka piskog to fafahi iso.
+    Aka pisekog to fafahi iso.
     Don't hit your wife with your fist.
     不要打你的妻子 
 
@@ -2033,7 +2032,7 @@ to give breath * i.e. to rest
 
 # p.284
 
-slak
+selak
 to spread out * lay out (as to dry)
 張開，攤開 (如曬東西)
 
@@ -2048,33 +2047,33 @@ a term referring to the organizational relationship of men in an Amis village
 在阿美族村落裡有編製關係 (如分階級，名稱，年齡)
 => selal
 
-slen
+selen
 to fill in with earth
 埋，覆沒，掩沒
-    Maslen no maperaray a lotok ko sa'owac.
+    Maselen no maperaray a lotok ko sa'owac.
     The landslide filled in the ravine.
     河川被山崩掩沒
 
-sli'
+seri'
 to landslide
 山崩
 
-slic
+selic
 to slide down or along * to coast along or down
 沿甲斜坡滑落下來 (乘橇等滑下)
 a sled
 指農耕用的載物橇而言
-=> saslican, sapay, sowapay
+=> saselican, sapay, sowapay
 
 sowapay
 a sled
 指農耕用的載物橇而言
-=> sapay, slic
+=> sapay, selic
 
-saslican
+saselican
 a place to slide * as the runners for a sliding door
 滑溜的地方(溜滑梯)，滑溜的通道(門的滑道)
-=> slic
+=> selic
 
 selog
 to take off * as to remove clothing or shoes
@@ -2106,16 +2105,16 @@ the object of one's hurt
 令人痛心，心傷的事或物
 => semer
 
-smo'ot
-(cecay no 'li', cecay a 'li'an) one hundred
+semo'ot
+(cecay noli', cecay a li'an) one hundred
 百
 => so'ot
 
-smot
+semot
 brush * bushes growing on the mountains or on uncultivated land
 灌木，叢林，灌木叢生長在山上或未經開墾的地方
 
-sna'
+sena'
 to be slick * as when rain makes a trail wet and muddy
 使光滑，如當下雨時地面濕滑 
 name of an Amis village 
@@ -2124,38 +2123,38 @@ name of an Amis village
 
 # p.285
 
-snat
+senat
 to cut * to be cut as by sharp grass
 割，如割草
-    Masnat ko wa'ay ako a romakat
+    Masenat ko wa'ay ako a romakat
     My legs got cut walking.
     我走路時，我的腳被割傷
 to rake plowed rice fields
 耙機是犁稻田的器具
-=> sasnat
+=> sasenat
 
-sasnat
+sasenat
 the rake pulled by buffalo in flooded fields
 用水牛拉耙機在水田上使田地平坦
-=> snat
+=> senat
 
-sneg
+seneg
 displayed * something to be proud of
 驕傲，誇示，炫耀，光榮，對某東西感得意
-    O kasnegan ita ko nika tadamaan no Tapag ita.
+    O kasenegan ita ko nika tadamaan no Tapag ita.
     We are proud of the greatness of our Lord.
     上帝的偉大(全能)是我們的光榮(主的至高無尚令我們敬畏)
-    Pasneg / pasgi kita to fana' ita
+    Paseneg / pasgi kita to fana' ita
     We boast of our knowledge.
     我們誇耀我們的智慧
-    Sawadaw ko misapasnesnegay a sowal.
+    Sawadaw ko misapasenesenegay a sowal.
     Stop (your) boastful word.
     停止你誇大的言語，不要再講自誇的話
-    Masneg kako.
+    Maseneg kako.
     1. I feel threatened by his ability.  2. I feel panic from heights.
     1. 我被他的能力所脅迫  2. 從高處往下看有畏懼感
 
-sni'
+seni'
 to pour out
 傾倒
 => taktak
@@ -2212,22 +2211,18 @@ norm * standard
 
 # p.286
 
-so'met
+soemet
 to dampen * to be damp
 潮濕
-    Paso'meten ko riko' ta miaylog.
+    Pasoemeten ko riko' ta miaylog.
     Dampen the clothes for ironing.
     衣服灑點水使之潮濕再燙
-    Maso'met ko sera.
+    Masoemet ko sera.
     The ground is damp.
     地面潮濕，土壤潮濕
-    Maso'met ko faloco' nira.
+    Masoemet ko faloco' nira.
     His heart is gentle.
     他的性情很溫和
-
-so'er
-water from rain * rain water
-雨水
 
 so'ol
 to melt as a candle melts
@@ -2237,9 +2232,11 @@ to dissolve
 => so'or
 
 so'or
+water from rain * rain water
+雨水
 to melt
 溶化，溶解
-    Malaso'or to koya so^da.
+    Malaso'or to koya soreda.
     The ice has melted.
     冰雪溶化了
 to dissolve
@@ -2247,7 +2244,7 @@ to dissolve
     Malaso'or to ko waneg i goyos nira.
     The sugar dissolved in his mouth.
     他嘴裡的糖溶化了
-=> so'er, lasinol
+=> lasinol
 
 so'ot
 a bundle of one hundred
@@ -2255,7 +2252,7 @@ a bundle of one hundred
     Pina a so'ot ko aalaen?
     How many hundred should we take?
     我們要拿幾百個？
-    Smo'ot aca ko aalaen ita.
+    Semo'ot aca ko aalaen ita.
     We should take just one hundred.
     我們只要拿一百個
 to bundle
@@ -2282,15 +2279,15 @@ imprison with cords
     Tie up / imprison in cords the criminal.
     把壞人關起來，把罪犯逮捕法辦
 
-so'so
+so^so
 to be fat * plump
 胖，豐滿
-    Maso'so ko kolog iso.
+    Maso^so ko kolog iso.
     Your water buffalo is fat.
     你的水牛很肥大
 to be healthy
 很健康，肥壯，健壯
-    Maso'so ko kolog iso.
+    Maso^so ko kolog iso.
     Your water buffalo is healthy.
     你的水牛很健壯 
 
@@ -2303,7 +2300,7 @@ to drip * drain water off of
     Paliso'so'en koya riko' a mipawali.
     Hang those clothes up dripping to dry.
     把那些衣服拿出去曬使之濾乾
-=> sa'sa
+=> sa'sa'
 
 sodoc
 to draw * pull out * referring to a weapon
@@ -2359,7 +2356,7 @@ to slacken * to release the tension
     Masofoy koya towaso.
     That rope is slack.
     繩子鬆了
-=> sfay, refay
+=> sefay, refay
 
 sogidet
 to throw away mucus from the nose
@@ -2421,9 +2418,9 @@ sokir
 sokelet
 to tie a string or rope loosely so that it can be easily untied * to make a slip knot
 用繩子捆綁，綁活結
-=> soklot
+=> sokelot
 
-soklot = sokelet
+sokelot = sokelet
 
 soko
 a storage building for implements or food or other valuables (from Japanese)
@@ -2567,7 +2564,7 @@ noise
     按你車子的喇叭看看
 sound 
 聲音 
-    Mategil ako ko soni no 'do.
+    Mategil ako ko soni no 'edo.
     I heard the sound of a rat.
     我聽到老鼠的聲音
     Tata'ag ko soni noya kikay.
@@ -2653,7 +2650,7 @@ to collect * gather together and keep
     Don't collect a lot of clothes.
     不要堆積很多衣服 (未洗的)
 
-soprit
+soperit
 to strip grain off from the stalk
 把餘留在稻草上的稻穗剝落乾淨
 => haperic
@@ -2734,7 +2731,7 @@ to yawn
 sowal
 words
 文字
-    Pasowal cigra to ifaloco'ay nira.
+    Pasowal cigra to i faloco'ay nira.
     He told / spoke what was in his heart.
     他說出他內心的話
     O nika somowal ko ga'ay.
@@ -2770,23 +2767,23 @@ sowasan
 dog teeth - shaped metal pieces strung together to be shaken for music
 青銅犬齒，排鈴在齒根部分緊結在一起，撞繫擺動時發出清脆的鈴聲
 
-spat
+sepat
 four
 四
-    Saspat kita a tayra.
+    Sasepat kita a tayra.
     Four of us will go.
     我們四個人去
     Spat ko waco niyam.
     We have four dogs.
     我們有四隻狗 
-=> sakaspat
+=> sakasepat
 
-sakaspat
+sakasepat
 the fourth
 第四
-=> spat
+=> sepat
 
-spen
+sepen
 to look down upon * treat with disrespect. 
 輕視，對待不禮貌，失禮，不敬重
 => 'pec
@@ -2804,30 +2801,30 @@ land
 
 # p.293
 
-sray
+seray
 to relax * release * let go of
 鬆弛，寬鬆，解開，解脫
 => feray
 
-srer
+serer
 to slide down * landslide
 滑落，滑動下來，崩坍
 to come down figuratively
 退化，降落，低落(比喻上)
-    Masrer to ko 'orip ita anini.
+    Maserer to ko 'orip ita anini.
     We have a less affluent life style now than before.
     現在我們的生活沒有以前富裕
-    Masrer to ko 'icel nira.
+    Maserer to ko 'icel nira.
     He has lost strength.
     他體力減退很多
-    Masrer ko 'aca no dateg.
+    Maserer ko 'aca no dateg.
     The price of vegetables has come down.
     蔬菜降價了
     Sreren no tawki ko matayalay nira.
     The boss gave his worker a lesser position.
     老闆把工人的地位降低
 
-sro
+sero
 the hump on the neck of a male water buffalo
 公牛背上有肉峰 (如駝峰)
 To walk with a limp from having one short leg
@@ -2843,14 +2840,14 @@ to fall and faint
     I fell down heavily from the slickness on the path.
     因路滑使我摔倒
 
-statihi
+setatihi
 to be off balance
 不平均，失去平衡
 to show favoritism
 偏愛，偏袒，不公平
 => tatokinil
 
-stay
+setay
 to be exhausted
 很疲倦
 
@@ -2882,67 +2879,67 @@ to figuaratively cut something * i.e. to make a decision
 
 # p.294
 
-stel
+setel
 a piece that has been cut * to cut a piece off 
 切成一片一片的，切塊狀；切一塊，片塊
-    O stel no titi konini.
+    O setel no titi konini.
     This is a hunk of meat.
     這是肉塊 (這是個獵獲到的肉塊)
-    O mistelay cigra to 'ayam.
+    O misetelay cigra to 'ayam.
     He is cutting the chicken's throat (to bleed it).
     他切割雞的脖子
-=> sastel
+=> sasetel
 
-sastel
+sasetel
 a knife
 刀刃
-=> stel
+=> setel
 
-sti'
+seti'
 to hit * slap
 打擊，摑，打，掌擊
-    Aka pisti' to safa.
+    Aka piseti' to safa.
     Don't hit your younger sister.
     不要打弟妹
 figuratively to discipline
 喻上指訓練
-    O sasti'en no mama hananay ko wawa nira a misalof.
+    O saseti'en no mama hananay ko wawa nira a misalof.
     Fathers must discipline their children.
     父親所以責打孩子們是要管教他們，為父者必須要訓練他們的子女
 
-stik
+setik
 to set out to go fishing
 獵物，出去捕魚
-    O mastikay ko kadafo ako.
+    O masetikay ko kadafo ako.
     My son-in-law has a habit of going fishing.
     我女婿善於打魚 (捕魚)
 
-sto'
+seto'
 to come loose from
 (鋤頭)脫落，解脫
 to collapse from hunger literally or figuratively
 指字面上或比喻上的，因飢餓而崩潰
-    Ano misaliway to tolo a romi'ad i, masto' kita.
+    Ano misaliway to tolo a romi'ad i, maseto' kita.
     If we fast three days we will be faint with hunger.
     如果我們禁食三天，全身就軟弱無力
-    Masto'to cigra to nika adihay no ni'orogan nira.
+    Maseto'to cigra to nika adihay no ni'orogan nira.
     He collapsed from the heavy load he was carrying.
     他搬運過多的東西使他衰弱疲倦
-    Masto' ko kawil no pitaw.
+    Maseto' ko kawil no pitaw.
     The handle came loose from the hoe.
     鋤頭的柄鬆脫
 
-stol
+setol
 to hit * bump against as when in an accident
 打，拍擊，碰撞，如車禍
-    Masastol kita.
+    Masasetol kita.
     We bumped into each other.
     我們互相碰撞
-    Tahastol kami.
+    Tahasetol kami.
     We stumbled.
     我們被絆倒了
 
-syoni
+siwni
 a nun * a sister * a Catholic woman committed to celibacy in serving God (from Chinese)
 尼姑，修女，天主教修女 (引自國語)
 

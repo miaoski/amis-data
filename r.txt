@@ -439,7 +439,7 @@ red beans
 紅豆
 to procrastinate * wait too long 
 延遲，耽擱，等太久
-=> pisafraag
+=> pisaferaag
 
 
 # p.244
@@ -815,7 +815,7 @@ to be slack * not pulled in tension
     Marefay ko towaso.
     The rope is slack.
     粗繩已鬆弛了
-=> sfay
+=> sefay
 
 refog
 a hollowed out piece of ground * a hole
@@ -1137,7 +1137,7 @@ fafokod. a grasshopper
 蚱蜢
 bait
 餌
-    O kodasig ko sapariri' to 'do.
+    O kodasig ko sapariri' to 'edo.
     Peanuts are good bait to catch rats.
     用花生米做餌引誘老鼠
 => fafokod

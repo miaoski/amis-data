@@ -1034,9 +1034,9 @@ the tree and its flower which is like cotton
     木棉
 heavy quilts * pugai * made from cotton-like stuffing
 棉被
-=> sawfag
+=> sawfan
 
-sawfag
+sawfan
 heavy quilts * pugai * made from cotton-like stuffing
 棉被
 => parok
@@ -2038,10 +2038,10 @@ to break * with reference to thread
     She stopped bearing children.
     他不再生小孩了 
 
-pisto'
+piseto'
 to come apart
 鬆脫
-    Mapisto' ko pitaw.
+    Mapiseto' ko pitaw.
     The handle of the hoe comes apart from the metal hoe.
     鋤頭的柄脫落
 => pintoh

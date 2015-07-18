@@ -344,7 +344,7 @@ to be pointed
 tafa'
 to dam a stream 
 堵住河水
-=> sdef
+=> sedef
 
 tafad
 a disembodied head gotten in headhunting or war
@@ -694,7 +694,7 @@ to sit on haunches or chairs
 tahekal
 to come to light * to suddenly be seen.
 出現，突出，突然看到
-=> sdak
+=> sedak
 
 tahekol
 to throw out * throw away
@@ -1218,7 +1218,7 @@ a hut * a temporary shelter for use in the fields
 工寮，茅舍，田間的茅舍
 community meeting house
 集會所
-=> sfi, soraratan
+=> sefi, soraratan
 
 taloc
 to be too late
@@ -2312,7 +2312,7 @@ to set free * release
     Ci Yis ko mafana'ay a mitedal to matiniay.
     Jesus knows how to resolve these kinds of problems.
     只有耶穌才能解救這種事情
-=> hdal, sdal
+=> hdal, sedal
 
 tedi
 splendor * glory * shining light
@@ -2481,7 +2481,7 @@ to completely eat up a lot of food not leaveing any left over as one would expec
 tefon
 a well * source of water
 水井，水的源頭
-=> misatfon
+=> misatefon
 
 misatefon
 to dig a well
@@ -3224,14 +3224,12 @@ to warp * to get twisted out of shape as by heat or weather
     That (wooden) bucket is warped (and leaks).
     木製水桶已翹曲漏水了
 
-tekatka
+tekateka
 a demon who dulls people's senses so they cannot move or speak
 致人不能動彈亦不能說話的邪靈 
-=> Tofotofo, Tkatka
+=> Tofotofo, Tekateka
 
-Tofotofo = tkatka
-
-Tkatka = tkatka
+Tofotofo = tekateka
 
 teked
 for oneself 
@@ -3390,7 +3388,7 @@ to be strung out tight * stretched across a space
     He put a rope across his doorway.
     他在家門口裝拉一條繩索
 
-tlec
+telec
 to tie around the waist * or lower down off the hips
 束腰帶或在臀部下方繫帶子
 => tatelecan, satelec, safaked, safakec
@@ -3400,12 +3398,12 @@ the waist
 腰圍
 lower back
 背部下方
-=> tlec
+=> telec
 
 satelec
 belt
 腰帶，皮帶
-=> safaked, safakec, tlec
+=> safaked, safakec, telec
 
 teleg
 to make a straight line
@@ -3650,25 +3648,25 @@ a long time * for a long time
 
 # p.338
 
-tnod
+tenod
 to anchor 
 錨
-=> 'enor, sapatnod, sapa'enor
+=> 'enor, sapatenod, sapa'enor
 
-sapatnod 
+sapatenod 
 an anchor for a shop
 船錨
 => sapa'enor
 
-sapa'enor = sapatnod
+sapa'enor = sapatenod
 
-tnok
+tenok
 to kick with one's heel
 用腳的後跟踢或用力踩
-    Matnok no 'fa kako.
+    Matenok no 'fa kako.
     I was kicked by a horse.
     我被馬蹄踢傷
-=> tokod, satnok
+=> tokod, satenok
 the middle * center
 中間，中央
     Tnokay a riyar
@@ -3676,18 +3674,18 @@ the middle * center
     地中海
 => sifo'
 
-tnooy
+tenooy
 to weave * to work with a loom
 織布
-    O nitnooyan a riko' konini.
+    O nitenooyan a riko' konini.
     This clothing is woven with a loom.
     這件衣服是用人工織布器製成的
-=> tnoon, satnooy
+=> tnoon, satenooy
 
-satnooy
+satenooy
 a weaver's loom
 織布機
-=> tnooy
+=> tenooy
 
 tnor
 to soak in water
@@ -4142,7 +4140,7 @@ place where beam is anchored to a cross beam
 tokod
 to kick with heels
 用腳踢或用力踩踏
-=> tnok
+=> tenok
 
 tokoh
 hornet
@@ -4383,7 +4381,7 @@ rotten * with reference to flesh or vegetation
 => poni'
 to soften
 柔軟的
-    Masger ko lalan saka toni' sa ko lalan.
+    Maseger ko lalan saka toni' sa ko lalan.
     The road is wet so the road is soft (muddy).
     雨水使泥土鬆軟
 

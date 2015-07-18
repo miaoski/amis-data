@@ -155,7 +155,7 @@ to heat water as for bathing
 fadisoso' 
 grapes * grape vines
 葡萄
-    fadisoso' a 'pah 
+    fadisoso' a epah 
     wine
     葡萄酒
 => misafadisoso', pisafadisoso'an

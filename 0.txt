@@ -1132,9 +1132,9 @@ to close (heavy glottal stop)
     Mi'def ko simal to riyar.
     The ocean has a large oil slick.
     浮油佈滿海面
-=> ledef, sa'def
+=> ledef, sa'edef
 
-sa'def
+sa'edef
 a door
 扇門
 
@@ -1177,7 +1177,7 @@ something that is radiant * glorious
 發亮的，榮耀的
 => 'edil
 
-'do
+'edo
 rat
 老鼠
 
@@ -1677,15 +1677,15 @@ barley
 大麥
 => emi, kaloemi
 
-'mic
+'emic
 pinch * grab hold of
 捏，捏住
-=> sa'mic
+=> sa'emic
 
-sa'mic
+sa'emic
 tweezers
 鋏子
-=> 'mic
+=> 'emic
 
 'min
 complete * all * every one included
@@ -1946,7 +1946,7 @@ a bamboo carrying pole
 'opic
 to wet * make wet * as from rain
 濕，弄濕
-=> sger, cepa'
+=> seger, cepa'
 
 'opir
 a braid of hair or of rope
@@ -2050,7 +2050,7 @@ left behind
 'osget
 an expression of anger
 皺眉頭表示生氣
-=> gotfol
+=> gotefol
 
 'osi
 to strongly dislike * reject
@@ -2142,14 +2142,14 @@ epag
 bread (from Japanese)
 麵包 (引自日語)
 
-'pah
+epah
 wine * intoxicating drink
 酒，酒精製品飲料
 
 'pec
 to despise * look down upon * consider of little value
 瞧不起，奚落，輕視，輕蔑
-=> spen
+=> sepen
 
 'pel
 biting gnats found in Hualien county

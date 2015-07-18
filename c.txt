@@ -1009,7 +1009,7 @@ a ditch where water runs
 ci'em 
 to look down upon
 輕視，輕蔑
-=> 'pec, spen, paci'em
+=> 'pec, sepen, paci'em
 
 paci'em 
 to point with chin
@@ -1700,14 +1700,14 @@ an interval of sleep
 cena' 
 to rest for a short period
 休息一會兒，短暫休息，暫時
-=> pacena', sacnacena'
+=> pacena', sacenacena'
 
 pacena' 
 to take a short break
 歇一會兒
 => cena'
 
-sacnacena' 
+sacenacena' 
 to do something at irregular intervals
 做事斷斷續續
 => cena'
@@ -2320,7 +2320,7 @@ biblical usage - angels
 cepa'
 wet * damp
 濕，弄濕，潮濕
-=> sger, 'opic
+=> seger, 'opic
 
 cepapal 
 ripped apart * of clothing
@@ -2359,7 +2359,7 @@ a frame on which is attached a fish dam * a place where fish gather to be caught
 cera' 
 to be bored
 膩，厭膩，厭煩
-=> sga
+=> sega
 to be tired as * when an invalid
 身體虛弱時的厭倦感
 to dislike
