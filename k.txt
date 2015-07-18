@@ -512,12 +512,12 @@ older sibling (brother or sister)
 => kaka
 one more advanced than * in superior position
 長輩或兄長
-=> malikaka, malkaka, ikakaay, palakaka
+=> malikaka, malekaka, ikakaay, palakaka
 
 malikaka
 brothers and sisters belonging to eachother
 兄弟姐妹，手足之情 (字須與複數代名詞連用)
-=> malkaka, kaka
+=> malekaka, kaka
 
 
 # p.129
@@ -677,7 +677,7 @@ a small hard backed beetle-like biting bug
 kala 
 a grammatical particle indicating the doing of one activity along with another
 文法上表示指一起做另外一件事
-    Kala nipila'pa han nagra ko nika romakat. 
+    Kala nipila^pa han nagra ko nika romakat. 
     They blew the trumpets as they walked.
     他們邊吹喇叭邊走路
 
@@ -1688,7 +1688,7 @@ bridge
 => kawal, pakaykay
 to mediate * be middleman
 媒人
-    Mala kayakay cigra palalitmoh cagraan. 
+    Mala kayakay cigra palalitemoh cagraan. 
     He became a middle-man to introduce them.
     他成為他們的媒人，他們相識是他作媒的
     pakayakay cigra to sakaga'ay nagra a tatosa 
@@ -2601,7 +2601,7 @@ tender with literal and figurative meanings
 ko^ko
 chase away
 驅趕
-=> lpel
+=> lepel
 
 koemi 
 flexible * moveable

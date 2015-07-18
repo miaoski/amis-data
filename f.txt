@@ -82,7 +82,7 @@ form * appearance
 形式，外觀
 pattern
 模式， 模型，款式，樣本
-=> lalko, misafaco
+=> laleko, misafaco
 
 misafaco
 to draw plans as to diagram a building

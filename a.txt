@@ -213,7 +213,7 @@ a grammar particle added to a word meaning for each one
     Alacecayen ko pipafeli. 
     Give each one thing.
     每人分一個
-    Alasadasadak sa cagra a militmoh tamiyanan. 
+    Alasadasadak sa cagra a militemoh tamiyanan. 
     They all came out (from different directions) to meet us.
     他們紛紛(各類，全部)出來迎接我們
 

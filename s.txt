@@ -1462,7 +1462,7 @@ to pan out of water * as to pan gold
 sifed
 to catch * get caught in grass or brush
 纏住, 鈎住 (被草或樹叢絆住)
-    Misifed ko talip iso i tfos.
+    Misifed ko talip iso i tefos.
     Your pants catch in the sugar cane.
     你的褲子被甘蔗鈎住了
     Masifed ko wa'ay ako.
@@ -2497,7 +2497,7 @@ sandals (from Japanese)
 solol
 to slide down
 使滑的，溜過
-    Sololen ko kilag a patalala'no.
+    Sololen ko kilag a patalalaeno.
     Slide the log down hill.
     把圓木順著斜坡滾滑到下面
 to forgive

@@ -1638,12 +1638,12 @@ to be empty * disappear, as the contents of a container
     Mapdohto / mahoracto ko lofoc ako.
     My sack is empty (contents have disappeared / fallen out).
     我的袋子已空了(內裝的物品不見了或完全倒出來)
-=> mipdoh, miltek
+=> mipdoh, miletek
 
 mipdoh
 to cut out the pulp
 弄成一個洞
-=> miltek, pdoh
+=> miletek, pdoh
 
 pedped
 to crowd * pack solid

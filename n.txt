@@ -338,7 +338,7 @@ to pull something that stretches * to stretch
     Manayat ko romi'ad.
     It will be a long time yet.
     日間延長，還有很長的時間
-    Minayatay ko soni no la'pa.
+    Minayatay ko soni no la^pa.
     The trumpet blew long.
     喇叭聲傳的很遠，喇叭聲拖的很長
 

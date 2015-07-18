@@ -675,21 +675,21 @@ a meal
 餐
 a feast
 喜宴
-=> mitahka
+=> mitaheka^
 
-mitahka
+mitaheka^
 to sit on haunches or chairs
 進餐
-    Tadamaanay ko tahka ita.
+    Tadamaanay ko taheka^ ita.
     Our meal is very special.
     我們這一頓是特別餐
-    Patahkaen nira kami.
+    Pataheka^en nira kami.
     He gave us dinner.
     他招待我們吃飯
-    Icowa ko pitahkaan ita?
+    Icowa ko pitaheka^an ita?
     Where is our meal to be served?
     我們在那裡進餐
-=> tahka
+=> taheka^
 
 tahekal
 to come to light * to suddenly be seen.
@@ -2491,12 +2491,12 @@ to dig a well
 tefos
 sugar cane
 甘蔗
-=> mitfos
+=> mitefos
 
 mitefos
 to cut * harvest sugar cane
 砍甘蔗，收割甘蔗
-=> tfos
+=> tefos
 
 tega'an
 a Ring-necked Pheasant * a large bird
@@ -3254,7 +3254,7 @@ large mature clam
 tekeg
 to sink
 沈沒
-=> lneg
+=> leneg
 
 tekek
 to snap * bite at * of snakes or birds
@@ -3393,7 +3393,7 @@ to be strung out tight * stretched across a space
 tlec
 to tie around the waist * or lower down off the hips
 束腰帶或在臀部下方繫帶子
-=> tatlecan, satlec, safaked, safakec
+=> tatelecan, satelec, safaked, safakec
 
 tatelecan
 the waist
@@ -3414,7 +3414,7 @@ to make a straight line
 telek
 to join together
 接在一起
-    Matatlek kita to sowal.
+    Matatelek kita to sowal.
     Let's make a pact together / i.e. a mutual agreement.
     我們互相約定
     O katatelekan no Kawas ato finawlan nira konini.
@@ -3636,7 +3636,7 @@ a spatula for stir frying vegetables (from Amoy dialect)
 tneg
 to sink
 沈下去
-=> lneg
+=> leneg
 
 tnem
 salty water (as is found in the village of Haciriwan)
@@ -4648,7 +4648,7 @@ aluminum sheeting (from Japanese)
 totat
 a trumpet * made from water buffalo horn and used to call the community together
 用水牛的角製成的號角用以呼叫大眾集合
-=> la'pa
+=> la^pa
 
 toto'
 a dipper made from a gourd or some other material

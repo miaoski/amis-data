@@ -1131,7 +1131,7 @@ to close (heavy glottal stop)
     Mi'def ko simal to riyar.
     The ocean has a large oil slick.
     浮油佈滿海面
-=> ldef, sa'def
+=> ledef, sa'def
 
 sa'def
 a door
