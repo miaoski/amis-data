@@ -448,7 +448,7 @@ the name of an Amis village
     o mamatagen
     to be old
     要開墾之地
-    mamatagay a sra
+    mamatagay a sera
     fertile land
     肥沃之地
 => pamatag
@@ -522,7 +522,7 @@ a shortened form for matiya without pointing to a specific person or activity * 
     The event turned out like he said.
     那件事情如他所說的(一點都不差)
 
-mced
+meced
 hard muscles from much exercise
 肌肉結實
 much fruit * heavy crop as for example grapes
@@ -748,23 +748,26 @@ mo'mo
 to mold together in one's hand * to round out into the shape of a ball
 把食物揉成一團
 
-mo'tep
+mo^tep
 ten * a number
 十
-    o niklamo'tepan
+    o niklamo^tepan
     a tenth * a tithe
     十分之一，分成十份
-=> sakamo'tep, kinamo'tepto
+=> sakamo^tep, kinamo^tepto
 
-sakamo'tep
+sakamo^tep
 the tenth
 第十
-=> mo'tep
+=> mo^tep
 
-kinamo'tepto
+kinamo^tep
 to do ten times
 作十次
-=> mo'tep
+    kinamo^tep to!
+    Have done it ten times!
+    做十次了!
+=> mo^tep
 
 moamo
 o stuff mouth full of food

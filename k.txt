@@ -1,6 +1,6 @@
 # 單字與單字間請空一行
 # p.124
-ka'dah
+kaedah
 hot, peppery
 辣，辛辣，嚴酷刻薄的(指責時)
 => kacdah
@@ -50,13 +50,13 @@ flexible * moveable
     kaemi ko faloco' 
     responsive * agreeable * tender
     心軟，易感動，親切宜人的，和藹可親的
-=> ko'mi'
+=> koemi'
 
 kaenih  
 the urge to have a bowel movement
 內急(想排便)
 
-kaogtoay
+ka'ogtoay
 a bird called Common Kingfisher
 翠鳥 (俗名魚狗)
 => kado'egay
@@ -70,7 +70,7 @@ soft * light * with literal and abstract meanings
     kaeped ko kamaro'an 
     soft place to sit
     椅墊柔軟，座椅柔軟
-    kaeped ko sra 
+    kaeped ko sera 
     ground is easy to work
     泥土鬆軟易於翻鋤
 
@@ -83,10 +83,10 @@ mikaered
 to make string
 做繩子
 
-ka^so’ 
+ka^so' 
 delicious * good tasting
 好吃，美味可口，味道佳美
-    sapaka^so’an
+    sapaka^so'an
     looks good tasting 
     看起來好像很可口的樣子
 
@@ -216,7 +216,7 @@ to bring up the past
 kado'egay
 a bird called Common Kingfisher
 翠鳥 (俗名魚狗)
-=> kaogtoay  
+=> ka'ogtoay  
 
 kadodoc 
 to keep feelings to oneself because he has no way to express himself
@@ -427,12 +427,12 @@ name of an Amisvillage
 
 # p.128
 
-kahdogay
+kahedogay
 a vegetation growing in sandy soil * The Amis used to smoke the plant for insect repellant.
 生長在沙地上的植物(蘆筍)，阿美族用這種植物來燒成煙以驅走昆蟲
 => papa'ogay
 
-kahgag 
+kahegag 
 red
 紅色
 
@@ -457,27 +457,27 @@ kahirahira
 all varieties * all kinds
 多樣，各色各樣
 
-kahmaw 
+kahemaw 
 light as opposed to heavy * literal and figurative meanings * easy 
 輕，重的相反詞；容易(字面上及比喻上)，容易理解
-    Kahmaw a tgilen ko sowal nira. 
+    Kahemaw a tegilen ko sowal nira. 
     His words are easy to receive.
     話聽起來很容易了解
-    Sakahmaw sa ko faloco' ako. 
+    Sakahemaw sa ko faloco' ako. 
     I respond by feeling light-hearted.
     心裏覺得很輕鬆
-=> palakahmaw
+=> palakahemaw
 
-palakahmaw 
+palakahemaw 
 to take lightly something that should be considered seriously
 視重為輕，將嚴重的事情看成輕而易舉的事，不在乎，看輕
-=> kahmaw
+=> kahemaw
 
-kahmid 
+kahemid 
 the name of a large crab with hair on its body
 身上長毛的大螃蟹，大毛蟹
 
-kahnanini
+kahenanini
 a request to come near
 請人或叫人靠近
 => nahini, kanini
@@ -497,7 +497,7 @@ to take in one's hands * a handful
     to eat rice with one's hands (the former life style of Amis)
     用手抓飯 (古時阿美族吃飯的習慣)
 
-kahteg 
+kaheteg 
 the smell of bowel movement
 糞便之臭味
 
@@ -606,7 +606,7 @@ kakiwaci
 to be crossed in position but not at right angles
 十字形交叉，但交叉構成的四角不等於直角
 
-kakloy 
+kakeloy 
 the name of an insect that eats leaves * the cocoon stage of a butterfly
 毛毛蟲
 
@@ -664,12 +664,12 @@ kakoyol
 a large bean that is dried for eating
 大型豆類曬乾後始能吃
 
-kakreg
+kakereg
 thunder
 雷電
 => rohroh
 
-kaktol
+kaketol
 a small hard backed beetle-like biting bug
 臭蟲 (日人稱南京蟲)
 => fagaw
@@ -828,7 +828,7 @@ Hualien (from Japanese)
 
 Kaligko = kaligko
 
-kaliki' 
+kali^ki' 
 sound of rocks moving
 石頭移動之聲音
 
@@ -837,6 +837,7 @@ a wheel
 輪子 
 => karireg
 
+karireg = kalileg
 
 # p.132
 
@@ -854,7 +855,7 @@ teeth hurt from eating something sour
     teeth hurt
     牙齒酸痛
 
-kalimnaw 
+kalimenaw 
 a species of a tree with leaves that are edible
 葉子可食之灌木
 
@@ -899,9 +900,10 @@ a grammatical particle with the sense of 1. ordinary 2. all * every
     ordinary work
     所有的工作，任何的工作，各種不同的工作
 
-kalo'mi 
+kaloemi 
 barley
 大麥
+=> emi, katoemi
 
 kalocoday
 Viburnum Iuzonicum. Rolfe
@@ -953,7 +955,7 @@ the name of an Amis village
 
 Kalotogan = kalotogan
 
-kalto 
+kaleto 
 to stop along the way
 中途歇脚
 => cafer
@@ -1010,7 +1012,7 @@ to separate chaff from harvested grain using hands to throw the chaff away
 檢視，從稻穀中用手檢視，丟棄粗糠
 => pili'
 
-kamleg 
+kameleg 
 slick * slippery * as a trail
 光滑，滑溜溜
 
@@ -1127,7 +1129,7 @@ a species of fish
 kanini
 come here
 靠近些
-=> knanini
+=> kenanini
 
 
 # p.135
@@ -1235,7 +1237,7 @@ partner * one like the other
     Makakapi ko pitatoy nira. 
     He carried something in both hands (for balance).
     他二手各拿東西(為保持平衡)
-    Makakapi ko codad ita a tayra i kyokay 
+    Makakapi ko codad ita a tayra i kiyokay 
     We carry companion books to church (Bible and hymnal) .
     我們併拿二本書上教堂(聖經和聖詩)
 
@@ -1265,7 +1267,7 @@ to weed rice plants in the flooded fields
 to reach out and feel with hands for something you cannot see * grope
 暗中摸索
 
-kaponay 
+kaponaay 
 a tree called Taiwan pittosporum
 台灣海桐
 
@@ -1471,13 +1473,13 @@ karototoyay
 a plant with edible leaves and roots used for medicine
 這植物可食其嫩葉且根莖可用來製成藥
 
-karteg
+kareteg
 heavy
 重
-    Karteg ko faloco' ako. 
+    Kareteg ko faloco' ako. 
     My heart is weighed down withtrouble.
     我的心很沉重
-    Karteg ko tayal nira. 
+    Kareteg ko tayal nira. 
     He has to lift in his work.
     他的工作煩重
     His work is difficult.
@@ -1498,7 +1500,7 @@ numbness or tingling as when circulation is cut off * literal and figurative mea
 
 kasid 
 driftwood
-浮木
+漂流木
 => cikacik
 Pacific current
 黑潮
@@ -1675,10 +1677,10 @@ sickle * long blade knife with curved handle
 鐮刀，長刀，彎月刀
 => mamiya
 
-kawrira
+kaorira
 but
 然而，可是
-=> nikawrira
+=> nikaorira
 
 kayakay 
 bridge
@@ -1725,7 +1727,7 @@ to lead along a wrong path * to influence negatively
     He is led astray by others.
     他被別人帶壞了
 
-kayig 
+kay^ig 
 young woman * girl in teens or early twenties who is unmarried
 小姐，妙齡少女，20出頭之未婚女性
 
@@ -1747,44 +1749,44 @@ dish cupboard
 櫥櫃
 => kaysig
 
-kcec
+kecec
 to close eyes
 閉眼睛
 => fotek
 
-kced 
+keced 
 to shrink
 萎縮，縮短
 to return to normal
 膨脹東西恢復正常謂
 
-kcor 
+kecor 
 to look down from above
 眺望，居高臨下
-=> pikcoran
+=> pikecoran
 
-pikcoran 
+pikecoran 
 viewpoint to look on a scene
 守望台，瞭望台
 => cekor, kecor
 
-kdal 
+kedal 
 drought
 乾旱
 famine
 飢荒
-=> makdalay
+=> makedalay
 
-makdalay 
+makedalay 
 an old old man
 老年人
-=> kdal
+=> kedal
 
-kdec 
+kedec 
 tight * tied or fixed so that it cannot move
 緊密
 
-kdof 
+kedof 
 to be rounded out in shape
 窟窿
 
@@ -1829,23 +1831,23 @@ to experience
 
 # p.142
 
-kfig 
+kefig 
 measles
 麻疹
-=> makfig
+=> makefig
 rash
 紅疹
 
-makfig 
+makefig 
 to have measles or rash
 患痲疹
-=> kfig
+=> kefig
 
-kfog 
+kefog 
 to fall into a deep hole * as a trap or well
-掉入洞中 (makfog)
+掉入洞中 (makefog)
 
-kfoh
+kefoh
 to immerse * submerge in water
 掉入水中
 => kfo'
@@ -1861,32 +1863,32 @@ ki'aot
 to arrive first and receive ahead of others
 超越別人
 
-ki'caw
+ki'ecaw
 to start a song followed by a chorus singing a refrain (similar to a round)
 起音，主音，主理領唱者
-=> ki'ciw, ti'ciw
+=> ki'eciw, ti'eciw
 
-ki'ciw
+ki'eciw
 to start a song followed by a chorus singing a refrain (similar to a round)
 起唱者，大會行帶唱的
-=> ki'caw, ti'ciw
+=> ki'caw, ti'eciw
 
-ki'mel 
+kiemel 
 courageous * strong with literal and spiritual dimensions
 有勇氣，力氣
-    Ki'mel ko faloco' nira. 
+    Kiemel ko faloco' nira. 
     He is strong in heart / courageous.
     他有勇氣的膽量
-    Ki'mel cigra a matayal. 
+    Kiemel cigra a matayal. 
     He works with endurance.
     他工作很賣力
 
-ki'tec
+kietec
 cold * literally and figuratively 
 冷；對事物冷漠
-=> li'tec
+=> lietec
 
-kiawkiaw 
+kiyawkiyaw 
 pullet * young chicken
 小母雞，獵人用之帽子
 
@@ -1935,7 +1937,7 @@ to digress in speaking
 
 # p.143
 
-kidfet 
+kidefet 
 closely arranged with no spaces in between, as in planting vegetables.  * in making strong cloth 
 編排得很密合；種菜的間隔很密；編織的布很密而不容易破損
 
@@ -1951,11 +1953,11 @@ something found and claimed for oneself
     那人形像與德性不好
 => pakido
 
-kifsiw 
+kifesiw 
 kettle for boiling water
 開水壺
 
-kiftol 
+kifetol 
 thick * as opposed to thin
 厚
 
@@ -2010,7 +2012,7 @@ relate to * relationship
     I related to (became involved) in that affair.
     我牽涉到此事物
 
-kihcod 
+kihecod 
 completely taken * as a thief taking all the money not leaving any behind 
 徹底，如小偷拿走所有的財務不留痕跡
 
@@ -2120,10 +2122,10 @@ kimadac
 to be smooth with reference to something solid
 滑溜，圓滑，平滑，流暢
 
-kimced
+kimeced
 fully developed * of grain or fruit or the flesh of an animal 
 發達，堅硬，結實
-=> komced, kohced
+=> komeced, koheced
 
 kimit 
 to cut into pieces * as to use a string to divide rice bread by hand
@@ -2165,7 +2167,7 @@ fully developed * of grain
 成熟的，發達的
 => timool, kitmol
 
-kimtor 
+kimtol
 a bamboo tree
 利果竹
 
@@ -2192,10 +2194,9 @@ to give oneself completely to a task (See falah)
 犧牲，捨己；為…冒生命的危險，犧牲 (參閱 falah)
 => falah
 
-kinayra 
+kinaira 
 crops * yield from farm work
 收穫，收成
-=> knayra
 
 kincac 
 policeman (from Amoy dialect)
@@ -2228,7 +2229,7 @@ to lay aside from the rest
     misakakinih to demak 
     to be unfair * show partiality
     做事不公正，對事有偏袒，偏頗
-    makakinih ko pitli 
+    makakinih ko piteli 
     not the same amount put or given
     放置不平均
     matokinih ko rakat 
@@ -2285,18 +2286,18 @@ material * cloth
 kirami
 but
 然而，但是
-=> nikawrira
+=> nikaorira
 
 kiric 
 to drag along * sweep along with * as the activity of water
 拉，扯，橫掃，沖走
-    Mikiric / mikric ko nanom to sra. 
+    Mikiric / mikeric ko nanom to sera. 
     The water swept away the earth.
     流水沖刷泥土
     Makiric / makickic no nanom ko pala. 
     The field was swept by the water.
     田園被水沖刷
-=> kric
+=> keric
 
 kirig 
 a back shield worn by women to work in the fields * made of grass tips
@@ -2462,52 +2463,52 @@ kiyot
 to dig out * scratch off something small like a spot of dirt
 挖出，鑿出，刪除，像刪除小斑點的東西
 
-klac 
+kelac 
 to chip at * cut out * as wood or a rotten spot in fruit
 削，切
 
-klalaci 
+kelalaci 
 a flowering shrub called Bleeding Heart Glorybower (Clerdendron thomsonae)
 龍吐珠
 
-klap 
+kelap 
 to scoop out * dig out rice seedlings
 剷除，鏟出
-=> saklap
+=> sakelap
 
-saklap 
+sakelap 
 a scoop for digging
 鏟子
 a spatula
 調刀，小鏟，壓台器
-=> klap
+=> kelap
 
-kleg 
+keleg 
 a man-hole
 出入孔，迴避孔
-=> misakleg, tahakleg
+=> misakeleg, tahakeleg
 
-misakleg 
+misakeleg 
 to make a man-hole to cause someone to fall in
 做一 出入孔, 使人能陷進
-=> kleg
+=> keleg
 
-tahakleg 
+tahakeleg 
 to fall in a man-hole
 掉入洞中
-=> kleg
+=> keleg
 
-klet 
+kelet 
 to use a sickle to cut off twine
 割，收割大麻的過程
 
-kli' 
+keli' 
 the sound of clinking or a creaking sound
 金屬物品掉落之聲響
 the sounds of a thief
 小偷偷東西的聲響
 
-klig 
+kelig 
 the sound of a bell or phone or clock
 鈴聲，電話聲，鐘聲
 to fry or roast in a pan
@@ -2520,65 +2521,60 @@ Ramie (Boehmeria frutescens)
 青苧麻
 => hanakeliw
 
-klog
+kelog
 a resounding noise as to hear a door being closed
 開，關門之碰聲
 a man-hole
 出入孔
 
-kltan 
+keletan 
 lower back below the waist and to the sides
 腰部
 
-kma 
+kema 
 slow
 緩慢，如牛拖車
 to be numb with cold * as an ox pulling a cart 
 因冷而麻木
 
-kmi 
+kemi 
 pain in the chest experienced while breathing
 呼吸引致胸部之疼痛，肺炎
 
-kmo 
+kemo 
 on target * squarely on the mark
 目標，鵠的
 to fall from a high place
 從高處掉落
-    Pakmo han nira ko falohag ako. 
+    Pakemo han nira ko falohag ako. 
     He hit me squarely in the chest.
     他直接地擊打我的胸部
-    Makmo ko tamdaw. 
+    Makemo ko tamdaw. 
     A man fell from above.
     人由上而掉落
 
-kmod 
+kemod 
 the inside of anything
 內部
-=> pakakmoday
+=> pakakemoday
 
-pakakmoday 
+pakakemoday 
 mysterious * not easily understood
 最深處，不可思議的，神秘的
-    pakakmoday ko sowal 
+    pakakemoday ko sowal 
     words have a hidden meaning
     話中深藏玄機，話中有話，話中有很深的含意
 
-knanini
+kenanini
 come here
 挨近點，靠近些
 => kanini
 
-knaw 
+kenaw 
 generic for all kinds of onions and leeks
 蒜頭，大蒜，洋蔥，韮菜
 
-knayra
-crops * yield from farm work
-收穫，收成
-=> kinayra
-
-kni' 
+keni' 
 eye gouged out
 眨眼
 eyes closed
@@ -2589,60 +2585,60 @@ ko
 See Appendix 1 - Connective Grammatical Markers.
 參閱附錄I，連接詞
 
-ko'gel 
+koegel 
 tender with literal and figurative meanings
 柔軟，嫩的，脆弱的
-    ko'gelay ko fages 
+    koegelay ko fages 
     skin is youthful
     皮膚白皙細嫩
-    ko'gel ko faloco' 
+    koegel ko faloco' 
     easily influenced
     心軟，心智不成熟
-    ko'gel ko titi 
+    koegel ko titi 
     meat is tender
     肉很嫩，很軟
 
-ko'ko
+ko^ko
 chase away
 驅趕
 => lpel
 
-ko'mi 
+koemi 
 flexible * moveable
 柔順的，馴良的，柔韌的
-    ko'mi ko faloco' 
+    koemi ko faloco' 
     responsive * agreeable * tenderhearted
     易感動的，心腸軟的，富同情心的
 => ka'mi
 
-ko'mih 
+koemih 
 soft * as a chair cushion or bed 
 柔軟的，如椅墊，床墊
-    ko'mih ko faloco' 
+    koemih ko faloco' 
     agreeable
     可親的，愉快的心情
 
-ko'san 
+koesan 
 sweet
 甜
-    Ko'san ko 'odal. 
+    Koesan ko 'odal. 
     Honey is sweet.
     蜂蜜很甜
-    Ko'san ko sowal nira.
+    Koesan ko sowal nira.
     He is using flirting speech / persuasive speech (as of a salesman).
     他的話甘如蜜，他的話具煽動力，說服力(如同一個推銷員)
 
-ko'sit 
+koesit 
 difficult to manipulate
 堅靱，堅硬
-    ko'sit ko faloco' 
+    koesit ko faloco' 
     stubborn * resistant
     他的心頑固
-    ko'sit a tdalen 
+    koesit a tedalen 
     (it) is hard to untie / get loose
     難以解開
 
-ko'teg 
+koeteg 
 something that stretches easily without breaking * as rice bread 
 黏黏的，如糯米糕
 
@@ -2657,10 +2653,10 @@ kodasig
 peanuts
 落花生，土豆
 
-kodfet 
+kodefet 
 to grow thick
 密集，濃密
-    Kodfet ko capox. 
+    Kodefet ko capox. 
     The rice plantings are growing thick.
     秧苗長的很密集
 
@@ -2674,10 +2670,10 @@ kodos
 emaciated * lean * skinny
 瘦削，憔悴，皮包骨的
 
-kodpi'
+kodepi'
 small through the stomach from front to back * slender 
 苗條的，弱不經風的
-=> kidpi'
+=> kidepi'
 
 kofaw 
 kitchen
@@ -2687,7 +2683,7 @@ kitchen
 kofel 
 wrinkled skin of an older person
 皺紋
-=> kolfo'
+=> kolefo'
 
 kofig 
 thermos bottle (from Japanese)
@@ -2752,37 +2748,40 @@ to make soup
 煮湯
 => kohaw
 
-kohcal 
+kohecal 
 white
 白，白色
 light * as the color of Caucasian skin
 皮白皙如外國人
 
-kohced 
+koheced 
 to be firm * hard in flesh with no fat
 肌肉結實
+=> koreced
+
+koreced = koheced
 
 kohkohan 
 wilderness
 荒地，曠野
 
-kohnac
+kohenac
 condition of skin * to not have body hair
 光滑
-    Sakohnac sa kono mako a fages. 
+    Sakohenac sa kono mako a fages. 
     My skin is now smooth and bald.
     我的皮膚細膩圓滑
 => rohnac, madihmih
 
-kohpic 
+kohepic 
 thin * as opposed to thick
 細薄
 
-kohtig 
+kohetig 
 black
 黑 (色) 
 
-koicaw
+ko'icaw
 stiff * not move easily 
 僵硬，不易彎曲的
 => 'ifcag
@@ -2803,7 +2802,7 @@ kokoa
 peek-a-boo
 小孩嘻戲時之用語
 
-kokofag 
+kokufag 
 blackboard (from Japanese)
 黑板 (引自日語)
 
@@ -2850,15 +2849,15 @@ kolced
 hard * of muscles that have been hardened by exercise
 結實
 
-kolfo'
+kolefo'
 to wrinkle * leave in folds 
 皺紋
-=> kofel, kasakolfolfo'
+=> kofel, kasakolefolefo'
 
-kasakolfolfo' 
+kasakolefolefo' 
 all the folds of (something)
 摺疊之物之皺摺
-=> kolfo'
+=> kolefo'
 
 koli 
 laborer * slave
@@ -2907,7 +2906,7 @@ to steal away without being seen
 悄悄地溜開，躲開
 => koniyol
 
-kolmi 
+kolemi 
 to be irregularly bulged in shape * as a ball without enough air in it 
 樹皮等不規則的皺紋，如球內無足夠氣之萎縮狀
 
@@ -2948,7 +2947,9 @@ to be horrible to look at * horrifying from the observer's point of view
 噁心，令人毛骨悚然
 the nervous motion of a child as when he is urinating
 當小孩撒尿結束後會有毛骨悚然的感覺
-=> ligses
+=> ligses, komelikili
+
+komelikili = komikili
 
 komimit 
 to pinch and twist flesh
@@ -2963,7 +2964,7 @@ komo
 rubber (from Japanese)
 橡皮膠 (引自日語)
 
-komo'ko 
+komoeko'
 the sound of bubbling water that is boiling
 滾開之水所起之氣泡所發之聲音
 
@@ -2995,7 +2996,7 @@ the condition of skin after all fur or feathers are removed * bald
     to pluck the chicken feathers
     拔雞毛
 
-konai'i 
+konayi'
 soft * damp and pliable * as the consistency of a vegetable
 軟的，如柔嫩的蔬菜 
 
@@ -3168,7 +3169,7 @@ to scratch one's body
 
 kosoy 
 citronella * grown in the Amis tribal area 
-香茅草，香木緣，生長於阿美族部落裏
+香茅草(引自日語)，香木緣，生長於阿美族部落裏
 => misakosoy
 
 misakosoy 
@@ -3220,10 +3221,10 @@ Wood Oil Tree (Aleurites)
 kowa' 
 papaya * fruit and tree
 木瓜
-    kowa' no lotol
+    kowa' no lotok
     Taiwan Diplofatsia * a plant
     八角金鑑，台灣山中製紙之木瓜
-    sasoken a kowa' / paccosen a kowa' / cco.
+    sasoken a kowa' / cacoscosen  a kowa' / ceco.
     Pith Paper Plant
     ？髓，蓪草
 => Cikowa'ay
@@ -3319,86 +3320,86 @@ a basket made of reeds as a backpack
 背簍 (袋)
 => koyod, takoyodan
 
-kpa 
+kepa 
 the sound of foot steps
 腳步聲
-    Sakpakpa sa cigra to romi'ad a matiya ito'manay. 
+    Sakepakepa san cigra to romi'ad a matiya ito'manay. 
     He walks in daytime like he was feeling his way in the dark with his feet.
     他白天走路如在夜間不良於行
 
-kpid 
+kepid 
 a container
 容器，竹製容器
 => kanas
 
-kpit 
+kepit 
 to close eyes
 閉目
 => kopit, fotek
 
-kra 
+kera 
 found * to find
 發現，拾獲，找到
 => tama
 
-krah 
+kerah 
 to dry up
 乾旱，乾涸
 ocean tide out
 水退潮
 
-kreg 
+kereg 
 thunder
 雷電
-    Makakreg ko romi'ad. 
+    Makakereg ko romi'ad. 
     It is thundering.
     天雷雨交加
 a plant * Small-leaved Disty lium
 小葉紋母樹
 
-krem 
+kerem 
 to sink * referring to the sun
 下沈 (指夕陽西沈)
-    Mikrem ko cidal. 
+    Mikerem ko cidal. 
     The sun is setting.
     太陽沈沒
-    Makahkrekrem ko romi'ad. 
+    Makahkrekerem ko romi'ad. 
     The day is growing dark.
     天將暗下來，夜幕低垂 (西陽下)
 
 
 # p.157
 
-kric
+keric
 the movement of swift water to move things
 沖刷，水沖走東西的流勢
 => kiric
 
-krid 
+kerid 
 generic word for lead * guide
 引導，引領
-    Makrid nira kako. 
+    Makerid nira kako. 
     He led me.
     他引領我
-    O mikriday cigra. 
+    O mikeriday cigra. 
     He is leading.
     他是領導者, 他是領袖
-    Kriden kako. 
+    Keriden kako. 
     Lead me.
     請引領我
-=> kakridan, kakrikridan
+=> kakeridan, kakerikeridan
 
-kakridan 
+kakeridan 
 a leader
 領導者
-=> krid
+=> kerid
 
-kakrikridan 
+kakerikeridan 
 the leaders
 元老，長老，領導群
-=> krid
+=> kerid
 
-krih
+kerih
 to be all gone * none left behind * of people or things 
 全部片甲不留(人或東西)
 to all be present * no one missing
@@ -3407,55 +3408,55 @@ the sound of scraping
 刮，擦聲
 => tatood
 
-kris 
+keris 
 to scrape * scratch
 刮, 削
-    Makakris ko citosiya. 
+    Makakeris ko citosiya. 
     The cars scraped each other.
     車子互相擦撞撞
 matches
 火柴
 => tkig
 
-krismas 
+kerismas 
 Christmas (from Japanese)
 聖誕節 (引自日語)
 
-kristo 
+keristo 
 Christ
 耶穌基督
-    misakristo 
+    misakeristo 
     to practice the Christian faith
     信奉基督教
 
-kristokiw 
+Keristokiw 
 Christianity * the Christian church or religion (from Japanese)
 基督教 (引自日語
 
-krit 
+kerit 
 to cut off a small portion of the end of something
 切，割成小片
 biblical meaning to circumcise
 聖經意指行割禮
-    krit a lisin 
+    kerit a lisin 
     the ritual of circumcision
     行割禮之儀式
-=> pakrit, kinakrit
+=> pakerit, kinakerit
 
-pakrit 
+pakerit 
 to have someone cut
 切割分享給別人
-=> krit
+=> kerit
 
-kinakrit 
+kinakerit 
 the pieces that have been cut off
 碎片，片塊
-=> krit
+=> kerit
 
-kro 
+kero 
 to dance * dance
 跳舞
-    Misakro / makro kita. 
+    Misakero / makero kita. 
     Let's dance
     讓我們跳舞
 to jump with gladness
@@ -3463,27 +3464,27 @@ to jump with gladness
 to dance in the heart with excitment instead of literally
 內心雀躍不已
 
-kro' 
+kero' 
 a sound made in the throat when swallowing
 喉嚨吞嚥東西的聲音，吞食所發出的聲音
 
-krog 
+kerog 
 to make a banging or rumbling sound
 各種撞擊聲
-=> klog
+=> kelog
 
-kros 
+keros 
 for the throat to be irritated when swallowing
 吞食時, 引發喉嚨疼痛
 
-ksem 
+kesem 
 regret * sorrow over something that has happened
 悔恨，憂傷，喪氣，洩氣，羞愧
 
 
 # p.158
 
-ktem 
+ketem 
 to be stubborn or angry or in a hurry as expressed in the set of the teeth and mounth
 咬牙切齒狀
 to bite an object with teeth
@@ -3500,37 +3501,37 @@ anger
     他在生氣
 => firag, po'i, iget
 
-ktig 
+ketig 
 to stick to * snag
 貼住，黏住 
-    Miktig ko talod i riko' ako. 
+    Miketig ko talod i riko' ako. 
     Grass stuck to my clothes. 
     草黏貼在我的衣服上
-    Maktig ko riko' ako i pacek no 'anegag. 
+    Maketig ko riko' ako i pacek no 'anegag. 
     My clothes got caught on a nail in the chair.
     我衣服被椅子的釘子鈎住
-    paktigen ko kolog. 
+    paketigen ko kolog. 
     Stake the water buffalo.
     拴住水牛，繫好黃牛
 
-ktil 
+ketil 
 to pinch with fingernails
 捏 (用指甲)
 
-kton 
+keton 
 to cut something long with literal and figurative meanings
 切斷，決定，割斷 (含有字面上或隱喻上的意義)
-    mikton to sowal 
+    miketon to sowal 
     to make a promise
     發誓，立下誓言，下斷語結論
-    maktonto ko sowal 
+    maketonto ko sowal 
     the promise * decision is made
     立好承諾，約定約定
-    makakton to sowal 
+    makaketon to sowal 
     an agreement between two parties
     互相約定承諾
 
-ktos 
+ketos 
 to pick grain
 摘取穀物
 
@@ -3546,10 +3547,13 @@ Chinese * China (from Amoy dialect)
 外省人，軍人，官兵 (引自閩南語)
 => Kwapig, holam
 
-kyokay 
+kiyokay 
 church (from Japanese)
 教會 (引自日語)
 
 ka
 prefix
 前綴，行為本身
+
+kahiceraan = kaheceraan
+

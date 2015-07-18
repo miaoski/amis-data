@@ -1079,17 +1079,17 @@ to be blinded by light
 to singe * burn hair or feathers
 毛髮被火燻焦
 
-'ciw
+'eciw
 a swishing sound
 颼(鞭，翅膀等的聲音)
-=> sapa'ciw, rocwi
+=> sapa'eciw, rocwi
 
-sapa'ciw
+sapa'eciw
 a goad for hitting
 靶
 => rocwi
 
-rocwi = sapa'ciw
+rocwi = sapa'eciw
 
 'co
 an elephant (with light glottal sound)
@@ -1408,7 +1408,7 @@ to cut and sharpen the end of a piece of wood like a pencil
 
 # p.36
 
-'imced
+'imeced
 to be firm * of flesh including muscle or fruit like banana
 結實，堅固
 
@@ -1671,10 +1671,10 @@ wheat
 
 'did = 'mi
 
-kato'mi
+katoemi
 barley
 大麥
-=> 'mi
+=> emi, kaloemi
 
 'mic
 pinch * grab hold of
@@ -2022,7 +2022,7 @@ masaya = 'oriyat
 'orog
 to carry on the shoulder
 扛肩
-    Ma'orog nira ko kartegay a 'inorog.
+    Ma'orog nira ko karetegay a 'inorog.
     He carried a heavy load.
     他挑起了沉重的擔子，他運走(扛在肩上)了很沉重的荷物
 => 'a'orogen

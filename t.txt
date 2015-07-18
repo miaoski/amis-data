@@ -110,7 +110,7 @@ to pierce through
     Ta'esel sa ko pinegneg no Kawas.
     God sees through (to the inner parts).
     上帝能看透我們的心
-    Mita'sel ko rinom nira to kiftolay a rafir.
+    Mita'sel ko rinom nira to kifetolay a rafir.
     His needle pierced through thick leather.
     他的針能刺透厚皮
 
@@ -139,7 +139,7 @@ gold
 tadaemi
 barley
 大麥
-=> 'mi
+=> emi, katoemi, kaloemi
 
 tada-
 a grammatical affix indicating a great amount of or a great degree of something in positive or negative forms
@@ -1265,7 +1265,7 @@ to find
     Matama nira ko masidayay a riko' ako.
     He found my lost clothes.
     他找到了我遺失的衣服
-=> kra
+=> kera
 to be right
 正確，符合標準
     Matama ko sowal iso.
@@ -1601,7 +1601,7 @@ the start of
 tapakad
 to all go together
 全體出動，勞師動眾
-=> krih
+=> kerih
 a smaller group belonging to a larger delegation of travelers walking
 成群結隊
 => 'alpad
@@ -2309,7 +2309,7 @@ to set free * release
     Cima ko pakatedalay to rawraw niyam? 
     Who can resolve our problems? 
     誰能赦免我們的罪？
-    Ci Yis ko mafana'ay a mitdal to matiniay.
+    Ci Yis ko mafana'ay a mitedal to matiniay.
     Jesus knows how to resolve these kinds of problems.
     只有耶穌才能解救這種事情
 => hdal, sdal
@@ -2988,7 +2988,7 @@ to sing in rounds
 tioy
 a tea kettle used in former days
 煮茶的水壺
-=> kifsiw
+=> kifesiw
 
 tipaw
 a dead stem of a rice plant with no grain inside because it did not pollinate or was eaten by insects
@@ -3785,7 +3785,7 @@ a large shade tree
 to'to
 to go to the source * to go directly to
 去追尋根源，直接地去
-    To'to sa kako a mitgil.
+    To'to sa kako a mitegil.
     I went to the person directly to hear the status of things.
     我直接去聽事情的狀態
     mito'to to tayal

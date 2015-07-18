@@ -859,7 +859,7 @@ stuck together with no sepearation between
 laplap 
 to chase * as to chase away chickens from the doorway
 驅逐，趕逐，追逐，趕逐雞兒至門口
-=> ko'ko
+=> ko^ko
 
 lapot 
 sweet potato leaves and stems * used as pig food
@@ -1166,24 +1166,24 @@ to make a hole as a button does when it pulls away from cloth
 衣服被東西扯住
 to tear as a pierced ear lobe
 耳朵被扯破了，被撕開
-=> rfit, lfoh
+=> rfit, lefoh
 
-lfo 
+lefo 
 conflict
 衝突，爭執，打架，爭鬥
-=> malalfo
+=> malalefo
 
-malalfo
+malalefo
 to wrestle or fight with each other
 互相打架，格鬥，搏鬥
 => mala'odot
 
-lfoh 
-[kinalfoh]
-[kinalfoh]
-=> kinalfoh
+lefoh 
+[kinalefoh]
+[kinalefoh]
+=> kinalefoh
 
-kinalfoh
+kinalefoh
 to be consumed with anger and do something rash
 自討沒趣，輕率行事
 to commit suicide
@@ -1263,7 +1263,7 @@ to reconcile
 li'el 
 neck
 脖子, 頸子
-    mikton to li'el 
+    miketon to li'el 
     cut off the head
     斬頭
 => lali'elan
@@ -1608,19 +1608,19 @@ to cheat
     Malihiw no tao kako. 
     I was cheated by someone.
     我被別人欺騙
-    Malihiw no nanom ko sra. 
+    Malihiw no nanom ko sera. 
     Water eroded the soil.
     土被水沖蝕了
 
-lihnaw 
+lihenaw 
 to be overcome with fear * panic stricken * as when standing on a high place
 懼怕，恐懼，懼高症，目眩
-=> kalihnawan
+=> kalihenawan
 
-kalihnawan 
+kalihenawan 
 the things that caused panic
 令人擔心之事，掛慮之事
-=> lihnaw
+=> lihenaw
 
 lihoc 
 erosion of soil
@@ -1790,7 +1790,7 @@ to have free time
 limecedan
 a young girl * woman who is unmarried
 少女，童女，小姐，未婚女子
-=> kayig
+=> kay^ig
 
 
 # p.176
@@ -1805,22 +1805,22 @@ to enable someone to hide
 使之躲藏
 => limek
 
-limla 
+limela 
 to attach significance to * important
 珍惜，愛惜，重要
-    Kakalimlaen. 
+    Kakalimelaen. 
     Value it / don't waste it.
     珍惜它，勿浪費它，勿虛耗
-=> kakalimlaan
+=> kakalimelaan
 to grudgingly withhold
 吝惜 
 
-kakalimlaan
+kakalimelaan
 something of value * something important
 非常重要, 有價值的
 something that should have been saved but was lost or wasted
 應該節省的東西，但已失去或浪費掉了
-=> limla
+=> limela
 
 limo'ot 
 command * instruction * exhortation
@@ -2218,41 +2218,41 @@ to call with a shrill loud call
     He continually was calling and challenging to battle.
     他不斷地大聲喊叫來挑釁，引起戰爭
 
-lmed 
+lemed 
 dream
 夢
-    Cilmed kako. 
+    Cilemed kako. 
     I dreamed a dream.
     我作了一個夢
 blessing
 福分，運氣
-    Malmed kami. 
+    Malemed kami. 
     We are blessed.
     我們受祝福，蒙福
-    Mapalmed no Kawas kita. 
+    Mapalemed no Kawas kita. 
     God has blessed us.
     上帝賜福給我們
-=> sakalmed, pipalmedan, kalmedan
+=> sakalemed, pipalemedan, kalemedan
 luck
 好運
-    O nira a lmed konini. 
+    O nira a lemed konini. 
     That was his luck.
     那是他的運氣
 
-sakalmed 
+sakalemed 
 the means of blessing
 藉以蒙福之因素
-=> lmed
+=> lemed
 
-pipalmedan 
+pipalemedan 
 time for giving blessing
 賜福之日
-=> lmed
+=> lemed
 
-kalmedan 
+kalemedan 
 time of blessing
 蒙福之日
-=> lmed
+=> lemed
 
 lnaf
 to be swamped with water (ma-)
@@ -2306,7 +2306,7 @@ not hard * tender * as of growing plants
     lo'gel ko faloco' 
     responsive * agreeable in attitude
     心軟，心易受感動
-=> ko'gel
+=> koegel
 
 lo'od 
 the back of the neck * human or animal
@@ -2786,7 +2786,7 @@ to follow after * pursue
 追求，追逐
 to chase * drive away
 追趕，驅逐
-=> ko'ko
+=> ko^ko
 to grab hold of * catch
 攫住，擒拿
 

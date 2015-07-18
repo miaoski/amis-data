@@ -93,10 +93,11 @@ fire
 cinamalay 
 a train
 火車
-=> kasolin, namal
+=> kasolin, namal, kasolig
 
 kasolin = cinamalay
 
+kasolig = cinamalay
 
 # p.198
 
@@ -451,7 +452,7 @@ to hunt for food by hard labor, because of being in want
     a poor person 
     貧窮的人
 
-nikawrira
+nikaorira
 but * a logical connective of thought
 但是，邏輯上聯接思想的用詞
 
@@ -501,7 +502,7 @@ to cut * clip off short (grass)
 nitiih
 to dream when sleeping
 夢
-=> lmed
+=> lemed
 
 niwaniw
 to hand cultivate rice plants * pulling out weeds from the mud 

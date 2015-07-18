@@ -16,7 +16,7 @@ to stop * hinder
 sa'fit
 to deceive
 欺騙，詐欺
-    Masa'fit no ko'sanay a sowal nira kako.
+    Masa'fit no koesanay a sowal nira kako.
     I was deceived by his good sounding words.
     我被他的甜言蜜語所騙
 => safana'
@@ -923,7 +923,7 @@ to accumulate
 saradaw
 to start off a song * to start out singing with others to join in
 開頭領唱者主唱後，群眾複誦相互應唱 (如在豐年季或慶典時在歌舞中圍成一圈時其中有一人領唱)
-=> ki'ciw
+=> ki'eciw
 
 saraw
 a demon who deceives small children and leads them astray * appearing as the mother.  Saraw is very tall and puts children in trees or on high cliffs. 
@@ -1068,7 +1068,7 @@ a dry measure for measuring grain
 稱量器，量杯，斗量
 a grammatical particle indicating a response at a point of time in the sequence of action
 在文法是指時態的關聯
-    Yo matgil ako ko sowal nira 'i, keter sato kako.
+    Yo mategil ako ko sowal nira 'i, keter sato kako.
     When I heard what he said I became angry.
     當我聽到他說的話後，我很生氣
 
@@ -1206,7 +1206,7 @@ to figuratively set free the heart
     Mafana' ci Yis a misdal to faloco' ita
     Jesus knows how to set our hearts free.
     耶穌會解開我們的心結
-=> tdal
+=> tedal
 
 sday
 to drop of its own accord from hanging
@@ -1362,7 +1362,7 @@ damp
     我的衣服被淋濕
 wet
 濕的
-    Masger no 'orad ko sra.
+    Masger no 'orad ko sera.
     The rain wet the ground.
     雨水滋潤大地
     Sgeren ko felac.
@@ -1399,7 +1399,7 @@ gravel * pebbles * small rock
 si'naw
 cold * referring to weather
 冷 (指天氣)
-    Si'naw ko romi'ad. Ki'tec ko kamay ita.
+    Si'naw ko romi'ad. Kietec ko kamay ita.
     The day is cold. Our hands are cold.
     天氣寒冷，我們的手很冷
 => kasi'nawan
@@ -1717,15 +1717,15 @@ to hide something
     He is always hiding things * i.e. he is secretive.
     他總是藏東藏西的
 
-simlag
+simelag
 embarrassing * inappropriate * poor taste * shameful
 不適當的，鑑賞力差的，可恥的
-=> simelag, kasimlagan
+=> simelag, kasimelagan
 
-kasimlagan
+kasimelagan
 the thing that is embarrassing or shameful to the viewer
 令人感到難為情或可恥的事
-=> simlag
+=> simelag
 
 simpal
 cymbals (from Japanese)
@@ -1934,7 +1934,7 @@ aloof * to not take part with the group * to stay by oneself
 siwit
 to slant * set at an angle * off course 
 歪，傾斜，歪斜，放置釣鉤；方向歪了
-    Masiwit ko pitli nira.
+    Masiwit ko piteli nira.
     He set it down slanted.
     他放的斜歪了
 
@@ -2038,20 +2038,20 @@ to spread out * lay out (as to dry)
 張開，攤開 (如曬東西)
 
 
-slal
+selal
 contemporaries * people of the same age group * peers
 同時代的人們，同年紀的，同輩，好友
-=> kasaslal
+=> kasaselal
 
-kasaslal
+kasaselal
 a term referring to the organizational relationship of men in an Amis village
 在阿美族村落裡有編製關係 (如分階級，名稱，年齡)
-=> slal
+=> selal
 
 slen
 to fill in with earth
 埋，覆沒，掩沒
-    Maslen no mapraray a lotok ko sa'owac.
+    Maslen no maperaray a lotok ko sa'owac.
     The landslide filled in the ravine.
     河川被山崩掩沒
 
@@ -2091,20 +2091,20 @@ to stick out one's tongue
 伸舌頭
 => sma
 
-smer
+semer
 to sting * hurt literally
 刺痛，字面上指傷口的疼痛
 to figuratively hurt in one's inner being
 比喻上指一個人內心的傷痛
-    Masmer ko faloco' ako to sowal nira.
+    Masemer ko faloco' ako to sowal nira.
     His words hurt me in my heart.
     他說的話，傷了我的心
-=> kasmeran
+=> kasemeran
 
-kasmeran
+kasemeran
 the object of one's hurt
 令人痛心，心傷的事或物
-=> smer
+=> semer
 
 smo'ot
 (cecay no 'li', cecay a 'li'an) one hundred
@@ -2218,7 +2218,7 @@ to dampen * to be damp
     Paso'meten ko riko' ta miaylog.
     Dampen the clothes for ironing.
     衣服灑點水使之潮濕再燙
-    Maso'met ko sra.
+    Maso'met ko sera.
     The ground is damp.
     地面潮濕，土壤潮濕
     Maso'met ko faloco' nira.
@@ -2418,12 +2418,12 @@ sokir
 (of water) to carry along things in its path
 刮，削，刮掉那黏在皮膚上的東西
 
-soklet
+sokelet
 to tie a string or rope loosely so that it can be easily untied * to make a slip knot
 用繩子捆綁，綁活結
 => soklot
 
-soklot = soklet
+soklot = sokelet
 
 soko
 a storage building for implements or food or other valuables (from Japanese)
@@ -2518,7 +2518,7 @@ to attract * exert influence on
     Masolot nira ko faloco' ako.
     He has influenced me.
     他感化我的心，我的心被他影響
-    O ko'sanay a sowal nira ko sapisolot nira toya fafahiyan.
+    O koesanay a sowal nira ko sapisolot nira toya fafahiyan.
     He used polished speech to attract that woman.
     他用甜言蜜語引誘那女孩
 
@@ -2567,7 +2567,7 @@ noise
     按你車子的喇叭看看
 sound 
 聲音 
-    Matgil ako ko soni no 'do.
+    Mategil ako ko soni no 'do.
     I heard the sound of a rat.
     我聽到老鼠的聲音
     Tata'ag ko soni noya kikay.
@@ -2713,7 +2713,7 @@ land
     Mi'aca kita to sota'.
     We are buying land.
     我們購買土地
-=> sra
+=> sera
 
 
 # p.292
@@ -2749,7 +2749,7 @@ words
     O maan ko sasowalen iso?
     What do you have to say?
     你要說什麼？
-    Sapasowalan kako nikawrira caay ka sadak ko sasowalen. 
+    Sapasowalan kako nikaorira caay ka sadak ko sasowalen. 
     I want to speak but the words don't come out. 
     我很想說出來，但是講不出來 (欲言猶止，有口難言)
 speech
@@ -2791,13 +2791,13 @@ to look down upon * treat with disrespect.
 輕視，對待不禮貌，失禮，不敬重
 => 'pec
 
-sra
+sera
 land
 土地
-    Cima ko cisraay tonini?
+    Cima ko ciseraay tonini?
     Who owns this land?
     這塊土地是誰的?
-    Kakahad ko sra niyam.
+    Kakahad ko sera niyam.
     We have a lot of land.
     我們的田地很大(廣大)，我們擁有很多土地
 
@@ -2839,7 +2839,7 @@ to fall and faint
     Fahal sa cigra a masta'.
     He suddenly fell fainting.
     他突然的昏倒
-    Mapasta' kako to nika kamleg no lalan.
+    Mapasta' kako to nika kameleg no lalan.
     I fell down heavily from the slickness on the path.
     因路滑使我摔倒
 

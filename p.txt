@@ -632,7 +632,7 @@ to blow smoke from a cigarette or pipe
 to habitually do something
 習慣的做某事
 
-paktig
+paketig
 to stake out an animal tying it up
 栓住，把動物繫住
 => pasteg
@@ -1136,7 +1136,7 @@ to suddenly fall down flat
 pasteg
 to stake out * tie up to * referring to animals
 拴住，綁，捆，用繩子繫住 (家禽)
-=> paktig
+=> paketig
 
 patahtah
 with sowal - to tell everything
@@ -1236,7 +1236,7 @@ to do something in a way that is contrary to rules or guidelines
 patek
 a thousand, number value 
 一千，數目
-    O kakridan no masapatekey a sofitay cigra.
+    O kakeridan no masapatekey a sofitay cigra.
     He is officer over one thousand soldiers.
     他是千夫長
 => lfot, cicig
@@ -1714,7 +1714,7 @@ to be lame * crippled in one's legs or referring to the way one walks
 pi'kolan
 hip bone
 臀骨，耻骨
-=> knawikos
+=> kenawikos
 
 pi'pi
 to press and pack * as to pack a bowl with rice
@@ -2051,7 +2051,7 @@ to come apart
 pitaw
 hoe
 鋤頭
-    O papitawen konini a sra.
+    O papitawen konini a sera.
     This soil must be worked up with a hoe.
     這塊地是要用鋤頭耕作的
 => mipitaw
@@ -2602,25 +2602,25 @@ to conceive * become pregnant * referring both to plants and animal humans
     Be careful of the babe in your belly.
     你懷孕時要小心
 
-prar
+perar
 to collapse into ruins
 倒塌，崩塌
 to landslide
 山崩
-    Maprarto koya lotok.
+    Maperarto koya lotok.
     The mountain came sliding down.
     那座山倒塌，山崩
-=> kinaprar 
+=> kinaperar 
 
-kinaprar
+kinaperar
 ruins of something
 倒塌的土方
-=> prar
+=> perar
 
 praw
 a skin rash
 痲疹
-=> kfig
+=> kefig
 
 prec
 to squeese out * as to extract juice

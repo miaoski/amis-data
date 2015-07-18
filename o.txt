@@ -74,14 +74,15 @@ someone or something loved
     O aolahen a wawa cigra.
     He is a loveable child.
     他是值得被愛的孩子
+    O aolahan a wawa cigra.
     He is a child that must be loved.
     他是必須要愛的孩子
-    Maolah kako a tayra a misalamax.
+    Maolah kako a tayra a misalama.
     I like to go (there) and relax. 
     我喜歡到那裡去玩
-    Pakaolahen koya wawa.
-    Reward that child.
-    要獎賞那個小孩
+    Pakaolahen koya wawa!
+    Reward that child!
+    要獎賞那個小孩!
 => olah
 
 olat

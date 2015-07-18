@@ -618,7 +618,7 @@ falidas
 a tree
 山棕
 
-falihnaw 
+falihenaw 
 fear * panic * as from standing on a precipice
 驚恐的感覺，懼高症，如臨深淵的恐懼感
 
@@ -1044,7 +1044,7 @@ dragonfly
 fecak 
 cracked * as from the sun
 破裂，裂開(因陽光照射導致泥土龜裂的現象)
-    Mafecak ko sra. 
+    Mafecak ko sera. 
     The ground is cracked.
     地裂開
 
@@ -1695,7 +1695,7 @@ month
     saka cecay a folad 
     January
     一月，第一個月，元月
-    saka mo'tep a folad 
+    saka mo^tep a folad 
     October
     十月，第十個月
 menstruation cycle
@@ -1850,7 +1850,7 @@ to break easily * as old string
 fotek
 close eyes
 閉眼睛，合眼
-=> kcec
+=> kecec
 
 fotfot 
 to pull up * as weeds
