@@ -943,9 +943,9 @@ a group * chapter * division of people or things
     Palatoloen nira a pasacefag ko sofitay. 
     He made the soldiers into three groups.
     他把士兵分成三隊
-=> masacfacefag
+=> masacefacefag
 
-masacefacefag 
+masacefacefag
 in the state of being grouped into groups
 一團一團，構成一團一團(一羣一羣)的狀態
 => cefag
@@ -1880,7 +1880,7 @@ to kiss
 吻， 親嘴
 to dip into flavoring
 點浸在調味料中
-=> tnas
+=> tenas
 
 codad
 book

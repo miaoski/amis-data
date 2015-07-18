@@ -137,7 +137,7 @@ to not tell the truth
     Aka pacefa to sowal.
     Don't talk off the top of your head / make up a story.
     不要隨便說話
-    Pacfa ko demak nira.
+    Pacefa ko demak nira.
     He did the thing altogether incorrectly leaving trouble behind him.
     胡作非為
 => patras
@@ -2632,12 +2632,12 @@ to slide dowm
     Mataperoc ko kafer nira.
     His trousers don't stay up.
     他的褲子脫落
-=> tahperoc
+=> tahaperoc
 
 
 # p.238
 
-tahperoc
+tahaperoc
 (for a garment) to slide down * come off the waist
 滑落，從腰部脫落
 => peroc

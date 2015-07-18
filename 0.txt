@@ -1606,10 +1606,10 @@ to form cliques
 另起爐灶，另組黨派或派系
 => eked
 
-'kim
+ekim
 silver
 銀
-=> tada'kim
+=> tadaekim
 
 # p.38
 
@@ -1665,12 +1665,12 @@ to sink to the bottom in water
 to hold back * control self
 控制，抑制
 
-'mi
+emi
 wheat
 小麥
-=> 'did, kato'mi, tada'mi
+=> 'did, katoemi, tadaemi
 
-'did = 'mi
+'did = emi
 
 katoemi
 barley

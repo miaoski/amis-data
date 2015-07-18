@@ -6,7 +6,7 @@ a connective particle meaning and or then in quick time succession
 ta'edip
 to overlay * cover
 覆蓋，舖，鍍
-    Pata'edipen nira ko cokoi to 'kim.
+    Pata'edipen nira ko cokoi to ekim.
     He overlayed silver on the table.
     他鍍銀在桌子上
 
@@ -23,7 +23,7 @@ light * diffused without reference to the source
     O pata'egaday to faloco' ita ko sowal no Kawas.
     The Word of God brings light to our hearts.
     上帝的話帶給我們亮光
-    Ta'gad ko pisig nira.
+    Taegad ko pisig nira.
     His face is alight / he is happy.
     他的臉上充滿喜悅
 => tadegal
@@ -110,7 +110,7 @@ to pierce through
     Ta'esel sa ko pinegneg no Kawas.
     God sees through (to the inner parts).
     上帝能看透我們的心
-    Mita'sel ko rinom nira to kifetolay a rafir.
+    Mita'esel ko rinom nira to kifetolay a rafir.
     His needle pierced through thick leather.
     他的針能刺透厚皮
 
@@ -134,7 +134,7 @@ a saddle * a cushion
 tadaekim
 gold
 黃金，金的，純金
-=> 'kim
+=> ekim
 
 tadaemi
 barley
@@ -354,8 +354,8 @@ a disembodied head gotten in headhunting or war
     他獵得人頭
 
 tafak
-tobacco(from English)
-烟絲
+tobacco (from English)
+烟絲 (引自英語)
 => patafak, mitafak
 
 patafak
@@ -381,11 +381,12 @@ tafedo'
 new leaves and shoots of growth coming out on a plant
 菜心，嫩芽
 
-tafihaw/tifahaw
+tafihaw
 to feel deserted * as to suddenly be alone after having a lot of company
 感覺孤單，寂寞；如與眾同伴盡歡而散後突然孤單的感覺
 => tifahaw
 
+tifahaw = tafihaw
 
 # p.300
 
@@ -422,7 +423,7 @@ a pocketbook or shoulder bag used for carrying betel nut or tobacco
 用布製成的袋子(吊袋，裝烟草)
 => dofot
 
-tafsiw
+tafesiw
 to pass by without stopping
 經過，行過，飛越不做絲毫停留
 
@@ -500,7 +501,7 @@ to beseech
     Don't beseech / try to force me.
     不要勉強我
 
-tagiga
+tagila
 ear * ears
 耳朵
     Tata'ag ko tagila noya waco.
@@ -509,9 +510,8 @@ ear * ears
     Mimig ko tagila no rinom.
     The needle's eye (ear) is very small.
     針頭的孔很小
-=> tagila
 
-tagila = tagiga
+tagiga = tagila
 
 tagiiw
 tar
@@ -670,7 +670,7 @@ to arrive there (away from the speaker)
     What time will he arrive there? 
     他何時到達那裏？
 
-taheka
+taheka^
 a meal
 餐
 a feast
@@ -701,7 +701,7 @@ to throw out * throw away
 拋棄，丟棄
 to be thrown off * flipped
 輕輕拂打 (灰塵)
-=> fahkol
+=> fahekol
 
 tahod
 to eat immediately when the food is hot
@@ -741,7 +741,7 @@ more than enough
     He spent his money freely.
     他隨意地花用他的錢 (他的生活揮霍無度)
 
-tayipiyaw
+taypiyaw
 to represent * a representative (from Chinese)
 民意代表 (引自國語)
 
@@ -1033,7 +1033,7 @@ Where are (you) going?
 => cowa
 although
 雖然
-    Talacowa o mafana'ay cigra nikaowrira awaay ko taneg nira.
+    Talacowa o mafana'ay cigra nikaorira awaay ko taneg nira.
     Although he knows, he has no wisdom.
     雖然他是知識份子但是沒有才能
 
@@ -1071,7 +1071,7 @@ a metal trap for catching game
     talakal / tilo ni ldek
     a rainbow
     彩虹
-=> tker
+=> teker
 
 talakes
 leggings worn by women
@@ -1191,10 +1191,10 @@ a skirt (both Amis men and women wore skirts)
 
 # p.309
 
-talipaelal
+talipa'elal
 to awaken out of sleep with literal and figurative meanings
 從睡夢中甦醒，含有字面上和比喻上的意義
-    Talipaelal to kako anini to demak nira.
+    Talipa'elal to kako anini to demak nira.
     I finally realize what he is doing.
     我終於了解他的所做所為
 
@@ -1271,7 +1271,7 @@ to be right
     Matama ko sowal iso.
     What you said is right.
     他說的很正確
-=> tpi' 
+=> tepi' 
 to hit on target 
 射中目的物
     Tama han nira a mikowag.
@@ -1313,7 +1313,7 @@ Tamayan = tamayan
 tamdaw
 man * generic for
 人的總稱 
-    'Aloman ko tamdaw no Taywag.
+    'Aloman ko tamdaw no Taywan.
     There are many people in Taiwan.
     台灣的人口很多
     Malatamdaw to ci Yis.
@@ -1707,10 +1707,10 @@ waves of water
 tapenih
 to be tipped over losing the contents
 傾倒，翻倒，倒出
-    Matapnih to ko dagah ako.
+    Matapenih to ko dagah ako.
     My frying pan has tipped over.
     我的鍋子翻倒了
-=> toknih
+=> tokenih
 
 tapod
 for body to be soiled
@@ -1855,10 +1855,10 @@ tariwil
 to be unsteady * stagger as when drunk
 搖擺 (因酒醉腳步不穩，走路東倒西歪)
 
-tarnes
+tarenes
 to spend a long time in considering and doing something
 花很長的時間在思考合作某事情上
-=> tnes
+=> tenes
 
 tarodo'
 fingers
@@ -2203,7 +2203,7 @@ to work all the time
 tayhaw
 a bamboo water container used by fishermen at sea
 用竹筒製成的水壺
-=> tnos
+=> tenos
 
 tayhi
 organic fertillizer (from Japanese)
@@ -2461,7 +2461,7 @@ edible bamboo shoots
 tefoc
 punishment * penalty
 罰，賠償
-    Matfoc no Kawas kako.
+    Matefoc no Kawas kako.
     I have been punished by God.
     我被上帝懲罰
     O maan ko sapatefoc to raraw iso?
@@ -2580,7 +2580,7 @@ be faithful * trustworthy
 ti'enag
 to lie on one's back
 仰著睡
-=> ta'nag
+=> ta'enag
 
 ti'eraw
 to stretch one's body so he can see better
@@ -2940,10 +2940,9 @@ a bomb
 炸彈
 => laco
 
-Tinayi’
+tinayi’
 intestines * inwards
 腸子
-=> Tinayi’
 
 tinac
 to touch with the tip of the tongue
@@ -3286,17 +3285,17 @@ the leg between the knee and ankle
 teker ni Idek - rainbow
 彩虹
 
-tkes
+tekes
 a species of bamboo * small
 桂竹
 to cut bamboo or sugar cane
 砍伐竹林或甘蔗
-    Mitkes cigra anini.
+    Mitekes cigra anini.
     He is cutting (bamboo or sugar cane) today.
     他今天去砍竹子
 expensive
 昂貴的
-    Matkes ko 'aca no dateg.
+    Matekes ko 'aca no dateg.
     The price of vegetables is high.
     菜價很昂貴
 
@@ -3307,7 +3306,7 @@ the sound of rocks hitting
 石頭碰撞聲 
 to hit something in the head with a rock or stick
 用木棒或石頭打頭的聲音
-=> tka'
+=> teka'
 
 tekig
 matches * a match
@@ -3494,20 +3493,20 @@ a descendant
     How did that matter come to an end?
     那件事的結果如何？
 
-tlof
+telof
 to be obstructed * with reference to a road or path
 阻塞，妨礙，干擾 ※ 指路或小徑
-    Aka pitlof to lalan.
+    Aka pitelof to lalan.
     Don't hinder travel on the road.
     不要阻攔道路
 
-tlog
+telog
 deep * with literal and figurative meanings
 深，含字面上和比喻的意義
-    Matlog ko pikagkag nira.
+    Matelog ko pikagkag nira.
     He ploughed deeply.
     他把田犂的很深
-    Matlog ko fana' nira.
+    Matelog ko fana' nira.
     He is very intelligent.
     他是聰明的人
 
@@ -3521,15 +3520,15 @@ to have a lot disappear with only a small part remaining
 大部份均消失，只剩下一小部份
 => teloh
 
-tloho'
+teloho'
 phlegm
 濃痰
 
-tlook
+telook
 to hiccup
 打嗝
 
-tlookan
+telookan
 to burp up food
 打飽嗝兒
 to hiccup
@@ -3547,7 +3546,7 @@ to do as self desires
     Each of us will go home on his own.
     他們各自回家
 
-tmenek
+temenek
 to be hungry for * craving for what one sees but can't have
 不能滿足，繼續渴望那不能擁有的
 to be settled down * stable condition
@@ -3555,7 +3554,7 @@ to be settled down * stable condition
 to sit down still * not walking around
 一直坐在那兒，沒有走動過
 
-tmer
+temer
 to be shocked by electricity
 被電電擊
 to have ashooting sensation of pain go to the heart
@@ -3564,83 +3563,82 @@ to have ashooting sensation of pain go to the heart
 
 # p.337
 
-tmik
+temik
 to pulsate with life * pulse
 心跳，動靜，搏動，脈搏
-    Caay ka tatmitmik koya wawa.
+    Caay ka tatemitemik koya wawa.
     That child has no sign of life.
     那孩子沒有生命的動靜，沒有聲息
-    awaay ko tmik
+    awaay ko temik
     to not respond or do anything
     沒有反應，或做任何事
 
-tmili'
+tomili'
 white * glistening
 潔白
-=> tomili'
 
-tmo
+temo
 to be able to eat something small completely
 可以直接入口啃的小食物
-    Tmoen nira ko damdam.
+    Temoen nira ko damdam.
     He ate the hot pepper whole.
     他把辣椒吞吃
 
-tmok
+temok
 to beat * pulse * with refeence to heart
 脈搏
-    Tmoktmok sa ko faloco' ako.
+    Temoktemok sa ko faloco' ako.
     My heart is beating hard.
     我的心臟跳動很厲害
 
-tmoy
+temoy
 reserved * quiet * not talkative
 緘默的，遲鈍，寡言
-    O matmoyay a tamdaw cigra.
+    O matemoyay a tamdaw cigra.
     He is a quiet person.
     他是沈默寡言的人
 
-tna'
+tena'
 to hinder * obstruct * stop
 阻擋，妨礙，停止
-    Matna' ko karomakat niyam.
+    Matena' ko karomakat niyam.
     We were hindered from going.
     我們的路被阻擋了
 
-tnak
+tenak
 to spread
 擴散，傳播
-    Patnak cigra to sowal no Kawas.
+    Patenak cigra to sowal no Kawas.
     He spread the Word of God.
     他傳播上帝的福音
     O patenakay cigra.
     He is an evangelist.
     他是傳道人
-    Matnak ko sowal to pakayniay to demak nira.
+    Matenak ko sowal to pakayniay to demak nira.
     Words about his activities have spread.
     有關他的事已傳開了
-    Tnaken ko 'mi a mipawali.
+    Tnaken ko emi a mipawali.
     Spread out the wheat to dry.
     把小麥散開曝晒
 
-tnas
+tenas
 to dip food in a sauce or salt
 沾，把食物沾在醬油或鹽水中吃
 
-tnaysi
+tenaysi
 a spatula for stir frying vegetables (from Amoy dialect)
 鏟子 (炒菜用) (引自閩南語)
 
-tneg
+teneg
 to sink
 沈下去
 => leneg
 
-tnem
+tenem
 salty water (as is found in the village of Haciriwan)
 在花蓮縣豐濱鄉八里灣附近的鹹水泉
 
-tnes
+tenes
 a long time * for a long time
 很久，很長一段時間
 => halafin
@@ -3669,7 +3667,7 @@ to kick with one's heel
 => tokod, satenok
 the middle * center
 中間，中央
-    Tnokay a riyar
+    Tenokay a riyar
     the Mediterranean Sea
     地中海
 => sifo'
@@ -3687,14 +3685,14 @@ a weaver's loom
 織布機
 => tenooy
 
-tnor
+tenor
 to soak in water
 浸在水中，泡在水中
-    Patnorenho ko fafaca'en a riko'.
+    Patenorenho ko fafaca'en a riko'.
     Soak the clothes you want to wash.
     把要洗的衣服先泡在水中
 
-tnos
+tenos
 a bamboo water container used by fisher men at sea
 用竹筒製成的盛水器，漁夫在海上用的，罐，刺竹節製成的
 => tayhaw, potot
@@ -3753,21 +3751,21 @@ clouds * a cloud
     今天烏雲彌佈
 => kadit
 
-to'man
+to'eman
 to be dark
 變黑
-    To'man ko kakarayan.
+    To'eman ko kakarayan.
     The sky is dark.
     天黑
-    To'man to ko romi'ad. O dadayato.
+    To'eman to ko romi'ad. O dadayato.
     The day is dark. It is evening.
     天黑了，已經是晚上了
 glowering
 形示不悅，怒目
-    To'man to ko pisig nira.
+    To'eman to ko pisig nira.
     His face is glowering.
     他愁眉苦臉，他的臉上顯示不悅的樣子
-    Sato'manen ita ko laloma'.
+    Sato'emanen ita ko laloma'.
     Let's darken the inside.
     我們把裡面弄暗
 
@@ -3780,13 +3778,13 @@ to be lonesome
 a large shade tree
 可遮蔭之樹林
 
-to'to
+to^to
 to go to the source * to go directly to
 去追尋根源，直接地去
     To'to sa kako a mitegil.
     I went to the person directly to hear the status of things.
     我直接去聽事情的狀態
-    mito'to to tayal
+    mito^to to tayal
     to keep working to the finish
     繼續完成工作 
 => toeto
@@ -3885,12 +3883,12 @@ to grab and rip when fighting
 抓取，扯裂
 to tear the skin
 抓破皮膚
-=> tfafac
+=> tefafac
 
 tofeg
 [No English description]
 [無中文解釋]
-=> tmoy, matofeg
+=> temoy, matofeg
 
 matofeg
 to be shy * quiet * not talkative
@@ -3968,7 +3966,7 @@ to continue * go on
 togroh
 the top surface of
 東西的頂部，上面
-    Itira I togroh no Loma' ko mali.
+    Itira i togroh no loma' ko mali.
     The ball is on the roof top.
     球在屋頂上面
 to put on top of
@@ -4110,14 +4108,14 @@ to strain the body * as when an ox strains to pull a cart
 to do by oneself
 做自己的事
 
-tokled
+tokeled
 to include in another's activity * to not do an activity separately
 與別人一起做，而不獨自一人
 to deal directly with
 別人的分一起完成
 => to'to
 
-toknih
+tokenih
 to tip over something like a dish or a boat
 傾斜，有如盤子或船隻
 => tokinih
@@ -4147,7 +4145,7 @@ hornet
 大黃蜂
 to be stacked up on top of each other till they touch the ceiling
 凡物的頂部能觸及到某種高度 (如橫樑或天花板)
-=> tkoh
+=> tekoh
 
 tokos
 the top of a mountain * term used in central dialect
@@ -4256,7 +4254,7 @@ three
     Sakatatolo a wawa cigra.
     She is the third child.
     她是第三個孩子
-    Latoloen nira a pasacfacafag cagra.
+    Latoloen nira a pasacefacefag cagra.
     He put them in three groups.
     他把他們編為三組
     O kalatolo / kalitolo konini.
@@ -4310,16 +4308,16 @@ to be fierce * violent
     He is fierce.
     他很兇，他粗暴，他撒野
 
-tomcek
+tomecek
 to focus on one thing only
 瞪眼，目不轉睛，凝視
-    Patomcek sa cigra a somowal takowanan.
+    Patomecek sa cigra a somowal takowanan.
     He directed his words to me.
     他瞪眼看著我
-    Icowa ko patomcekan iso?
+    Icowa ko patomecekan iso?
     Where is your focus point? (in choosing a person)
     你的目標在那裡？
-    Cima ko katomcekan iso?
+    Cima ko katomecekan iso?
     Whom are you considering?
     你在顧慮誰呀！你在關心什麼人？
 
@@ -4349,7 +4347,7 @@ the name of an Amis village
 tomeli'
 to glisten * be very white 
 閃光，閃爍，潔白
-=> tmli', tmili'
+=> tomili'
 
 tomokol
 to sprout * come out of the ground
@@ -4474,10 +4472,10 @@ that.  See Pronouns - Appendix 1.
 那個。參閱附錄Ⅰ代名詞
 => torira
 
-torcek
+torecek
 to point at
 指摘
-    Patorceken nira ko raraw ako.
+    Patoreceken nira ko raraw ako.
     He pointed at my mistake.
     他指摘我的過錯
 
@@ -4664,7 +4662,7 @@ a token of doing something as to give the appearance of working
 totoh
 to sink * with reference to ships only
 沉沒，僅指船沉
-=> tneg
+=> teneg
 
 totom
 to light a fire from one that is already burning
@@ -4705,66 +4703,66 @@ towid
 the Tits (Paridae) family of birds
 山雀
 
-tpa
+tepa
 to slap with hand
 拍打，打一巴掌
-=> tpa', tpatpa, tpatpa'
+=> tepa', tepatepa, tepatepa'
 
-tpatpa
+tepatepa
 to clap hands together
 拍手 
-=> tpatpa'
+=> tepatepa'
 
-tpatpa' = tpatpa
+tepatepa' = tepatepa
 
-tpa'
+tepa'
 to slap with one's hand 
 一拍，一擊 
-=> tpa
+=> tepa
 
-tpeg
+tepeg
 to measure grain with a large measure
 量，衡量
 => latag
 
-tpes
+tepes
 term for grain that is immature and has no kernel to it
 未成熟的稻穀，空穀粒
-    Matpes ko panay ako.
+    Matepes ko panay ako.
     My grain is no good.
     我的水稻長的不好 
     
-tpi'
+tepi'
 to slap on the face 
 打一巴掌在臉上
-=> tpih, tpa'
+=> tepih, tepa'
 
-tpih = tpi'
+tepih = tepi'
 
-tpik
+tepik
 to fold
 摺疊
     Tpiken ko nifaca'an iso a riko'.
     Fold the clothes you washed.
     把你洗過的衣服折好
 
-tpo
+tepo
 to thud * the noise from falling
 掉落聲
-    Mapatpo koya codad.
+    Mapatepo koya codad.
     The book was dropped with a thud.
     那本書砰然一聲掉下來
 
-tpoc
+tepoc
 to cut with one stroke
 一刀砍斷 
 
-tpog
+tepog
 a hole * to make a hole 
 洞，孔，穴
 => 'ofag
 
-tpor
+tepor
 to take everything given and leave nothing
 全部奉送
 to cut a tree with a machete
@@ -4772,24 +4770,24 @@ to cut a tree with a machete
 to beat out
 敲出，錘薄
 
-tra'
+tera'
 a drop of liquid
 液體滴下
 to drip
 滴落
 
-trak
+terak
 to fall one at a time and be scattered as along a trail
 落下，散落
 
-tred
+tered
 to be an able speaker * communicating well and to the point
 口才流利，人際關係極佳
-    Satretred sa koya wawa a caciyaw.
+    Sateretered sa koya wawa a caciyaw.
     That child surely knows how to talk.
     那孩子講話口辭伶俐
 
-treg
+teleg
 to pull till the thing is straight * as string
 把東西拉緊 (直如繩線)
 to make a straight row as when planting young rice plants
@@ -4820,45 +4818,45 @@ food saved
 儲存之食物
 => terek
 
-trep
+terep
 to be silent * to stop activity
 安靜，沈默
     Tomrep to ko wawa imatini.
     The children have stopped talking.
     現在小孩子已肅靜了
-    Pasowal saho ci Yis 'i trep sato ko fali.
+    Pasowal saho ci Yis i terep sato ko fali.
     Jesus spoke and the wind stopped.
     耶穌剛說完，風就停止了
 
-trik
+terik
 to throw off and away from
 彈出去
-    Mitrikay koya kikay to lakaw.
+    Miterikay koya kikay to lakaw.
     That machine is throwing off debris.
     那機械會彈出碎物 (垃) 出來
-    Matrik a matefad nai otofay cigra.
+    Materik a matefad nai otofay cigra.
     He was thrown off and clear of the motor bike.
     他從機車上彈出落下
 
-troc
+teroc
 to jump over something
 跳越某東西
 
-tsek
+tesek
 to pierce * stab
 刺穿
-    Mitsek i faloco' ako ko sowal nira.
+    Mitesek i faloco' ako ko sowal nira.
     His words stabbed me in the heart.
     他的話刺痛我的心，他的話感動我
 
-tsel
+tesel
 to pierce through * to penetrate 
 穿過，刺穿
 (with minegneg) to see throught
 識別，看穿，鑑別
 to stitch
 刺繡
-    mitsel to talip
+    mitesel to talip
     to stitch a skirt
     刺繡裙子
-=> ta'sel
+=> ta'esel

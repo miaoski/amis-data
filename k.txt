@@ -3323,7 +3323,7 @@ a basket made of reeds as a backpack
 kepa 
 the sound of foot steps
 腳步聲
-    Sakepakepa san cigra to romi'ad a matiya ito'manay. 
+    Sakepakepa san cigra to romi'ad a matiya ito'emanay. 
     He walks in daytime like he was feeling his way in the dark with his feet.
     他白天走路如在夜間不良於行
 
@@ -3416,7 +3416,7 @@ to scrape * scratch
     車子互相擦撞撞
 matches
 火柴
-=> tkig
+=> tekig
 
 kerismas 
 Christmas (from Japanese)
