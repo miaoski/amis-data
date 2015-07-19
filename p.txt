@@ -913,10 +913,6 @@ to beat out * thresh out
 打稻具
 => pacpac
 
-papikedan
-a term describing men in the 35-40 year age group * men in full strength of maturity with experience
-描寫人到35 歲至40歲之間，壯年期的術語，男人正值精力充沛經驗豐富時期
-
 papo
 hemorrhoid *a swelling at the anus
 腫脹，痔核
@@ -1841,6 +1837,8 @@ papikedan
 informant * source of information
 眼線，資料或消息來源
 => piked
+a term describing men in the 35-40 year age group * men in full strength of maturity with experience
+描寫人到35 歲至40歲之間，壯年期的術語，男人正值精力充沛經驗豐富時期
 
 pikel
 strong and inflexible * as a wire that springs back and refuses to bend
@@ -1957,7 +1955,6 @@ a species of tree * Camptotheca acuminata Decne
 pina'orip
 domestic animals
 家禽家畜
-=> pina'orip
 
 pinag
 sign * evidence * clue
@@ -1978,10 +1975,6 @@ sign * evidence * clue
     This is his nature / habit / way he acts.
     這是他的習慣
 => hapinag
-
-pinaloma
-anything planted to be used as food
-任何種植的可食植物
 
 pinani'ol
 tadpoles * offspring of frogs
@@ -2163,15 +2156,9 @@ to pull off * disengage as to take off a ring * as to let down a baby that has b
     the last child * the youngest
     最小的孩子
 
-pina'orip
-domestic animals
-飼養的家畜
-=> pina'orip
-
 pinaloma
 anything planted to be used as food
 任何種植的可食植物
-=> pinaloma
 
 penec
 to press down so that the thing is under one's hand or tool

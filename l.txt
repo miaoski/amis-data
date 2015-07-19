@@ -370,6 +370,9 @@ to disappear * pass away * cease to exist
 lahod 
 steam * vapor
 蒸氣
+    Cilahoday ko fali.
+    The wind is vaporous / humid.
+    風有熱氣
 => cilahoday
 
 cilahoday 
@@ -410,11 +413,6 @@ lahoper
 to disintegrate and become like powder
 崩潰，分解，分散有如粉末
 => fonar
-
-rakad 
-the pulp left after extracting juice or oil * as sugar cane or peanuts 
-渣滓， 殘渣，殘留物；甘蔗渣
-=> pinahetec
 
 lakaw 
 rubbish * trash * debris
@@ -2074,17 +2072,6 @@ to fast
 齋戒，禁食
 => liway
 
-liyad 
-a single wave which is a part of a succession of waves heading toward shore
-沖擊岸邊的一陣波浪
-    saliyaliyad sa 
-    again and again in succession
-    一波又一波，連綿迭起，反反覆覆
-a section
-一部份
-a lesson
-一課
-
 liyag 
 to disobey
 不服從
@@ -2786,13 +2773,6 @@ to chase * drive away
 to grab hold of * catch
 攫住，擒拿
 
-repon 
-to finish * complete * come to an end
-完成，完全，還清，終止，補足，補全
-    Marepon to ko pipatiko to tadah. 
-    The debt has been paid back (finished) .
-    債務已還清了
-
 lesafon 
 [See malesafon]
 [參閱 malesafon]
@@ -2826,11 +2806,17 @@ to cut trees
 letep 
 to find someone committing an act in the act
 恰遇
-to catch up with
-趕上
+to catch up with * overtake
+趕上，撞見，撞聞
     Maletep ako ko demak nira. 
     I overtook him in what he was doing (redoing the wrong direction of his acts).
     我追上他所作的工作，我趕上他所做的
+    Maletep ako ko demak nira.
+    I overtook him in what he was doing (redoing the wrong direction of his acts).
+    他做的壞事正好被我看到 (屢次再犯的前罪)
+    Maletep ako ko tatiihay a sowal nira.
+    I caught the bad things he was saying in time (stopped the talk).
+    他說的壞話，正好被我竊聽到他正在說壞話
 => takop
 
 letoh 

@@ -2208,8 +2208,6 @@ something used as adornment as jewelry or home decorations
 裝飾品
 => 'iray
 
-'iray = 'res
-
 'ric
 wire
 鋼絲

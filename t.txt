@@ -2704,7 +2704,17 @@ the top surface of
     Tomireng ko wawa i togroh no loma'.
     The child is standing on the top of the house.
     孩子在屋頂上站立着
-=> togroh
+    Itira i togroh no loma' ko mali.
+    The ball is on the roof top.
+    球在屋頂上面
+to put on top of
+放在…的上面
+    Matatogroh ko loma'.
+    The house has two stories / one surface on top of another.
+    房子有兩層/一面在另一面的頂上
+=> tigroh
+
+tigroh = togroh
 
 tigsokiw
 Catholic church and religion (from Japanese)
@@ -2940,7 +2950,7 @@ a bomb
 炸彈
 => laco
 
-tinayi’
+tinayi'
 intestines * inwards
 腸子
 
@@ -3403,10 +3413,6 @@ satelec
 belt
 腰帶，皮帶
 => safaked, safakec, telec
-
-teleg
-to make a straight line
-拉緊 (線索或繩子)
 
 telek
 to join together
@@ -3962,19 +3968,6 @@ to continue * go on
     Togoden ko tayal iso.
     Pick up and continue on with the projcet.
     把你的工作繼續下去
-
-togroh
-the top surface of
-東西的頂部，上面
-    Itira i togroh no loma' ko mali.
-    The ball is on the roof top.
-    球在屋頂上面
-to put on top of
-放在…的上面
-    Matatogroh ko loma'.
-    The house has two stories / one surface on top of another.
-    房子有兩層/一面在另一面的頂上
-=> tigroh
 
 togtog
 left over grain in the mill that was not milled

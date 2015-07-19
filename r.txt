@@ -196,13 +196,6 @@ rahemed
 soft * pliable in consistency, i. e. flour, quilt stuffing
 黏度柔軟，柔軟；粉末；棉被 (填塞物) 柔軟
 
-lahod
-steam * vapor
-蒸汽
-    Cilahoday ko fali.
-    The wind is vaporous / humid.
-    風有熱氣
-
 rahoday
 easy * simple to do or handle
 容易的，簡單的，容易操縱的
@@ -222,7 +215,9 @@ to be ripe in color
 
 rakad
 pulp * such as that which is left over after extracting suger from cane or milk from soybeans
-渣滓 (如甘蔗和黃豆渣)
+渣滓 (如甘蔗和黃豆渣) 渣滓， 殘渣，殘留物；甘蔗渣
+=> pinahetec
+
 
 rakam
 to be tender-footed as when not accustomed to walking without shoes
@@ -352,8 +347,6 @@ ranap
 betel nut that has just started to grow and hasn't developed yet
 檳榔初長尚未成長的階段
 => garap
-
-garap = ranap
 
 ranih
 too much
@@ -1203,7 +1196,16 @@ vehicles follow each other in succession
 車子一部接著一部
 sections of writings following one another * lessons * chapters
 文章一篇接一篇，著述第幾章第幾節
-=> liyad, masaliyaliyad
+a single wave which is a part of a succession of waves heading toward shore
+沖擊岸邊的一陣波浪
+    saliyaliyad sa 
+    again and again in succession
+    一波又一波，連綿迭起，反反覆覆
+a section
+一部份
+a lesson
+一課
+=> masaliyaliyad
 
 masaliyaliyad
 groups coming in succession
@@ -1644,17 +1646,6 @@ to roam and graze
 播撒，漫地走動，瀰漫
 to crawl around on
 成羣蠕動
-
-letep
-to catch * overtake
-趕上，撞見，撞聞
-    Maletep ako ko tatiihay a sowal nira.
-    I caught the bad things he was saying in time (stopped the talk).
-    他說的壞話，正好被我竊聽到他正在說壞話
-    Maletep ako ko demak nira.
-    I overtook him in what he was doing (redoing the wrong direction of his acts).
-    他做的壞事正好被我看到 (屢次再犯的前罪)
-=> takop
 
 retes
 to ooze body fluids from peeled skin

@@ -723,6 +723,11 @@ hicera
 come down and touch the ground with bottom of feet
 腳著落處，由上落下著地之處
 => pahiceraan, kahiceraan
+place to put your feet or vehicle
+目的地,到達之地
+to arrive at
+到達
+=> tfo, kahiceraan
 
 pahiceraan 
 place one comes to settle down and stay * referring to a town or village
@@ -732,7 +737,10 @@ place one comes to settle down and stay * referring to a town or village
 kahiceraan 
 the area in which one settles
 目的地，某人由某地到達而定居的地方
+place of arrival
+目的地，到達之處，落腳之處，定居的地方
 => hicera
+
 
 # p.116
 
@@ -782,18 +790,6 @@ to slurp water
 hicoci 
 deacon, deaconess, church treasurer (from Japanese)
 男執事、女執事、教會會計 (引自日語)
-
-hicera
-place to put your feet or vehicle
-目的地,到達之地
-to arrive at
-到達
-=> tfo, kahiceraan
-
-kahiceraan 
-place of arrival
-目的地，到達之處，落腳之處，定居的地方
-=> hicera
 
 hifag 
 to take a long rest * vacation

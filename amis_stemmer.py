@@ -5,9 +5,6 @@
 
 import json
 
-with open('index.json', 'r') as f:
-    INDEX = [x.replace('ng', 'g') for x in json.load(f)]
-
 # I hate exceptions, but let's cut things short
 EXCEPTIONS = {
     'mapararaw': ('mapa', 'raraw'),
@@ -111,8 +108,11 @@ def compose(*wx):
     return ''.join(['`'+x+'~' for x in wx if x is not None])
 
 def gnostic(w):
-    "Stemmer without referring to index.json"
+    "Stemmer that refers to index.json"
     import re
+    with open('index.json', 'r') as f:
+        INDEX = [x.replace('ng', 'g') for x in json.load(f)]
+
     if len(w) < 1 or not re.search(r"[\w:']+", w): return w
     if w in INDEX: return compose(w)
     if w in EXCEPTIONS: return compose(*EXCEPTIONS[w])

@@ -15,8 +15,8 @@ def ngtilde(s):
     from amis_stemmer import gnostic
     w1 = re.split(r"([\w:']+)", s.strip())
     w2 = map(gnostic, w1)
-    #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
     return ''.join(w2)
+    #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
 
 def addsplt(s):
     return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
@@ -130,7 +130,9 @@ if __name__ == '__main__':
         if re.match(r'^[0a-z]\.txt$', fn):
             readdict(fn)
     f = codecs.open('index.json', mode='w', encoding='utf8')
-    f.write(json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False))
+    x = json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False)
+    # print x[55260:55280]
+    f.write(x)
     f.close()
     f = codecs.open('dict-amis.json', mode='w', encoding='utf8')
     f.write(json.dumps(JSON.values(), indent=2, separators=(',', ':'), ensure_ascii = False))
