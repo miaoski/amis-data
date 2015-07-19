@@ -4,7 +4,6 @@
 import sys
 
 JSON = {}
-INDEX = []
 
 def ng(s):
     #return s.strip().replace('g', 'ng')
@@ -22,13 +21,12 @@ def addsplt(s):
     return u'\ufff9'+s[0].decode('utf8')+u'\ufffa'+s[1].decode('utf8')+u'\ufffb'+s[2].decode('utf8')
 
 def mkword(title, definitions):
-    global JSON, INDEX
+    global JSON
     word = {'title': title,
         'heteronyms': [{'definitions': definitions}]}
     if title in JSON:
         print "Duplicated definition: " + title
     JSON[title] = word
-    INDEX.append(title)
 
 def mkdef(defi, examples, link):
     defdic = {}
@@ -122,18 +120,12 @@ def readdict(fn):
     print 'Total %d words in %s' % (num_words, fn)
 
 if __name__ == '__main__':
-    import os
+    import glob
     import json
     import re
     import codecs
-    for fn in os.listdir('.'):
-        if re.match(r'^[0a-z]\.txt$', fn):
-            readdict(fn)
-    f = codecs.open('index.json', mode='w', encoding='utf8')
-    x = json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False)
-    # print x[55260:55280]
-    f.write(x)
-    f.close()
+    for fn in glob.iglob('?.txt'):
+        readdict(fn)
     f = codecs.open('dict-amis.json', mode='w', encoding='utf8')
     f.write(json.dumps(JSON.values(), indent=2, separators=(',', ':'), ensure_ascii = False))
     f.close()

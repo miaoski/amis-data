@@ -3,8 +3,14 @@ SQ3 = dict-amis.sq3
 all:
 	@echo "Usage: make sqlite"
 	@echo "       make quickdic"
+	@echo "       make moedict"
 
-sqlite:	dict-amis.sql
+moedict:
+	echo '{}' > index.json
+	python moedict.py
+	python moedict.py
+
+sqlite:	moedict dict-amis.sql
 	rm -f $(SQ3)
 	sqlite3 $(SQ3) < $<
 	python moedict.py
