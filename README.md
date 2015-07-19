@@ -51,6 +51,8 @@ market
 ----
 
 請保留原有的拼法，如 negneg 請不要寫成 nengneng, 轉換格式的時候，我們會用程式轉成現在比較通用的形式。
+* 在 before-namoh TAG 前的 commit 是天主教式的拼法。
+* 在 ramoh-fixed TAG 之後的 commit 是吳明義老師修正過後的拼法。
 
 
 轉換
@@ -59,6 +61,8 @@ market
 萌典
 ----
 請用 `python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
+
+如果遇到沒有 index.json 的情況，請 `echo '{}' > index.json` 做一個空的出來後，跑兩次 `python moedict.py` 即可。
 
 
 QuickDic
@@ -80,5 +84,7 @@ License
 =======
 
 謹感謝 [台灣聖經公會](http://www.biblesociety-tw.org/) 授權電子化。商業使用之授權，請洽[台灣聖經公會]。
+
+感謝吳明義老師將天主教的舊式拼法，改寫成原民會版本的新式拼法。
 
 This work is licensed under the Creative Commons 姓名標示-非商業性 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/deed.zh_TW.
