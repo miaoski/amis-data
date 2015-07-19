@@ -24,7 +24,7 @@ for fn in glob.iglob('?.txt'):
             continue
         xs = l.split()              # 處理 word'a = word'b
         if state is None and len(xs) == 3 and xs[1] == '=':
-            title = xs[0].strip()
+            title = xs[0].strip().replace('g', 'ng')
             INDEX.append(title)
             title = None
             continue

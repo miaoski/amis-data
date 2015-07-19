@@ -6,15 +6,15 @@ import sys
 JSON = {}
 
 def ng(s):
-    #return s.strip().replace('g', 'ng')
-    return s.strip()
+    return s.strip().replace('g', 'ng')
+    #return s.strip()
 
 def ngtilde(s):
     import re
     from amis_stemmer import gnostic
     w1 = re.split(r"([\w:']+)", s.strip())
     w2 = map(gnostic, w1)
-    return ''.join(w2)
+    return ng(''.join(w2))
     #return re.sub(r'([\w\']+)', r'`\1~', ng(s))
 
 def addsplt(s):
