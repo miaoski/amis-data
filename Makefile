@@ -9,9 +9,9 @@ moedict:
 	python makeindex.py
 	python moedict.py
 
-sqlite:	moedict dict-amis.sql
+sqlite:	dict-amis.json dict-amis.sql
 	rm -f $(SQ3)
-	sqlite3 $(SQ3) < $<
+	sqlite3 $(SQ3) < dict-amis.sql
 	python moedict.py
 	python sqlite_dict.py
 
