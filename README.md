@@ -60,9 +60,7 @@ market
 
 萌典
 ----
-請用 `python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
-
-如果遇到沒有 index.json 的情況，請 `echo '{}' > index.json` 做一個空的出來後，跑兩次 `python moedict.py` 即可。
+請用 `python makeindex.py && python moedict.py` 轉成萌典使用的 dict-amis.json 檔。
 
 
 QuickDic

@@ -6,8 +6,7 @@ all:
 	@echo "       make moedict"
 
 moedict:
-	echo '{}' > index.json
-	python moedict.py
+	python makeindex.py
 	python moedict.py
 
 sqlite:	moedict dict-amis.sql
