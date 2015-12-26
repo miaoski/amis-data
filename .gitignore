@@ -6,3 +6,4 @@ DictionaryBuilder.jar
 amis-en.dicts.txt
 *.py[co]
 revdict-amis-*.txt
+amis-fey.csv

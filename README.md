@@ -3,6 +3,8 @@ amis-data
 
 Data from Virginia Fey's Amis Dictionary
 
+請注意! 本 repo 僅供參考，字典的後續維護，請改用 https://docs.google.com/spreadsheets/d/1S5Q0_L_1oj-iuQbHug7IW5U9wRypA4uuBGOOFrABvdU/edit?usp=sharing
+
 
 編輯說明
 ========
