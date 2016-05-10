@@ -9,6 +9,8 @@ conn = sqlite3.connect('dict-amis.sq3')
 c = conn.cursor()
 
 def load_amis():
+    conn.execute('DELETE FROM amis')
+    conn.commit()
     dictionary = json.load(open("dict-amis.json"))
     for word in dictionary:
         title = word['title']
